@@ -47,19 +47,26 @@ You can think of it like a group chat for programs:
 - Processes send and receive messages using functions like `send()` and `recv()`
 - One process (often **rank 0**) acts as the **master**; while others are **workers**
 
-### Quick Primer
+### Basic Usage Example
 
 ```python
 from mpi4py import MPI
 
+# Initialise the MPI environment
+# COMM_WORLD is the default communicator that includes all processes
 comm = MPI.COMM_WORLD
+
 rank = comm.Get_rank()
+
+# Get the total number of running processes
 size = comm.Get_size()
 
 if rank == 0:
+    # Master process (rank 0) sends a message
     data = {"message": "Hello from master!"}
     comm.send(data, dest=1)
 else:
+    # Worker processes receive the message from master
     data = comm.recv(source=0)
     print(f"Process {rank} received:", data)
 ```
@@ -336,6 +343,7 @@ Implement periodic state saving:
 - **What to checkpoint**:
   - Completed file counts (aggregated results)
   - List of processed files
+  - The processed files themselves
   - List of pending files
 
 - **When to checkpoint**:
@@ -343,20 +351,24 @@ Implement periodic state saving:
   - Before program termination
   - Periodically based on time intervals (optional)
 
-- **Checkpoint format** (`checkpoint.json`):
-  ```json
-  {
-    "timestamp": "2025-10-29T14:30:00",
-    "counts": {
-      "INFO": 152,
-      "WARN": 43,
-      "ERROR": 18
-    },
-    "processed_files": ["node1.log", "node2.log"],
-    "pending_files": ["node3.log", "node4.log"],
-    "failed_workers": [2]
-  }
-  ```
+- **Checkpoint format** 
+    - All checkpoints should be saved in a dedicated checkpoint directory.
+    - Each checkpoint itself should be a directory containing:
+        - `checkpoint.json` (template provided below)
+        - All files present in the `processed_files` list
+    ```json
+    {
+        "timestamp": "2025-10-29T14:30:00",
+        "counts": {
+        "INFO": 152,
+        "WARN": 43,
+        "ERROR": 18
+        },
+        "processed_files": ["node1.log", "node2.log"],
+        "pending_files": ["node3.log", "node4.log"],
+        "failed_workers": [2]
+    }
+    ```
 
 - **Recovery mechanism**:
   - On startup, check if `checkpoint.json` exists
