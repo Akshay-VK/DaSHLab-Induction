@@ -1,22 +1,32 @@
 # Distributed Systems Induction Assignment | 2025
 
-## Disclaimer
+## Welcome
 
-This assignment might initially seem daunting; but please try not to be discouraged by the learning curve. Being research-oriented, it is designed to be challenging and time-consuming, with some open-ended elements. It will likely not be possible to complete in a single sitting; so please plan accordingly.
+This project is designed to introduce you to the world of **Distributed Systems** - where multiple computers work together to solve a problem faster, more reliably, and at larger scale than any single machine could.
 
-If you're a first or second year student attempting this assignment, be prepared to be exposed to some unfamiliar concepts, terminology and tools. Take things slow, and try to understand the fundamentals; we value depth a lot more than breadth.
+You'll start from a simple sequential program and progressively turn it into a **parallel** and finally a **distributed** system. By the end, you'll have hands-on experience with **MPI**, **fault tolerance**, and **coordination** - the very concepts that power systems like Google Search, Netflix, and Hadoop.
 
-If you have some prior experience, you might want to devote more time to the open-ended parts. These sections are more exploratory, and push you to apply existing ideas creatively to solve more practical problems.
-
-Even if you are not able to complete the assignment in its entirety, please make a submission. We'd love to see how much progress you were able to make. An incomplete assignment doesn't equal an automatic rejection.
+For queries related to this assignment, contact one of (on Slack):
+- Bhavya
+- Kaaviya
+- Manit
 
 ---
 
-## Welcome
+## Index
 
-This project is designed to introduce you to the world of **Distributed Systems**; where multiple computers work together to solve a problem faster, more reliably, and at larger scale than any single machine could.
-
-You'll start from a simple sequential program and progressively turn it into a **parallel** and then **distributed** system. By the end, you'll have hands-on experience with **MPI**, **fault tolerance**, and **coordination**; the same concepts that power systems like Google Search, Netflix, and Hadoop.
+- [What Are Distributed Systems?](#what-are-distributed-systems)
+- [What Is MPI?](#what-is-mpi)
+- [Setting Up Your Environment](#setting-up-your-environment)
+- [Recommended Resources](#recommended-resources)
+- [The Assignment: Distributed Log Analyser](#the-assignment-distributed-log-analyser)
+- [Stage 1: Parallel Log Analyser (MPI Basics)](#stage-1-parallel-log-analyser-mpi-basics)
+- [Stage 2: Distributed Coordination & Fault Tolerance](#stage-2-distributed-coordination--fault-tolerance)
+- [Bonus Challenges (Optional)](#bonus-challenges-optional)
+- [Project Structure](#project-structure)
+- [Development Tips](#development-tips)
+- [What We're Looking For](#what-were-looking-for)
+- [Closing Note](#closing-note)
 
 ---
 
@@ -24,7 +34,7 @@ You'll start from a simple sequential program and progressively turn it into a *
 
 A **Distributed System** is a collection of independent computers that appear to the user as a single coherent system.
 
-You've already seen examples without realizing it:
+You've already seen examples without realising:
 - Google Docs (collaborative editing from many devices)
 - Online multiplayer games
 - Distributed databases like MongoDB or Cassandra
@@ -34,7 +44,7 @@ Distributed systems are powerful because they:
 - **Recover** from failures
 - **Share** workloads efficiently
 
-But they're also tricky because nodes can **crash**, **lag**, or **disagree** about the current state; and we need clever ways to keep things consistent.
+But they're also tricky because nodes can **crash**, **lag**, or **disagree** about the current state, and we need clever ways to keep things consistent.
 
 ---
 
@@ -45,36 +55,36 @@ But they're also tricky because nodes can **crash**, **lag**, or **disagree** ab
 You can think of it like a group chat for programs:
 - Each process has a **rank** (its unique ID)
 - Processes send and receive messages using functions like `send()` and `recv()`
-- One process (often **rank 0**) acts as the **master**; while others are **workers**
+- One process (often rank 0) acts as the **master**, while others are **workers**
 
 ### Basic Usage Example
 
-```python
+```python3
 from mpi4py import MPI
 
-# Initialise the MPI environment
-# COMM_WORLD is the default communicator that includes all processes
+# Initialise the MPI environment:
+# COMM_WORLD is the default communicator that includes all processes.
 comm = MPI.COMM_WORLD
 
 rank = comm.Get_rank()
 
-# Get the total number of running processes
+# Get the total number of running processes:
 size = comm.Get_size()
 
 if rank == 0:
-    # Master process (rank 0) sends a message
+    # Master process (rank 0) sends a message:
     data = {"message": "Hello from master!"}
     comm.send(data, dest=1)
 else:
-    # Worker processes receive the message from master
+    # Worker processes receive the message from master:
     data = comm.recv(source=0)
     print(f"Process {rank} received:", data)
 ```
 
-Try running it:
+Try running it using:
 
 ```bash
-mpirun -np 2 python mpi_intro.py
+mpirun -np 2 python3 mpi_intro.py
 ```
 
 ---
@@ -85,9 +95,9 @@ Before you begin, you'll need to set up MPI and Python dependencies on your syst
 
 ### Prerequisites
 
-- **Python 3.7+**
-- **MPI Implementation** (OpenMPI or MPICH)
-- **mpi4py** (Python bindings for MPI)
+- Python 3.7+
+- MPI Implementation (OpenMPI or MPICH)
+- mpi4py (Python bindings for MPI)
 
 ### Installation Instructions
 
@@ -122,21 +132,6 @@ pip3 install mpi4py
 pip install mpi4py
 ```
 
-#### Fedora/RedHat/CentOS
-
-```bash
-# Install OpenMPI
-sudo dnf install openmpi openmpi-devel
-# OR for older versions: sudo yum install openmpi openmpi-devel
-
-# Add OpenMPI to PATH (add to ~/.bashrc for persistence)
-export PATH=/usr/lib64/openmpi/bin:$PATH
-export LD_LIBRARY_PATH=/usr/lib64/openmpi/lib:$LD_LIBRARY_PATH
-
-# Install Python MPI bindings
-pip3 install mpi4py
-```
-
 ### Verifying Your Installation
 
 Test that MPI is correctly installed:
@@ -149,11 +144,11 @@ mpirun --version
 mpirun -np 4 python3 -c "from mpi4py import MPI; print(f'Hello from rank {MPI.COMM_WORLD.Get_rank()}')"
 ```
 
-You should see output from 4 different processes with ranks 0-3.
+You should see output from four different processes with ranks 0-3.
 
 ### Additional Dependencies
 
-The base log analyzer uses only Python standard library modules; but you may want to install additional packages for your implementation:
+The base log analyser uses only Python standard library modules; but you may want to install additional packages for your implementation:
 
 ```bash
 # For advanced data structures and analysis (optional)
@@ -165,15 +160,15 @@ pip3 install tqdm
 
 ### Troubleshooting
 
-**Issue: `mpirun` command not found**
+Issue: `mpirun` command not found
 - Make sure MPI binaries are in your PATH
 - On Linux, you may need to load the MPI module: `module load mpi/openmpi-x86_64`
 
-**Issue: `ImportError: No module named 'mpi4py'`**
+Issue: `ImportError: No module named 'mpi4py'`
 - Ensure you're using the correct Python interpreter: `python3 -m pip install mpi4py`
 - If using virtual environments, activate it before installing
 
-**Issue: Processes don't communicate**
+Issue: Processes don't communicate
 - Check firewall settings if running on multiple machines
 - Verify MPI is correctly configured with `ompi_info` (OpenMPI) or `mpichversion` (MPICH)
 
@@ -181,7 +176,7 @@ pip3 install tqdm
 
 ## Recommended Resources
 
-Here are a few resources to get started. You don't need to go through all of them; pick what works best for your learning style.
+Here are a few resources to get started. You **DO NOT** need to go through all of them; pick what works best for your learning style.
 
 ### Distributed Systems Concepts
 
@@ -201,30 +196,30 @@ Here are a few resources to get started. You don't need to go through all of the
 
 ---
 
-## The Assignment: Distributed Log Analyzer
+## The Assignment: Distributed Log Analyser
 
-You'll build a system that analyzes large sets of log files (like server logs) across multiple processes and nodes.
+You'll build a system that analyses large sets of log files (like server logs) across multiple processes and nodes.
 
 ---
 
-## Stage 1: Parallel Log Analyzer (MPI Basics)
+## Stage 1: Parallel Log Analyser (MPI Basics)
 
 ### Goal
 
-Take a simple sequential log analyzer and parallelize it using MPI so multiple processes can analyze logs simultaneously.
+Take a simple sequential log analyser and parallelize it using MPI so multiple processes can analyse logs simultaneously.
 
 ### What You'll Do
 
-1. **Understand the base code**: Study the provided `base_log_analyzer.py` to understand how sequential log analysis works.
+1. **Understand the base code**: Study the provided `base_log_analyser.py` to understand how sequential log analysis works.
 
-2. **Create `parallel_log_analyzer.py`** with the following architecture:
-   - **Rank 0 (Master)**: 
+2. **Create `parallel_log_analyser.py`** with the following architecture:
+   - Rank 0 (Master):
      - Distributes log files to worker processes
      - Collects partial results from all workers
      - Aggregates and displays final results
-   - **Other Ranks (Workers)**: 
+   - Other Ranks (Workers):
      - Receive assigned log files from master
-     - Analyze their assigned files
+     - Analyse their assigned files
      - Send counts back to master
 
 3. **Implement work distribution**: Decide how to partition log files among workers (round-robin, chunks, etc.).
@@ -235,27 +230,27 @@ Take a simple sequential log analyzer and parallelize it using MPI so multiple p
 
 ### Testing Your Implementation
 
-First, test the base sequential analyzer:
+First, test the base sequential analyser:
 
 ```bash
-python3 base_log_analyzer.py ./sample_logs
+python3 base_log_analyser.py ./sample_logs
 ```
 
 Then run your parallel version with different numbers of processes:
 
 ```bash
 # Single process (should match sequential)
-mpirun -np 1 python3 parallel_log_analyzer.py ./sample_logs
+mpirun -np 1 python3 parallel_log_analyser.py ./sample_logs
 
 # Multiple processes
-mpirun -np 2 python3 parallel_log_analyzer.py ./sample_logs
-mpirun -np 4 python3 parallel_log_analyzer.py ./sample_logs
+mpirun -np 2 python3 parallel_log_analyser.py ./sample_logs
+mpirun -np 4 python3 parallel_log_analyser.py ./sample_logs
 ```
 
 ### Expected Output
 
 ```
-Found 10 log file(s) to analyze
+Found 10 log file(s) to analyse
 Starting parallel analysis...
 
 =================================================
@@ -273,7 +268,7 @@ Speedup: 2.3x
 
 ### Deliverables
 
-1. **`parallel_log_analyzer.py`** - your parallel implementation
+1. **`parallel_log_analyser.py`** - your parallel implementation
 
 2. **`report_stage1.txt`** containing:
    - **Execution times** for 1, 2, 4, and 8 processes (if possible)
@@ -293,9 +288,9 @@ Now that your program can parallelize tasks, let's make it more *distributed* an
 
 Enhance your MPI program to handle:
 
-- **Worker failures** - detect and recover from crashed processes
-- **Dynamic load balancing** - adapt to varying workloads
-- **Periodic checkpointing** - save progress to recover from crashes
+- **Worker failures**: detect and recover from crashed processes
+- **Dynamic load balancing**: adapt to varying workloads
+- **Periodic checkpointing**: save progress to recover from crashes
 
 ### What You'll Do
 
@@ -321,7 +316,7 @@ Instead of static work assignment, implement a dynamic task queue:
 
 Make your system resilient to worker failures:
 
-- **Timeout mechanism**: 
+- **Timeout mechanism**:
   - Master should use non-blocking receives with timeouts
   - If a worker doesn't respond within a reasonable time, mark it as failed
 
@@ -351,7 +346,7 @@ Implement periodic state saving:
   - Before program termination
   - Periodically based on time intervals (optional)
 
-- **Checkpoint format** 
+- **Checkpoint format**
     - All checkpoints should be saved in a dedicated checkpoint directory.
     - Each checkpoint itself should be a directory containing:
         - `checkpoint.json` (template provided below)
@@ -371,39 +366,39 @@ Implement periodic state saving:
     ```
 
 - **Recovery mechanism**:
-  - On startup, check if `checkpoint.json` exists
-  - Load previous state and resume from where you left off
+  - On startup, check the checkpoints directory for the most recent checkpoint.
+  - Load the corresponding `checkpoint.json` to restore its state and resume from there.
   - Skip already processed files
 
 #### 4. Consistency Handling
 
 Choose and implement a consistency model:
 
-- **Eventual Consistency**: 
+- **Eventual Consistency**:
   - Workers send results immediately
   - Master updates counts as results arrive
-  - Faster; but may show incomplete intermediate states
+  - Faster, but may show incomplete intermediate states
 
 - **Strong Consistency**:
   - Workers complete all assigned work before sending results
   - Master waits for all results before updating
-  - Slower; but guarantees complete, consistent state
+  - Slower, but guarantees complete, consistent state
 
-**In your report**: Explain which model you chose and why; discussing trade-offs.
+**In your report**: Explain which model you chose and why, discussing trade-offs.
 
 ### Testing Fault Tolerance
 
 #### Test 1: Normal Operation
 
 ```bash
-mpirun -np 4 python3 distributed_log_analyzer.py ./sample_logs
+mpirun -np 4 python3 distributed_log_analyser.py ./sample_logs
 ```
 
 #### Test 2: Simulated Worker Crash
 
 Add this code to simulate a crash in one worker:
 
-```python
+```python3
 if rank == 2:
     import time
     time.sleep(5)  # Work for a bit
@@ -412,7 +407,7 @@ if rank == 2:
     sys.exit(1)  # Crash!
 ```
 
-**Expected behavior**:
+**Expected behaviour**:
 - Master detects that rank 2 stopped responding
 - Master reassigns rank 2's unfinished files to other workers
 - Program completes successfully without hanging
@@ -421,15 +416,15 @@ if rank == 2:
 
 ```bash
 # Start analysis
-mpirun -np 4 python3 distributed_log_analyzer.py ./sample_logs
+mpirun -np 4 python3 distributed_log_analyser.py ./sample_logs
 
 # Interrupt it (Ctrl+C) after some files are processed
 
 # Restart - should resume from checkpoint
-mpirun -np 4 python3 distributed_log_analyzer.py ./sample_logs
+mpirun -np 4 python3 distributed_log_analyser.py ./sample_logs
 ```
 
-**Expected behavior**:
+**Expected behaviour**:
 - Second run loads `checkpoint.json`
 - Skips already processed files
 - Continues from where it left off
@@ -439,7 +434,7 @@ mpirun -np 4 python3 distributed_log_analyzer.py ./sample_logs
 ```
 Loading checkpoint from previous run...
 Resuming from checkpoint: 5 files already processed
-Found 10 log file(s) to analyze (5 remaining)
+Found 10 log file(s) to analyse (5 remaining)
 Starting distributed analysis...
 
 [Master] Assigning node6.log to worker 1
@@ -467,13 +462,13 @@ Checkpoints saved: 3
 
 ### Deliverables
 
-1. **`distributed_log_analyzer.py`** - your fault-tolerant distributed implementation
+1. **`distributed_log_analyser.py`** - your fault-tolerant distributed implementation
 
 2. **`checkpoint.json`** - example checkpoint file from a run
 
 3. **`report_stage2.txt`** explaining:
    - **Fault detection mechanism**: how you detect failed workers
-   - **Recovery strategy**: how work is reassigned after failures  
+   - **Recovery strategy**: how work is reassigned after failures
    - **Checkpointing design**: what you save and when
    - **Consistency model**: which model you chose and why (with trade-offs)
    - **Test results**: output from normal, crash, and recovery scenarios
@@ -494,7 +489,7 @@ Implement a backup master process that takes over if the primary master fails. U
 
 ### 2. Streaming Log Analysis
 
-Process logs as they're being written (like `tail -f`). Workers continuously monitor log files for new entries. Implement real-time aggregation and display.
+Process logs _as_ they're being written (like `tail -f`). Workers continuously monitor log files for new entries. Implement real-time aggregation and display.
 
 ### 3. Replicated Log Storage
 
@@ -504,7 +499,7 @@ Implement log replication across multiple nodes. Ensure consistency between repl
 
 ### 4. Load Balancing Optimizations
 
-Implement work stealing; idle workers can steal work from busy workers. Predict file processing time based on file size. Assign larger files to faster workers (if running on heterogeneous systems).
+Implement _work stealing_; idle workers can steal work from busy workers. Predict file processing time based on file size. Assign larger files to faster workers (if running on heterogeneous systems).
 
 ### 5. Visualization Dashboard
 
@@ -526,10 +521,10 @@ Organize your work as follows:
 DaSH-Lab-Induction-Assignment-2025/
 │
 ├── README.md                          # This file
-├── base_log_analyzer.py               # Provided sequential implementation
+├── base_log_analyser.py               # Provided sequential implementation
 │
 ├── stage1/
-│   ├── parallel_log_analyzer.py       # Your Stage 1 implementation
+│   ├── parallel_log_analyser.py       # Your Stage 1 implementation
 │   ├── report_stage1.txt              # Stage 1 analysis report
 │   └── benchmarks/                    # Performance data (optional)
 │       ├── time_1_process.txt
@@ -537,8 +532,13 @@ DaSH-Lab-Induction-Assignment-2025/
 │       └── time_4_process.txt
 │
 ├── stage2/
-│   ├── distributed_log_analyzer.py    # Your Stage 2 implementation
-│   ├── checkpoint.json                # Example checkpoint
+│   ├── distributed_log_analyser.py    # Your Stage 2 implementation
+│   ├── checkpoints/                   # Directory containing all checkpoints
+│   │   ├── checkpoint_2025-10-29_14-30-00/     # Example checkpoint directory
+│   │   │   ├── checkpoint.json        # Metadata (see template below)
+│   │   │   ├── node1.log              # Processed file 1
+│   │   │   └── node2.log              # Processed file 2
+│   │   └── ...                        # Additional checkpoints (if any)
 │   ├── report_stage2.txt              # Stage 2 analysis report
 │   └── tests/                         # Test scripts (optional)
 │       ├── test_normal.sh
@@ -560,7 +560,7 @@ DaSH-Lab-Induction-Assignment-2025/
 
 You can create test log files using this simple script:
 
-```python
+```python3
 # utils/generate_logs.py
 import random
 import datetime
@@ -596,17 +596,17 @@ for i in range(1, 11):
 
 ### Getting Started
 
-Start small; begin with 2 processes before scaling up. Test incrementally; verify each feature works before adding the next. Use the sequential version; compare outputs to ensure correctness.
+Start small; begin with 2 processes before scaling up. Test incrementally, and verify whether each feature works before adding the next. Use the sequential version, and compare outputs to ensure correctness.
 
 ### Debugging MPI Programs
 
 Print statements are your friend:
-```python
+```python3
 print(f"[Rank {rank}] Sending data to rank {dest}", flush=True)
 ```
 Note: Use `flush=True` to ensure immediate output.
 
-Check message matching; ensure sends and receives match in source/destination ranks, message tags, and communicator.
+Check message matching. Ensure sends and receives match in source/destination ranks, message tags, and communicator.
 
 Avoid deadlocks; don't have all processes waiting for receives simultaneously. Use non-blocking communication (`Isend`/`Irecv`) when appropriate. Master-worker pattern helps avoid circular dependencies.
 
@@ -616,10 +616,10 @@ Debug with fewer processes; issues are easier to trace with 2-3 processes.
 
 Minimize communication overhead; send larger chunks of data less frequently. Aggregate results before sending.
 
-Balance the workload; monitor if some workers finish much faster than others. Consider file sizes when distributing work.
+Balance the workload by monitoring if some workers finish much faster than others. Consider file sizes when distributing work.
 
 Profile your code:
-```python
+```python3
 import time
 start = time.time()
 # ... work ...
@@ -628,16 +628,16 @@ print(f"Processing took {time.time() - start:.2f}s")
 
 ### Common Pitfalls
 
-- Forgetting to finalize (not a hard requirement; but good practice)
-- Rank assumptions; always check `comm.Get_rank()`, don't assume rank values
-- Hardcoded process counts; make your code work with any number of processes
-- Blocking receives; can cause deadlocks; use timeouts for fault tolerance
-- File access conflicts; ensure multiple processes don't write to the same file simultaneously
+- Forgetting to call MPI.Finalize() at the end of your script (While Python's garbage collection often handles this, explicitly calling it is good practice to ensure all MPI resources are released cleanly).
+- Rank assumptions: always check `comm.Get_rank()`, don't assume rank values
+- Hardcoded process counts: make your code work with any number of processes
+- Blocking receives which can cause deadlocks: use timeouts for fault tolerance
+- File access conflicts: ensure multiple processes don't write to the same file simultaneously
 
 ### Testing Checklist
 
 - [ ] Sequential version produces correct output
-- [ ] Parallel version with 1 process matches sequential output  
+- [ ] Parallel version with 1 process matches sequential output
 - [ ] Parallel version with multiple processes matches sequential output
 - [ ] Speedup increases (roughly) with more processes
 - [ ] No deadlocks or hangs
@@ -650,7 +650,7 @@ print(f"Processing took {time.time() - start:.2f}s")
 
 ## What We're Looking For
 
-This assignment is designed to evaluate your **thinking process** and **problem-solving approach**; not just your ability to write code.
+This assignment is designed to evaluate your **thinking process** and **problem-solving approach**, not just your ability to write code.
 
 **Key questions to consider**:
 
@@ -665,10 +665,10 @@ Your ability to understand these concepts and explain your design decisions clea
 
 Your work will be evaluated on:
 
-**Code Quality (40%)**
+**Code Quality (30%)**
 - Correctness: does it produce accurate results?
 - Functionality: do all required features work?
-- Code structure: is it well-organized and readable?
+- Code structure: is it well-structured, commented and readable?
 - Error handling: does it handle edge cases gracefully?
 
 **Performance (20%)**
@@ -681,13 +681,13 @@ Your work will be evaluated on:
 - Checkpointing: can it resume from saved state?
 - Robustness: does it recover gracefully?
 
-**Report & Analysis (20%)**
+**Report & Analysis (30%)**
 - Clarity: are your explanations clear and well-structured?
 - Depth: do you explain design decisions and trade-offs?
 - Insights: do you provide thoughtful analysis of results?
 - Completeness: did you address all required points?
 
-**Bonus Points (up to +10%)**
+**Bonus Points (up to +15%)**
 - Implementing optional challenges
 - Creative optimizations
 - Exceptional documentation
@@ -702,4 +702,4 @@ Remember: it's okay if your code isn't perfect. Focus on learning the concepts, 
 
 ---
 
-**Good luck; and welcome to the world of distributed systems!**
+**Good luck, and welcome to the world of distributed systems!**
