@@ -10,6 +10,11 @@ This assignment is a journey into both the theory and practice of building these
 
 Success in this induction requires engaging deeply with both parts. The code you write will bring the concepts from the papers to life, and the papers will provide the "why" behind the code you write.
 
+For queries related to this assignment, contact one of (on Slack):
+- Bhavya
+- Kaaviya
+- Manit
+
 ---
 
 ## Next Steps

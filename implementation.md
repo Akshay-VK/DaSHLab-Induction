@@ -4,11 +4,6 @@
 
 You'll start from a simple sequential program and progressively turn it into a **parallel** and finally a **distributed** system. By the end, you'll have hands-on experience with **MPI**, **fault tolerance**, and **coordination** - the very concepts that power systems like Google Search, Netflix, and Hadoop.
 
-For queries related to this assignment, contact one of (on Slack):
-- Bhavya
-- Kaaviya
-- Manit
-
 ---
 
 ## Index
