@@ -174,7 +174,7 @@ Here are a few resources to get started. You **DO NOT** need to go through all o
 ### Distributed Systems Concepts
 
 - [MIT 6.824 Lecture 1 (Intro to Distributed Systems)](https://www.youtube.com/watch?v=cQP8WApzIQQ) - excellent overview of distributed systems fundamentals
-- [A friendly introduction to distributed systems (by Tyler Treat)](https://medium.com/@copyconstruct/distributed-systems-theory-for-the-distributed-systems-engineer-94c49f8a3c97) - comprehensive blog post on distributed systems theory
+- [From Mainframe to Microservice: An Introduction to Distributed Systems](https://www.slideshare.net/slideshow/from-mainframe-to-microservice-an-introduction-to-distributed-systems-41004778/41004778) - really nice slide deck on distributed systems theory (you may need to use an LLM or regular old search to expand on the topics mentioned here, but doing so will be worthwhile)
 
 ### MPI Programming
 
@@ -477,8 +477,6 @@ If you finish early or want to go deeper into distributed systems concepts:
 ### 1. Leader Election (Backup Master)
 
 Implement a backup master process that takes over if the primary master fails. Use a leader election algorithm (e.g., Bully Algorithm or Ring Algorithm). Test by simulating master failure mid-execution.
-
-**Resources**: [Leader Election Algorithms](https://www.cs.cornell.edu/courses/cs6410/2018fa/slides/18-leader-election.pdf)
 
 ### 2. Streaming Log Analysis
 
