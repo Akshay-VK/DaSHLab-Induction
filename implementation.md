@@ -223,7 +223,13 @@ Take a simple sequential log analyser and parallelize it using MPI so multiple p
 
 ### Testing Your Implementation
 
-First, test the base sequential analyser:
+First, run the generator script to create and populate the sample_logs directory:
+
+```bash
+python3 logs_generator.py
+```
+
+Then, test the base sequential analyser:
 
 ```bash
 python3 base_log_analyser.py ./sample_logs
@@ -243,16 +249,16 @@ mpirun -np 4 python3 parallel_log_analyser.py ./sample_logs
 ### Expected Output
 
 ```
-Found 10 log file(s) to analyse
+Found 10000 log file(s) to analyse
 Starting parallel analysis...
 
 =================================================
 ANALYSIS RESULTS
 =================================================
-DEBUG: 89
-ERROR: 18
-INFO: 152
-WARN: 43
+DEBUG: 89447
+ERROR: 18404
+INFO: 152485
+WARN: 43916
 =================================================
 Total time: 0.35s
 Speedup: 2.3x
