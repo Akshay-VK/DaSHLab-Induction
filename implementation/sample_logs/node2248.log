@@ -1,0 +1,28 @@
+[2025-11-05T23:20:22.015374] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.015298] [INFO] Configuration loaded
+[2025-11-05T23:20:22.015391] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.015318] [INFO] Transaction completed
+[2025-11-05T23:20:22.015349] [WARN] Slow query performance
+[2025-11-05T23:20:22.015327] [INFO] User logged in
+[2025-11-05T23:20:22.015354] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.015249] [INFO] Service initialized
+[2025-11-05T23:20:22.015289] [INFO] Request processed successfully
+[2025-11-05T23:20:22.015294] [INFO] Health check passed
+[2025-11-05T23:20:22.015339] [INFO] Configuration loaded
+[2025-11-05T23:20:22.015284] [INFO] Cache hit
+[2025-11-05T23:20:22.015335] [INFO] User logged in
+[2025-11-05T23:20:22.015273] [INFO] Request processed successfully
+[2025-11-05T23:20:22.015359] [ERROR] Disk read failed
+[2025-11-05T23:20:22.015310] [INFO] Session started
+[2025-11-05T23:20:22.015314] [INFO] Health check passed
+[2025-11-05T23:20:22.015305] [INFO] Health check passed
+[2025-11-05T23:20:22.015369] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.015387] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.015378] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.015383] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.015331] [INFO] Connection established
+[2025-11-05T23:20:22.015323] [INFO] Health check passed
+[2025-11-05T23:20:22.015301] [INFO] Health check passed
+[2025-11-05T23:20:22.015343] [INFO] Configuration loaded
+[2025-11-05T23:20:22.015364] [ERROR] Request failed
+[2025-11-05T23:20:22.015279] [INFO] Connection established

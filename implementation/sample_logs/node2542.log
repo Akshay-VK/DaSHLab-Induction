@@ -1,0 +1,33 @@
+[2025-11-05T23:20:23.389787] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.389791] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.389783] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.389655] [INFO] Connection established
+[2025-11-05T23:20:23.389691] [INFO] Database query executed
+[2025-11-05T23:20:23.389759] [WARN] Timeout warning
+[2025-11-05T23:20:23.389755] [WARN] High memory usage detected
+[2025-11-05T23:20:23.389800] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.389727] [INFO] Transaction completed
+[2025-11-05T23:20:23.389739] [INFO] User logged in
+[2025-11-05T23:20:23.389804] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.389701] [INFO] Health check passed
+[2025-11-05T23:20:23.389773] [ERROR] Authentication failed
+[2025-11-05T23:20:23.389718] [INFO] Health check passed
+[2025-11-05T23:20:23.389745] [WARN] Connection retry attempt
+[2025-11-05T23:20:23.389696] [INFO] Session started
+[2025-11-05T23:20:23.389750] [WARN] High memory usage detected
+[2025-11-05T23:20:23.389812] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.389686] [INFO] Configuration loaded
+[2025-11-05T23:20:23.389714] [INFO] User logged in
+[2025-11-05T23:20:23.389778] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.389710] [INFO] Configuration loaded
+[2025-11-05T23:20:23.389765] [ERROR] Network timeout
+[2025-11-05T23:20:23.389705] [INFO] Cache hit
+[2025-11-05T23:20:23.389680] [INFO] Database query executed
+[2025-11-05T23:20:23.389769] [ERROR] Authentication failed
+[2025-11-05T23:20:23.389816] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.389808] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.389731] [INFO] Connection established
+[2025-11-05T23:20:23.389796] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.389723] [INFO] Request processed successfully
+[2025-11-05T23:20:23.389735] [INFO] Service initialized
+[2025-11-05T23:20:23.389820] [DEBUG] HTTP request headers parsed

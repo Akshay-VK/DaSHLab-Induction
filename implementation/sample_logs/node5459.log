@@ -1,0 +1,27 @@
+[2025-11-05T23:20:35.297548] [INFO] Health check passed
+[2025-11-05T23:20:35.297524] [INFO] Service initialized
+[2025-11-05T23:20:35.297582] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.297505] [INFO] Cache hit
+[2025-11-05T23:20:35.297458] [INFO] Connection established
+[2025-11-05T23:20:35.297606] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.297566] [ERROR] File not found
+[2025-11-05T23:20:35.297560] [ERROR] Request failed
+[2025-11-05T23:20:35.297534] [INFO] Configuration loaded
+[2025-11-05T23:20:35.297554] [WARN] Connection retry attempt
+[2025-11-05T23:20:35.297576] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.297539] [INFO] Cache hit
+[2025-11-05T23:20:35.297495] [INFO] Connection established
+[2025-11-05T23:20:35.297611] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.297500] [INFO] Session started
+[2025-11-05T23:20:35.297514] [INFO] Database query executed
+[2025-11-05T23:20:35.297601] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.297519] [INFO] Request processed successfully
+[2025-11-05T23:20:35.297543] [INFO] Database query executed
+[2025-11-05T23:20:35.297529] [INFO] Database query executed
+[2025-11-05T23:20:35.297490] [INFO] Request processed successfully
+[2025-11-05T23:20:35.297483] [INFO] User logged in
+[2025-11-05T23:20:35.297592] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.297587] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.297597] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.297510] [INFO] Cache hit
+[2025-11-05T23:20:35.297571] [ERROR] Database connection lost

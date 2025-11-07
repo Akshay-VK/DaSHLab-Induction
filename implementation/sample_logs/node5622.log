@@ -1,0 +1,24 @@
+[2025-11-05T23:20:35.939322] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.939310] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.939225] [INFO] Request processed successfully
+[2025-11-05T23:20:35.939268] [INFO] Configuration loaded
+[2025-11-05T23:20:35.939247] [INFO] Connection established
+[2025-11-05T23:20:35.939240] [INFO] Connection established
+[2025-11-05T23:20:35.939291] [WARN] Queue size growing
+[2025-11-05T23:20:35.939318] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.939287] [WARN] Queue size growing
+[2025-11-05T23:20:35.939306] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.939244] [INFO] Cache hit
+[2025-11-05T23:20:35.939314] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.939272] [INFO] Database query executed
+[2025-11-05T23:20:35.939231] [INFO] Cache hit
+[2025-11-05T23:20:35.939256] [INFO] User logged in
+[2025-11-05T23:20:35.939302] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.939296] [ERROR] Network timeout
+[2025-11-05T23:20:35.939281] [WARN] Timeout warning
+[2025-11-05T23:20:35.939264] [INFO] User logged in
+[2025-11-05T23:20:35.939260] [INFO] Configuration loaded
+[2025-11-05T23:20:35.939276] [INFO] User logged in
+[2025-11-05T23:20:35.939235] [INFO] Cache hit
+[2025-11-05T23:20:35.939252] [INFO] Request processed successfully
+[2025-11-05T23:20:35.939169] [INFO] Service initialized

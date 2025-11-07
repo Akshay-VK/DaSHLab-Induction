@@ -1,0 +1,31 @@
+[2025-11-05T23:20:21.502544] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.502430] [INFO] Cache hit
+[2025-11-05T23:20:21.502552] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.502469] [INFO] Request processed successfully
+[2025-11-05T23:20:21.502485] [INFO] Cache hit
+[2025-11-05T23:20:21.502473] [INFO] Service initialized
+[2025-11-05T23:20:21.502477] [INFO] Session started
+[2025-11-05T23:20:21.502457] [INFO] User logged in
+[2025-11-05T23:20:21.502523] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.502548] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.502440] [INFO] Request processed successfully
+[2025-11-05T23:20:21.502495] [WARN] Cache miss
+[2025-11-05T23:20:21.502436] [INFO] Database query executed
+[2025-11-05T23:20:21.502465] [INFO] Cache hit
+[2025-11-05T23:20:21.502527] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.502509] [WARN] High memory usage detected
+[2025-11-05T23:20:21.502531] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.502481] [INFO] Service initialized
+[2025-11-05T23:20:21.502505] [WARN] Timeout warning
+[2025-11-05T23:20:21.502490] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.502453] [INFO] Transaction completed
+[2025-11-05T23:20:21.502449] [INFO] Transaction completed
+[2025-11-05T23:20:21.502556] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.502444] [INFO] User logged in
+[2025-11-05T23:20:21.502519] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.502540] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.502536] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.502405] [INFO] Configuration loaded
+[2025-11-05T23:20:21.502461] [INFO] Connection established
+[2025-11-05T23:20:21.502500] [WARN] Timeout warning
+[2025-11-05T23:20:21.502514] [ERROR] Service unavailable

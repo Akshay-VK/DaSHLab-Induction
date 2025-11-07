@@ -1,0 +1,34 @@
+[2025-11-05T23:20:46.575617] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.575608] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.575460] [INFO] Configuration loaded
+[2025-11-05T23:20:46.575533] [INFO] Configuration loaded
+[2025-11-05T23:20:46.575482] [INFO] Transaction completed
+[2025-11-05T23:20:46.575589] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.575594] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.575451] [INFO] Cache hit
+[2025-11-05T23:20:46.575603] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.575473] [INFO] Health check passed
+[2025-11-05T23:20:46.575412] [INFO] Service initialized
+[2025-11-05T23:20:46.575599] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.575564] [WARN] Connection retry attempt
+[2025-11-05T23:20:46.575543] [INFO] Cache hit
+[2025-11-05T23:20:46.575478] [INFO] Service initialized
+[2025-11-05T23:20:46.575625] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.575568] [WARN] Slow query performance
+[2025-11-05T23:20:46.575549] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.575495] [INFO] User logged in
+[2025-11-05T23:20:46.575630] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.575469] [INFO] Request processed successfully
+[2025-11-05T23:20:46.575559] [WARN] High memory usage detected
+[2025-11-05T23:20:46.575446] [INFO] Health check passed
+[2025-11-05T23:20:46.575621] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.575555] [WARN] Deprecated API usage
+[2025-11-05T23:20:46.575464] [INFO] Database query executed
+[2025-11-05T23:20:46.575612] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.575487] [INFO] Health check passed
+[2025-11-05T23:20:46.575585] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.575578] [ERROR] Disk read failed
+[2025-11-05T23:20:46.575455] [INFO] User logged in
+[2025-11-05T23:20:46.575573] [WARN] Slow query performance
+[2025-11-05T23:20:46.575441] [INFO] Service initialized
+[2025-11-05T23:20:46.575491] [INFO] Database query executed

@@ -1,0 +1,26 @@
+[2025-11-05T23:20:29.597856] [INFO] Configuration loaded
+[2025-11-05T23:20:29.597887] [INFO] Session started
+[2025-11-05T23:20:29.597947] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.597870] [INFO] Database query executed
+[2025-11-05T23:20:29.597904] [INFO] Transaction completed
+[2025-11-05T23:20:29.597879] [INFO] Health check passed
+[2025-11-05T23:20:29.597914] [WARN] Resource threshold approaching
+[2025-11-05T23:20:29.597830] [INFO] Cache hit
+[2025-11-05T23:20:29.597934] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.597938] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.597955] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.597951] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.597896] [INFO] Session started
+[2025-11-05T23:20:29.597861] [INFO] Cache hit
+[2025-11-05T23:20:29.597918] [WARN] Resource threshold approaching
+[2025-11-05T23:20:29.597883] [INFO] Session started
+[2025-11-05T23:20:29.597929] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.597891] [INFO] Cache hit
+[2025-11-05T23:20:29.597875] [INFO] Database query executed
+[2025-11-05T23:20:29.597900] [INFO] Connection established
+[2025-11-05T23:20:29.597942] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.597908] [INFO] Health check passed
+[2025-11-05T23:20:29.597865] [INFO] Cache hit
+[2025-11-05T23:20:29.597923] [ERROR] Authentication failed
+[2025-11-05T23:20:29.597964] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.597960] [DEBUG] Memory allocation: 2048 bytes

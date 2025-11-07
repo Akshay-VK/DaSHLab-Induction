@@ -1,0 +1,26 @@
+[2025-11-05T23:20:30.514817] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.514728] [INFO] Cache hit
+[2025-11-05T23:20:30.514787] [INFO] User logged in
+[2025-11-05T23:20:30.514702] [INFO] Health check passed
+[2025-11-05T23:20:30.514797] [WARN] Rate limit approaching
+[2025-11-05T23:20:30.514830] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.514766] [INFO] Service initialized
+[2025-11-05T23:20:30.514774] [INFO] Session started
+[2025-11-05T23:20:30.514770] [INFO] Connection established
+[2025-11-05T23:20:30.514783] [INFO] Health check passed
+[2025-11-05T23:20:30.514792] [WARN] Queue size growing
+[2025-11-05T23:20:30.514744] [INFO] Session started
+[2025-11-05T23:20:30.514779] [INFO] Session started
+[2025-11-05T23:20:30.514825] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.514749] [INFO] Cache hit
+[2025-11-05T23:20:30.514821] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.514809] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.514734] [INFO] Request processed successfully
+[2025-11-05T23:20:30.514740] [INFO] Session started
+[2025-11-05T23:20:30.514834] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.514839] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.514753] [INFO] User logged in
+[2025-11-05T23:20:30.514757] [INFO] Service initialized
+[2025-11-05T23:20:30.514762] [INFO] Service initialized
+[2025-11-05T23:20:30.514813] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.514803] [ERROR] Service unavailable

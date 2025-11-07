@@ -1,0 +1,30 @@
+[2025-11-05T23:20:28.719756] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.719616] [INFO] Service initialized
+[2025-11-05T23:20:28.719711] [WARN] Connection retry attempt
+[2025-11-05T23:20:28.719752] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.719667] [INFO] Session started
+[2025-11-05T23:20:28.719676] [INFO] Connection established
+[2025-11-05T23:20:28.719642] [INFO] Connection established
+[2025-11-05T23:20:28.719723] [WARN] Slow query performance
+[2025-11-05T23:20:28.719748] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.719688] [INFO] Session started
+[2025-11-05T23:20:28.719739] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.719648] [INFO] Request processed successfully
+[2025-11-05T23:20:28.719729] [ERROR] Memory allocation error
+[2025-11-05T23:20:28.719743] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.719715] [WARN] Rate limit approaching
+[2025-11-05T23:20:28.719662] [INFO] Health check passed
+[2025-11-05T23:20:28.719672] [INFO] Service initialized
+[2025-11-05T23:20:28.719719] [WARN] Disk space low
+[2025-11-05T23:20:28.719700] [INFO] Connection established
+[2025-11-05T23:20:28.719696] [INFO] Health check passed
+[2025-11-05T23:20:28.719653] [INFO] Session started
+[2025-11-05T23:20:28.719706] [WARN] Disk space low
+[2025-11-05T23:20:28.719734] [ERROR] Permission denied
+[2025-11-05T23:20:28.721380] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.719684] [INFO] User logged in
+[2025-11-05T23:20:28.721385] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.721364] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.719680] [INFO] Transaction completed
+[2025-11-05T23:20:28.719657] [INFO] Request processed successfully
+[2025-11-05T23:20:28.719692] [INFO] Cache hit

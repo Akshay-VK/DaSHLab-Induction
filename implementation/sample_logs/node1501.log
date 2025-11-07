@@ -1,0 +1,31 @@
+[2025-11-05T23:20:18.929270] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.929250] [WARN] Resource threshold approaching
+[2025-11-05T23:20:18.929211] [INFO] Database query executed
+[2025-11-05T23:20:18.929295] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.929199] [INFO] Database query executed
+[2025-11-05T23:20:18.929254] [WARN] Timeout warning
+[2025-11-05T23:20:18.929282] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:18.929185] [INFO] Service initialized
+[2025-11-05T23:20:18.929274] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.929304] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.929223] [INFO] Health check passed
+[2025-11-05T23:20:18.929232] [INFO] Request processed successfully
+[2025-11-05T23:20:18.929215] [INFO] Configuration loaded
+[2025-11-05T23:20:18.929278] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:18.929308] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:18.929203] [INFO] User logged in
+[2025-11-05T23:20:18.929291] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.929207] [INFO] User logged in
+[2025-11-05T23:20:18.929219] [INFO] Cache hit
+[2025-11-05T23:20:18.929155] [INFO] Connection established
+[2025-11-05T23:20:18.929180] [INFO] Cache hit
+[2025-11-05T23:20:18.929245] [WARN] Timeout warning
+[2025-11-05T23:20:18.929287] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:18.929236] [INFO] Service initialized
+[2025-11-05T23:20:18.929228] [INFO] Connection established
+[2025-11-05T23:20:18.929241] [WARN] High memory usage detected
+[2025-11-05T23:20:18.929299] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:18.929260] [ERROR] Invalid input data
+[2025-11-05T23:20:18.929190] [INFO] Request processed successfully
+[2025-11-05T23:20:18.929265] [ERROR] Disk read failed
+[2025-11-05T23:20:18.929194] [INFO] Transaction completed

@@ -1,0 +1,26 @@
+[2025-11-05T23:20:50.841491] [INFO] Session started
+[2025-11-05T23:20:50.841579] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.841528] [INFO] User logged in
+[2025-11-05T23:20:50.841496] [INFO] Database query executed
+[2025-11-05T23:20:50.841482] [INFO] Health check passed
+[2025-11-05T23:20:50.841574] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.841486] [INFO] Session started
+[2025-11-05T23:20:50.841506] [INFO] Transaction completed
+[2025-11-05T23:20:50.841564] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.841594] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.841501] [INFO] User logged in
+[2025-11-05T23:20:50.841546] [WARN] High memory usage detected
+[2025-11-05T23:20:50.841599] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:50.841540] [WARN] Cache miss
+[2025-11-05T23:20:50.841584] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.841534] [WARN] Resource threshold approaching
+[2025-11-05T23:20:50.841590] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.841476] [INFO] Configuration loaded
+[2025-11-05T23:20:50.841523] [INFO] Cache hit
+[2025-11-05T23:20:50.841558] [ERROR] Authentication failed
+[2025-11-05T23:20:50.841449] [INFO] Connection established
+[2025-11-05T23:20:50.841569] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:50.841515] [INFO] Transaction completed
+[2025-11-05T23:20:50.841510] [INFO] Configuration loaded
+[2025-11-05T23:20:50.841552] [ERROR] Authentication failed
+[2025-11-05T23:20:50.841519] [INFO] Health check passed

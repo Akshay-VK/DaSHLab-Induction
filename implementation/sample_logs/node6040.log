@@ -1,0 +1,33 @@
+[2025-11-05T23:20:37.862933] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.862830] [INFO] Health check passed
+[2025-11-05T23:20:37.862869] [INFO] Request processed successfully
+[2025-11-05T23:20:37.862836] [INFO] Database query executed
+[2025-11-05T23:20:37.862844] [INFO] Health check passed
+[2025-11-05T23:20:37.862956] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.862878] [INFO] Database query executed
+[2025-11-05T23:20:37.862853] [INFO] Connection established
+[2025-11-05T23:20:37.862848] [INFO] User logged in
+[2025-11-05T23:20:37.862943] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.862896] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.862921] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.862912] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.862947] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.862917] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.862929] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.862873] [INFO] User logged in
+[2025-11-05T23:20:37.862814] [INFO] Service initialized
+[2025-11-05T23:20:37.862821] [INFO] Transaction completed
+[2025-11-05T23:20:37.862865] [INFO] Database query executed
+[2025-11-05T23:20:37.862901] [WARN] Deprecated API usage
+[2025-11-05T23:20:37.862840] [INFO] Service initialized
+[2025-11-05T23:20:37.862890] [INFO] Configuration loaded
+[2025-11-05T23:20:37.862789] [INFO] Database query executed
+[2025-11-05T23:20:37.862952] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.862881] [INFO] Session started
+[2025-11-05T23:20:37.862907] [ERROR] Disk read failed
+[2025-11-05T23:20:37.862925] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.862938] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.862857] [INFO] Session started
+[2025-11-05T23:20:37.862826] [INFO] Database query executed
+[2025-11-05T23:20:37.862886] [INFO] Connection established
+[2025-11-05T23:20:37.862861] [INFO] Service initialized

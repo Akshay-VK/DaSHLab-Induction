@@ -1,0 +1,28 @@
+[2025-11-05T23:20:48.594821] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:48.594767] [INFO] Session started
+[2025-11-05T23:20:48.594806] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.594814] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.594797] [ERROR] Permission denied
+[2025-11-05T23:20:48.594829] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:48.594737] [INFO] Request processed successfully
+[2025-11-05T23:20:48.594780] [WARN] High memory usage detected
+[2025-11-05T23:20:48.594833] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.594789] [ERROR] Database connection lost
+[2025-11-05T23:20:48.594745] [INFO] User logged in
+[2025-11-05T23:20:48.594810] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.594703] [INFO] Service initialized
+[2025-11-05T23:20:48.594760] [INFO] Connection established
+[2025-11-05T23:20:48.594784] [WARN] Rate limit approaching
+[2025-11-05T23:20:48.594749] [INFO] Request processed successfully
+[2025-11-05T23:20:48.594793] [ERROR] Authentication failed
+[2025-11-05T23:20:48.594756] [INFO] Health check passed
+[2025-11-05T23:20:48.594825] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.594763] [INFO] Configuration loaded
+[2025-11-05T23:20:48.594752] [INFO] Session started
+[2025-11-05T23:20:48.594741] [INFO] Transaction completed
+[2025-11-05T23:20:48.594772] [WARN] Slow query performance
+[2025-11-05T23:20:48.594733] [INFO] Health check passed
+[2025-11-05T23:20:48.594802] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.594776] [WARN] Deprecated API usage
+[2025-11-05T23:20:48.594818] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.594728] [INFO] Session started

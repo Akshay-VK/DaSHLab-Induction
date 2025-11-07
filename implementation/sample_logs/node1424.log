@@ -1,0 +1,31 @@
+[2025-11-05T23:20:18.453640] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.453627] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.453450] [INFO] Session started
+[2025-11-05T23:20:18.453607] [ERROR] Permission denied
+[2025-11-05T23:20:18.453347] [INFO] Connection established
+[2025-11-05T23:20:18.453618] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:18.453563] [WARN] Timeout warning
+[2025-11-05T23:20:18.453602] [ERROR] Invalid input data
+[2025-11-05T23:20:18.453612] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:18.453445] [INFO] Transaction completed
+[2025-11-05T23:20:18.453412] [INFO] Health check passed
+[2025-11-05T23:20:18.453622] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.453636] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:18.453442] [INFO] Configuration loaded
+[2025-11-05T23:20:18.453408] [INFO] Connection established
+[2025-11-05T23:20:18.453421] [INFO] Health check passed
+[2025-11-05T23:20:18.453583] [WARN] Connection retry attempt
+[2025-11-05T23:20:18.453596] [WARN] Cache miss
+[2025-11-05T23:20:18.453430] [INFO] Transaction completed
+[2025-11-05T23:20:18.453588] [WARN] Cache miss
+[2025-11-05T23:20:18.453403] [INFO] Cache hit
+[2025-11-05T23:20:18.453632] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.453387] [INFO] User logged in
+[2025-11-05T23:20:18.453425] [INFO] Configuration loaded
+[2025-11-05T23:20:18.453434] [INFO] Request processed successfully
+[2025-11-05T23:20:18.453398] [INFO] User logged in
+[2025-11-05T23:20:18.453393] [INFO] Health check passed
+[2025-11-05T23:20:18.453592] [WARN] Disk space low
+[2025-11-05T23:20:18.453438] [INFO] Database query executed
+[2025-11-05T23:20:18.453578] [WARN] Slow query performance
+[2025-11-05T23:20:18.453416] [INFO] Cache hit

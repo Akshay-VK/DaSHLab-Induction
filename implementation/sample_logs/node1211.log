@@ -1,0 +1,35 @@
+[2025-11-05T23:20:17.581324] [WARN] Disk space low
+[2025-11-05T23:20:17.581367] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.581363] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.581279] [INFO] Transaction completed
+[2025-11-05T23:20:17.581234] [INFO] Database query executed
+[2025-11-05T23:20:17.581252] [INFO] Configuration loaded
+[2025-11-05T23:20:17.581300] [WARN] Slow query performance
+[2025-11-05T23:20:17.581289] [WARN] Cache miss
+[2025-11-05T23:20:17.581243] [INFO] Request processed successfully
+[2025-11-05T23:20:17.581315] [WARN] High memory usage detected
+[2025-11-05T23:20:17.581328] [WARN] Disk space low
+[2025-11-05T23:20:17.581295] [WARN] Deprecated API usage
+[2025-11-05T23:20:17.581229] [INFO] Configuration loaded
+[2025-11-05T23:20:17.581266] [INFO] Request processed successfully
+[2025-11-05T23:20:17.581349] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.581262] [INFO] Health check passed
+[2025-11-05T23:20:17.581258] [INFO] Request processed successfully
+[2025-11-05T23:20:17.581320] [WARN] Slow query performance
+[2025-11-05T23:20:17.581305] [WARN] Rate limit approaching
+[2025-11-05T23:20:17.581283] [INFO] Service initialized
+[2025-11-05T23:20:17.581239] [INFO] Transaction completed
+[2025-11-05T23:20:17.581248] [INFO] Configuration loaded
+[2025-11-05T23:20:17.581340] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.581311] [WARN] Timeout warning
+[2025-11-05T23:20:17.581334] [ERROR] Disk read failed
+[2025-11-05T23:20:17.581345] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.581376] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.581372] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.581217] [INFO] Cache hit
+[2025-11-05T23:20:17.581358] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.581354] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.581274] [INFO] Health check passed
+[2025-11-05T23:20:17.581223] [INFO] Transaction completed
+[2025-11-05T23:20:17.581270] [INFO] Cache hit
+[2025-11-05T23:20:17.581190] [INFO] Request processed successfully

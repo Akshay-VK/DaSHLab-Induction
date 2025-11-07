@@ -1,0 +1,33 @@
+[2025-11-05T23:20:25.749430] [INFO] Session started
+[2025-11-05T23:20:25.749490] [INFO] Health check passed
+[2025-11-05T23:20:25.749521] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.749425] [INFO] Connection established
+[2025-11-05T23:20:25.749550] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.749400] [INFO] Database query executed
+[2025-11-05T23:20:25.749537] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.749525] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.749541] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.749449] [INFO] User logged in
+[2025-11-05T23:20:25.749533] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.749529] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.749473] [INFO] Cache hit
+[2025-11-05T23:20:25.749481] [INFO] Health check passed
+[2025-11-05T23:20:25.749444] [INFO] Database query executed
+[2025-11-05T23:20:25.749469] [INFO] Transaction completed
+[2025-11-05T23:20:25.749486] [INFO] Connection established
+[2025-11-05T23:20:25.749440] [INFO] Transaction completed
+[2025-11-05T23:20:25.749495] [WARN] High memory usage detected
+[2025-11-05T23:20:25.749500] [WARN] Disk space low
+[2025-11-05T23:20:25.749465] [INFO] Request processed successfully
+[2025-11-05T23:20:25.749510] [ERROR] Authentication failed
+[2025-11-05T23:20:25.749554] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.749453] [INFO] Connection established
+[2025-11-05T23:20:25.749435] [INFO] Request processed successfully
+[2025-11-05T23:20:25.749558] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.749515] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.749461] [INFO] Service initialized
+[2025-11-05T23:20:25.749545] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.749562] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.749505] [ERROR] Memory allocation error
+[2025-11-05T23:20:25.749477] [INFO] Connection established
+[2025-11-05T23:20:25.749457] [INFO] User logged in

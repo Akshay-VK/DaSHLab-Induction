@@ -1,0 +1,35 @@
+[2025-11-05T23:20:41.002645] [INFO] Service initialized
+[2025-11-05T23:20:41.002649] [INFO] Health check passed
+[2025-11-05T23:20:41.002693] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.002654] [INFO] Connection established
+[2025-11-05T23:20:41.002676] [INFO] Connection established
+[2025-11-05T23:20:41.002707] [ERROR] File not found
+[2025-11-05T23:20:41.002733] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.002640] [INFO] Configuration loaded
+[2025-11-05T23:20:41.002747] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.002743] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.002659] [INFO] Cache hit
+[2025-11-05T23:20:41.002738] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.002716] [ERROR] Database connection lost
+[2025-11-05T23:20:41.002625] [INFO] Service initialized
+[2025-11-05T23:20:41.002762] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.002724] [ERROR] Authentication failed
+[2025-11-05T23:20:41.002755] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.002729] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.002688] [WARN] Deprecated API usage
+[2025-11-05T23:20:41.002759] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.002631] [INFO] Configuration loaded
+[2025-11-05T23:20:41.002667] [INFO] Service initialized
+[2025-11-05T23:20:41.002775] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.002663] [INFO] User logged in
+[2025-11-05T23:20:41.002697] [WARN] Queue size growing
+[2025-11-05T23:20:41.002636] [INFO] Connection established
+[2025-11-05T23:20:41.002771] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.002681] [INFO] Cache hit
+[2025-11-05T23:20:41.002766] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.002720] [ERROR] Database connection lost
+[2025-11-05T23:20:41.002702] [WARN] Timeout warning
+[2025-11-05T23:20:41.002751] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.002712] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.002672] [INFO] Cache hit
+[2025-11-05T23:20:41.002600] [INFO] User logged in

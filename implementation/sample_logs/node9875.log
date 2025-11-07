@@ -1,0 +1,31 @@
+[2025-11-05T23:20:53.513650] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.513537] [INFO] Transaction completed
+[2025-11-05T23:20:53.513646] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.513547] [INFO] Request processed successfully
+[2025-11-05T23:20:53.513642] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.513600] [WARN] Disk space low
+[2025-11-05T23:20:53.513501] [INFO] Connection established
+[2025-11-05T23:20:53.513654] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.513555] [INFO] Request processed successfully
+[2025-11-05T23:20:53.513628] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.513614] [ERROR] Request failed
+[2025-11-05T23:20:53.513564] [INFO] Transaction completed
+[2025-11-05T23:20:53.513551] [INFO] Database query executed
+[2025-11-05T23:20:53.513594] [WARN] Cache miss
+[2025-11-05T23:20:53.513659] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.513568] [INFO] Cache hit
+[2025-11-05T23:20:53.513559] [INFO] Configuration loaded
+[2025-11-05T23:20:53.513637] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.513633] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.513604] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.513585] [INFO] Request processed successfully
+[2025-11-05T23:20:53.513618] [ERROR] Network timeout
+[2025-11-05T23:20:53.513542] [INFO] Cache hit
+[2025-11-05T23:20:53.513581] [INFO] User logged in
+[2025-11-05T23:20:53.513608] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.513532] [INFO] Service initialized
+[2025-11-05T23:20:53.513624] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.513572] [INFO] User logged in
+[2025-11-05T23:20:53.513589] [INFO] Transaction completed
+[2025-11-05T23:20:53.513526] [INFO] Session started
+[2025-11-05T23:20:53.513576] [INFO] Database query executed

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:51.844624] [INFO] Health check passed
+[2025-11-05T23:20:51.844676] [ERROR] Memory allocation error
+[2025-11-05T23:20:51.844620] [INFO] Transaction completed
+[2025-11-05T23:20:51.844628] [INFO] Transaction completed
+[2025-11-05T23:20:51.844639] [INFO] Database query executed
+[2025-11-05T23:20:51.844681] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.844635] [INFO] Connection established
+[2025-11-05T23:20:51.844611] [INFO] Service initialized
+[2025-11-05T23:20:51.844577] [INFO] Database query executed
+[2025-11-05T23:20:51.844698] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.844659] [WARN] Slow query performance
+[2025-11-05T23:20:51.844705] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.844667] [WARN] Connection retry attempt
+[2025-11-05T23:20:51.844711] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.844701] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.844607] [INFO] User logged in
+[2025-11-05T23:20:51.844602] [INFO] Database query executed
+[2025-11-05T23:20:51.844672] [ERROR] Network timeout
+[2025-11-05T23:20:51.844643] [INFO] Transaction completed
+[2025-11-05T23:20:51.844685] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.844615] [INFO] User logged in
+[2025-11-05T23:20:51.844647] [INFO] Request processed successfully
+[2025-11-05T23:20:51.844708] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.844663] [WARN] Deprecated API usage
+[2025-11-05T23:20:51.844695] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.844691] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.844652] [WARN] High memory usage detected
+[2025-11-05T23:20:51.844631] [INFO] Request processed successfully
+[2025-11-05T23:20:51.844688] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.844656] [WARN] Resource threshold approaching

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:27.923983] [INFO] Session started
+[2025-11-05T23:20:27.923902] [INFO] Connection established
+[2025-11-05T23:20:27.923958] [INFO] Database query executed
+[2025-11-05T23:20:27.924001] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.924126] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.924122] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.923996] [INFO] Cache hit
+[2025-11-05T23:20:27.924093] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.923964] [INFO] Transaction completed
+[2025-11-05T23:20:27.924049] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.924107] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.923969] [INFO] Cache hit
+[2025-11-05T23:20:27.924011] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.924037] [ERROR] Memory allocation error
+[2025-11-05T23:20:27.923978] [INFO] Transaction completed
+[2025-11-05T23:20:27.923938] [INFO] Health check passed
+[2025-11-05T23:20:27.923953] [INFO] Connection established
+[2025-11-05T23:20:27.924015] [WARN] High memory usage detected
+[2025-11-05T23:20:27.923944] [INFO] Service initialized
+[2025-11-05T23:20:27.924118] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.923930] [INFO] Configuration loaded
+[2025-11-05T23:20:27.923991] [INFO] Service initialized
+[2025-11-05T23:20:27.924006] [WARN] Slow query performance
+[2025-11-05T23:20:27.924112] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.924043] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.924019] [WARN] Cache miss
+[2025-11-05T23:20:27.924031] [ERROR] Memory allocation error
+[2025-11-05T23:20:27.923987] [INFO] Session started
+[2025-11-05T23:20:27.923949] [INFO] Health check passed
+[2025-11-05T23:20:27.923974] [INFO] Transaction completed
+[2025-11-05T23:20:27.924102] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.924024] [WARN] Timeout warning

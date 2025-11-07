@@ -1,0 +1,28 @@
+[2025-11-05T23:20:26.198816] [INFO] Service initialized
+[2025-11-05T23:20:26.198888] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.198848] [INFO] Service initialized
+[2025-11-05T23:20:26.198899] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.198838] [INFO] User logged in
+[2025-11-05T23:20:26.198845] [INFO] Cache hit
+[2025-11-05T23:20:26.198820] [INFO] Health check passed
+[2025-11-05T23:20:26.198903] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.198834] [INFO] Configuration loaded
+[2025-11-05T23:20:26.198867] [WARN] Cache miss
+[2025-11-05T23:20:26.198896] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.198871] [WARN] Disk space low
+[2025-11-05T23:20:26.198876] [ERROR] Permission denied
+[2025-11-05T23:20:26.198914] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.198792] [INFO] Database query executed
+[2025-11-05T23:20:26.198831] [INFO] Database query executed
+[2025-11-05T23:20:26.198841] [INFO] Cache hit
+[2025-11-05T23:20:26.198860] [WARN] High memory usage detected
+[2025-11-05T23:20:26.198852] [INFO] Database query executed
+[2025-11-05T23:20:26.198910] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.198827] [INFO] Connection established
+[2025-11-05T23:20:26.198824] [INFO] Connection established
+[2025-11-05T23:20:26.198884] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.198855] [INFO] User logged in
+[2025-11-05T23:20:26.198907] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.198880] [ERROR] Request failed
+[2025-11-05T23:20:26.198892] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.198864] [WARN] Resource threshold approaching

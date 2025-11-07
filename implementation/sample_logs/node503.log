@@ -1,0 +1,32 @@
+[2025-11-05T23:20:14.596490] [INFO] Session started
+[2025-11-05T23:20:14.596523] [WARN] Cache miss
+[2025-11-05T23:20:14.596471] [INFO] Database query executed
+[2025-11-05T23:20:14.596565] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.596475] [INFO] Connection established
+[2025-11-05T23:20:14.596582] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.596578] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.596513] [WARN] Deprecated API usage
+[2025-11-05T23:20:14.596573] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.596551] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.596440] [INFO] Health check passed
+[2025-11-05T23:20:14.596467] [INFO] Request processed successfully
+[2025-11-05T23:20:14.596447] [INFO] Configuration loaded
+[2025-11-05T23:20:14.596480] [INFO] User logged in
+[2025-11-05T23:20:14.596560] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.596453] [INFO] Health check passed
+[2025-11-05T23:20:14.596527] [WARN] Slow query performance
+[2025-11-05T23:20:14.596500] [INFO] Cache hit
+[2025-11-05T23:20:14.596484] [INFO] Database query executed
+[2025-11-05T23:20:14.596462] [INFO] Session started
+[2025-11-05T23:20:14.596495] [INFO] Configuration loaded
+[2025-11-05T23:20:14.596508] [INFO] User logged in
+[2025-11-05T23:20:14.596547] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.596412] [INFO] Database query executed
+[2025-11-05T23:20:14.596504] [INFO] User logged in
+[2025-11-05T23:20:14.596569] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.596458] [INFO] Cache hit
+[2025-11-05T23:20:14.596537] [ERROR] Request failed
+[2025-11-05T23:20:14.596518] [WARN] Slow query performance
+[2025-11-05T23:20:14.596532] [ERROR] Permission denied
+[2025-11-05T23:20:14.596542] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.596556] [DEBUG] Connection pool status checked

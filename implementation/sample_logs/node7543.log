@@ -1,0 +1,31 @@
+[2025-11-05T23:20:43.799797] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.799814] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.799688] [INFO] Configuration loaded
+[2025-11-05T23:20:43.799828] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.799753] [WARN] Disk space low
+[2025-11-05T23:20:43.799790] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.799748] [INFO] Service initialized
+[2025-11-05T23:20:43.799698] [INFO] Session started
+[2025-11-05T23:20:43.799758] [WARN] Queue size growing
+[2025-11-05T23:20:43.799720] [INFO] Request processed successfully
+[2025-11-05T23:20:43.799810] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.799702] [INFO] Database query executed
+[2025-11-05T23:20:43.799780] [ERROR] Memory allocation error
+[2025-11-05T23:20:43.799819] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.799770] [WARN] Connection retry attempt
+[2025-11-05T23:20:43.799824] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.799716] [INFO] Connection established
+[2025-11-05T23:20:43.799693] [INFO] Service initialized
+[2025-11-05T23:20:43.799734] [INFO] Session started
+[2025-11-05T23:20:43.799712] [INFO] Session started
+[2025-11-05T23:20:43.799729] [INFO] Transaction completed
+[2025-11-05T23:20:43.799765] [WARN] Deprecated API usage
+[2025-11-05T23:20:43.799806] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.799707] [INFO] Session started
+[2025-11-05T23:20:43.799785] [ERROR] File not found
+[2025-11-05T23:20:43.799725] [INFO] Health check passed
+[2025-11-05T23:20:43.799743] [INFO] User logged in
+[2025-11-05T23:20:43.799801] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.799660] [INFO] User logged in
+[2025-11-05T23:20:43.799737] [INFO] Database query executed
+[2025-11-05T23:20:43.799774] [WARN] Connection retry attempt

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:38.460424] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.460454] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.460419] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.460446] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.460348] [INFO] Request processed successfully
+[2025-11-05T23:20:38.460414] [ERROR] Permission denied
+[2025-11-05T23:20:38.460441] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.460450] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.460353] [INFO] Database query executed
+[2025-11-05T23:20:38.460381] [INFO] Session started
+[2025-11-05T23:20:38.460404] [WARN] Rate limit approaching
+[2025-11-05T23:20:38.460395] [WARN] Disk space low
+[2025-11-05T23:20:38.460408] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.460345] [INFO] Transaction completed
+[2025-11-05T23:20:38.460340] [INFO] Database query executed
+[2025-11-05T23:20:38.460335] [INFO] Connection established
+[2025-11-05T23:20:38.460433] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.460365] [INFO] Session started
+[2025-11-05T23:20:38.460399] [WARN] Rate limit approaching
+[2025-11-05T23:20:38.460437] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.460357] [INFO] Connection established
+[2025-11-05T23:20:38.460374] [INFO] Service initialized
+[2025-11-05T23:20:38.460429] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.460378] [INFO] Transaction completed
+[2025-11-05T23:20:38.460369] [INFO] Configuration loaded
+[2025-11-05T23:20:38.460310] [INFO] Service initialized
+[2025-11-05T23:20:38.460361] [INFO] Connection established
+[2025-11-05T23:20:38.460389] [INFO] User logged in
+[2025-11-05T23:20:38.460385] [INFO] User logged in

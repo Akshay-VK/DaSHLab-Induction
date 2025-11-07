@@ -1,0 +1,30 @@
+[2025-11-05T23:20:12.972686] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:12.972586] [INFO] Transaction completed
+[2025-11-05T23:20:12.972663] [ERROR] Request failed
+[2025-11-05T23:20:12.972658] [WARN] Cache miss
+[2025-11-05T23:20:12.972632] [INFO] Transaction completed
+[2025-11-05T23:20:12.972651] [WARN] High memory usage detected
+[2025-11-05T23:20:12.972620] [INFO] Service initialized
+[2025-11-05T23:20:12.972673] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.972599] [INFO] Configuration loaded
+[2025-11-05T23:20:12.972625] [INFO] Cache hit
+[2025-11-05T23:20:12.972616] [INFO] Cache hit
+[2025-11-05T23:20:12.972646] [WARN] Rate limit approaching
+[2025-11-05T23:20:12.972669] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:12.972595] [INFO] Request processed successfully
+[2025-11-05T23:20:12.972654] [WARN] Timeout warning
+[2025-11-05T23:20:12.972677] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.972701] [DEBUG] Cache key generated
+[2025-11-05T23:20:12.972553] [INFO] Configuration loaded
+[2025-11-05T23:20:12.972681] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:12.972641] [WARN] High memory usage detected
+[2025-11-05T23:20:12.972690] [DEBUG] Cache key generated
+[2025-11-05T23:20:12.972636] [INFO] Connection established
+[2025-11-05T23:20:12.972612] [INFO] Cache hit
+[2025-11-05T23:20:12.972591] [INFO] Health check passed
+[2025-11-05T23:20:12.972604] [INFO] User logged in
+[2025-11-05T23:20:12.972608] [INFO] User logged in
+[2025-11-05T23:20:12.972628] [INFO] Connection established
+[2025-11-05T23:20:12.972580] [INFO] Request processed successfully
+[2025-11-05T23:20:12.972694] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.972697] [DEBUG] Variable value: x=42

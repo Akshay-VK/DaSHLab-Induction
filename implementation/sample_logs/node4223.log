@@ -1,0 +1,30 @@
+[2025-11-05T23:20:30.541639] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.541582] [INFO] Session started
+[2025-11-05T23:20:30.541616] [WARN] Resource threshold approaching
+[2025-11-05T23:20:30.541627] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.541658] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.541563] [INFO] Transaction completed
+[2025-11-05T23:20:30.541675] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.541666] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.541648] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.541653] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.541548] [INFO] Health check passed
+[2025-11-05T23:20:30.541553] [INFO] Connection established
+[2025-11-05T23:20:30.541587] [INFO] Request processed successfully
+[2025-11-05T23:20:30.541662] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.541633] [ERROR] Database connection lost
+[2025-11-05T23:20:30.541600] [INFO] Configuration loaded
+[2025-11-05T23:20:30.541644] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.541543] [INFO] Cache hit
+[2025-11-05T23:20:30.541510] [INFO] Database query executed
+[2025-11-05T23:20:30.541537] [INFO] User logged in
+[2025-11-05T23:20:30.541573] [INFO] Request processed successfully
+[2025-11-05T23:20:30.541568] [INFO] Connection established
+[2025-11-05T23:20:30.541621] [WARN] High memory usage detected
+[2025-11-05T23:20:30.541591] [INFO] Request processed successfully
+[2025-11-05T23:20:30.541605] [WARN] Resource threshold approaching
+[2025-11-05T23:20:30.541578] [INFO] Session started
+[2025-11-05T23:20:30.541611] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.541671] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.541596] [INFO] Configuration loaded
+[2025-11-05T23:20:30.541559] [INFO] Configuration loaded

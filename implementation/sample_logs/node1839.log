@@ -1,0 +1,31 @@
+[2025-11-05T23:20:20.232781] [INFO] Database query executed
+[2025-11-05T23:20:20.232855] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.232885] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.232742] [INFO] Request processed successfully
+[2025-11-05T23:20:20.232871] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.232790] [INFO] Transaction completed
+[2025-11-05T23:20:20.232851] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.232757] [INFO] Database query executed
+[2025-11-05T23:20:20.232776] [INFO] Cache hit
+[2025-11-05T23:20:20.232830] [ERROR] Invalid input data
+[2025-11-05T23:20:20.232802] [INFO] Session started
+[2025-11-05T23:20:20.232835] [ERROR] Memory allocation error
+[2025-11-05T23:20:20.232860] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.232880] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.232798] [INFO] Session started
+[2025-11-05T23:20:20.232767] [INFO] Service initialized
+[2025-11-05T23:20:20.232866] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.232748] [INFO] Cache hit
+[2025-11-05T23:20:20.232794] [INFO] Request processed successfully
+[2025-11-05T23:20:20.232772] [INFO] Service initialized
+[2025-11-05T23:20:20.232846] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.232714] [INFO] Request processed successfully
+[2025-11-05T23:20:20.232840] [ERROR] Database connection lost
+[2025-11-05T23:20:20.232808] [WARN] Disk space low
+[2025-11-05T23:20:20.232876] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.232814] [WARN] Queue size growing
+[2025-11-05T23:20:20.232753] [INFO] Cache hit
+[2025-11-05T23:20:20.232824] [WARN] Disk space low
+[2025-11-05T23:20:20.232819] [WARN] Slow query performance
+[2025-11-05T23:20:20.232763] [INFO] Cache hit
+[2025-11-05T23:20:20.232785] [INFO] Transaction completed

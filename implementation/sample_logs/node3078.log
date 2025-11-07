@@ -1,0 +1,33 @@
+[2025-11-05T23:20:25.676387] [ERROR] Network timeout
+[2025-11-05T23:20:25.676416] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.676289] [INFO] Service initialized
+[2025-11-05T23:20:25.676408] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.676255] [INFO] Configuration loaded
+[2025-11-05T23:20:25.676371] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.676321] [INFO] Request processed successfully
+[2025-11-05T23:20:25.676399] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.676350] [INFO] User logged in
+[2025-11-05T23:20:25.676403] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.676325] [INFO] Transaction completed
+[2025-11-05T23:20:25.676346] [INFO] Health check passed
+[2025-11-05T23:20:25.676420] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.676376] [WARN] Rate limit approaching
+[2025-11-05T23:20:25.676303] [INFO] Cache hit
+[2025-11-05T23:20:25.676365] [WARN] Resource threshold approaching
+[2025-11-05T23:20:25.676425] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.676294] [INFO] Configuration loaded
+[2025-11-05T23:20:25.676359] [INFO] Service initialized
+[2025-11-05T23:20:25.676282] [INFO] Health check passed
+[2025-11-05T23:20:25.676334] [INFO] Transaction completed
+[2025-11-05T23:20:25.676316] [INFO] Service initialized
+[2025-11-05T23:20:25.676342] [INFO] Configuration loaded
+[2025-11-05T23:20:25.676382] [ERROR] Authentication failed
+[2025-11-05T23:20:25.676393] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.676307] [INFO] User logged in
+[2025-11-05T23:20:25.676412] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.676312] [INFO] Service initialized
+[2025-11-05T23:20:25.676338] [INFO] Transaction completed
+[2025-11-05T23:20:25.676355] [INFO] User logged in
+[2025-11-05T23:20:25.676298] [INFO] Cache hit
+[2025-11-05T23:20:25.676329] [INFO] Database query executed
+[2025-11-05T23:20:25.676430] [DEBUG] Variable value: x=42

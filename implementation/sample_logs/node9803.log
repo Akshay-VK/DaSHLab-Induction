@@ -1,0 +1,32 @@
+[2025-11-05T23:20:53.278118] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.278068] [WARN] Cache miss
+[2025-11-05T23:20:53.278104] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.278100] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.277983] [INFO] Connection established
+[2025-11-05T23:20:53.278084] [ERROR] Permission denied
+[2025-11-05T23:20:53.278016] [INFO] Session started
+[2025-11-05T23:20:53.278113] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.278002] [INFO] Cache hit
+[2025-11-05T23:20:53.278109] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.277988] [INFO] Transaction completed
+[2025-11-05T23:20:53.278073] [WARN] Slow query performance
+[2025-11-05T23:20:53.278038] [INFO] Session started
+[2025-11-05T23:20:53.278006] [INFO] Service initialized
+[2025-11-05T23:20:53.277950] [INFO] Transaction completed
+[2025-11-05T23:20:53.278064] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.278059] [WARN] Cache miss
+[2025-11-05T23:20:53.278096] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.278011] [INFO] User logged in
+[2025-11-05T23:20:53.278047] [INFO] Request processed successfully
+[2025-11-05T23:20:53.278122] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.277993] [INFO] Transaction completed
+[2025-11-05T23:20:53.278025] [INFO] Request processed successfully
+[2025-11-05T23:20:53.277977] [INFO] Cache hit
+[2025-11-05T23:20:53.277997] [INFO] Session started
+[2025-11-05T23:20:53.278043] [INFO] Connection established
+[2025-11-05T23:20:53.278079] [ERROR] Disk read failed
+[2025-11-05T23:20:53.278090] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.278034] [INFO] Service initialized
+[2025-11-05T23:20:53.278029] [INFO] Cache hit
+[2025-11-05T23:20:53.278053] [WARN] High memory usage detected
+[2025-11-05T23:20:53.278021] [INFO] Service initialized

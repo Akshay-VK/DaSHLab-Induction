@@ -1,0 +1,30 @@
+[2025-11-05T23:20:37.206881] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.206334] [INFO] Session started
+[2025-11-05T23:20:37.206349] [INFO] Database query executed
+[2025-11-05T23:20:37.206854] [WARN] Deprecated API usage
+[2025-11-05T23:20:37.206339] [INFO] Configuration loaded
+[2025-11-05T23:20:37.206345] [INFO] Health check passed
+[2025-11-05T23:20:37.206873] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.206323] [INFO] Session started
+[2025-11-05T23:20:37.206885] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.206888] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.206502] [INFO] Request processed successfully
+[2025-11-05T23:20:37.206822] [INFO] Health check passed
+[2025-11-05T23:20:37.206817] [INFO] Connection established
+[2025-11-05T23:20:37.206810] [INFO] Health check passed
+[2025-11-05T23:20:37.206892] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.206863] [ERROR] Memory allocation error
+[2025-11-05T23:20:37.206773] [INFO] Cache hit
+[2025-11-05T23:20:37.206844] [WARN] Timeout warning
+[2025-11-05T23:20:37.206297] [INFO] Database query executed
+[2025-11-05T23:20:37.206838] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.206877] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.206900] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.206511] [INFO] Request processed successfully
+[2025-11-05T23:20:37.206896] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.206858] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.206868] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.206849] [WARN] High memory usage detected
+[2025-11-05T23:20:37.206826] [INFO] User logged in
+[2025-11-05T23:20:37.206830] [INFO] Service initialized
+[2025-11-05T23:20:37.206329] [INFO] Database query executed

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:38.216637] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.216616] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.216546] [INFO] Session started
+[2025-11-05T23:20:38.216629] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.216505] [INFO] Connection established
+[2025-11-05T23:20:38.216524] [INFO] User logged in
+[2025-11-05T23:20:38.216510] [INFO] Connection established
+[2025-11-05T23:20:38.216633] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.216591] [WARN] Timeout warning
+[2025-11-05T23:20:38.216611] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.216520] [INFO] Health check passed
+[2025-11-05T23:20:38.216569] [INFO] User logged in
+[2025-11-05T23:20:38.216538] [INFO] Health check passed
+[2025-11-05T23:20:38.216625] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.216597] [ERROR] Database connection lost
+[2025-11-05T23:20:38.216559] [INFO] Request processed successfully
+[2025-11-05T23:20:38.216542] [INFO] Transaction completed
+[2025-11-05T23:20:38.216556] [INFO] Configuration loaded
+[2025-11-05T23:20:38.216529] [INFO] User logged in
+[2025-11-05T23:20:38.216534] [INFO] Cache hit
+[2025-11-05T23:20:38.216586] [WARN] Timeout warning
+[2025-11-05T23:20:38.216564] [INFO] Service initialized
+[2025-11-05T23:20:38.216581] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.216474] [INFO] User logged in
+[2025-11-05T23:20:38.216515] [INFO] Database query executed
+[2025-11-05T23:20:38.216601] [ERROR] File not found
+[2025-11-05T23:20:38.216621] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.216607] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.216551] [INFO] Service initialized
+[2025-11-05T23:20:38.216575] [INFO] Connection established
+[2025-11-05T23:20:38.216499] [INFO] Connection established

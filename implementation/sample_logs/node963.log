@@ -1,0 +1,29 @@
+[2025-11-05T23:20:16.548704] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.548676] [INFO] Transaction completed
+[2025-11-05T23:20:16.548656] [INFO] User logged in
+[2025-11-05T23:20:16.548718] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.548612] [INFO] Service initialized
+[2025-11-05T23:20:16.548700] [ERROR] Invalid input data
+[2025-11-05T23:20:16.548685] [WARN] Slow query performance
+[2025-11-05T23:20:16.548663] [INFO] User logged in
+[2025-11-05T23:20:16.548650] [INFO] Cache hit
+[2025-11-05T23:20:16.548678] [INFO] Request processed successfully
+[2025-11-05T23:20:16.548669] [INFO] Service initialized
+[2025-11-05T23:20:16.548660] [INFO] Database query executed
+[2025-11-05T23:20:16.548646] [INFO] Database query executed
+[2025-11-05T23:20:16.548724] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.548638] [INFO] User logged in
+[2025-11-05T23:20:16.548681] [INFO] User logged in
+[2025-11-05T23:20:16.548721] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.548653] [INFO] Connection established
+[2025-11-05T23:20:16.548726] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.548697] [ERROR] Service unavailable
+[2025-11-05T23:20:16.548715] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.548673] [INFO] Service initialized
+[2025-11-05T23:20:16.548711] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.548688] [WARN] Slow query performance
+[2025-11-05T23:20:16.548666] [INFO] Transaction completed
+[2025-11-05T23:20:16.548642] [INFO] Request processed successfully
+[2025-11-05T23:20:16.548708] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.548730] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.548692] [WARN] Rate limit approaching

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:30.663393] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.663424] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.663302] [INFO] Configuration loaded
+[2025-11-05T23:20:30.663414] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.663321] [INFO] Transaction completed
+[2025-11-05T23:20:30.663349] [WARN] High memory usage detected
+[2025-11-05T23:20:30.663379] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.663403] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.663307] [INFO] Configuration loaded
+[2025-11-05T23:20:30.663369] [ERROR] File not found
+[2025-11-05T23:20:30.663297] [INFO] Connection established
+[2025-11-05T23:20:30.663354] [WARN] Cache miss
+[2025-11-05T23:20:30.663311] [INFO] Transaction completed
+[2025-11-05T23:20:30.663333] [INFO] Request processed successfully
+[2025-11-05T23:20:30.663254] [INFO] Session started
+[2025-11-05T23:20:30.663364] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.663359] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.663329] [INFO] Connection established
+[2025-11-05T23:20:30.663338] [INFO] Configuration loaded
+[2025-11-05T23:20:30.663280] [INFO] Connection established
+[2025-11-05T23:20:30.663374] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.663407] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.663398] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.663384] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.663316] [INFO] User logged in
+[2025-11-05T23:20:30.663292] [INFO] Cache hit
+[2025-11-05T23:20:30.663325] [INFO] Cache hit
+[2025-11-05T23:20:30.663342] [INFO] Session started
+[2025-11-05T23:20:30.663411] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.663388] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.663419] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.663287] [INFO] Database query executed

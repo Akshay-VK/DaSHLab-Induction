@@ -1,0 +1,32 @@
+[2025-11-05T23:20:29.356486] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.356453] [ERROR] Memory allocation error
+[2025-11-05T23:20:29.356412] [INFO] Configuration loaded
+[2025-11-05T23:20:29.356394] [INFO] Service initialized
+[2025-11-05T23:20:29.356398] [INFO] Request processed successfully
+[2025-11-05T23:20:29.356431] [INFO] Connection established
+[2025-11-05T23:20:29.356471] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.356416] [INFO] Service initialized
+[2025-11-05T23:20:29.356440] [WARN] Resource threshold approaching
+[2025-11-05T23:20:29.356436] [WARN] Slow query performance
+[2025-11-05T23:20:29.356420] [INFO] Transaction completed
+[2025-11-05T23:20:29.356497] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.356444] [WARN] Queue size growing
+[2025-11-05T23:20:29.356500] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.356427] [INFO] Connection established
+[2025-11-05T23:20:29.356493] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.356382] [INFO] Request processed successfully
+[2025-11-05T23:20:29.356467] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.356448] [WARN] Queue size growing
+[2025-11-05T23:20:29.356409] [INFO] Health check passed
+[2025-11-05T23:20:29.356405] [INFO] Connection established
+[2025-11-05T23:20:29.356490] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.356462] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.356479] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.356475] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.356357] [INFO] Request processed successfully
+[2025-11-05T23:20:29.356482] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.356401] [INFO] User logged in
+[2025-11-05T23:20:29.356423] [INFO] Database query executed
+[2025-11-05T23:20:29.356391] [INFO] Configuration loaded
+[2025-11-05T23:20:29.356387] [INFO] Configuration loaded
+[2025-11-05T23:20:29.356457] [ERROR] Permission denied

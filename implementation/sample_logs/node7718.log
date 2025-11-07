@@ -1,0 +1,29 @@
+[2025-11-05T23:20:44.387180] [WARN] Slow query performance
+[2025-11-05T23:20:44.387343] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.387199] [ERROR] Disk read failed
+[2025-11-05T23:20:44.387211] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.387124] [INFO] Database query executed
+[2025-11-05T23:20:44.387137] [INFO] Cache hit
+[2025-11-05T23:20:44.386765] [INFO] Configuration loaded
+[2025-11-05T23:20:44.387217] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.386730] [INFO] Request processed successfully
+[2025-11-05T23:20:44.387161] [INFO] Health check passed
+[2025-11-05T23:20:44.387110] [INFO] Database query executed
+[2025-11-05T23:20:44.387195] [ERROR] Authentication failed
+[2025-11-05T23:20:44.387151] [INFO] Configuration loaded
+[2025-11-05T23:20:44.387129] [INFO] Health check passed
+[2025-11-05T23:20:44.387356] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.387185] [WARN] Connection retry attempt
+[2025-11-05T23:20:44.387352] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.387166] [INFO] Request processed successfully
+[2025-11-05T23:20:44.387174] [WARN] Timeout warning
+[2025-11-05T23:20:44.387189] [WARN] Queue size growing
+[2025-11-05T23:20:44.387133] [INFO] Request processed successfully
+[2025-11-05T23:20:44.387205] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.387348] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.386758] [INFO] Session started
+[2025-11-05T23:20:44.387156] [INFO] Connection established
+[2025-11-05T23:20:44.387336] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.387119] [INFO] Health check passed
+[2025-11-05T23:20:44.387142] [INFO] Service initialized
+[2025-11-05T23:20:44.387147] [INFO] Health check passed

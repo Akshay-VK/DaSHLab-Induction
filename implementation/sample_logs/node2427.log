@@ -1,0 +1,35 @@
+[2025-11-05T23:20:22.750271] [ERROR] Service unavailable
+[2025-11-05T23:20:22.750258] [WARN] Timeout warning
+[2025-11-05T23:20:22.750266] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.750220] [INFO] Service initialized
+[2025-11-05T23:20:22.750305] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.750184] [INFO] Transaction completed
+[2025-11-05T23:20:22.750262] [WARN] Rate limit approaching
+[2025-11-05T23:20:22.750224] [INFO] Health check passed
+[2025-11-05T23:20:22.750285] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.750231] [INFO] Transaction completed
+[2025-11-05T23:20:22.750321] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.750244] [WARN] High memory usage detected
+[2025-11-05T23:20:22.750211] [INFO] Cache hit
+[2025-11-05T23:20:22.750309] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.750228] [INFO] User logged in
+[2025-11-05T23:20:22.750216] [INFO] Request processed successfully
+[2025-11-05T23:20:22.750189] [INFO] User logged in
+[2025-11-05T23:20:22.750312] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.750235] [INFO] Database query executed
+[2025-11-05T23:20:22.750249] [WARN] Cache miss
+[2025-11-05T23:20:22.750194] [INFO] Transaction completed
+[2025-11-05T23:20:22.750317] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.750275] [ERROR] Invalid input data
+[2025-11-05T23:20:22.750280] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.750289] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.750254] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.750199] [INFO] Connection established
+[2025-11-05T23:20:22.750153] [INFO] Request processed successfully
+[2025-11-05T23:20:22.750301] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.750239] [INFO] Health check passed
+[2025-11-05T23:20:22.750293] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.750297] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.750203] [INFO] Connection established
+[2025-11-05T23:20:22.750207] [INFO] Connection established
+[2025-11-05T23:20:22.750179] [INFO] Connection established

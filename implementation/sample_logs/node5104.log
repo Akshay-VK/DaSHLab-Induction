@@ -1,0 +1,29 @@
+[2025-11-05T23:20:34.011400] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.011388] [ERROR] Network timeout
+[2025-11-05T23:20:34.011305] [INFO] User logged in
+[2025-11-05T23:20:34.011324] [INFO] User logged in
+[2025-11-05T23:20:34.011341] [INFO] User logged in
+[2025-11-05T23:20:34.011337] [INFO] Session started
+[2025-11-05T23:20:34.011359] [INFO] Request processed successfully
+[2025-11-05T23:20:34.011319] [INFO] Service initialized
+[2025-11-05T23:20:34.011421] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.011310] [INFO] Session started
+[2025-11-05T23:20:34.011371] [WARN] Cache miss
+[2025-11-05T23:20:34.011426] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.011430] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.011271] [INFO] Transaction completed
+[2025-11-05T23:20:34.011328] [INFO] Session started
+[2025-11-05T23:20:34.011382] [WARN] Timeout warning
+[2025-11-05T23:20:34.011417] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.011409] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.011315] [INFO] Database query executed
+[2025-11-05T23:20:34.011413] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.011350] [INFO] Database query executed
+[2025-11-05T23:20:34.011395] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.011365] [WARN] Timeout warning
+[2025-11-05T23:20:34.011405] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.011377] [WARN] Resource threshold approaching
+[2025-11-05T23:20:34.011346] [INFO] Connection established
+[2025-11-05T23:20:34.011354] [INFO] Session started
+[2025-11-05T23:20:34.011332] [INFO] Connection established
+[2025-11-05T23:20:34.011298] [INFO] Database query executed

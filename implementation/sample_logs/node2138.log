@@ -1,0 +1,28 @@
+[2025-11-05T23:20:21.536196] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.536143] [INFO] Database query executed
+[2025-11-05T23:20:21.536104] [INFO] Cache hit
+[2025-11-05T23:20:21.536120] [INFO] Database query executed
+[2025-11-05T23:20:21.536148] [INFO] Database query executed
+[2025-11-05T23:20:21.536213] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.536156] [INFO] Database query executed
+[2025-11-05T23:20:21.536077] [INFO] Cache hit
+[2025-11-05T23:20:21.536180] [WARN] High memory usage detected
+[2025-11-05T23:20:21.536166] [WARN] Cache miss
+[2025-11-05T23:20:21.536226] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.536110] [INFO] Cache hit
+[2025-11-05T23:20:21.536205] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.536191] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.536129] [INFO] Session started
+[2025-11-05T23:20:21.536186] [ERROR] Disk read failed
+[2025-11-05T23:20:21.536171] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.536138] [INFO] Cache hit
+[2025-11-05T23:20:21.536114] [INFO] Service initialized
+[2025-11-05T23:20:21.536217] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.536200] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.536222] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.536209] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.536160] [INFO] Request processed successfully
+[2025-11-05T23:20:21.536133] [INFO] Cache hit
+[2025-11-05T23:20:21.536124] [INFO] User logged in
+[2025-11-05T23:20:21.536176] [WARN] Slow query performance
+[2025-11-05T23:20:21.536152] [INFO] Configuration loaded

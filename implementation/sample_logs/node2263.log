@@ -1,0 +1,35 @@
+[2025-11-05T23:20:22.059281] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.059211] [INFO] Request processed successfully
+[2025-11-05T23:20:22.059173] [INFO] Service initialized
+[2025-11-05T23:20:22.059240] [WARN] Slow query performance
+[2025-11-05T23:20:22.059130] [INFO] Database query executed
+[2025-11-05T23:20:22.059308] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.059276] [ERROR] Network timeout
+[2025-11-05T23:20:22.059157] [INFO] Service initialized
+[2025-11-05T23:20:22.059312] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.059188] [INFO] Service initialized
+[2025-11-05T23:20:22.059249] [WARN] High memory usage detected
+[2025-11-05T23:20:22.059163] [INFO] Configuration loaded
+[2025-11-05T23:20:22.059270] [ERROR] Database connection lost
+[2025-11-05T23:20:22.059265] [ERROR] Invalid input data
+[2025-11-05T23:20:22.059193] [INFO] Service initialized
+[2025-11-05T23:20:22.059291] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.059183] [INFO] User logged in
+[2025-11-05T23:20:22.059300] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.059254] [WARN] High memory usage detected
+[2025-11-05T23:20:22.059198] [INFO] Transaction completed
+[2025-11-05T23:20:22.059202] [INFO] Session started
+[2025-11-05T23:20:22.059206] [INFO] Service initialized
+[2025-11-05T23:20:22.059259] [WARN] Queue size growing
+[2025-11-05T23:20:22.059245] [WARN] Timeout warning
+[2025-11-05T23:20:22.059228] [INFO] Database query executed
+[2025-11-05T23:20:22.059234] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.059296] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.059215] [INFO] Health check passed
+[2025-11-05T23:20:22.059317] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.059168] [INFO] Cache hit
+[2025-11-05T23:20:22.059304] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.059178] [INFO] Transaction completed
+[2025-11-05T23:20:22.059219] [INFO] Database query executed
+[2025-11-05T23:20:22.059224] [INFO] Cache hit
+[2025-11-05T23:20:22.059286] [DEBUG] Connection pool status checked

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:20.258169] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.258125] [WARN] Queue size growing
+[2025-11-05T23:20:20.258117] [WARN] Cache miss
+[2025-11-05T23:20:20.258144] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.258165] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.258188] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.258103] [INFO] Configuration loaded
+[2025-11-05T23:20:20.258099] [INFO] Health check passed
+[2025-11-05T23:20:20.258068] [INFO] Service initialized
+[2025-11-05T23:20:20.258185] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.258044] [INFO] Transaction completed
+[2025-11-05T23:20:20.258111] [INFO] Request processed successfully
+[2025-11-05T23:20:20.258078] [INFO] Session started
+[2025-11-05T23:20:20.258156] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.258073] [INFO] Configuration loaded
+[2025-11-05T23:20:20.258129] [WARN] High memory usage detected
+[2025-11-05T23:20:20.258160] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.258090] [INFO] Session started
+[2025-11-05T23:20:20.258181] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.258095] [INFO] Health check passed
+[2025-11-05T23:20:20.258134] [ERROR] Request failed
+[2025-11-05T23:20:20.258086] [INFO] Session started
+[2025-11-05T23:20:20.258121] [WARN] Deprecated API usage
+[2025-11-05T23:20:20.258152] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.258082] [INFO] Transaction completed
+[2025-11-05T23:20:20.258177] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.258107] [INFO] Transaction completed
+[2025-11-05T23:20:20.258148] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.258139] [ERROR] Memory allocation error
+[2025-11-05T23:20:20.258173] [DEBUG] Cache key generated

@@ -1,0 +1,35 @@
+[2025-11-05T23:20:53.875037] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.875052] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.874930] [INFO] Session started
+[2025-11-05T23:20:53.875073] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.875047] [ERROR] Disk read failed
+[2025-11-05T23:20:53.874954] [INFO] Configuration loaded
+[2025-11-05T23:20:53.874978] [INFO] Transaction completed
+[2025-11-05T23:20:53.875056] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.875043] [ERROR] File not found
+[2025-11-05T23:20:53.875094] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.875014] [INFO] Connection established
+[2025-11-05T23:20:53.874965] [INFO] Request processed successfully
+[2025-11-05T23:20:53.875011] [INFO] Database query executed
+[2025-11-05T23:20:53.874960] [INFO] Transaction completed
+[2025-11-05T23:20:53.875007] [INFO] Health check passed
+[2025-11-05T23:20:53.874974] [INFO] User logged in
+[2025-11-05T23:20:53.874982] [INFO] Database query executed
+[2025-11-05T23:20:53.874986] [INFO] User logged in
+[2025-11-05T23:20:53.875020] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.875069] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.875003] [INFO] Cache hit
+[2025-11-05T23:20:53.874994] [INFO] Cache hit
+[2025-11-05T23:20:53.875061] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.875033] [WARN] Cache miss
+[2025-11-05T23:20:53.874999] [INFO] Connection established
+[2025-11-05T23:20:53.875025] [WARN] Slow query performance
+[2025-11-05T23:20:53.875029] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.874970] [INFO] Database query executed
+[2025-11-05T23:20:53.875077] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.875097] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.875089] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.874991] [INFO] Connection established
+[2025-11-05T23:20:53.875085] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.875065] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.875081] [DEBUG] Variable value: x=42

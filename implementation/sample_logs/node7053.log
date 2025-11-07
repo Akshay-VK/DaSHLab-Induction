@@ -1,0 +1,27 @@
+[2025-11-05T23:20:41.764798] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.764732] [INFO] Health check passed
+[2025-11-05T23:20:41.764739] [INFO] Session started
+[2025-11-05T23:20:41.764743] [INFO] User logged in
+[2025-11-05T23:20:41.764746] [INFO] Session started
+[2025-11-05T23:20:41.764719] [INFO] Database query executed
+[2025-11-05T23:20:41.764782] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.764778] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.764795] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.764682] [INFO] Request processed successfully
+[2025-11-05T23:20:41.764716] [INFO] Database query executed
+[2025-11-05T23:20:41.764785] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.764765] [WARN] High memory usage detected
+[2025-11-05T23:20:41.764726] [INFO] Request processed successfully
+[2025-11-05T23:20:41.764789] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.764712] [INFO] Transaction completed
+[2025-11-05T23:20:41.764757] [WARN] Deprecated API usage
+[2025-11-05T23:20:41.764753] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.764729] [INFO] Database query executed
+[2025-11-05T23:20:41.764773] [ERROR] Disk read failed
+[2025-11-05T23:20:41.764792] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.764769] [ERROR] File not found
+[2025-11-05T23:20:41.764736] [INFO] Service initialized
+[2025-11-05T23:20:41.764707] [INFO] Connection established
+[2025-11-05T23:20:41.764749] [INFO] Request processed successfully
+[2025-11-05T23:20:41.764761] [WARN] Resource threshold approaching
+[2025-11-05T23:20:41.764723] [INFO] Transaction completed

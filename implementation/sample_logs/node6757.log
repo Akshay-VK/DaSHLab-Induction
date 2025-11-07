@@ -1,0 +1,34 @@
+[2025-11-05T23:20:40.598919] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.598807] [INFO] Transaction completed
+[2025-11-05T23:20:40.598939] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.598791] [INFO] Request processed successfully
+[2025-11-05T23:20:40.598742] [INFO] Cache hit
+[2025-11-05T23:20:40.598865] [ERROR] Network timeout
+[2025-11-05T23:20:40.598779] [INFO] Transaction completed
+[2025-11-05T23:20:40.598924] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.598871] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.598933] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.598856] [WARN] Resource threshold approaching
+[2025-11-05T23:20:40.598905] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.598766] [INFO] Connection established
+[2025-11-05T23:20:40.598900] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.598818] [INFO] Request processed successfully
+[2025-11-05T23:20:40.598784] [INFO] Transaction completed
+[2025-11-05T23:20:40.598860] [WARN] Connection retry attempt
+[2025-11-05T23:20:40.598813] [INFO] User logged in
+[2025-11-05T23:20:40.598888] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.598823] [INFO] Service initialized
+[2025-11-05T23:20:40.598801] [INFO] Session started
+[2025-11-05T23:20:40.598838] [INFO] Transaction completed
+[2025-11-05T23:20:40.598773] [INFO] Health check passed
+[2025-11-05T23:20:40.598850] [WARN] Resource threshold approaching
+[2025-11-05T23:20:40.598844] [WARN] Queue size growing
+[2025-11-05T23:20:40.598882] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.598929] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.598827] [INFO] Session started
+[2025-11-05T23:20:40.598877] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.598910] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.598893] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.598833] [INFO] Cache hit
+[2025-11-05T23:20:40.598796] [INFO] Service initialized
+[2025-11-05T23:20:40.598914] [DEBUG] Timer set: 30 seconds

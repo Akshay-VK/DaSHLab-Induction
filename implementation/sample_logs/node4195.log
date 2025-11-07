@@ -1,0 +1,27 @@
+[2025-11-05T23:20:30.447313] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.447190] [INFO] User logged in
+[2025-11-05T23:20:30.447248] [INFO] Database query executed
+[2025-11-05T23:20:30.447309] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.447271] [INFO] Request processed successfully
+[2025-11-05T23:20:30.447295] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.447329] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.447230] [INFO] User logged in
+[2025-11-05T23:20:30.447300] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.447244] [INFO] Health check passed
+[2025-11-05T23:20:30.447258] [INFO] Cache hit
+[2025-11-05T23:20:30.447321] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.447334] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.447225] [INFO] Database query executed
+[2025-11-05T23:20:30.447305] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.447216] [INFO] Configuration loaded
+[2025-11-05T23:20:30.447240] [INFO] Database query executed
+[2025-11-05T23:20:30.447325] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.447263] [INFO] Service initialized
+[2025-11-05T23:20:30.447290] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.447267] [INFO] Cache hit
+[2025-11-05T23:20:30.447253] [INFO] Transaction completed
+[2025-11-05T23:20:30.447317] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.447283] [WARN] Timeout warning
+[2025-11-05T23:20:30.447277] [WARN] Cache miss
+[2025-11-05T23:20:30.447221] [INFO] Service initialized
+[2025-11-05T23:20:30.447235] [INFO] Cache hit

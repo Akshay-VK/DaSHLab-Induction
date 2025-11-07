@@ -1,0 +1,38 @@
+[2025-11-05T23:20:33.601907] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.601811] [INFO] Transaction completed
+[2025-11-05T23:20:33.601847] [WARN] Rate limit approaching
+[2025-11-05T23:20:33.601826] [WARN] Rate limit approaching
+[2025-11-05T23:20:33.601860] [ERROR] Permission denied
+[2025-11-05T23:20:33.601822] [INFO] Service initialized
+[2025-11-05T23:20:33.601881] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.601889] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.601798] [INFO] Session started
+[2025-11-05T23:20:33.601885] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.601815] [INFO] Connection established
+[2025-11-05T23:20:33.601896] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.601840] [WARN] Resource threshold approaching
+[2025-11-05T23:20:33.601869] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.601831] [WARN] Cache miss
+[2025-11-05T23:20:33.601801] [INFO] Service initialized
+[2025-11-05T23:20:33.601785] [INFO] Request processed successfully
+[2025-11-05T23:20:33.601892] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.601865] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.601899] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.601789] [INFO] Transaction completed
+[2025-11-05T23:20:33.601918] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.601914] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.601808] [INFO] Service initialized
+[2025-11-05T23:20:33.601851] [WARN] Cache miss
+[2025-11-05T23:20:33.601750] [INFO] Request processed successfully
+[2025-11-05T23:20:33.601835] [WARN] Disk space low
+[2025-11-05T23:20:33.601819] [INFO] User logged in
+[2025-11-05T23:20:33.601903] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.601793] [INFO] Session started
+[2025-11-05T23:20:33.601843] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.601911] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.601877] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.601873] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.601856] [ERROR] Disk read failed
+[2025-11-05T23:20:33.601781] [INFO] Cache hit
+[2025-11-05T23:20:33.601776] [INFO] Connection established
+[2025-11-05T23:20:33.601804] [INFO] Cache hit

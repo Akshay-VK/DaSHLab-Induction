@@ -1,0 +1,31 @@
+[2025-11-05T23:20:16.366454] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.366397] [WARN] High memory usage detected
+[2025-11-05T23:20:16.366365] [INFO] User logged in
+[2025-11-05T23:20:16.366391] [WARN] Rate limit approaching
+[2025-11-05T23:20:16.366432] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.366373] [INFO] Health check passed
+[2025-11-05T23:20:16.366441] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.366329] [INFO] Cache hit
+[2025-11-05T23:20:16.366386] [INFO] Cache hit
+[2025-11-05T23:20:16.366303] [INFO] Connection established
+[2025-11-05T23:20:16.366407] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.366412] [ERROR] Memory allocation error
+[2025-11-05T23:20:16.366462] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.366339] [INFO] Health check passed
+[2025-11-05T23:20:16.366427] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.366437] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.366334] [INFO] Configuration loaded
+[2025-11-05T23:20:16.366344] [INFO] User logged in
+[2025-11-05T23:20:16.366446] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.366349] [INFO] Request processed successfully
+[2025-11-05T23:20:16.366421] [ERROR] Authentication failed
+[2025-11-05T23:20:16.366361] [INFO] Cache hit
+[2025-11-05T23:20:16.366402] [WARN] Queue size growing
+[2025-11-05T23:20:16.366353] [INFO] Transaction completed
+[2025-11-05T23:20:16.366369] [INFO] Cache hit
+[2025-11-05T23:20:16.366450] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.366382] [INFO] Configuration loaded
+[2025-11-05T23:20:16.366378] [INFO] Session started
+[2025-11-05T23:20:16.366458] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.366357] [INFO] Database query executed
+[2025-11-05T23:20:16.366417] [ERROR] File not found

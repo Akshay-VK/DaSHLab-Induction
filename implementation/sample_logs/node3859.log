@@ -1,0 +1,32 @@
+[2025-11-05T23:20:29.102586] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.102491] [INFO] Cache hit
+[2025-11-05T23:20:29.102567] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.102577] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.102413] [INFO] Health check passed
+[2025-11-05T23:20:29.102482] [INFO] Request processed successfully
+[2025-11-05T23:20:29.102547] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.102506] [WARN] Timeout warning
+[2025-11-05T23:20:29.102590] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.102459] [INFO] Configuration loaded
+[2025-11-05T23:20:29.102573] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.102486] [INFO] Request processed successfully
+[2025-11-05T23:20:29.102464] [INFO] User logged in
+[2025-11-05T23:20:29.102454] [INFO] Request processed successfully
+[2025-11-05T23:20:29.102562] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.102552] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.102532] [ERROR] Invalid input data
+[2025-11-05T23:20:29.102581] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.102543] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.102441] [INFO] Connection established
+[2025-11-05T23:20:29.102556] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.102495] [INFO] Cache hit
+[2025-11-05T23:20:29.102516] [WARN] Timeout warning
+[2025-11-05T23:20:29.102527] [ERROR] Memory allocation error
+[2025-11-05T23:20:29.102511] [WARN] Cache miss
+[2025-11-05T23:20:29.102468] [INFO] User logged in
+[2025-11-05T23:20:29.102477] [INFO] Session started
+[2025-11-05T23:20:29.102500] [INFO] Request processed successfully
+[2025-11-05T23:20:29.102538] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.102449] [INFO] Cache hit
+[2025-11-05T23:20:29.102521] [WARN] Deprecated API usage
+[2025-11-05T23:20:29.102472] [INFO] Database query executed

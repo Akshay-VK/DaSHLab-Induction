@@ -1,0 +1,31 @@
+[2025-11-05T23:20:18.742239] [DEBUG] Cache key generated
+[2025-11-05T23:20:18.742201] [INFO] User logged in
+[2025-11-05T23:20:18.742193] [INFO] Service initialized
+[2025-11-05T23:20:18.742257] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.742235] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.742180] [INFO] Transaction completed
+[2025-11-05T23:20:18.742264] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:18.742217] [WARN] Connection retry attempt
+[2025-11-05T23:20:18.742197] [INFO] Session started
+[2025-11-05T23:20:18.742132] [INFO] Connection established
+[2025-11-05T23:20:18.742169] [INFO] Database query executed
+[2025-11-05T23:20:18.742165] [INFO] User logged in
+[2025-11-05T23:20:18.742228] [ERROR] Invalid input data
+[2025-11-05T23:20:18.742260] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.742190] [INFO] Cache hit
+[2025-11-05T23:20:18.742224] [WARN] Queue size growing
+[2025-11-05T23:20:18.742176] [INFO] Cache hit
+[2025-11-05T23:20:18.742249] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.742243] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.742173] [INFO] Database query executed
+[2025-11-05T23:20:18.742210] [WARN] Deprecated API usage
+[2025-11-05T23:20:18.742253] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.742187] [INFO] Configuration loaded
+[2025-11-05T23:20:18.742161] [INFO] Cache hit
+[2025-11-05T23:20:18.742205] [WARN] Disk space low
+[2025-11-05T23:20:18.742183] [INFO] Database query executed
+[2025-11-05T23:20:18.742157] [INFO] Connection established
+[2025-11-05T23:20:18.742246] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.742220] [WARN] Slow query performance
+[2025-11-05T23:20:18.742231] [ERROR] Network timeout
+[2025-11-05T23:20:18.742213] [WARN] Timeout warning

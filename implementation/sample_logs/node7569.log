@@ -1,0 +1,29 @@
+[2025-11-05T23:20:43.857164] [ERROR] Database connection lost
+[2025-11-05T23:20:43.857114] [INFO] Request processed successfully
+[2025-11-05T23:20:43.857134] [INFO] Database query executed
+[2025-11-05T23:20:43.857076] [INFO] Transaction completed
+[2025-11-05T23:20:43.857091] [INFO] Health check passed
+[2025-11-05T23:20:43.857110] [INFO] Cache hit
+[2025-11-05T23:20:43.857169] [ERROR] Invalid input data
+[2025-11-05T23:20:43.857144] [WARN] Slow query performance
+[2025-11-05T23:20:43.857139] [WARN] High memory usage detected
+[2025-11-05T23:20:43.857149] [WARN] Cache miss
+[2025-11-05T23:20:43.857087] [INFO] Service initialized
+[2025-11-05T23:20:43.857118] [INFO] Database query executed
+[2025-11-05T23:20:43.857204] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.857159] [WARN] Slow query performance
+[2025-11-05T23:20:43.857195] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.857199] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.857096] [INFO] User logged in
+[2025-11-05T23:20:43.857100] [INFO] Cache hit
+[2025-11-05T23:20:43.857126] [INFO] Service initialized
+[2025-11-05T23:20:43.857130] [INFO] Database query executed
+[2025-11-05T23:20:43.857181] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.857105] [INFO] Database query executed
+[2025-11-05T23:20:43.857185] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.857082] [INFO] Transaction completed
+[2025-11-05T23:20:43.857191] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.857175] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.857122] [INFO] User logged in
+[2025-11-05T23:20:43.857049] [INFO] Health check passed
+[2025-11-05T23:20:43.857154] [WARN] Timeout warning

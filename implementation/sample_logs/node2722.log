@@ -1,0 +1,35 @@
+[2025-11-05T23:20:24.199341] [INFO] Request processed successfully
+[2025-11-05T23:20:24.199386] [WARN] Slow query performance
+[2025-11-05T23:20:24.199450] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.199320] [INFO] Cache hit
+[2025-11-05T23:20:24.199337] [INFO] Transaction completed
+[2025-11-05T23:20:24.199358] [INFO] Service initialized
+[2025-11-05T23:20:24.199382] [WARN] Deprecated API usage
+[2025-11-05T23:20:24.199362] [INFO] Database query executed
+[2025-11-05T23:20:24.199371] [INFO] Configuration loaded
+[2025-11-05T23:20:24.199353] [INFO] Service initialized
+[2025-11-05T23:20:24.199433] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.199377] [WARN] Cache miss
+[2025-11-05T23:20:24.199394] [WARN] Timeout warning
+[2025-11-05T23:20:24.199316] [INFO] Transaction completed
+[2025-11-05T23:20:24.199437] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.199349] [INFO] Health check passed
+[2025-11-05T23:20:24.199301] [INFO] Transaction completed
+[2025-11-05T23:20:24.199328] [INFO] Transaction completed
+[2025-11-05T23:20:24.199446] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.199399] [WARN] Cache miss
+[2025-11-05T23:20:24.199333] [INFO] Session started
+[2025-11-05T23:20:24.199324] [INFO] Service initialized
+[2025-11-05T23:20:24.199441] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.199415] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.199404] [ERROR] Permission denied
+[2025-11-05T23:20:24.199429] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.199274] [INFO] Database query executed
+[2025-11-05T23:20:24.199366] [INFO] Configuration loaded
+[2025-11-05T23:20:24.199311] [INFO] Cache hit
+[2025-11-05T23:20:24.199425] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.199306] [INFO] Session started
+[2025-11-05T23:20:24.199345] [INFO] Connection established
+[2025-11-05T23:20:24.199421] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.199411] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.199390] [WARN] Slow query performance

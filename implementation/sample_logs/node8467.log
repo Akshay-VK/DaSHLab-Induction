@@ -1,0 +1,30 @@
+[2025-11-05T23:20:47.517568] [INFO] Connection established
+[2025-11-05T23:20:47.517580] [WARN] Connection retry attempt
+[2025-11-05T23:20:47.517606] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.517538] [INFO] Connection established
+[2025-11-05T23:20:47.517587] [ERROR] Memory allocation error
+[2025-11-05T23:20:47.517500] [INFO] Request processed successfully
+[2025-11-05T23:20:47.517602] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.517524] [INFO] User logged in
+[2025-11-05T23:20:47.517573] [WARN] Timeout warning
+[2025-11-05T23:20:47.517619] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.517553] [INFO] Session started
+[2025-11-05T23:20:47.517541] [INFO] Connection established
+[2025-11-05T23:20:47.517615] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.517565] [INFO] User logged in
+[2025-11-05T23:20:47.517612] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.517535] [INFO] Service initialized
+[2025-11-05T23:20:47.517577] [WARN] Timeout warning
+[2025-11-05T23:20:47.517563] [INFO] Database query executed
+[2025-11-05T23:20:47.517550] [INFO] Connection established
+[2025-11-05T23:20:47.517560] [INFO] Service initialized
+[2025-11-05T23:20:47.517592] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.517528] [INFO] Request processed successfully
+[2025-11-05T23:20:47.517531] [INFO] Configuration loaded
+[2025-11-05T23:20:47.517557] [INFO] Session started
+[2025-11-05T23:20:47.517547] [INFO] Configuration loaded
+[2025-11-05T23:20:47.517583] [WARN] Cache miss
+[2025-11-05T23:20:47.517595] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.517544] [INFO] Connection established
+[2025-11-05T23:20:47.517599] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.517609] [DEBUG] Buffer size: 4096 bytes

@@ -1,0 +1,34 @@
+[2025-11-05T23:20:22.026323] [ERROR] Memory allocation error
+[2025-11-05T23:20:22.026371] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.026270] [INFO] User logged in
+[2025-11-05T23:20:22.026261] [INFO] Connection established
+[2025-11-05T23:20:22.026238] [INFO] Cache hit
+[2025-11-05T23:20:22.026354] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.026275] [INFO] Connection established
+[2025-11-05T23:20:22.026248] [INFO] Database query executed
+[2025-11-05T23:20:22.026342] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.026376] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.026328] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.026338] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.026346] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.026350] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.026299] [WARN] Slow query performance
+[2025-11-05T23:20:22.026284] [INFO] Service initialized
+[2025-11-05T23:20:22.026226] [INFO] User logged in
+[2025-11-05T23:20:22.026367] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.026266] [INFO] Request processed successfully
+[2025-11-05T23:20:22.026232] [INFO] Service initialized
+[2025-11-05T23:20:22.026203] [INFO] Transaction completed
+[2025-11-05T23:20:22.026309] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.026304] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.026280] [INFO] Transaction completed
+[2025-11-05T23:20:22.026253] [INFO] Transaction completed
+[2025-11-05T23:20:22.026243] [INFO] Cache hit
+[2025-11-05T23:20:22.026358] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.026257] [INFO] User logged in
+[2025-11-05T23:20:22.026313] [WARN] High memory usage detected
+[2025-11-05T23:20:22.026333] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.026362] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.026288] [INFO] Transaction completed
+[2025-11-05T23:20:22.026294] [WARN] Slow query performance
+[2025-11-05T23:20:22.026318] [ERROR] Authentication failed

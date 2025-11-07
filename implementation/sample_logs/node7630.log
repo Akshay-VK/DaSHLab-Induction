@@ -1,0 +1,29 @@
+[2025-11-05T23:20:44.038048] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.038011] [WARN] Cache miss
+[2025-11-05T23:20:44.037984] [INFO] Configuration loaded
+[2025-11-05T23:20:44.037949] [INFO] User logged in
+[2025-11-05T23:20:44.037959] [INFO] User logged in
+[2025-11-05T23:20:44.037954] [INFO] Configuration loaded
+[2025-11-05T23:20:44.038030] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.037972] [INFO] Request processed successfully
+[2025-11-05T23:20:44.038025] [ERROR] Memory allocation error
+[2025-11-05T23:20:44.038002] [WARN] Timeout warning
+[2025-11-05T23:20:44.037906] [INFO] Cache hit
+[2025-11-05T23:20:44.038007] [WARN] Cache miss
+[2025-11-05T23:20:44.037980] [INFO] Configuration loaded
+[2025-11-05T23:20:44.038044] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.037963] [INFO] Database query executed
+[2025-11-05T23:20:44.037998] [WARN] Cache miss
+[2025-11-05T23:20:44.038039] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.038053] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.037940] [INFO] Configuration loaded
+[2025-11-05T23:20:44.037945] [INFO] Request processed successfully
+[2025-11-05T23:20:44.037992] [INFO] Session started
+[2025-11-05T23:20:44.037976] [INFO] Request processed successfully
+[2025-11-05T23:20:44.037988] [INFO] Configuration loaded
+[2025-11-05T23:20:44.038035] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.037967] [INFO] Connection established
+[2025-11-05T23:20:44.038015] [WARN] Slow query performance
+[2025-11-05T23:20:44.037934] [INFO] Health check passed
+[2025-11-05T23:20:44.038057] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.038021] [ERROR] Database connection lost

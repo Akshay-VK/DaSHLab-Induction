@@ -1,0 +1,29 @@
+[2025-11-05T23:20:16.212893] [WARN] Queue size growing
+[2025-11-05T23:20:16.212826] [INFO] Request processed successfully
+[2025-11-05T23:20:16.212783] [INFO] Session started
+[2025-11-05T23:20:16.212831] [INFO] Connection established
+[2025-11-05T23:20:16.212942] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.212919] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.212869] [INFO] Cache hit
+[2025-11-05T23:20:16.212938] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.212899] [ERROR] Permission denied
+[2025-11-05T23:20:16.212836] [INFO] Cache hit
+[2025-11-05T23:20:16.212915] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.212904] [ERROR] Service unavailable
+[2025-11-05T23:20:16.212846] [INFO] Transaction completed
+[2025-11-05T23:20:16.212875] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.212884] [WARN] Slow query performance
+[2025-11-05T23:20:16.212928] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.212850] [INFO] Cache hit
+[2025-11-05T23:20:16.212813] [INFO] Connection established
+[2025-11-05T23:20:16.212820] [INFO] User logged in
+[2025-11-05T23:20:16.212924] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.212880] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.212888] [WARN] Rate limit approaching
+[2025-11-05T23:20:16.212947] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.212910] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.212855] [INFO] User logged in
+[2025-11-05T23:20:16.212860] [INFO] Database query executed
+[2025-11-05T23:20:16.212933] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.212841] [INFO] Database query executed
+[2025-11-05T23:20:16.212864] [INFO] Cache hit

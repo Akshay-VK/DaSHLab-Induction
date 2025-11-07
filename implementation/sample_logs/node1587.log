@@ -1,0 +1,32 @@
+[2025-11-05T23:20:19.294844] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.294793] [INFO] Request processed successfully
+[2025-11-05T23:20:19.294849] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.294808] [WARN] Queue size growing
+[2025-11-05T23:20:19.294763] [INFO] Configuration loaded
+[2025-11-05T23:20:19.294853] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.294817] [ERROR] Disk read failed
+[2025-11-05T23:20:19.294861] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.294789] [INFO] Request processed successfully
+[2025-11-05T23:20:19.294767] [INFO] Configuration loaded
+[2025-11-05T23:20:19.294754] [INFO] Health check passed
+[2025-11-05T23:20:19.294780] [INFO] Transaction completed
+[2025-11-05T23:20:19.294869] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.294785] [INFO] Health check passed
+[2025-11-05T23:20:19.294803] [WARN] Timeout warning
+[2025-11-05T23:20:19.294822] [ERROR] Memory allocation error
+[2025-11-05T23:20:19.294749] [INFO] Cache hit
+[2025-11-05T23:20:19.294832] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.294772] [INFO] User logged in
+[2025-11-05T23:20:19.294707] [INFO] Health check passed
+[2025-11-05T23:20:19.294776] [INFO] Session started
+[2025-11-05T23:20:19.294835] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.294827] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.294745] [INFO] Health check passed
+[2025-11-05T23:20:19.294865] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.294798] [WARN] Disk space low
+[2025-11-05T23:20:19.294758] [INFO] Configuration loaded
+[2025-11-05T23:20:19.294840] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.294734] [INFO] Connection established
+[2025-11-05T23:20:19.294812] [WARN] Timeout warning
+[2025-11-05T23:20:19.294857] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.294740] [INFO] Request processed successfully

@@ -1,0 +1,27 @@
+[2025-11-05T23:20:23.738562] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.739010] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.738572] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.738718] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.738500] [INFO] Service initialized
+[2025-11-05T23:20:23.738567] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.738966] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.738452] [INFO] Request processed successfully
+[2025-11-05T23:20:23.738551] [ERROR] Network timeout
+[2025-11-05T23:20:23.738479] [INFO] Transaction completed
+[2025-11-05T23:20:23.738504] [INFO] Configuration loaded
+[2025-11-05T23:20:23.738508] [INFO] Configuration loaded
+[2025-11-05T23:20:23.738943] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.738540] [WARN] Cache miss
+[2025-11-05T23:20:23.738557] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.738491] [INFO] Service initialized
+[2025-11-05T23:20:23.738495] [INFO] Health check passed
+[2025-11-05T23:20:23.738531] [INFO] Transaction completed
+[2025-11-05T23:20:23.738524] [INFO] Request processed successfully
+[2025-11-05T23:20:23.738516] [INFO] Configuration loaded
+[2025-11-05T23:20:23.739001] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.738546] [ERROR] Permission denied
+[2025-11-05T23:20:23.738528] [INFO] Service initialized
+[2025-11-05T23:20:23.738485] [INFO] Session started
+[2025-11-05T23:20:23.738512] [INFO] User logged in
+[2025-11-05T23:20:23.738535] [INFO] Cache hit
+[2025-11-05T23:20:23.738520] [INFO] Session started

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:14.182870] [ERROR] Permission denied
+[2025-11-05T23:20:14.182823] [INFO] Health check passed
+[2025-11-05T23:20:14.182866] [ERROR] Invalid input data
+[2025-11-05T23:20:14.182894] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.182820] [INFO] Service initialized
+[2025-11-05T23:20:14.182813] [INFO] Configuration loaded
+[2025-11-05T23:20:14.182884] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.182830] [INFO] Request processed successfully
+[2025-11-05T23:20:14.182809] [INFO] Session started
+[2025-11-05T23:20:14.182838] [INFO] Cache hit
+[2025-11-05T23:20:14.182888] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.182850] [INFO] Transaction completed
+[2025-11-05T23:20:14.182847] [INFO] Transaction completed
+[2025-11-05T23:20:14.182880] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.182862] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.182834] [INFO] Database query executed
+[2025-11-05T23:20:14.182817] [INFO] Database query executed
+[2025-11-05T23:20:14.182897] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.182891] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.182841] [INFO] User logged in
+[2025-11-05T23:20:14.182844] [INFO] Database query executed
+[2025-11-05T23:20:14.182874] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.182900] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.182827] [INFO] Cache hit
+[2025-11-05T23:20:14.182858] [WARN] Timeout warning
+[2025-11-05T23:20:14.182878] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.182854] [INFO] Database query executed
+[2025-11-05T23:20:14.182785] [INFO] Request processed successfully

@@ -1,0 +1,33 @@
+[2025-11-05T23:20:51.997843] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.997777] [INFO] Cache hit
+[2025-11-05T23:20:51.997839] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.997822] [WARN] Cache miss
+[2025-11-05T23:20:51.997801] [INFO] Session started
+[2025-11-05T23:20:51.997773] [INFO] Connection established
+[2025-11-05T23:20:51.997791] [INFO] Connection established
+[2025-11-05T23:20:51.997835] [ERROR] Permission denied
+[2025-11-05T23:20:51.997867] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.997798] [INFO] Transaction completed
+[2025-11-05T23:20:51.997781] [INFO] Session started
+[2025-11-05T23:20:51.997768] [INFO] User logged in
+[2025-11-05T23:20:51.997784] [INFO] Service initialized
+[2025-11-05T23:20:51.997858] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.997805] [INFO] Transaction completed
+[2025-11-05T23:20:51.997788] [INFO] Health check passed
+[2025-11-05T23:20:51.997832] [ERROR] Disk read failed
+[2025-11-05T23:20:51.997864] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.997827] [ERROR] Request failed
+[2025-11-05T23:20:51.997817] [INFO] Configuration loaded
+[2025-11-05T23:20:51.997876] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.997795] [INFO] Session started
+[2025-11-05T23:20:51.997849] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.997870] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.997879] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.997861] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.997846] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.997854] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.997744] [INFO] Transaction completed
+[2025-11-05T23:20:51.997873] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.997809] [INFO] Session started
+[2025-11-05T23:20:51.997814] [INFO] Service initialized
+[2025-11-05T23:20:51.997852] [DEBUG] Cache key generated

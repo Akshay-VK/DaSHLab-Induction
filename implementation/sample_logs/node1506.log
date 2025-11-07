@@ -1,0 +1,27 @@
+[2025-11-05T23:20:18.946807] [INFO] Session started
+[2025-11-05T23:20:18.946900] [WARN] Cache miss
+[2025-11-05T23:20:18.946864] [INFO] Configuration loaded
+[2025-11-05T23:20:18.946868] [INFO] Cache hit
+[2025-11-05T23:20:18.946956] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:18.946927] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.946874] [INFO] Session started
+[2025-11-05T23:20:18.946904] [WARN] Connection retry attempt
+[2025-11-05T23:20:18.946946] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.946891] [WARN] Connection retry attempt
+[2025-11-05T23:20:18.946942] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.946880] [WARN] Timeout warning
+[2025-11-05T23:20:18.946885] [WARN] Resource threshold approaching
+[2025-11-05T23:20:18.946932] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:18.946951] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.946922] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.946910] [ERROR] Request failed
+[2025-11-05T23:20:18.946895] [WARN] Cache miss
+[2025-11-05T23:20:18.946839] [INFO] Cache hit
+[2025-11-05T23:20:18.946937] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:18.946916] [ERROR] Authentication failed
+[2025-11-05T23:20:18.946833] [INFO] User logged in
+[2025-11-05T23:20:18.946859] [INFO] Cache hit
+[2025-11-05T23:20:18.946854] [INFO] Connection established
+[2025-11-05T23:20:18.946960] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.946850] [INFO] Database query executed
+[2025-11-05T23:20:18.946844] [INFO] Configuration loaded

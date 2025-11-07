@@ -1,0 +1,34 @@
+[2025-11-05T23:20:41.888359] [INFO] Health check passed
+[2025-11-05T23:20:41.888422] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.888618] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.888364] [INFO] User logged in
+[2025-11-05T23:20:41.888623] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.888385] [INFO] Configuration loaded
+[2025-11-05T23:20:41.888417] [WARN] Timeout warning
+[2025-11-05T23:20:41.888573] [ERROR] Invalid input data
+[2025-11-05T23:20:41.888355] [INFO] Connection established
+[2025-11-05T23:20:41.888350] [INFO] User logged in
+[2025-11-05T23:20:41.888341] [INFO] Session started
+[2025-11-05T23:20:41.888408] [WARN] Resource threshold approaching
+[2025-11-05T23:20:41.888610] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.888335] [INFO] Service initialized
+[2025-11-05T23:20:41.888591] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.888604] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.888614] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.888399] [WARN] Cache miss
+[2025-11-05T23:20:41.888627] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.888640] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.888377] [INFO] Cache hit
+[2025-11-05T23:20:41.888631] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.888368] [INFO] Service initialized
+[2025-11-05T23:20:41.888310] [INFO] User logged in
+[2025-11-05T23:20:41.888596] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.888413] [WARN] Disk space low
+[2025-11-05T23:20:41.888373] [INFO] User logged in
+[2025-11-05T23:20:41.888636] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.888403] [WARN] Deprecated API usage
+[2025-11-05T23:20:41.888393] [INFO] User logged in
+[2025-11-05T23:20:41.888346] [INFO] Session started
+[2025-11-05T23:20:41.888381] [INFO] Connection established
+[2025-11-05T23:20:41.888389] [INFO] User logged in
+[2025-11-05T23:20:41.888426] [WARN] Queue size growing

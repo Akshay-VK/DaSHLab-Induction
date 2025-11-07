@@ -1,0 +1,35 @@
+[2025-11-05T23:20:29.952188] [INFO] Session started
+[2025-11-05T23:20:29.952303] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.952255] [WARN] Disk space low
+[2025-11-05T23:20:29.952213] [INFO] Session started
+[2025-11-05T23:20:29.952184] [INFO] Transaction completed
+[2025-11-05T23:20:29.952201] [INFO] Connection established
+[2025-11-05T23:20:29.952133] [INFO] Configuration loaded
+[2025-11-05T23:20:29.952265] [ERROR] Request failed
+[2025-11-05T23:20:29.952159] [INFO] Connection established
+[2025-11-05T23:20:29.952294] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.952230] [INFO] User logged in
+[2025-11-05T23:20:29.952281] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.952308] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.952246] [WARN] High memory usage detected
+[2025-11-05T23:20:29.952225] [INFO] Transaction completed
+[2025-11-05T23:20:29.952175] [INFO] Session started
+[2025-11-05T23:20:29.952205] [INFO] Service initialized
+[2025-11-05T23:20:29.952290] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.952170] [INFO] Health check passed
+[2025-11-05T23:20:29.952260] [WARN] High memory usage detected
+[2025-11-05T23:20:29.952221] [INFO] Configuration loaded
+[2025-11-05T23:20:29.952217] [INFO] Health check passed
+[2025-11-05T23:20:29.952270] [ERROR] File not found
+[2025-11-05T23:20:29.952179] [INFO] Connection established
+[2025-11-05T23:20:29.952209] [INFO] Health check passed
+[2025-11-05T23:20:29.952165] [INFO] Configuration loaded
+[2025-11-05T23:20:29.952286] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.952275] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.952241] [WARN] Queue size growing
+[2025-11-05T23:20:29.952192] [INFO] Request processed successfully
+[2025-11-05T23:20:29.952313] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.952197] [INFO] User logged in
+[2025-11-05T23:20:29.952251] [WARN] Connection retry attempt
+[2025-11-05T23:20:29.952299] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.952235] [INFO] Cache hit

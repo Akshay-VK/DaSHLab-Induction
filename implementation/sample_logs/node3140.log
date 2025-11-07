@@ -1,0 +1,30 @@
+[2025-11-05T23:20:25.905979] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.905964] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.905947] [ERROR] Authentication failed
+[2025-11-05T23:20:25.905956] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.905882] [INFO] Database query executed
+[2025-11-05T23:20:25.905971] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.905933] [WARN] High memory usage detected
+[2025-11-05T23:20:25.905943] [ERROR] Database connection lost
+[2025-11-05T23:20:25.905975] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.905890] [INFO] Database query executed
+[2025-11-05T23:20:25.905863] [INFO] Configuration loaded
+[2025-11-05T23:20:25.905904] [INFO] Transaction completed
+[2025-11-05T23:20:25.905967] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.905960] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.905914] [INFO] Request processed successfully
+[2025-11-05T23:20:25.905830] [INFO] User logged in
+[2025-11-05T23:20:25.905929] [WARN] Timeout warning
+[2025-11-05T23:20:25.905857] [INFO] Service initialized
+[2025-11-05T23:20:25.905896] [INFO] Service initialized
+[2025-11-05T23:20:25.905900] [INFO] Database query executed
+[2025-11-05T23:20:25.905937] [WARN] Disk space low
+[2025-11-05T23:20:25.905886] [INFO] Connection established
+[2025-11-05T23:20:25.905868] [INFO] Service initialized
+[2025-11-05T23:20:25.905910] [INFO] Transaction completed
+[2025-11-05T23:20:25.905925] [WARN] Queue size growing
+[2025-11-05T23:20:25.905952] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.905920] [WARN] Queue size growing
+[2025-11-05T23:20:25.905878] [INFO] Database query executed
+[2025-11-05T23:20:25.905873] [INFO] Request processed successfully
+[2025-11-05T23:20:25.905982] [DEBUG] Cache key generated

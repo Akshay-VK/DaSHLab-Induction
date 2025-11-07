@@ -1,0 +1,29 @@
+[2025-11-05T23:20:22.878107] [INFO] Connection established
+[2025-11-05T23:20:22.878141] [INFO] Cache hit
+[2025-11-05T23:20:22.878166] [ERROR] Database connection lost
+[2025-11-05T23:20:22.878178] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.878116] [INFO] Connection established
+[2025-11-05T23:20:22.878187] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.878194] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.878138] [INFO] Request processed successfully
+[2025-11-05T23:20:22.878152] [WARN] Cache miss
+[2025-11-05T23:20:22.878126] [INFO] Configuration loaded
+[2025-11-05T23:20:22.878132] [INFO] Service initialized
+[2025-11-05T23:20:22.878184] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.878197] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.878170] [ERROR] Network timeout
+[2025-11-05T23:20:22.878200] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.878158] [WARN] Disk space low
+[2025-11-05T23:20:22.878083] [INFO] User logged in
+[2025-11-05T23:20:22.878155] [WARN] Timeout warning
+[2025-11-05T23:20:22.878123] [INFO] Session started
+[2025-11-05T23:20:22.878129] [INFO] Request processed successfully
+[2025-11-05T23:20:22.878119] [INFO] Session started
+[2025-11-05T23:20:22.878175] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.878112] [INFO] Service initialized
+[2025-11-05T23:20:22.878191] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.878135] [INFO] Request processed successfully
+[2025-11-05T23:20:22.878181] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.878162] [WARN] High memory usage detected
+[2025-11-05T23:20:22.878145] [INFO] Service initialized
+[2025-11-05T23:20:22.878148] [INFO] Request processed successfully

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:44.715167] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.715070] [INFO] Connection established
+[2025-11-05T23:20:44.715079] [INFO] Cache hit
+[2025-11-05T23:20:44.715159] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.715094] [INFO] User logged in
+[2025-11-05T23:20:44.715156] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.715163] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.715075] [INFO] Cache hit
+[2025-11-05T23:20:44.715041] [INFO] Service initialized
+[2025-11-05T23:20:44.715086] [INFO] Cache hit
+[2025-11-05T23:20:44.715082] [INFO] Database query executed
+[2025-11-05T23:20:44.715105] [INFO] User logged in
+[2025-11-05T23:20:44.715112] [INFO] Connection established
+[2025-11-05T23:20:44.715139] [ERROR] Permission denied
+[2025-11-05T23:20:44.715134] [WARN] Queue size growing
+[2025-11-05T23:20:44.715102] [INFO] Health check passed
+[2025-11-05T23:20:44.715152] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.715098] [INFO] Request processed successfully
+[2025-11-05T23:20:44.715148] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.715144] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.715066] [INFO] Configuration loaded
+[2025-11-05T23:20:44.715109] [INFO] Database query executed
+[2025-11-05T23:20:44.715116] [INFO] Request processed successfully
+[2025-11-05T23:20:44.715090] [INFO] Health check passed
+[2025-11-05T23:20:44.715126] [WARN] High memory usage detected
+[2025-11-05T23:20:44.715170] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.715130] [WARN] Disk space low
+[2025-11-05T23:20:44.715121] [WARN] Slow query performance

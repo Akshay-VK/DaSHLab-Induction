@@ -1,0 +1,31 @@
+[2025-11-05T23:20:40.561360] [WARN] Queue size growing
+[2025-11-05T23:20:40.561333] [INFO] Configuration loaded
+[2025-11-05T23:20:40.561313] [INFO] Configuration loaded
+[2025-11-05T23:20:40.561353] [WARN] Resource threshold approaching
+[2025-11-05T23:20:40.561409] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.561325] [INFO] Health check passed
+[2025-11-05T23:20:40.561365] [ERROR] Disk read failed
+[2025-11-05T23:20:40.561382] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.561304] [INFO] Service initialized
+[2025-11-05T23:20:40.561398] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.561329] [INFO] Cache hit
+[2025-11-05T23:20:40.561412] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.561390] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.561357] [WARN] High memory usage detected
+[2025-11-05T23:20:40.561386] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.561349] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.561375] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.561322] [INFO] Session started
+[2025-11-05T23:20:40.561370] [ERROR] Authentication failed
+[2025-11-05T23:20:40.561394] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.561337] [INFO] Transaction completed
+[2025-11-05T23:20:40.561379] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.561420] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.561402] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.561280] [INFO] Cache hit
+[2025-11-05T23:20:40.561340] [INFO] Service initialized
+[2025-11-05T23:20:40.561317] [INFO] Cache hit
+[2025-11-05T23:20:40.561309] [INFO] Transaction completed
+[2025-11-05T23:20:40.561344] [INFO] Cache hit
+[2025-11-05T23:20:40.561416] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.561405] [DEBUG] HTTP request headers parsed

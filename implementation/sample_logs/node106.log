@@ -1,0 +1,44 @@
+[2025-11-05T23:20:11.936855] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:11.936839] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.936878] [DEBUG] Cache key generated
+[2025-11-05T23:20:11.936580] [INFO] Request processed successfully
+[2025-11-05T23:20:11.936636] [INFO] Health check passed
+[2025-11-05T23:20:11.936844] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.936765] [WARN] Connection retry attempt
+[2025-11-05T23:20:11.936864] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:11.936882] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.936886] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.936872] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:11.936789] [WARN] Disk space low
+[2025-11-05T23:20:11.936606] [INFO] Request processed successfully
+[2025-11-05T23:20:11.936655] [INFO] Health check passed
+[2025-11-05T23:20:11.936549] [INFO] User logged in
+[2025-11-05T23:20:11.936816] [ERROR] Request failed
+[2025-11-05T23:20:11.936619] [INFO] Service initialized
+[2025-11-05T23:20:11.936802] [WARN] Resource threshold approaching
+[2025-11-05T23:20:11.936586] [INFO] Connection established
+[2025-11-05T23:20:11.936628] [INFO] Connection established
+[2025-11-05T23:20:11.936610] [INFO] Session started
+[2025-11-05T23:20:11.936644] [INFO] Connection established
+[2025-11-05T23:20:11.936831] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:11.936811] [WARN] High memory usage detected
+[2025-11-05T23:20:11.936848] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.936793] [WARN] Cache miss
+[2025-11-05T23:20:11.936784] [WARN] High memory usage detected
+[2025-11-05T23:20:11.936868] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.936779] [WARN] Rate limit approaching
+[2025-11-05T23:20:11.936591] [INFO] Cache hit
+[2025-11-05T23:20:11.936806] [WARN] Timeout warning
+[2025-11-05T23:20:11.936615] [INFO] Session started
+[2025-11-05T23:20:11.936596] [INFO] Request processed successfully
+[2025-11-05T23:20:11.936827] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.936624] [INFO] Service initialized
+[2025-11-05T23:20:11.936835] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.936860] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.936648] [INFO] Service initialized
+[2025-11-05T23:20:11.936852] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:11.936632] [INFO] Request processed successfully
+[2025-11-05T23:20:11.936640] [INFO] Cache hit
+[2025-11-05T23:20:11.936601] [INFO] Request processed successfully
+[2025-11-05T23:20:11.936821] [ERROR] Database connection lost
+[2025-11-05T23:20:11.936797] [WARN] Connection retry attempt

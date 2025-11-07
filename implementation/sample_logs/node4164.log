@@ -1,0 +1,30 @@
+[2025-11-05T23:20:30.362123] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.362073] [INFO] Database query executed
+[2025-11-05T23:20:30.362031] [INFO] Connection established
+[2025-11-05T23:20:30.362128] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.362087] [WARN] Slow query performance
+[2025-11-05T23:20:30.361994] [INFO] Transaction completed
+[2025-11-05T23:20:30.362048] [INFO] Connection established
+[2025-11-05T23:20:30.362100] [WARN] High memory usage detected
+[2025-11-05T23:20:30.362095] [WARN] Queue size growing
+[2025-11-05T23:20:30.362109] [ERROR] Authentication failed
+[2025-11-05T23:20:30.362026] [INFO] Cache hit
+[2025-11-05T23:20:30.362057] [INFO] User logged in
+[2025-11-05T23:20:30.362136] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.362021] [INFO] Cache hit
+[2025-11-05T23:20:30.362082] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.362144] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.362119] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.362132] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.362092] [WARN] Slow query performance
+[2025-11-05T23:20:30.362140] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.362066] [INFO] Session started
+[2025-11-05T23:20:30.362114] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.362040] [INFO] Health check passed
+[2025-11-05T23:20:30.362052] [INFO] Session started
+[2025-11-05T23:20:30.362105] [ERROR] Disk read failed
+[2025-11-05T23:20:30.362044] [INFO] Health check passed
+[2025-11-05T23:20:30.362061] [INFO] Transaction completed
+[2025-11-05T23:20:30.362035] [INFO] Transaction completed
+[2025-11-05T23:20:30.362069] [INFO] Cache hit
+[2025-11-05T23:20:30.362077] [INFO] Health check passed

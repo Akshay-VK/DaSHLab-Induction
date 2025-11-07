@@ -1,0 +1,30 @@
+[2025-11-05T23:20:31.548909] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.548827] [INFO] Health check passed
+[2025-11-05T23:20:31.548818] [INFO] Session started
+[2025-11-05T23:20:31.548858] [WARN] Disk space low
+[2025-11-05T23:20:31.548831] [INFO] Session started
+[2025-11-05T23:20:31.548874] [ERROR] Disk read failed
+[2025-11-05T23:20:31.548813] [INFO] Transaction completed
+[2025-11-05T23:20:31.548852] [WARN] Cache miss
+[2025-11-05T23:20:31.548785] [INFO] Database query executed
+[2025-11-05T23:20:31.548868] [WARN] Queue size growing
+[2025-11-05T23:20:31.548918] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.548895] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.548795] [INFO] Request processed successfully
+[2025-11-05T23:20:31.548809] [INFO] Session started
+[2025-11-05T23:20:31.548890] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.548790] [INFO] Database query executed
+[2025-11-05T23:20:31.548800] [INFO] User logged in
+[2025-11-05T23:20:31.548804] [INFO] Connection established
+[2025-11-05T23:20:31.548923] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.548914] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.548899] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.548885] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.548847] [INFO] Connection established
+[2025-11-05T23:20:31.548904] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.548864] [WARN] High memory usage detected
+[2025-11-05T23:20:31.548758] [INFO] Database query executed
+[2025-11-05T23:20:31.548823] [INFO] Health check passed
+[2025-11-05T23:20:31.548840] [INFO] Cache hit
+[2025-11-05T23:20:31.548836] [INFO] Cache hit
+[2025-11-05T23:20:31.548879] [ERROR] Authentication failed

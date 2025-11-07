@@ -1,0 +1,27 @@
+[2025-11-05T23:20:45.758510] [INFO] Transaction completed
+[2025-11-05T23:20:45.758602] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.758551] [INFO] Connection established
+[2025-11-05T23:20:45.758614] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.758527] [INFO] Health check passed
+[2025-11-05T23:20:45.758523] [INFO] Service initialized
+[2025-11-05T23:20:45.758610] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.758518] [INFO] Database query executed
+[2025-11-05T23:20:45.758618] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.758531] [INFO] Database query executed
+[2025-11-05T23:20:45.758573] [ERROR] Request failed
+[2025-11-05T23:20:45.758514] [INFO] Service initialized
+[2025-11-05T23:20:45.758594] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.758598] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.758535] [INFO] Service initialized
+[2025-11-05T23:20:45.758561] [WARN] High memory usage detected
+[2025-11-05T23:20:45.758504] [INFO] Session started
+[2025-11-05T23:20:45.758566] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.758556] [INFO] Request processed successfully
+[2025-11-05T23:20:45.758606] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.758578] [ERROR] Disk read failed
+[2025-11-05T23:20:45.758539] [INFO] Connection established
+[2025-11-05T23:20:45.758589] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.758547] [INFO] Request processed successfully
+[2025-11-05T23:20:45.758584] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.758477] [INFO] Transaction completed
+[2025-11-05T23:20:45.758543] [INFO] Transaction completed

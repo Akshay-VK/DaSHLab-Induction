@@ -1,0 +1,30 @@
+[2025-11-05T23:20:20.622564] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.622494] [INFO] Service initialized
+[2025-11-05T23:20:20.622543] [WARN] Cache miss
+[2025-11-05T23:20:20.622525] [WARN] Deprecated API usage
+[2025-11-05T23:20:20.622503] [INFO] Transaction completed
+[2025-11-05T23:20:20.622519] [INFO] Cache hit
+[2025-11-05T23:20:20.622548] [WARN] Disk space low
+[2025-11-05T23:20:20.622648] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.622476] [INFO] Database query executed
+[2025-11-05T23:20:20.622534] [WARN] Connection retry attempt
+[2025-11-05T23:20:20.622508] [INFO] Session started
+[2025-11-05T23:20:20.622583] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.622578] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.622639] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.622485] [INFO] Session started
+[2025-11-05T23:20:20.622469] [INFO] Session started
+[2025-11-05T23:20:20.622553] [ERROR] Invalid input data
+[2025-11-05T23:20:20.622539] [WARN] Connection retry attempt
+[2025-11-05T23:20:20.622559] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.622530] [WARN] Disk space low
+[2025-11-05T23:20:20.622441] [INFO] Health check passed
+[2025-11-05T23:20:20.622644] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.622499] [INFO] Request processed successfully
+[2025-11-05T23:20:20.622490] [INFO] Request processed successfully
+[2025-11-05T23:20:20.622512] [INFO] Database query executed
+[2025-11-05T23:20:20.622481] [INFO] Health check passed
+[2025-11-05T23:20:20.622587] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.622568] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.622515] [INFO] Configuration loaded
+[2025-11-05T23:20:20.622573] [DEBUG] Entering function process_data()

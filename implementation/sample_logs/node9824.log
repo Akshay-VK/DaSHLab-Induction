@@ -1,0 +1,34 @@
+[2025-11-05T23:20:53.336104] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.336099] [WARN] Slow query performance
+[2025-11-05T23:20:53.336130] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.336108] [WARN] Cache miss
+[2025-11-05T23:20:53.336084] [INFO] Health check passed
+[2025-11-05T23:20:53.336153] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.336045] [INFO] Configuration loaded
+[2025-11-05T23:20:53.336162] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.336149] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.336041] [INFO] Configuration loaded
+[2025-11-05T23:20:53.336124] [ERROR] File not found
+[2025-11-05T23:20:53.336003] [INFO] Cache hit
+[2025-11-05T23:20:53.336089] [INFO] Cache hit
+[2025-11-05T23:20:53.336051] [INFO] Transaction completed
+[2025-11-05T23:20:53.336136] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.336064] [INFO] Configuration loaded
+[2025-11-05T23:20:53.336030] [INFO] Database query executed
+[2025-11-05T23:20:53.336174] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.336170] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.336179] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.336157] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.336059] [INFO] Service initialized
+[2025-11-05T23:20:53.336166] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.336144] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.336095] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.336068] [INFO] Connection established
+[2025-11-05T23:20:53.336080] [INFO] Transaction completed
+[2025-11-05T23:20:53.336118] [ERROR] Authentication failed
+[2025-11-05T23:20:53.336112] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.336036] [INFO] Health check passed
+[2025-11-05T23:20:53.336140] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.336072] [INFO] Transaction completed
+[2025-11-05T23:20:53.336076] [INFO] Service initialized
+[2025-11-05T23:20:53.336055] [INFO] Connection established

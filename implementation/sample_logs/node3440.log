@@ -1,0 +1,33 @@
+[2025-11-05T23:20:27.234651] [INFO] Cache hit
+[2025-11-05T23:20:27.234703] [ERROR] Authentication failed
+[2025-11-05T23:20:27.234693] [WARN] Slow query performance
+[2025-11-05T23:20:27.234713] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.234582] [INFO] Service initialized
+[2025-11-05T23:20:27.234735] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.234624] [INFO] Transaction completed
+[2025-11-05T23:20:27.234730] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:27.234656] [INFO] Database query executed
+[2025-11-05T23:20:27.234659] [INFO] Connection established
+[2025-11-05T23:20:27.234684] [WARN] Queue size growing
+[2025-11-05T23:20:27.234668] [INFO] Request processed successfully
+[2025-11-05T23:20:27.234608] [INFO] Session started
+[2025-11-05T23:20:27.234698] [ERROR] Permission denied
+[2025-11-05T23:20:27.234722] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.234726] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.234674] [WARN] Deprecated API usage
+[2025-11-05T23:20:27.234747] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.234643] [INFO] Cache hit
+[2025-11-05T23:20:27.234647] [INFO] Service initialized
+[2025-11-05T23:20:27.234679] [WARN] High memory usage detected
+[2025-11-05T23:20:27.234630] [INFO] Transaction completed
+[2025-11-05T23:20:27.234751] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.234717] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.234614] [INFO] Health check passed
+[2025-11-05T23:20:27.234619] [INFO] Connection established
+[2025-11-05T23:20:27.234708] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.234635] [INFO] Session started
+[2025-11-05T23:20:27.234689] [WARN] Queue size growing
+[2025-11-05T23:20:27.234743] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.234664] [INFO] Connection established
+[2025-11-05T23:20:27.234639] [INFO] Health check passed
+[2025-11-05T23:20:27.234739] [DEBUG] Thread pool size: 8

@@ -1,0 +1,34 @@
+[2025-11-05T23:20:28.598478] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.598429] [ERROR] Disk read failed
+[2025-11-05T23:20:28.598483] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.598469] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.598395] [INFO] Transaction completed
+[2025-11-05T23:20:28.598342] [INFO] Cache hit
+[2025-11-05T23:20:28.598352] [INFO] Cache hit
+[2025-11-05T23:20:28.598414] [WARN] High memory usage detected
+[2025-11-05T23:20:28.598418] [WARN] High memory usage detected
+[2025-11-05T23:20:28.598424] [ERROR] File not found
+[2025-11-05T23:20:28.598365] [INFO] User logged in
+[2025-11-05T23:20:28.598445] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.598386] [INFO] Connection established
+[2025-11-05T23:20:28.598390] [INFO] Transaction completed
+[2025-11-05T23:20:28.598378] [INFO] Request processed successfully
+[2025-11-05T23:20:28.598306] [INFO] Cache hit
+[2025-11-05T23:20:28.598439] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.598347] [INFO] Connection established
+[2025-11-05T23:20:28.598454] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.598331] [INFO] Cache hit
+[2025-11-05T23:20:28.598404] [WARN] Disk space low
+[2025-11-05T23:20:28.598337] [INFO] Session started
+[2025-11-05T23:20:28.598356] [INFO] Session started
+[2025-11-05T23:20:28.598473] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.598373] [INFO] Health check passed
+[2025-11-05T23:20:28.598398] [INFO] Database query executed
+[2025-11-05T23:20:28.598361] [INFO] User logged in
+[2025-11-05T23:20:28.598370] [INFO] Session started
+[2025-11-05T23:20:28.598409] [WARN] Connection retry attempt
+[2025-11-05T23:20:28.598459] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.598381] [INFO] Cache hit
+[2025-11-05T23:20:28.598434] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.598463] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.598450] [DEBUG] Variable value: x=42

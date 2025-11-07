@@ -1,0 +1,33 @@
+[2025-11-05T23:20:33.443181] [INFO] Configuration loaded
+[2025-11-05T23:20:33.443162] [INFO] User logged in
+[2025-11-05T23:20:33.443275] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.443288] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.443293] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.443185] [INFO] Connection established
+[2025-11-05T23:20:33.443195] [INFO] Transaction completed
+[2025-11-05T23:20:33.443260] [WARN] Timeout warning
+[2025-11-05T23:20:33.443297] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.443301] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.443238] [WARN] Deprecated API usage
+[2025-11-05T23:20:33.443205] [INFO] Session started
+[2025-11-05T23:20:33.443200] [INFO] Cache hit
+[2025-11-05T23:20:33.443210] [INFO] Database query executed
+[2025-11-05T23:20:33.443280] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.443232] [WARN] Slow query performance
+[2025-11-05T23:20:33.443311] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.443284] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.443130] [INFO] Configuration loaded
+[2025-11-05T23:20:33.443225] [INFO] Transaction completed
+[2025-11-05T23:20:33.443270] [ERROR] Memory allocation error
+[2025-11-05T23:20:33.443171] [INFO] Service initialized
+[2025-11-05T23:20:33.443220] [INFO] Request processed successfully
+[2025-11-05T23:20:33.443244] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.443249] [WARN] High memory usage detected
+[2025-11-05T23:20:33.443254] [WARN] Timeout warning
+[2025-11-05T23:20:33.443306] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.443216] [INFO] User logged in
+[2025-11-05T23:20:33.443265] [ERROR] Permission denied
+[2025-11-05T23:20:33.443167] [INFO] Connection established
+[2025-11-05T23:20:33.443189] [INFO] Session started
+[2025-11-05T23:20:33.443176] [INFO] Transaction completed
+[2025-11-05T23:20:33.443156] [INFO] Cache hit

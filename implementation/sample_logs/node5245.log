@@ -1,0 +1,33 @@
+[2025-11-05T23:20:34.541706] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.541654] [INFO] User logged in
+[2025-11-05T23:20:34.541616] [INFO] Session started
+[2025-11-05T23:20:34.541645] [INFO] Service initialized
+[2025-11-05T23:20:34.541625] [INFO] Cache hit
+[2025-11-05T23:20:34.541608] [INFO] Configuration loaded
+[2025-11-05T23:20:34.541629] [INFO] Session started
+[2025-11-05T23:20:34.541599] [INFO] User logged in
+[2025-11-05T23:20:34.541658] [INFO] Session started
+[2025-11-05T23:20:34.541613] [INFO] Transaction completed
+[2025-11-05T23:20:34.541633] [INFO] Connection established
+[2025-11-05T23:20:34.541668] [WARN] Resource threshold approaching
+[2025-11-05T23:20:34.541699] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.541685] [ERROR] Memory allocation error
+[2025-11-05T23:20:34.541672] [WARN] High memory usage detected
+[2025-11-05T23:20:34.541621] [INFO] User logged in
+[2025-11-05T23:20:34.541676] [WARN] Disk space low
+[2025-11-05T23:20:34.541723] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.541727] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.541714] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.541695] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.541663] [WARN] Rate limit approaching
+[2025-11-05T23:20:34.541703] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.541637] [INFO] Session started
+[2025-11-05T23:20:34.541641] [INFO] Database query executed
+[2025-11-05T23:20:34.541710] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.541680] [WARN] Timeout warning
+[2025-11-05T23:20:34.541731] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.541604] [INFO] User logged in
+[2025-11-05T23:20:34.541650] [INFO] Configuration loaded
+[2025-11-05T23:20:34.541573] [INFO] User logged in
+[2025-11-05T23:20:34.541719] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.541690] [ERROR] Invalid input data

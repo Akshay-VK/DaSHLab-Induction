@@ -1,0 +1,31 @@
+[2025-11-05T23:20:39.502813] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.502735] [INFO] Configuration loaded
+[2025-11-05T23:20:39.502779] [WARN] Queue size growing
+[2025-11-05T23:20:39.502834] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.502838] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.502763] [INFO] Session started
+[2025-11-05T23:20:39.502724] [INFO] Health check passed
+[2025-11-05T23:20:39.502754] [INFO] Database query executed
+[2025-11-05T23:20:39.502818] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.502830] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.502842] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.502822] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.502712] [INFO] Connection established
+[2025-11-05T23:20:39.502674] [INFO] Configuration loaded
+[2025-11-05T23:20:39.502768] [INFO] Transaction completed
+[2025-11-05T23:20:39.502707] [INFO] Transaction completed
+[2025-11-05T23:20:39.502758] [INFO] Health check passed
+[2025-11-05T23:20:39.502847] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.502718] [INFO] Service initialized
+[2025-11-05T23:20:39.502700] [INFO] Connection established
+[2025-11-05T23:20:39.502744] [INFO] Health check passed
+[2025-11-05T23:20:39.502750] [INFO] Service initialized
+[2025-11-05T23:20:39.502826] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.502794] [WARN] Slow query performance
+[2025-11-05T23:20:39.502803] [WARN] Resource threshold approaching
+[2025-11-05T23:20:39.502773] [INFO] Configuration loaded
+[2025-11-05T23:20:39.502789] [WARN] Resource threshold approaching
+[2025-11-05T23:20:39.502798] [WARN] High memory usage detected
+[2025-11-05T23:20:39.502730] [INFO] Cache hit
+[2025-11-05T23:20:39.502784] [WARN] Rate limit approaching
+[2025-11-05T23:20:39.502808] [ERROR] Invalid input data

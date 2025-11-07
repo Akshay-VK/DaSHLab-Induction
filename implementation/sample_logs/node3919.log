@@ -1,0 +1,32 @@
+[2025-11-05T23:20:29.414780] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.414777] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.414700] [WARN] Queue size growing
+[2025-11-05T23:20:29.414610] [INFO] Request processed successfully
+[2025-11-05T23:20:29.414660] [INFO] Database query executed
+[2025-11-05T23:20:29.414651] [INFO] Database query executed
+[2025-11-05T23:20:29.414749] [ERROR] Memory allocation error
+[2025-11-05T23:20:29.414763] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.414664] [INFO] Transaction completed
+[2025-11-05T23:20:29.414783] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.414641] [INFO] Connection established
+[2025-11-05T23:20:29.414683] [INFO] Health check passed
+[2025-11-05T23:20:29.414711] [WARN] Slow query performance
+[2025-11-05T23:20:29.414687] [INFO] Configuration loaded
+[2025-11-05T23:20:29.414675] [INFO] Connection established
+[2025-11-05T23:20:29.414706] [WARN] Slow query performance
+[2025-11-05T23:20:29.414739] [WARN] Resource threshold approaching
+[2025-11-05T23:20:29.414768] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.414668] [INFO] Transaction completed
+[2025-11-05T23:20:29.414672] [INFO] User logged in
+[2025-11-05T23:20:29.414791] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.414635] [INFO] Connection established
+[2025-11-05T23:20:29.414795] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.414787] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.414679] [INFO] Configuration loaded
+[2025-11-05T23:20:29.414773] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.414691] [INFO] Configuration loaded
+[2025-11-05T23:20:29.414754] [ERROR] Database connection lost
+[2025-11-05T23:20:29.414646] [INFO] Database query executed
+[2025-11-05T23:20:29.414655] [INFO] Request processed successfully
+[2025-11-05T23:20:29.414758] [ERROR] Permission denied
+[2025-11-05T23:20:29.414695] [INFO] Health check passed

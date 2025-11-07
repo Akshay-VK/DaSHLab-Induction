@@ -1,0 +1,30 @@
+[2025-11-05T23:20:30.577844] [INFO] Service initialized
+[2025-11-05T23:20:30.577835] [INFO] Service initialized
+[2025-11-05T23:20:30.577908] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.577830] [INFO] Request processed successfully
+[2025-11-05T23:20:30.577853] [INFO] Health check passed
+[2025-11-05T23:20:30.577918] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.577815] [INFO] Configuration loaded
+[2025-11-05T23:20:30.577935] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.577913] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.577848] [INFO] Transaction completed
+[2025-11-05T23:20:30.577861] [INFO] Session started
+[2025-11-05T23:20:30.577922] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.577894] [ERROR] Authentication failed
+[2025-11-05T23:20:30.577864] [INFO] Connection established
+[2025-11-05T23:20:30.577839] [INFO] Session started
+[2025-11-05T23:20:30.577874] [WARN] Timeout warning
+[2025-11-05T23:20:30.577931] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.577881] [ERROR] Authentication failed
+[2025-11-05T23:20:30.577809] [INFO] Configuration loaded
+[2025-11-05T23:20:30.577776] [INFO] Health check passed
+[2025-11-05T23:20:30.577889] [ERROR] Request failed
+[2025-11-05T23:20:30.577868] [INFO] Configuration loaded
+[2025-11-05T23:20:30.577927] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.577819] [INFO] Database query executed
+[2025-11-05T23:20:30.577857] [INFO] Session started
+[2025-11-05T23:20:30.577899] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.577826] [INFO] Cache hit
+[2025-11-05T23:20:30.577885] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.577802] [INFO] Cache hit
+[2025-11-05T23:20:30.577904] [DEBUG] Timer set: 30 seconds

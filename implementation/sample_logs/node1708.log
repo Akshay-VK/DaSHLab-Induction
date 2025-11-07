@@ -1,0 +1,27 @@
+[2025-11-05T23:20:19.786664] [INFO] Request processed successfully
+[2025-11-05T23:20:19.786684] [INFO] Connection established
+[2025-11-05T23:20:19.786678] [INFO] Health check passed
+[2025-11-05T23:20:19.786723] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.786821] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.786817] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.786670] [INFO] Configuration loaded
+[2025-11-05T23:20:19.786660] [INFO] Connection established
+[2025-11-05T23:20:19.786701] [WARN] Cache miss
+[2025-11-05T23:20:19.786644] [INFO] Transaction completed
+[2025-11-05T23:20:19.786674] [INFO] Transaction completed
+[2025-11-05T23:20:19.786656] [INFO] Transaction completed
+[2025-11-05T23:20:19.786824] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.786715] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.786691] [INFO] Transaction completed
+[2025-11-05T23:20:19.786681] [INFO] Cache hit
+[2025-11-05T23:20:19.786697] [WARN] Slow query performance
+[2025-11-05T23:20:19.786612] [INFO] Health check passed
+[2025-11-05T23:20:19.786829] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.786832] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.786667] [INFO] Service initialized
+[2025-11-05T23:20:19.786652] [INFO] Database query executed
+[2025-11-05T23:20:19.786688] [INFO] Service initialized
+[2025-11-05T23:20:19.786649] [INFO] Connection established
+[2025-11-05T23:20:19.786705] [WARN] Queue size growing
+[2025-11-05T23:20:19.786710] [ERROR] Authentication failed
+[2025-11-05T23:20:19.786720] [DEBUG] Entering function process_data()

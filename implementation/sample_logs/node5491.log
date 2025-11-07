@@ -1,0 +1,29 @@
+[2025-11-05T23:20:35.399956] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.399929] [ERROR] Invalid input data
+[2025-11-05T23:20:35.399850] [INFO] Transaction completed
+[2025-11-05T23:20:35.399947] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.399977] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.399911] [WARN] Queue size growing
+[2025-11-05T23:20:35.399973] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.399970] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.399860] [INFO] Session started
+[2025-11-05T23:20:35.399966] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.399855] [INFO] Service initialized
+[2025-11-05T23:20:35.399878] [INFO] User logged in
+[2025-11-05T23:20:35.399916] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.399961] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.399865] [INFO] Cache hit
+[2025-11-05T23:20:35.399902] [WARN] High memory usage detected
+[2025-11-05T23:20:35.399825] [INFO] Database query executed
+[2025-11-05T23:20:35.399891] [INFO] Cache hit
+[2025-11-05T23:20:35.399883] [INFO] Service initialized
+[2025-11-05T23:20:35.399920] [WARN] Rate limit approaching
+[2025-11-05T23:20:35.399895] [INFO] Cache hit
+[2025-11-05T23:20:35.399869] [INFO] User logged in
+[2025-11-05T23:20:35.399907] [WARN] Rate limit approaching
+[2025-11-05T23:20:35.399887] [INFO] Transaction completed
+[2025-11-05T23:20:35.399924] [WARN] High memory usage detected
+[2025-11-05T23:20:35.399951] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.399934] [ERROR] Memory allocation error
+[2025-11-05T23:20:35.399940] [ERROR] File not found
+[2025-11-05T23:20:35.399874] [INFO] Transaction completed

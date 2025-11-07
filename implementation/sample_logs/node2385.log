@@ -1,0 +1,32 @@
+[2025-11-05T23:20:22.529906] [INFO] Session started
+[2025-11-05T23:20:22.529950] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.529959] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.529929] [ERROR] Database connection lost
+[2025-11-05T23:20:22.529911] [WARN] Cache miss
+[2025-11-05T23:20:22.529934] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.529970] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.529902] [INFO] Request processed successfully
+[2025-11-05T23:20:22.529879] [INFO] Session started
+[2025-11-05T23:20:22.529858] [INFO] Cache hit
+[2025-11-05T23:20:22.529963] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.529942] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.529974] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.529917] [WARN] Slow query performance
+[2025-11-05T23:20:22.529867] [INFO] Health check passed
+[2025-11-05T23:20:22.529883] [INFO] Connection established
+[2025-11-05T23:20:22.529875] [INFO] Health check passed
+[2025-11-05T23:20:22.529955] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.529966] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.529899] [INFO] Configuration loaded
+[2025-11-05T23:20:22.529821] [INFO] Transaction completed
+[2025-11-05T23:20:22.529871] [INFO] User logged in
+[2025-11-05T23:20:22.529978] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.529854] [INFO] Configuration loaded
+[2025-11-05T23:20:22.529924] [ERROR] Permission denied
+[2025-11-05T23:20:22.529863] [INFO] Configuration loaded
+[2025-11-05T23:20:22.529947] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.529887] [INFO] Cache hit
+[2025-11-05T23:20:22.529895] [INFO] Service initialized
+[2025-11-05T23:20:22.529891] [INFO] Session started
+[2025-11-05T23:20:22.529939] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.529848] [INFO] Configuration loaded

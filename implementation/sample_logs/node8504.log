@@ -1,0 +1,31 @@
+[2025-11-05T23:20:47.668384] [INFO] Session started
+[2025-11-05T23:20:47.668417] [INFO] Health check passed
+[2025-11-05T23:20:47.668477] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.668480] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.668465] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.668423] [INFO] Session started
+[2025-11-05T23:20:47.668468] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.668380] [INFO] Transaction completed
+[2025-11-05T23:20:47.668404] [INFO] Transaction completed
+[2025-11-05T23:20:47.668388] [INFO] Connection established
+[2025-11-05T23:20:47.668452] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.668414] [INFO] Request processed successfully
+[2025-11-05T23:20:47.668356] [INFO] Transaction completed
+[2025-11-05T23:20:47.668455] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.668398] [INFO] User logged in
+[2025-11-05T23:20:47.668432] [WARN] Timeout warning
+[2025-11-05T23:20:47.668401] [INFO] Request processed successfully
+[2025-11-05T23:20:47.668428] [WARN] Rate limit approaching
+[2025-11-05T23:20:47.668458] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.668392] [INFO] Session started
+[2025-11-05T23:20:47.668411] [INFO] User logged in
+[2025-11-05T23:20:47.668395] [INFO] Health check passed
+[2025-11-05T23:20:47.668408] [INFO] Request processed successfully
+[2025-11-05T23:20:47.668420] [INFO] Connection established
+[2025-11-05T23:20:47.668441] [ERROR] File not found
+[2025-11-05T23:20:47.668474] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.668444] [ERROR] Authentication failed
+[2025-11-05T23:20:47.668448] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.668471] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.668436] [WARN] Disk space low
+[2025-11-05T23:20:47.668461] [DEBUG] Connection pool status checked

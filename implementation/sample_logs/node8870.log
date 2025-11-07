@@ -1,0 +1,39 @@
+[2025-11-05T23:20:49.253293] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.253311] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.253305] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.253206] [WARN] Rate limit approaching
+[2025-11-05T23:20:49.253329] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.253185] [INFO] Service initialized
+[2025-11-05T23:20:49.253326] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:49.253319] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.253193] [WARN] Timeout warning
+[2025-11-05T23:20:49.253163] [INFO] Cache hit
+[2025-11-05T23:20:49.253222] [ERROR] Authentication failed
+[2025-11-05T23:20:49.253278] [ERROR] Permission denied
+[2025-11-05T23:20:49.253156] [INFO] Health check passed
+[2025-11-05T23:20:49.253214] [WARN] Resource threshold approaching
+[2025-11-05T23:20:49.253166] [INFO] User logged in
+[2025-11-05T23:20:49.253173] [INFO] Cache hit
+[2025-11-05T23:20:49.253210] [WARN] Resource threshold approaching
+[2025-11-05T23:20:49.253188] [INFO] Transaction completed
+[2025-11-05T23:20:49.253176] [INFO] Service initialized
+[2025-11-05T23:20:49.253152] [INFO] Database query executed
+[2025-11-05T23:20:49.253113] [INFO] Database query executed
+[2025-11-05T23:20:49.253322] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:49.253181] [INFO] Database query executed
+[2025-11-05T23:20:49.253298] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.253335] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.253289] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.253159] [INFO] Database query executed
+[2025-11-05T23:20:49.253315] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.253308] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.253141] [INFO] Connection established
+[2025-11-05T23:20:49.253201] [WARN] Timeout warning
+[2025-11-05T23:20:49.253218] [WARN] Cache miss
+[2025-11-05T23:20:49.253301] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.253332] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.253149] [INFO] User logged in
+[2025-11-05T23:20:49.253198] [WARN] Timeout warning
+[2025-11-05T23:20:49.253145] [INFO] Configuration loaded
+[2025-11-05T23:20:49.253170] [INFO] Configuration loaded
+[2025-11-05T23:20:49.253136] [INFO] Health check passed

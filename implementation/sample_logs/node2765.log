@@ -1,0 +1,25 @@
+[2025-11-05T23:20:24.364424] [INFO] Connection established
+[2025-11-05T23:20:24.364511] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.364506] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.364419] [INFO] User logged in
+[2025-11-05T23:20:24.364494] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.364455] [INFO] Connection established
+[2025-11-05T23:20:24.364475] [WARN] Queue size growing
+[2025-11-05T23:20:24.364376] [INFO] Configuration loaded
+[2025-11-05T23:20:24.364499] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.364519] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.364414] [INFO] Session started
+[2025-11-05T23:20:24.364503] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.364465] [INFO] Transaction completed
+[2025-11-05T23:20:24.364401] [INFO] User logged in
+[2025-11-05T23:20:24.364435] [INFO] Service initialized
+[2025-11-05T23:20:24.364515] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.364444] [INFO] Cache hit
+[2025-11-05T23:20:24.364469] [INFO] Connection established
+[2025-11-05T23:20:24.364408] [INFO] Request processed successfully
+[2025-11-05T23:20:24.364430] [INFO] Transaction completed
+[2025-11-05T23:20:24.364481] [ERROR] Authentication failed
+[2025-11-05T23:20:24.364461] [INFO] Transaction completed
+[2025-11-05T23:20:24.364439] [INFO] Health check passed
+[2025-11-05T23:20:24.364449] [INFO] Service initialized
+[2025-11-05T23:20:24.364489] [DEBUG] Loop iteration: 15

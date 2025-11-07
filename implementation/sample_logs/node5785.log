@@ -1,0 +1,29 @@
+[2025-11-05T23:20:36.440161] [INFO] Health check passed
+[2025-11-05T23:20:36.440241] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.440217] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.440127] [INFO] Connection established
+[2025-11-05T23:20:36.440237] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.440166] [INFO] Cache hit
+[2025-11-05T23:20:36.440171] [INFO] Database query executed
+[2025-11-05T23:20:36.440201] [ERROR] Permission denied
+[2025-11-05T23:20:36.440212] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.440222] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.440157] [INFO] Transaction completed
+[2025-11-05T23:20:36.440117] [INFO] Cache hit
+[2025-11-05T23:20:36.440227] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.440196] [WARN] Rate limit approaching
+[2025-11-05T23:20:36.440182] [WARN] High memory usage detected
+[2025-11-05T23:20:36.440084] [INFO] User logged in
+[2025-11-05T23:20:36.440132] [INFO] Service initialized
+[2025-11-05T23:20:36.440149] [INFO] Configuration loaded
+[2025-11-05T23:20:36.440136] [INFO] User logged in
+[2025-11-05T23:20:36.440145] [INFO] Cache hit
+[2025-11-05T23:20:36.440141] [INFO] Database query executed
+[2025-11-05T23:20:36.440111] [INFO] Cache hit
+[2025-11-05T23:20:36.440187] [WARN] Timeout warning
+[2025-11-05T23:20:36.440153] [INFO] Cache hit
+[2025-11-05T23:20:36.440232] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.440206] [ERROR] Invalid input data
+[2025-11-05T23:20:36.440176] [WARN] Cache miss
+[2025-11-05T23:20:36.440122] [INFO] Request processed successfully
+[2025-11-05T23:20:36.440191] [WARN] High memory usage detected

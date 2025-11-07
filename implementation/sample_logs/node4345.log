@@ -1,0 +1,26 @@
+[2025-11-05T23:20:31.012767] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.012786] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.012703] [INFO] Session started
+[2025-11-05T23:20:31.012750] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.012712] [INFO] Database query executed
+[2025-11-05T23:20:31.012740] [WARN] Timeout warning
+[2025-11-05T23:20:31.012708] [INFO] Connection established
+[2025-11-05T23:20:31.012679] [INFO] Connection established
+[2025-11-05T23:20:31.012725] [INFO] User logged in
+[2025-11-05T23:20:31.012762] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.012746] [WARN] Cache miss
+[2025-11-05T23:20:31.012689] [INFO] Session started
+[2025-11-05T23:20:31.012772] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.012694] [INFO] Database query executed
+[2025-11-05T23:20:31.012643] [INFO] User logged in
+[2025-11-05T23:20:31.012756] [ERROR] Request failed
+[2025-11-05T23:20:31.012777] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.012729] [INFO] User logged in
+[2025-11-05T23:20:31.012720] [INFO] Configuration loaded
+[2025-11-05T23:20:31.012735] [WARN] Timeout warning
+[2025-11-05T23:20:31.012782] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.012674] [INFO] Health check passed
+[2025-11-05T23:20:31.012684] [INFO] Configuration loaded
+[2025-11-05T23:20:31.012668] [INFO] Session started
+[2025-11-05T23:20:31.012716] [INFO] Health check passed
+[2025-11-05T23:20:31.012699] [INFO] Session started

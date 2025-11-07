@@ -1,0 +1,31 @@
+[2025-11-05T23:20:32.998315] [INFO] Service initialized
+[2025-11-05T23:20:32.998407] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.998343] [INFO] Session started
+[2025-11-05T23:20:32.998334] [INFO] Request processed successfully
+[2025-11-05T23:20:32.998347] [INFO] Database query executed
+[2025-11-05T23:20:32.998397] [ERROR] Service unavailable
+[2025-11-05T23:20:32.998418] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.998428] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.998330] [INFO] Request processed successfully
+[2025-11-05T23:20:32.998365] [INFO] Connection established
+[2025-11-05T23:20:32.998424] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.998371] [WARN] Rate limit approaching
+[2025-11-05T23:20:32.998376] [WARN] Disk space low
+[2025-11-05T23:20:32.998413] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.998320] [INFO] Database query executed
+[2025-11-05T23:20:32.998392] [ERROR] Permission denied
+[2025-11-05T23:20:32.998402] [ERROR] Authentication failed
+[2025-11-05T23:20:32.998433] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.998356] [INFO] Database query executed
+[2025-11-05T23:20:32.998277] [INFO] Request processed successfully
+[2025-11-05T23:20:32.998442] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.998351] [INFO] User logged in
+[2025-11-05T23:20:32.998446] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.998304] [INFO] Database query executed
+[2025-11-05T23:20:32.998338] [INFO] Session started
+[2025-11-05T23:20:32.998360] [INFO] Configuration loaded
+[2025-11-05T23:20:32.998386] [WARN] High memory usage detected
+[2025-11-05T23:20:32.998325] [INFO] Session started
+[2025-11-05T23:20:32.998438] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:32.998310] [INFO] Transaction completed
+[2025-11-05T23:20:32.998382] [WARN] Queue size growing

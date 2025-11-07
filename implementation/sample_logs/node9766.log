@@ -1,0 +1,30 @@
+[2025-11-05T23:20:53.155388] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.155321] [INFO] Transaction completed
+[2025-11-05T23:20:53.155384] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.155326] [INFO] Session started
+[2025-11-05T23:20:53.155366] [WARN] Queue size growing
+[2025-11-05T23:20:53.155334] [INFO] Database query executed
+[2025-11-05T23:20:53.155346] [INFO] Database query executed
+[2025-11-05T23:20:53.155408] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.155362] [WARN] Queue size growing
+[2025-11-05T23:20:53.155307] [INFO] User logged in
+[2025-11-05T23:20:53.155392] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.155292] [INFO] Request processed successfully
+[2025-11-05T23:20:53.155342] [INFO] User logged in
+[2025-11-05T23:20:53.155375] [ERROR] Service unavailable
+[2025-11-05T23:20:53.155338] [INFO] User logged in
+[2025-11-05T23:20:53.155412] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.155286] [INFO] User logged in
+[2025-11-05T23:20:53.155302] [INFO] Configuration loaded
+[2025-11-05T23:20:53.155311] [INFO] Service initialized
+[2025-11-05T23:20:53.155396] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.155330] [INFO] Cache hit
+[2025-11-05T23:20:53.155380] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.155297] [INFO] Cache hit
+[2025-11-05T23:20:53.155261] [INFO] Database query executed
+[2025-11-05T23:20:53.155400] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.155370] [WARN] Queue size growing
+[2025-11-05T23:20:53.155352] [WARN] High memory usage detected
+[2025-11-05T23:20:53.155404] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.155357] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.155316] [INFO] Cache hit

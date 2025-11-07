@@ -1,0 +1,36 @@
+[2025-11-05T23:20:17.222674] [WARN] Cache miss
+[2025-11-05T23:20:17.222735] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.222630] [INFO] Database query executed
+[2025-11-05T23:20:17.222691] [ERROR] Permission denied
+[2025-11-05T23:20:17.222727] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.222618] [INFO] Transaction completed
+[2025-11-05T23:20:17.222695] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.222712] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.222641] [INFO] Configuration loaded
+[2025-11-05T23:20:17.222656] [INFO] Cache hit
+[2025-11-05T23:20:17.222626] [INFO] Configuration loaded
+[2025-11-05T23:20:17.222743] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.222686] [ERROR] Memory allocation error
+[2025-11-05T23:20:17.222605] [INFO] Connection established
+[2025-11-05T23:20:17.222615] [INFO] Database query executed
+[2025-11-05T23:20:17.222739] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.222637] [INFO] Session started
+[2025-11-05T23:20:17.222633] [INFO] Transaction completed
+[2025-11-05T23:20:17.222649] [INFO] Database query executed
+[2025-11-05T23:20:17.222660] [INFO] User logged in
+[2025-11-05T23:20:17.222681] [WARN] Deprecated API usage
+[2025-11-05T23:20:17.222644] [INFO] Transaction completed
+[2025-11-05T23:20:17.222705] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.222678] [WARN] Rate limit approaching
+[2025-11-05T23:20:17.222622] [INFO] Request processed successfully
+[2025-11-05T23:20:17.222665] [WARN] Connection retry attempt
+[2025-11-05T23:20:17.222670] [WARN] Queue size growing
+[2025-11-05T23:20:17.222708] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.222731] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.222720] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.222581] [INFO] Service initialized
+[2025-11-05T23:20:17.222716] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.222652] [INFO] Service initialized
+[2025-11-05T23:20:17.222610] [INFO] Transaction completed
+[2025-11-05T23:20:17.222723] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.222699] [DEBUG] Variable value: x=42

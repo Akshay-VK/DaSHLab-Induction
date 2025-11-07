@@ -1,0 +1,29 @@
+[2025-11-05T23:20:31.434310] [INFO] Connection established
+[2025-11-05T23:20:31.434370] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.434314] [INFO] Session started
+[2025-11-05T23:20:31.434279] [INFO] Cache hit
+[2025-11-05T23:20:31.434305] [INFO] Transaction completed
+[2025-11-05T23:20:31.434347] [ERROR] Memory allocation error
+[2025-11-05T23:20:31.434318] [INFO] Configuration loaded
+[2025-11-05T23:20:31.434322] [INFO] Transaction completed
+[2025-11-05T23:20:31.434301] [INFO] Transaction completed
+[2025-11-05T23:20:31.434292] [INFO] Transaction completed
+[2025-11-05T23:20:31.434264] [INFO] Database query executed
+[2025-11-05T23:20:31.434366] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.434352] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.434296] [INFO] Cache hit
+[2025-11-05T23:20:31.434284] [INFO] Session started
+[2025-11-05T23:20:31.434379] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.434388] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.434336] [WARN] Slow query performance
+[2025-11-05T23:20:31.434326] [INFO] Transaction completed
+[2025-11-05T23:20:31.434357] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.434383] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.434342] [ERROR] File not found
+[2025-11-05T23:20:31.434274] [INFO] Configuration loaded
+[2025-11-05T23:20:31.434269] [INFO] Health check passed
+[2025-11-05T23:20:31.434288] [INFO] Database query executed
+[2025-11-05T23:20:31.434375] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.434330] [INFO] Transaction completed
+[2025-11-05T23:20:31.434362] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.434236] [INFO] Session started

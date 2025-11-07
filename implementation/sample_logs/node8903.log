@@ -1,0 +1,32 @@
+[2025-11-05T23:20:49.391317] [WARN] Resource threshold approaching
+[2025-11-05T23:20:49.391322] [WARN] Slow query performance
+[2025-11-05T23:20:49.391306] [INFO] Configuration loaded
+[2025-11-05T23:20:49.391394] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.391253] [INFO] Transaction completed
+[2025-11-05T23:20:49.391285] [INFO] Configuration loaded
+[2025-11-05T23:20:49.391263] [INFO] Transaction completed
+[2025-11-05T23:20:49.391272] [INFO] User logged in
+[2025-11-05T23:20:49.391374] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.391353] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.391277] [INFO] Cache hit
+[2025-11-05T23:20:49.391343] [ERROR] Disk read failed
+[2025-11-05T23:20:49.391267] [INFO] Cache hit
+[2025-11-05T23:20:49.391246] [INFO] Database query executed
+[2025-11-05T23:20:49.391389] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.391217] [INFO] Health check passed
+[2025-11-05T23:20:49.391369] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.391280] [INFO] Transaction completed
+[2025-11-05T23:20:49.391365] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.391359] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.391380] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:49.391258] [INFO] User logged in
+[2025-11-05T23:20:49.391347] [ERROR] File not found
+[2025-11-05T23:20:49.391337] [ERROR] Authentication failed
+[2025-11-05T23:20:49.391331] [WARN] Cache miss
+[2025-11-05T23:20:49.391312] [WARN] Disk space low
+[2025-11-05T23:20:49.391289] [INFO] Cache hit
+[2025-11-05T23:20:49.391293] [INFO] Cache hit
+[2025-11-05T23:20:49.391302] [INFO] Cache hit
+[2025-11-05T23:20:49.391298] [INFO] Configuration loaded
+[2025-11-05T23:20:49.391327] [WARN] Deprecated API usage
+[2025-11-05T23:20:49.391384] [DEBUG] Thread pool size: 8

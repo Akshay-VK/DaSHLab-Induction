@@ -1,0 +1,30 @@
+[2025-11-05T23:20:26.928380] [INFO] Configuration loaded
+[2025-11-05T23:20:26.928370] [INFO] Transaction completed
+[2025-11-05T23:20:26.928468] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.928548] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.928462] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.928544] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.928403] [INFO] Configuration loaded
+[2025-11-05T23:20:26.928456] [ERROR] Disk read failed
+[2025-11-05T23:20:26.928365] [INFO] Session started
+[2025-11-05T23:20:26.928338] [INFO] Service initialized
+[2025-11-05T23:20:26.928441] [WARN] Timeout warning
+[2025-11-05T23:20:26.928389] [INFO] Connection established
+[2025-11-05T23:20:26.928412] [INFO] Connection established
+[2025-11-05T23:20:26.928539] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.928421] [WARN] Queue size growing
+[2025-11-05T23:20:26.928407] [INFO] Configuration loaded
+[2025-11-05T23:20:26.928384] [INFO] Session started
+[2025-11-05T23:20:26.928530] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.928451] [ERROR] Memory allocation error
+[2025-11-05T23:20:26.928416] [INFO] Cache hit
+[2025-11-05T23:20:26.928446] [WARN] Deprecated API usage
+[2025-11-05T23:20:26.928426] [WARN] Slow query performance
+[2025-11-05T23:20:26.928472] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.928431] [WARN] Queue size growing
+[2025-11-05T23:20:26.928436] [WARN] Slow query performance
+[2025-11-05T23:20:26.928375] [INFO] Cache hit
+[2025-11-05T23:20:26.928535] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.928522] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.928393] [INFO] Database query executed
+[2025-11-05T23:20:26.928398] [INFO] Health check passed

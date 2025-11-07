@@ -1,0 +1,28 @@
+[2025-11-05T23:20:24.467130] [WARN] Cache miss
+[2025-11-05T23:20:24.467137] [WARN] Queue size growing
+[2025-11-05T23:20:24.467108] [INFO] Session started
+[2025-11-05T23:20:24.467173] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.467146] [ERROR] Disk read failed
+[2025-11-05T23:20:24.467151] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.467117] [INFO] User logged in
+[2025-11-05T23:20:24.467162] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.467176] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.467103] [INFO] User logged in
+[2025-11-05T23:20:24.467121] [INFO] Service initialized
+[2025-11-05T23:20:24.467087] [INFO] Transaction completed
+[2025-11-05T23:20:24.467169] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.467072] [INFO] Session started
+[2025-11-05T23:20:24.467158] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.467047] [INFO] Database query executed
+[2025-11-05T23:20:24.467126] [WARN] Cache miss
+[2025-11-05T23:20:24.467099] [INFO] User logged in
+[2025-11-05T23:20:24.467165] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.467142] [ERROR] Invalid input data
+[2025-11-05T23:20:24.467154] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.467180] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.467133] [WARN] Cache miss
+[2025-11-05T23:20:24.467113] [INFO] Database query executed
+[2025-11-05T23:20:24.467091] [INFO] User logged in
+[2025-11-05T23:20:24.467083] [INFO] Cache hit
+[2025-11-05T23:20:24.467078] [INFO] Connection established
+[2025-11-05T23:20:24.467095] [INFO] Database query executed

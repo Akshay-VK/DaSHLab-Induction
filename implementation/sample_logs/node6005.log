@@ -1,0 +1,34 @@
+[2025-11-05T23:20:37.714367] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.714315] [INFO] Health check passed
+[2025-11-05T23:20:37.714389] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.714319] [INFO] Health check passed
+[2025-11-05T23:20:37.714342] [WARN] Deprecated API usage
+[2025-11-05T23:20:37.714271] [INFO] Service initialized
+[2025-11-05T23:20:37.714377] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.714311] [INFO] Session started
+[2025-11-05T23:20:37.714276] [INFO] Service initialized
+[2025-11-05T23:20:37.714307] [INFO] Service initialized
+[2025-11-05T23:20:37.714385] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.714337] [WARN] Resource threshold approaching
+[2025-11-05T23:20:37.714285] [INFO] Service initialized
+[2025-11-05T23:20:37.714331] [INFO] Connection established
+[2025-11-05T23:20:37.714409] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.714327] [INFO] Connection established
+[2025-11-05T23:20:37.714362] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.714281] [INFO] Configuration loaded
+[2025-11-05T23:20:37.714372] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.714352] [ERROR] Database connection lost
+[2025-11-05T23:20:37.714404] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.714357] [ERROR] Permission denied
+[2025-11-05T23:20:37.714346] [WARN] High memory usage detected
+[2025-11-05T23:20:37.714265] [INFO] User logged in
+[2025-11-05T23:20:37.714401] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.714239] [INFO] Health check passed
+[2025-11-05T23:20:37.714397] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.714298] [INFO] Connection established
+[2025-11-05T23:20:37.714290] [INFO] Health check passed
+[2025-11-05T23:20:37.714294] [INFO] Cache hit
+[2025-11-05T23:20:37.714393] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.714381] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.714303] [INFO] Session started
+[2025-11-05T23:20:37.714323] [INFO] Request processed successfully

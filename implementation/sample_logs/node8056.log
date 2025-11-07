@@ -1,0 +1,30 @@
+[2025-11-05T23:20:45.869243] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.869175] [INFO] Request processed successfully
+[2025-11-05T23:20:45.869270] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.869204] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.869261] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.869137] [INFO] Transaction completed
+[2025-11-05T23:20:45.869180] [INFO] Health check passed
+[2025-11-05T23:20:45.869257] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.869248] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.869109] [INFO] Transaction completed
+[2025-11-05T23:20:45.869170] [INFO] Cache hit
+[2025-11-05T23:20:45.869224] [ERROR] File not found
+[2025-11-05T23:20:45.869193] [INFO] Health check passed
+[2025-11-05T23:20:45.869157] [INFO] Health check passed
+[2025-11-05T23:20:45.869148] [INFO] User logged in
+[2025-11-05T23:20:45.869238] [ERROR] File not found
+[2025-11-05T23:20:45.869214] [WARN] Slow query performance
+[2025-11-05T23:20:45.869166] [INFO] Connection established
+[2025-11-05T23:20:45.869184] [INFO] Health check passed
+[2025-11-05T23:20:45.869162] [INFO] User logged in
+[2025-11-05T23:20:45.869233] [ERROR] File not found
+[2025-11-05T23:20:45.869253] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.869229] [ERROR] Request failed
+[2025-11-05T23:20:45.869188] [INFO] Database query executed
+[2025-11-05T23:20:45.869199] [WARN] Disk space low
+[2025-11-05T23:20:45.869219] [WARN] Cache miss
+[2025-11-05T23:20:45.869143] [INFO] Request processed successfully
+[2025-11-05T23:20:45.869153] [INFO] Connection established
+[2025-11-05T23:20:45.869209] [WARN] High memory usage detected
+[2025-11-05T23:20:45.869266] [DEBUG] Loop iteration: 15

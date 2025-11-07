@@ -1,0 +1,32 @@
+[2025-11-05T23:20:13.642605] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:13.642450] [INFO] Health check passed
+[2025-11-05T23:20:13.642446] [INFO] Service initialized
+[2025-11-05T23:20:13.642507] [WARN] Cache miss
+[2025-11-05T23:20:13.642619] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.642502] [INFO] Database query executed
+[2025-11-05T23:20:13.642624] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.642535] [WARN] Connection retry attempt
+[2025-11-05T23:20:13.642578] [WARN] Cache miss
+[2025-11-05T23:20:13.642498] [INFO] Configuration loaded
+[2025-11-05T23:20:13.642454] [INFO] Transaction completed
+[2025-11-05T23:20:13.642582] [WARN] Slow query performance
+[2025-11-05T23:20:13.642469] [INFO] Request processed successfully
+[2025-11-05T23:20:13.642420] [INFO] Cache hit
+[2025-11-05T23:20:13.642442] [INFO] Configuration loaded
+[2025-11-05T23:20:13.642462] [INFO] Health check passed
+[2025-11-05T23:20:13.642615] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.642530] [WARN] Slow query performance
+[2025-11-05T23:20:13.642466] [INFO] Connection established
+[2025-11-05T23:20:13.642628] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.642458] [INFO] Health check passed
+[2025-11-05T23:20:13.642438] [INFO] Cache hit
+[2025-11-05T23:20:13.642430] [INFO] Transaction completed
+[2025-11-05T23:20:13.642587] [WARN] Slow query performance
+[2025-11-05T23:20:13.642599] [ERROR] File not found
+[2025-11-05T23:20:13.642426] [INFO] Service initialized
+[2025-11-05T23:20:13.642593] [ERROR] Memory allocation error
+[2025-11-05T23:20:13.642434] [INFO] Service initialized
+[2025-11-05T23:20:13.642474] [INFO] Transaction completed
+[2025-11-05T23:20:13.642610] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.642396] [INFO] Configuration loaded
+[2025-11-05T23:20:13.642527] [WARN] Deprecated API usage

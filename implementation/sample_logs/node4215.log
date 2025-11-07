@@ -1,0 +1,29 @@
+[2025-11-05T23:20:30.524133] [ERROR] Disk read failed
+[2025-11-05T23:20:30.524113] [WARN] Slow query performance
+[2025-11-05T23:20:30.524157] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.524018] [INFO] Session started
+[2025-11-05T23:20:30.524153] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.524103] [INFO] Configuration loaded
+[2025-11-05T23:20:30.524123] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.524148] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.524077] [INFO] Session started
+[2025-11-05T23:20:30.524107] [INFO] Connection established
+[2025-11-05T23:20:30.524057] [INFO] Database query executed
+[2025-11-05T23:20:30.524046] [INFO] User logged in
+[2025-11-05T23:20:30.524118] [WARN] Slow query performance
+[2025-11-05T23:20:30.524171] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.524163] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.524144] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.524067] [INFO] Connection established
+[2025-11-05T23:20:30.524072] [INFO] Session started
+[2025-11-05T23:20:30.524139] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.524095] [INFO] Session started
+[2025-11-05T23:20:30.524099] [INFO] Request processed successfully
+[2025-11-05T23:20:30.524052] [INFO] Health check passed
+[2025-11-05T23:20:30.524167] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.524086] [INFO] Health check passed
+[2025-11-05T23:20:30.524127] [WARN] Slow query performance
+[2025-11-05T23:20:30.524081] [INFO] Transaction completed
+[2025-11-05T23:20:30.524062] [INFO] Configuration loaded
+[2025-11-05T23:20:30.524091] [INFO] Configuration loaded
+[2025-11-05T23:20:30.524176] [DEBUG] Thread pool size: 8

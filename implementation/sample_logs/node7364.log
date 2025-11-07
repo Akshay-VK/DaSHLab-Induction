@@ -1,0 +1,32 @@
+[2025-11-05T23:20:42.835348] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.835318] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.835247] [INFO] Connection established
+[2025-11-05T23:20:42.835192] [INFO] Service initialized
+[2025-11-05T23:20:42.835306] [ERROR] File not found
+[2025-11-05T23:20:42.835352] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.835242] [INFO] Connection established
+[2025-11-05T23:20:42.835289] [WARN] Timeout warning
+[2025-11-05T23:20:42.835328] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.835300] [ERROR] Authentication failed
+[2025-11-05T23:20:42.835167] [INFO] Transaction completed
+[2025-11-05T23:20:42.835205] [INFO] Request processed successfully
+[2025-11-05T23:20:42.835210] [INFO] Transaction completed
+[2025-11-05T23:20:42.835256] [INFO] User logged in
+[2025-11-05T23:20:42.835222] [INFO] Request processed successfully
+[2025-11-05T23:20:42.835217] [INFO] Connection established
+[2025-11-05T23:20:42.835261] [INFO] Database query executed
+[2025-11-05T23:20:42.835284] [WARN] Slow query performance
+[2025-11-05T23:20:42.835199] [INFO] Configuration loaded
+[2025-11-05T23:20:42.835271] [WARN] Cache miss
+[2025-11-05T23:20:42.835227] [INFO] Cache hit
+[2025-11-05T23:20:42.835294] [WARN] Queue size growing
+[2025-11-05T23:20:42.835279] [WARN] Disk space low
+[2025-11-05T23:20:42.835332] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.835231] [INFO] Request processed successfully
+[2025-11-05T23:20:42.835312] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.835323] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.835236] [INFO] Request processed successfully
+[2025-11-05T23:20:42.835252] [INFO] Connection established
+[2025-11-05T23:20:42.835343] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.835265] [INFO] Connection established
+[2025-11-05T23:20:42.835338] [DEBUG] Cache key generated

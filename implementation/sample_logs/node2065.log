@@ -1,0 +1,36 @@
+[2025-11-05T23:20:21.321282] [INFO] User logged in
+[2025-11-05T23:20:21.321416] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.321372] [ERROR] Disk read failed
+[2025-11-05T23:20:21.321339] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.321308] [INFO] Session started
+[2025-11-05T23:20:21.321387] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.321411] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.321304] [INFO] Cache hit
+[2025-11-05T23:20:21.321399] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.321354] [WARN] Queue size growing
+[2025-11-05T23:20:21.321407] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.321325] [INFO] Database query executed
+[2025-11-05T23:20:21.321391] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.321291] [INFO] Database query executed
+[2025-11-05T23:20:21.321349] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.321366] [WARN] High memory usage detected
+[2025-11-05T23:20:21.321313] [INFO] User logged in
+[2025-11-05T23:20:21.321420] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.321329] [INFO] Cache hit
+[2025-11-05T23:20:21.321317] [INFO] User logged in
+[2025-11-05T23:20:21.321382] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.321321] [INFO] Health check passed
+[2025-11-05T23:20:21.321403] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.321362] [WARN] Deprecated API usage
+[2025-11-05T23:20:21.321333] [INFO] Request processed successfully
+[2025-11-05T23:20:21.321345] [WARN] Queue size growing
+[2025-11-05T23:20:21.321287] [INFO] User logged in
+[2025-11-05T23:20:21.321272] [INFO] Request processed successfully
+[2025-11-05T23:20:21.321299] [INFO] Transaction completed
+[2025-11-05T23:20:21.321277] [INFO] Configuration loaded
+[2025-11-05T23:20:21.321358] [WARN] Cache miss
+[2025-11-05T23:20:21.321240] [INFO] Connection established
+[2025-11-05T23:20:21.321395] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.321295] [INFO] Session started
+[2025-11-05T23:20:21.321377] [ERROR] Database connection lost
+[2025-11-05T23:20:21.321266] [INFO] Connection established

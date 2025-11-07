@@ -1,0 +1,33 @@
+[2025-11-05T23:20:53.585339] [INFO] Session started
+[2025-11-05T23:20:53.585350] [INFO] Request processed successfully
+[2025-11-05T23:20:53.585422] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.585335] [INFO] Configuration loaded
+[2025-11-05T23:20:53.585399] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.585299] [INFO] Session started
+[2025-11-05T23:20:53.585315] [INFO] Database query executed
+[2025-11-05T23:20:53.585390] [ERROR] Memory allocation error
+[2025-11-05T23:20:53.585407] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.585395] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.585326] [INFO] Transaction completed
+[2025-11-05T23:20:53.585319] [INFO] Health check passed
+[2025-11-05T23:20:53.585346] [INFO] Connection established
+[2025-11-05T23:20:53.585268] [INFO] Cache hit
+[2025-11-05T23:20:53.585410] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.585365] [INFO] Health check passed
+[2025-11-05T23:20:53.585361] [INFO] Request processed successfully
+[2025-11-05T23:20:53.585310] [INFO] Transaction completed
+[2025-11-05T23:20:53.585414] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.585357] [INFO] Session started
+[2025-11-05T23:20:53.585403] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.585343] [INFO] Configuration loaded
+[2025-11-05T23:20:53.585375] [INFO] User logged in
+[2025-11-05T23:20:53.585380] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.585371] [INFO] Cache hit
+[2025-11-05T23:20:53.585330] [INFO] Session started
+[2025-11-05T23:20:53.585418] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.585293] [INFO] Database query executed
+[2025-11-05T23:20:53.585305] [INFO] User logged in
+[2025-11-05T23:20:53.585354] [INFO] Health check passed
+[2025-11-05T23:20:53.585368] [INFO] Request processed successfully
+[2025-11-05T23:20:53.585323] [INFO] Transaction completed
+[2025-11-05T23:20:53.585386] [ERROR] Disk read failed

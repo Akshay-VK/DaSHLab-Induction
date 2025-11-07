@@ -1,0 +1,30 @@
+[2025-11-05T23:20:14.799390] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.799367] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.799308] [INFO] Session started
+[2025-11-05T23:20:14.799376] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.799340] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.799290] [INFO] Service initialized
+[2025-11-05T23:20:14.799386] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.799317] [INFO] Request processed successfully
+[2025-11-05T23:20:14.799304] [INFO] Cache hit
+[2025-11-05T23:20:14.799241] [INFO] Transaction completed
+[2025-11-05T23:20:14.799269] [INFO] Configuration loaded
+[2025-11-05T23:20:14.799312] [INFO] Service initialized
+[2025-11-05T23:20:14.799381] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.799325] [INFO] Connection established
+[2025-11-05T23:20:14.799275] [INFO] Request processed successfully
+[2025-11-05T23:20:14.799299] [INFO] User logged in
+[2025-11-05T23:20:14.799321] [INFO] Request processed successfully
+[2025-11-05T23:20:14.799335] [INFO] Cache hit
+[2025-11-05T23:20:14.799403] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.799280] [INFO] Cache hit
+[2025-11-05T23:20:14.799346] [WARN] Queue size growing
+[2025-11-05T23:20:14.799356] [ERROR] Authentication failed
+[2025-11-05T23:20:14.799395] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.799285] [INFO] Health check passed
+[2025-11-05T23:20:14.799330] [INFO] Database query executed
+[2025-11-05T23:20:14.799399] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.799372] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.799351] [WARN] Queue size growing
+[2025-11-05T23:20:14.799295] [INFO] Cache hit
+[2025-11-05T23:20:14.799362] [ERROR] Database connection lost

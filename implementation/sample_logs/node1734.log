@@ -1,0 +1,34 @@
+[2025-11-05T23:20:19.908841] [INFO] Cache hit
+[2025-11-05T23:20:19.908900] [INFO] Request processed successfully
+[2025-11-05T23:20:19.908994] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.908868] [INFO] Transaction completed
+[2025-11-05T23:20:19.908910] [WARN] Cache miss
+[2025-11-05T23:20:19.908877] [INFO] Request processed successfully
+[2025-11-05T23:20:19.908989] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.908953] [ERROR] Authentication failed
+[2025-11-05T23:20:19.908873] [INFO] Transaction completed
+[2025-11-05T23:20:19.908882] [INFO] Health check passed
+[2025-11-05T23:20:19.908981] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.908930] [WARN] Deprecated API usage
+[2025-11-05T23:20:19.908934] [WARN] Deprecated API usage
+[2025-11-05T23:20:19.908915] [WARN] High memory usage detected
+[2025-11-05T23:20:19.908976] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.908847] [INFO] User logged in
+[2025-11-05T23:20:19.908959] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.908853] [INFO] Database query executed
+[2025-11-05T23:20:19.908890] [INFO] Service initialized
+[2025-11-05T23:20:19.908968] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.908815] [INFO] Connection established
+[2025-11-05T23:20:19.908863] [INFO] Connection established
+[2025-11-05T23:20:19.908985] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.908921] [WARN] High memory usage detected
+[2025-11-05T23:20:19.908949] [ERROR] Database connection lost
+[2025-11-05T23:20:19.908858] [INFO] Session started
+[2025-11-05T23:20:19.908925] [WARN] High memory usage detected
+[2025-11-05T23:20:19.908896] [INFO] Session started
+[2025-11-05T23:20:19.908972] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.908944] [ERROR] Memory allocation error
+[2025-11-05T23:20:19.908963] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.908886] [INFO] Service initialized
+[2025-11-05T23:20:19.908905] [INFO] Database query executed
+[2025-11-05T23:20:19.908938] [WARN] Rate limit approaching

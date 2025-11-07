@@ -1,0 +1,33 @@
+[2025-11-05T23:20:28.428350] [WARN] Slow query performance
+[2025-11-05T23:20:28.428361] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.428287] [INFO] Service initialized
+[2025-11-05T23:20:28.428278] [INFO] Session started
+[2025-11-05T23:20:28.428323] [WARN] Rate limit approaching
+[2025-11-05T23:20:28.428263] [INFO] Database query executed
+[2025-11-05T23:20:28.428371] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.428305] [INFO] Transaction completed
+[2025-11-05T23:20:28.428274] [INFO] Transaction completed
+[2025-11-05T23:20:28.428401] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.428283] [INFO] Cache hit
+[2025-11-05T23:20:28.428355] [ERROR] Database connection lost
+[2025-11-05T23:20:28.428341] [WARN] Slow query performance
+[2025-11-05T23:20:28.428384] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.428309] [INFO] User logged in
+[2025-11-05T23:20:28.428230] [INFO] Session started
+[2025-11-05T23:20:28.428333] [WARN] Queue size growing
+[2025-11-05T23:20:28.428328] [WARN] Connection retry attempt
+[2025-11-05T23:20:28.428292] [INFO] User logged in
+[2025-11-05T23:20:28.428397] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.428380] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.428317] [INFO] Session started
+[2025-11-05T23:20:28.428268] [INFO] Session started
+[2025-11-05T23:20:28.428257] [INFO] Connection established
+[2025-11-05T23:20:28.428393] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.428301] [INFO] Health check passed
+[2025-11-05T23:20:28.428313] [INFO] User logged in
+[2025-11-05T23:20:28.428388] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.428365] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.428346] [WARN] Slow query performance
+[2025-11-05T23:20:28.428297] [INFO] Connection established
+[2025-11-05T23:20:28.428375] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.428337] [WARN] Connection retry attempt

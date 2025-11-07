@@ -1,0 +1,33 @@
+[2025-11-05T23:20:27.517103] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.517080] [WARN] Slow query performance
+[2025-11-05T23:20:27.517026] [INFO] Health check passed
+[2025-11-05T23:20:27.516994] [INFO] Session started
+[2025-11-05T23:20:27.517054] [INFO] Service initialized
+[2025-11-05T23:20:27.517138] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.517042] [INFO] Cache hit
+[2025-11-05T23:20:27.517118] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.517108] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.517124] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.517046] [INFO] Session started
+[2025-11-05T23:20:27.517066] [INFO] User logged in
+[2025-11-05T23:20:27.517057] [INFO] Session started
+[2025-11-05T23:20:27.517134] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.517143] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.517084] [WARN] Slow query performance
+[2025-11-05T23:20:27.517017] [INFO] Session started
+[2025-11-05T23:20:27.517093] [ERROR] File not found
+[2025-11-05T23:20:27.517098] [ERROR] Disk read failed
+[2025-11-05T23:20:27.517034] [INFO] Database query executed
+[2025-11-05T23:20:27.517113] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.517070] [INFO] Configuration loaded
+[2025-11-05T23:20:27.517075] [WARN] Deprecated API usage
+[2025-11-05T23:20:27.517130] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:27.517148] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.517050] [INFO] Session started
+[2025-11-05T23:20:27.517088] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.517062] [INFO] User logged in
+[2025-11-05T23:20:27.517151] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.517022] [INFO] Cache hit
+[2025-11-05T23:20:27.517038] [INFO] Configuration loaded
+[2025-11-05T23:20:27.517155] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.517030] [INFO] Database query executed

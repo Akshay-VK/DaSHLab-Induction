@@ -1,0 +1,26 @@
+[2025-11-05T23:20:23.609713] [INFO] Request processed successfully
+[2025-11-05T23:20:23.609708] [INFO] Transaction completed
+[2025-11-05T23:20:23.609759] [WARN] Connection retry attempt
+[2025-11-05T23:20:23.609723] [INFO] Database query executed
+[2025-11-05T23:20:23.609791] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.609743] [INFO] User logged in
+[2025-11-05T23:20:23.609748] [INFO] Transaction completed
+[2025-11-05T23:20:23.609734] [INFO] Session started
+[2025-11-05T23:20:23.609694] [INFO] Request processed successfully
+[2025-11-05T23:20:23.609778] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.609767] [ERROR] Request failed
+[2025-11-05T23:20:23.609699] [INFO] Connection established
+[2025-11-05T23:20:23.609782] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.609739] [INFO] Service initialized
+[2025-11-05T23:20:23.609795] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.609803] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.609799] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.609787] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.609703] [INFO] Health check passed
+[2025-11-05T23:20:23.609753] [INFO] User logged in
+[2025-11-05T23:20:23.609773] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:23.609729] [INFO] Service initialized
+[2025-11-05T23:20:23.609808] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.609661] [INFO] Connection established
+[2025-11-05T23:20:23.609687] [INFO] Transaction completed
+[2025-11-05T23:20:23.609719] [INFO] User logged in

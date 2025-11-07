@@ -1,0 +1,27 @@
+[2025-11-05T23:20:51.799445] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.799389] [INFO] Database query executed
+[2025-11-05T23:20:51.799436] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.799455] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.799405] [INFO] Health check passed
+[2025-11-05T23:20:51.799462] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.799408] [INFO] Configuration loaded
+[2025-11-05T23:20:51.799401] [INFO] Cache hit
+[2025-11-05T23:20:51.799415] [INFO] Service initialized
+[2025-11-05T23:20:51.799431] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.799427] [ERROR] Memory allocation error
+[2025-11-05T23:20:51.799352] [INFO] Connection established
+[2025-11-05T23:20:51.799466] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.799439] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.799398] [INFO] Cache hit
+[2025-11-05T23:20:51.799422] [WARN] Slow query performance
+[2025-11-05T23:20:51.799379] [INFO] Service initialized
+[2025-11-05T23:20:51.799412] [INFO] Transaction completed
+[2025-11-05T23:20:51.799452] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.799395] [INFO] User logged in
+[2025-11-05T23:20:51.799392] [INFO] Session started
+[2025-11-05T23:20:51.799383] [INFO] Database query executed
+[2025-11-05T23:20:51.799458] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.799375] [INFO] User logged in
+[2025-11-05T23:20:51.799418] [INFO] Health check passed
+[2025-11-05T23:20:51.799449] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.799442] [DEBUG] HTTP request headers parsed

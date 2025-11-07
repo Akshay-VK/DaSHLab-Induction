@@ -1,0 +1,32 @@
+[2025-11-05T23:20:45.389866] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.389769] [INFO] Session started
+[2025-11-05T23:20:45.389825] [WARN] Timeout warning
+[2025-11-05T23:20:45.389782] [INFO] Connection established
+[2025-11-05T23:20:45.389715] [INFO] Health check passed
+[2025-11-05T23:20:45.389846] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.389831] [ERROR] Request failed
+[2025-11-05T23:20:45.389751] [INFO] User logged in
+[2025-11-05T23:20:45.389821] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.389854] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.389746] [INFO] Session started
+[2025-11-05T23:20:45.389798] [INFO] Session started
+[2025-11-05T23:20:45.389871] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.389741] [INFO] Session started
+[2025-11-05T23:20:45.389786] [INFO] Service initialized
+[2025-11-05T23:20:45.389850] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.389813] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.389794] [INFO] Request processed successfully
+[2025-11-05T23:20:45.389773] [INFO] Health check passed
+[2025-11-05T23:20:45.389858] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.389835] [ERROR] File not found
+[2025-11-05T23:20:45.389760] [INFO] Configuration loaded
+[2025-11-05T23:20:45.389862] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.389802] [INFO] Connection established
+[2025-11-05T23:20:45.389817] [WARN] Resource threshold approaching
+[2025-11-05T23:20:45.389755] [INFO] Configuration loaded
+[2025-11-05T23:20:45.389807] [WARN] High memory usage detected
+[2025-11-05T23:20:45.389875] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.389778] [INFO] Service initialized
+[2025-11-05T23:20:45.389790] [INFO] Connection established
+[2025-11-05T23:20:45.389841] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.389764] [INFO] Database query executed

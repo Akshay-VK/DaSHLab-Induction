@@ -1,0 +1,31 @@
+[2025-11-05T23:20:13.006659] [ERROR] Disk read failed
+[2025-11-05T23:20:13.006591] [INFO] Configuration loaded
+[2025-11-05T23:20:13.006576] [INFO] Connection established
+[2025-11-05T23:20:13.006549] [INFO] User logged in
+[2025-11-05T23:20:13.006677] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:13.006702] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.006706] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.006650] [WARN] Slow query performance
+[2025-11-05T23:20:13.006694] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.006669] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.006664] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:13.006626] [INFO] Connection established
+[2025-11-05T23:20:13.006596] [INFO] Request processed successfully
+[2025-11-05T23:20:13.006587] [INFO] Connection established
+[2025-11-05T23:20:13.006605] [INFO] Cache hit
+[2025-11-05T23:20:13.006655] [ERROR] Disk read failed
+[2025-11-05T23:20:13.006636] [WARN] Cache miss
+[2025-11-05T23:20:13.006690] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:13.006613] [INFO] Configuration loaded
+[2025-11-05T23:20:13.006582] [INFO] Transaction completed
+[2025-11-05T23:20:13.006609] [INFO] Session started
+[2025-11-05T23:20:13.006673] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:13.006645] [WARN] Cache miss
+[2025-11-05T23:20:13.006641] [WARN] Deprecated API usage
+[2025-11-05T23:20:13.006698] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.006681] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.006685] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:13.006617] [INFO] Cache hit
+[2025-11-05T23:20:13.006622] [INFO] Request processed successfully
+[2025-11-05T23:20:13.006600] [INFO] User logged in
+[2025-11-05T23:20:13.006630] [INFO] Health check passed

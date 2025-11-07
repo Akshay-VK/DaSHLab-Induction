@@ -1,0 +1,25 @@
+[2025-11-05T23:20:36.219315] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:36.219294] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.219197] [INFO] Health check passed
+[2025-11-05T23:20:36.219323] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.219269] [WARN] Slow query performance
+[2025-11-05T23:20:36.219288] [ERROR] Memory allocation error
+[2025-11-05T23:20:36.219320] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.219246] [INFO] Database query executed
+[2025-11-05T23:20:36.219299] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.219255] [INFO] Health check passed
+[2025-11-05T23:20:36.219311] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.219242] [INFO] Connection established
+[2025-11-05T23:20:36.219264] [INFO] Configuration loaded
+[2025-11-05T23:20:36.219260] [INFO] Cache hit
+[2025-11-05T23:20:36.219284] [ERROR] Authentication failed
+[2025-11-05T23:20:36.219228] [INFO] Database query executed
+[2025-11-05T23:20:36.219307] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.219327] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.219233] [INFO] Connection established
+[2025-11-05T23:20:36.219279] [WARN] Queue size growing
+[2025-11-05T23:20:36.219274] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.219222] [INFO] Session started
+[2025-11-05T23:20:36.219251] [INFO] User logged in
+[2025-11-05T23:20:36.219303] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.219238] [INFO] Service initialized

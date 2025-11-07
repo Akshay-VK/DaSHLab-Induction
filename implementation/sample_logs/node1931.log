@@ -1,0 +1,25 @@
+[2025-11-05T23:20:20.690626] [INFO] Session started
+[2025-11-05T23:20:20.690689] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.690685] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.690577] [INFO] Health check passed
+[2025-11-05T23:20:20.690664] [WARN] High memory usage detected
+[2025-11-05T23:20:20.690705] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.690697] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.690604] [INFO] Health check passed
+[2025-11-05T23:20:20.690679] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.690674] [ERROR] Disk read failed
+[2025-11-05T23:20:20.690610] [INFO] Database query executed
+[2025-11-05T23:20:20.690669] [ERROR] Request failed
+[2025-11-05T23:20:20.690631] [INFO] Transaction completed
+[2025-11-05T23:20:20.690655] [WARN] Slow query performance
+[2025-11-05T23:20:20.690701] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.690714] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.690635] [INFO] Database query executed
+[2025-11-05T23:20:20.690639] [INFO] Service initialized
+[2025-11-05T23:20:20.690621] [INFO] Service initialized
+[2025-11-05T23:20:20.690644] [INFO] Cache hit
+[2025-11-05T23:20:20.690693] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.690710] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.690650] [WARN] Slow query performance
+[2025-11-05T23:20:20.690659] [WARN] Disk space low
+[2025-11-05T23:20:20.690615] [INFO] Cache hit

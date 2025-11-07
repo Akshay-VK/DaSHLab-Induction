@@ -1,0 +1,32 @@
+[2025-11-05T23:20:16.181551] [ERROR] Request failed
+[2025-11-05T23:20:16.181574] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.181536] [WARN] Queue size growing
+[2025-11-05T23:20:16.181595] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.181493] [INFO] Session started
+[2025-11-05T23:20:16.181570] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.181591] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.181480] [INFO] Session started
+[2025-11-05T23:20:16.181497] [INFO] Request processed successfully
+[2025-11-05T23:20:16.181475] [INFO] Request processed successfully
+[2025-11-05T23:20:16.181604] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.181522] [INFO] Transaction completed
+[2025-11-05T23:20:16.181562] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.181583] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.181444] [INFO] Service initialized
+[2025-11-05T23:20:16.181588] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.181566] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.181532] [WARN] Queue size growing
+[2025-11-05T23:20:16.181541] [WARN] Rate limit approaching
+[2025-11-05T23:20:16.181547] [ERROR] Memory allocation error
+[2025-11-05T23:20:16.181506] [INFO] Transaction completed
+[2025-11-05T23:20:16.181578] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.181470] [INFO] Transaction completed
+[2025-11-05T23:20:16.181515] [INFO] Request processed successfully
+[2025-11-05T23:20:16.181528] [WARN] Queue size growing
+[2025-11-05T23:20:16.181489] [INFO] Database query executed
+[2025-11-05T23:20:16.181502] [INFO] Health check passed
+[2025-11-05T23:20:16.181485] [INFO] User logged in
+[2025-11-05T23:20:16.181557] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.181518] [INFO] User logged in
+[2025-11-05T23:20:16.181511] [INFO] Service initialized
+[2025-11-05T23:20:16.181600] [DEBUG] Entering function process_data()

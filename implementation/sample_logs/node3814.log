@@ -1,0 +1,32 @@
+[2025-11-05T23:20:28.911894] [INFO] Connection established
+[2025-11-05T23:20:28.912008] [WARN] Slow query performance
+[2025-11-05T23:20:28.912026] [WARN] Cache miss
+[2025-11-05T23:20:28.911951] [INFO] Request processed successfully
+[2025-11-05T23:20:28.911964] [INFO] User logged in
+[2025-11-05T23:20:28.912017] [WARN] Deprecated API usage
+[2025-11-05T23:20:28.911976] [INFO] Session started
+[2025-11-05T23:20:28.912050] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.911988] [INFO] User logged in
+[2025-11-05T23:20:28.911995] [INFO] Cache hit
+[2025-11-05T23:20:28.912071] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.912021] [WARN] Timeout warning
+[2025-11-05T23:20:28.912003] [INFO] Session started
+[2025-11-05T23:20:28.911972] [INFO] Cache hit
+[2025-11-05T23:20:28.911968] [INFO] Session started
+[2025-11-05T23:20:28.911980] [INFO] Cache hit
+[2025-11-05T23:20:28.912045] [ERROR] Network timeout
+[2025-11-05T23:20:28.912059] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.911991] [INFO] Configuration loaded
+[2025-11-05T23:20:28.911984] [INFO] Health check passed
+[2025-11-05T23:20:28.912062] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.911956] [INFO] Transaction completed
+[2025-11-05T23:20:28.911960] [INFO] User logged in
+[2025-11-05T23:20:28.911999] [INFO] Health check passed
+[2025-11-05T23:20:28.912076] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.911944] [INFO] Connection established
+[2025-11-05T23:20:28.912040] [ERROR] File not found
+[2025-11-05T23:20:28.912013] [WARN] Connection retry attempt
+[2025-11-05T23:20:28.912067] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.912030] [WARN] High memory usage detected
+[2025-11-05T23:20:28.912055] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.912035] [WARN] Disk space low

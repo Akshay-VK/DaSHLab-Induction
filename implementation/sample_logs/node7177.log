@@ -1,0 +1,30 @@
+[2025-11-05T23:20:42.247156] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.247140] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.247135] [WARN] Cache miss
+[2025-11-05T23:20:42.247194] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.247092] [INFO] Database query executed
+[2025-11-05T23:20:42.247152] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.247109] [INFO] Request processed successfully
+[2025-11-05T23:20:42.247165] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.247173] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.247161] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.247117] [INFO] Session started
+[2025-11-05T23:20:42.247198] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.247130] [INFO] Request processed successfully
+[2025-11-05T23:20:42.247079] [INFO] Transaction completed
+[2025-11-05T23:20:42.247074] [INFO] Session started
+[2025-11-05T23:20:42.247114] [INFO] Configuration loaded
+[2025-11-05T23:20:42.247049] [INFO] Configuration loaded
+[2025-11-05T23:20:42.247190] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.247169] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.247097] [INFO] Configuration loaded
+[2025-11-05T23:20:42.247177] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.247186] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.247122] [INFO] User logged in
+[2025-11-05T23:20:42.247146] [ERROR] Permission denied
+[2025-11-05T23:20:42.247126] [INFO] Database query executed
+[2025-11-05T23:20:42.247101] [INFO] User logged in
+[2025-11-05T23:20:42.247182] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.247105] [INFO] Connection established
+[2025-11-05T23:20:42.247083] [INFO] User logged in
+[2025-11-05T23:20:42.247088] [INFO] User logged in

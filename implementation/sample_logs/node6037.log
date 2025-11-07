@@ -1,0 +1,27 @@
+[2025-11-05T23:20:37.857951] [INFO] Request processed successfully
+[2025-11-05T23:20:37.858014] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.858002] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.858010] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.857917] [INFO] Transaction completed
+[2025-11-05T23:20:37.857961] [INFO] Database query executed
+[2025-11-05T23:20:37.858034] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.857987] [WARN] Slow query performance
+[2025-11-05T23:20:37.857947] [INFO] User logged in
+[2025-11-05T23:20:37.858006] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.858030] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.857891] [INFO] User logged in
+[2025-11-05T23:20:37.857956] [INFO] Health check passed
+[2025-11-05T23:20:37.857928] [INFO] User logged in
+[2025-11-05T23:20:37.857973] [WARN] Slow query performance
+[2025-11-05T23:20:37.857997] [ERROR] Database connection lost
+[2025-11-05T23:20:37.857923] [INFO] User logged in
+[2025-11-05T23:20:37.857966] [INFO] Configuration loaded
+[2025-11-05T23:20:37.857978] [WARN] Disk space low
+[2025-11-05T23:20:37.858022] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.857942] [INFO] Service initialized
+[2025-11-05T23:20:37.857938] [INFO] Request processed successfully
+[2025-11-05T23:20:37.858018] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.858026] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.857933] [INFO] Session started
+[2025-11-05T23:20:37.857992] [ERROR] Request failed
+[2025-11-05T23:20:37.857982] [WARN] Slow query performance

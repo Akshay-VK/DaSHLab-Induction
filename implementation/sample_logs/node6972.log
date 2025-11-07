@@ -1,0 +1,29 @@
+[2025-11-05T23:20:41.377950] [WARN] Timeout warning
+[2025-11-05T23:20:41.377902] [INFO] Request processed successfully
+[2025-11-05T23:20:41.377880] [INFO] Service initialized
+[2025-11-05T23:20:41.377946] [WARN] High memory usage detected
+[2025-11-05T23:20:41.377992] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.377961] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.377936] [WARN] Queue size growing
+[2025-11-05T23:20:41.377981] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.377973] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.377914] [INFO] Service initialized
+[2025-11-05T23:20:41.377965] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.377955] [ERROR] Disk read failed
+[2025-11-05T23:20:41.377906] [INFO] Request processed successfully
+[2025-11-05T23:20:41.377969] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.377918] [INFO] Database query executed
+[2025-11-05T23:20:41.377910] [INFO] Session started
+[2025-11-05T23:20:41.377926] [INFO] Service initialized
+[2025-11-05T23:20:41.377874] [INFO] User logged in
+[2025-11-05T23:20:41.377894] [INFO] User logged in
+[2025-11-05T23:20:41.377989] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.377850] [INFO] Cache hit
+[2025-11-05T23:20:41.377985] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.377977] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.377941] [WARN] High memory usage detected
+[2025-11-05T23:20:41.377931] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.377885] [INFO] Health check passed
+[2025-11-05T23:20:41.377922] [INFO] Transaction completed
+[2025-11-05T23:20:41.377889] [INFO] Health check passed
+[2025-11-05T23:20:41.377898] [INFO] User logged in

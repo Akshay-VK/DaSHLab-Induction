@@ -1,0 +1,36 @@
+[2025-11-05T23:20:43.379660] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.379669] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.379643] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.379695] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.379635] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.379606] [WARN] Connection retry attempt
+[2025-11-05T23:20:43.379625] [ERROR] Permission denied
+[2025-11-05T23:20:43.379611] [WARN] Slow query performance
+[2025-11-05T23:20:43.379629] [ERROR] File not found
+[2025-11-05T23:20:43.379574] [INFO] Cache hit
+[2025-11-05T23:20:43.379600] [INFO] Cache hit
+[2025-11-05T23:20:43.379561] [INFO] Connection established
+[2025-11-05T23:20:43.379657] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.379673] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.379552] [INFO] Configuration loaded
+[2025-11-05T23:20:43.379648] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.379691] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.379686] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.379616] [WARN] Rate limit approaching
+[2025-11-05T23:20:43.379652] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.379569] [INFO] User logged in
+[2025-11-05T23:20:43.379596] [INFO] Database query executed
+[2025-11-05T23:20:43.379588] [INFO] User logged in
+[2025-11-05T23:20:43.379565] [INFO] Request processed successfully
+[2025-11-05T23:20:43.379677] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.379541] [INFO] Transaction completed
+[2025-11-05T23:20:43.379514] [INFO] Cache hit
+[2025-11-05T23:20:43.379665] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.379579] [INFO] Configuration loaded
+[2025-11-05T23:20:43.379592] [INFO] Health check passed
+[2025-11-05T23:20:43.379583] [INFO] Health check passed
+[2025-11-05T23:20:43.379681] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.379620] [WARN] Connection retry attempt
+[2025-11-05T23:20:43.379639] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.379547] [INFO] Health check passed
+[2025-11-05T23:20:43.379556] [INFO] Service initialized

@@ -1,0 +1,35 @@
+[2025-11-05T23:20:24.184329] [WARN] Slow query performance
+[2025-11-05T23:20:24.184383] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.184393] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.184398] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.184194] [INFO] Connection established
+[2025-11-05T23:20:24.184204] [INFO] Request processed successfully
+[2025-11-05T23:20:24.184275] [INFO] Request processed successfully
+[2025-11-05T23:20:24.184292] [WARN] Slow query performance
+[2025-11-05T23:20:24.184170] [INFO] User logged in
+[2025-11-05T23:20:24.184266] [INFO] Configuration loaded
+[2025-11-05T23:20:24.184189] [INFO] Cache hit
+[2025-11-05T23:20:24.184348] [WARN] Timeout warning
+[2025-11-05T23:20:24.184199] [INFO] Health check passed
+[2025-11-05T23:20:24.184152] [INFO] Connection established
+[2025-11-05T23:20:24.184286] [WARN] Cache miss
+[2025-11-05T23:20:24.184387] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.184343] [WARN] Resource threshold approaching
+[2025-11-05T23:20:24.184370] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.184484] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.184359] [ERROR] Network timeout
+[2025-11-05T23:20:24.184364] [ERROR] Invalid input data
+[2025-11-05T23:20:24.184379] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.184492] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.184375] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.184175] [INFO] Connection established
+[2025-11-05T23:20:24.184125] [INFO] Request processed successfully
+[2025-11-05T23:20:24.184159] [INFO] Connection established
+[2025-11-05T23:20:24.184181] [INFO] Request processed successfully
+[2025-11-05T23:20:24.184208] [INFO] User logged in
+[2025-11-05T23:20:24.184165] [INFO] Session started
+[2025-11-05T23:20:24.184185] [INFO] Database query executed
+[2025-11-05T23:20:24.184353] [WARN] Deprecated API usage
+[2025-11-05T23:20:24.184297] [WARN] Timeout warning
+[2025-11-05T23:20:24.184337] [WARN] Disk space low
+[2025-11-05T23:20:24.184281] [WARN] High memory usage detected

@@ -1,0 +1,34 @@
+[2025-11-05T23:20:34.314097] [ERROR] Disk read failed
+[2025-11-05T23:20:34.314146] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.314129] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.313978] [INFO] Transaction completed
+[2025-11-05T23:20:34.314133] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.314051] [INFO] Service initialized
+[2025-11-05T23:20:34.314125] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.314063] [INFO] Cache hit
+[2025-11-05T23:20:34.314071] [INFO] Health check passed
+[2025-11-05T23:20:34.314043] [INFO] User logged in
+[2025-11-05T23:20:34.314107] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.314007] [INFO] Session started
+[2025-11-05T23:20:34.314077] [WARN] Disk space low
+[2025-11-05T23:20:34.314087] [WARN] Connection retry attempt
+[2025-11-05T23:20:34.314012] [INFO] Health check passed
+[2025-11-05T23:20:34.314141] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.314137] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.314026] [INFO] Transaction completed
+[2025-11-05T23:20:34.314039] [INFO] Database query executed
+[2025-11-05T23:20:34.314112] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.314117] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.314067] [INFO] Service initialized
+[2025-11-05T23:20:34.314017] [INFO] User logged in
+[2025-11-05T23:20:34.314092] [ERROR] Request failed
+[2025-11-05T23:20:34.314030] [INFO] Connection established
+[2025-11-05T23:20:34.314034] [INFO] Cache hit
+[2025-11-05T23:20:34.314022] [INFO] Configuration loaded
+[2025-11-05T23:20:34.314002] [INFO] Cache hit
+[2025-11-05T23:20:34.314059] [INFO] Configuration loaded
+[2025-11-05T23:20:34.314055] [INFO] Health check passed
+[2025-11-05T23:20:34.314121] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.314082] [WARN] Deprecated API usage
+[2025-11-05T23:20:34.314047] [INFO] Transaction completed
+[2025-11-05T23:20:34.314101] [ERROR] Memory allocation error

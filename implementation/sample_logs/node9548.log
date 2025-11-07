@@ -1,0 +1,22 @@
+[2025-11-05T23:20:52.267871] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.267800] [INFO] Session started
+[2025-11-05T23:20:52.267827] [INFO] User logged in
+[2025-11-05T23:20:52.267863] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.267795] [INFO] Configuration loaded
+[2025-11-05T23:20:52.267831] [INFO] User logged in
+[2025-11-05T23:20:52.267814] [INFO] Session started
+[2025-11-05T23:20:52.267783] [INFO] Session started
+[2025-11-05T23:20:52.267853] [ERROR] Permission denied
+[2025-11-05T23:20:52.267790] [INFO] Database query executed
+[2025-11-05T23:20:52.267875] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.267841] [WARN] Connection retry attempt
+[2025-11-05T23:20:52.267810] [INFO] User logged in
+[2025-11-05T23:20:52.267823] [INFO] Database query executed
+[2025-11-05T23:20:52.267847] [ERROR] Network timeout
+[2025-11-05T23:20:52.267867] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.267756] [INFO] Session started
+[2025-11-05T23:20:52.267836] [INFO] Service initialized
+[2025-11-05T23:20:52.267880] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.267805] [INFO] Health check passed
+[2025-11-05T23:20:52.267858] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.267818] [INFO] Request processed successfully

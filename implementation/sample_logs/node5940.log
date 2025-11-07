@@ -1,0 +1,36 @@
+[2025-11-05T23:20:37.451410] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.451281] [INFO] Configuration loaded
+[2025-11-05T23:20:37.451393] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.451296] [INFO] User logged in
+[2025-11-05T23:20:37.451389] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.451384] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.451331] [INFO] Transaction completed
+[2025-11-05T23:20:37.451419] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.451423] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.451367] [ERROR] Request failed
+[2025-11-05T23:20:37.451341] [WARN] High memory usage detected
+[2025-11-05T23:20:37.451300] [INFO] Database query executed
+[2025-11-05T23:20:37.451352] [WARN] Disk space low
+[2025-11-05T23:20:37.451309] [INFO] Cache hit
+[2025-11-05T23:20:37.451372] [ERROR] Database connection lost
+[2025-11-05T23:20:37.451318] [INFO] Cache hit
+[2025-11-05T23:20:37.451335] [INFO] Service initialized
+[2025-11-05T23:20:37.451379] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.451433] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.451291] [INFO] Cache hit
+[2025-11-05T23:20:37.451414] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.451361] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.451270] [INFO] Service initialized
+[2025-11-05T23:20:37.451322] [INFO] Configuration loaded
+[2025-11-05T23:20:37.451357] [WARN] Deprecated API usage
+[2025-11-05T23:20:37.451326] [INFO] Service initialized
+[2025-11-05T23:20:37.451313] [INFO] Transaction completed
+[2025-11-05T23:20:37.451347] [WARN] High memory usage detected
+[2025-11-05T23:20:37.451398] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.451402] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.451406] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.451276] [INFO] User logged in
+[2025-11-05T23:20:37.451428] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.451286] [INFO] User logged in
+[2025-11-05T23:20:37.451304] [INFO] Transaction completed
+[2025-11-05T23:20:37.451243] [INFO] Service initialized

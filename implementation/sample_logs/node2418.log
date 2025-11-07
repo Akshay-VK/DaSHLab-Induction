@@ -1,0 +1,26 @@
+[2025-11-05T23:20:22.727505] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.727438] [INFO] Health check passed
+[2025-11-05T23:20:22.727428] [INFO] Cache hit
+[2025-11-05T23:20:22.727518] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.727468] [INFO] Health check passed
+[2025-11-05T23:20:22.727433] [INFO] Health check passed
+[2025-11-05T23:20:22.727442] [INFO] Configuration loaded
+[2025-11-05T23:20:22.727472] [INFO] Connection established
+[2025-11-05T23:20:22.727531] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.727514] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.727526] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.727464] [INFO] Session started
+[2025-11-05T23:20:22.727309] [INFO] Health check passed
+[2025-11-05T23:20:22.727446] [INFO] Cache hit
+[2025-11-05T23:20:22.727476] [INFO] Configuration loaded
+[2025-11-05T23:20:22.727455] [INFO] User logged in
+[2025-11-05T23:20:22.727487] [WARN] Cache miss
+[2025-11-05T23:20:22.727481] [INFO] Transaction completed
+[2025-11-05T23:20:22.727460] [INFO] Session started
+[2025-11-05T23:20:22.727451] [INFO] Service initialized
+[2025-11-05T23:20:22.727522] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.727337] [INFO] Transaction completed
+[2025-11-05T23:20:22.727419] [INFO] Session started
+[2025-11-05T23:20:22.727494] [ERROR] Service unavailable
+[2025-11-05T23:20:22.727499] [ERROR] File not found
+[2025-11-05T23:20:22.727509] [DEBUG] HTTP request headers parsed

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:19.734352] [INFO] Connection established
+[2025-11-05T23:20:19.734396] [INFO] User logged in
+[2025-11-05T23:20:19.734496] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.734411] [WARN] Rate limit approaching
+[2025-11-05T23:20:19.734432] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.734445] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.734422] [ERROR] Memory allocation error
+[2025-11-05T23:20:19.734339] [INFO] Health check passed
+[2025-11-05T23:20:19.734426] [ERROR] Permission denied
+[2025-11-05T23:20:19.734375] [INFO] Health check passed
+[2025-11-05T23:20:19.734489] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.734416] [WARN] Timeout warning
+[2025-11-05T23:20:19.734367] [INFO] User logged in
+[2025-11-05T23:20:19.734500] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.734504] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.734388] [INFO] Request processed successfully
+[2025-11-05T23:20:19.734362] [INFO] User logged in
+[2025-11-05T23:20:19.734371] [INFO] Connection established
+[2025-11-05T23:20:19.734357] [INFO] Transaction completed
+[2025-11-05T23:20:19.734508] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.734312] [INFO] Connection established
+[2025-11-05T23:20:19.734379] [INFO] Cache hit
+[2025-11-05T23:20:19.734441] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.734346] [INFO] Health check passed
+[2025-11-05T23:20:19.734437] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.734384] [INFO] User logged in
+[2025-11-05T23:20:19.734400] [INFO] Transaction completed
+[2025-11-05T23:20:19.734406] [WARN] Cache miss
+[2025-11-05T23:20:19.734392] [INFO] Connection established

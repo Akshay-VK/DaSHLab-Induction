@@ -1,0 +1,30 @@
+[2025-11-05T23:20:41.232808] [WARN] Slow query performance
+[2025-11-05T23:20:41.232779] [INFO] Transaction completed
+[2025-11-05T23:20:41.232732] [INFO] Connection established
+[2025-11-05T23:20:41.232775] [INFO] Cache hit
+[2025-11-05T23:20:41.232803] [INFO] Connection established
+[2025-11-05T23:20:41.232812] [WARN] Disk space low
+[2025-11-05T23:20:41.232772] [INFO] User logged in
+[2025-11-05T23:20:41.232833] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.232763] [INFO] Transaction completed
+[2025-11-05T23:20:41.232849] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.232816] [WARN] Cache miss
+[2025-11-05T23:20:41.232796] [INFO] Request processed successfully
+[2025-11-05T23:20:41.232754] [INFO] Health check passed
+[2025-11-05T23:20:41.232841] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.232821] [ERROR] Database connection lost
+[2025-11-05T23:20:41.232863] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.232759] [INFO] Database query executed
+[2025-11-05T23:20:41.232768] [INFO] Service initialized
+[2025-11-05T23:20:41.232845] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.232852] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.232790] [INFO] Service initialized
+[2025-11-05T23:20:41.232825] [ERROR] Invalid input data
+[2025-11-05T23:20:41.232856] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.232793] [INFO] Request processed successfully
+[2025-11-05T23:20:41.232837] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.232829] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.232860] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.232800] [INFO] Request processed successfully
+[2025-11-05T23:20:41.232783] [INFO] Database query executed
+[2025-11-05T23:20:41.232786] [INFO] Cache hit

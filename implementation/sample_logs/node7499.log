@@ -1,0 +1,35 @@
+[2025-11-05T23:20:43.593985] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.593991] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.593996] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.593877] [INFO] Cache hit
+[2025-11-05T23:20:43.593849] [INFO] Session started
+[2025-11-05T23:20:43.594020] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.594039] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.593951] [WARN] Deprecated API usage
+[2025-11-05T23:20:43.594034] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.593945] [INFO] Cache hit
+[2025-11-05T23:20:43.593923] [INFO] Session started
+[2025-11-05T23:20:43.594015] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.593909] [INFO] Session started
+[2025-11-05T23:20:43.594006] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.593888] [INFO] User logged in
+[2025-11-05T23:20:43.593883] [INFO] Database query executed
+[2025-11-05T23:20:43.594001] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.593918] [INFO] Service initialized
+[2025-11-05T23:20:43.593914] [INFO] Configuration loaded
+[2025-11-05T23:20:43.593956] [WARN] Slow query performance
+[2025-11-05T23:20:43.593970] [WARN] Rate limit approaching
+[2025-11-05T23:20:43.593931] [INFO] Session started
+[2025-11-05T23:20:43.593941] [INFO] User logged in
+[2025-11-05T23:20:43.593904] [INFO] Service initialized
+[2025-11-05T23:20:43.593966] [WARN] Cache miss
+[2025-11-05T23:20:43.593927] [INFO] Configuration loaded
+[2025-11-05T23:20:43.593962] [WARN] Slow query performance
+[2025-11-05T23:20:43.593893] [INFO] Transaction completed
+[2025-11-05T23:20:43.593936] [INFO] Service initialized
+[2025-11-05T23:20:43.594029] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.594025] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.593899] [INFO] Transaction completed
+[2025-11-05T23:20:43.594011] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.593980] [ERROR] Permission denied
+[2025-11-05T23:20:43.593975] [ERROR] Database connection lost

@@ -1,0 +1,33 @@
+[2025-11-05T23:20:33.676782] [WARN] Queue size growing
+[2025-11-05T23:20:33.676761] [INFO] Session started
+[2025-11-05T23:20:33.676765] [INFO] Request processed successfully
+[2025-11-05T23:20:33.676787] [WARN] Queue size growing
+[2025-11-05T23:20:33.676845] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.676747] [INFO] Health check passed
+[2025-11-05T23:20:33.676719] [INFO] Database query executed
+[2025-11-05T23:20:33.676801] [ERROR] Memory allocation error
+[2025-11-05T23:20:33.676854] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.676791] [WARN] High memory usage detected
+[2025-11-05T23:20:33.676752] [INFO] Connection established
+[2025-11-05T23:20:33.676715] [INFO] Request processed successfully
+[2025-11-05T23:20:33.676849] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.676827] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.676756] [INFO] Connection established
+[2025-11-05T23:20:33.676836] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.676772] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.676818] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.676733] [INFO] Database query executed
+[2025-11-05T23:20:33.676743] [INFO] Configuration loaded
+[2025-11-05T23:20:33.676703] [INFO] Health check passed
+[2025-11-05T23:20:33.676808] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.676777] [WARN] High memory usage detected
+[2025-11-05T23:20:33.676840] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.676823] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.676677] [INFO] Transaction completed
+[2025-11-05T23:20:33.676738] [INFO] Cache hit
+[2025-11-05T23:20:33.676796] [ERROR] Network timeout
+[2025-11-05T23:20:33.676813] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.676709] [INFO] Transaction completed
+[2025-11-05T23:20:33.676725] [INFO] Connection established
+[2025-11-05T23:20:33.676729] [INFO] Health check passed
+[2025-11-05T23:20:33.676832] [DEBUG] Loop iteration: 15

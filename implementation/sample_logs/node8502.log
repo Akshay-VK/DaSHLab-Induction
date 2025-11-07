@@ -1,0 +1,28 @@
+[2025-11-05T23:20:47.660636] [INFO] Database query executed
+[2025-11-05T23:20:47.660667] [ERROR] Permission denied
+[2025-11-05T23:20:47.660617] [INFO] Request processed successfully
+[2025-11-05T23:20:47.660702] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.660706] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.660647] [WARN] Cache miss
+[2025-11-05T23:20:47.660628] [INFO] Health check passed
+[2025-11-05T23:20:47.660692] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.660625] [INFO] Database query executed
+[2025-11-05T23:20:47.660585] [INFO] Cache hit
+[2025-11-05T23:20:47.660659] [WARN] Timeout warning
+[2025-11-05T23:20:47.660655] [WARN] Queue size growing
+[2025-11-05T23:20:47.660621] [INFO] Connection established
+[2025-11-05T23:20:47.660632] [INFO] Transaction completed
+[2025-11-05T23:20:47.660688] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.660662] [WARN] Cache miss
+[2025-11-05T23:20:47.660613] [INFO] User logged in
+[2025-11-05T23:20:47.660681] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.660695] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.660609] [INFO] User logged in
+[2025-11-05T23:20:47.660643] [INFO] Connection established
+[2025-11-05T23:20:47.660639] [INFO] Database query executed
+[2025-11-05T23:20:47.660685] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.660709] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.660671] [ERROR] Invalid input data
+[2025-11-05T23:20:47.660699] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.660652] [WARN] Slow query performance
+[2025-11-05T23:20:47.660676] [ERROR] Authentication failed

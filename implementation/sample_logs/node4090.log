@@ -1,0 +1,34 @@
+[2025-11-05T23:20:29.997495] [INFO] User logged in
+[2025-11-05T23:20:29.997440] [INFO] Service initialized
+[2025-11-05T23:20:29.997530] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.997406] [INFO] Database query executed
+[2025-11-05T23:20:29.997534] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.997506] [WARN] Slow query performance
+[2025-11-05T23:20:29.997420] [INFO] Session started
+[2025-11-05T23:20:29.997436] [INFO] Transaction completed
+[2025-11-05T23:20:29.997444] [INFO] Transaction completed
+[2025-11-05T23:20:29.997579] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.997575] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.997565] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.997432] [INFO] Service initialized
+[2025-11-05T23:20:29.997415] [INFO] Database query executed
+[2025-11-05T23:20:29.997428] [INFO] Connection established
+[2025-11-05T23:20:29.997511] [WARN] Connection retry attempt
+[2025-11-05T23:20:29.997424] [INFO] Session started
+[2025-11-05T23:20:29.997400] [INFO] Database query executed
+[2025-11-05T23:20:29.997560] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.997552] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.997547] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.997377] [INFO] Request processed successfully
+[2025-11-05T23:20:29.997570] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.997500] [INFO] Health check passed
+[2025-11-05T23:20:29.997448] [INFO] Configuration loaded
+[2025-11-05T23:20:29.997543] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.997411] [INFO] Connection established
+[2025-11-05T23:20:29.997452] [INFO] Request processed successfully
+[2025-11-05T23:20:29.997525] [ERROR] Authentication failed
+[2025-11-05T23:20:29.997516] [WARN] Slow query performance
+[2025-11-05T23:20:29.997556] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.997538] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.997584] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.997519] [WARN] Deprecated API usage

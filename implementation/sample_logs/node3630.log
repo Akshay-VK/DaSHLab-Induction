@@ -1,0 +1,27 @@
+[2025-11-05T23:20:28.264590] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.264574] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.264544] [WARN] Timeout warning
+[2025-11-05T23:20:28.264526] [INFO] Service initialized
+[2025-11-05T23:20:28.264518] [INFO] Configuration loaded
+[2025-11-05T23:20:28.264495] [INFO] Session started
+[2025-11-05T23:20:28.264509] [INFO] Database query executed
+[2025-11-05T23:20:28.264554] [ERROR] Network timeout
+[2025-11-05T23:20:28.264540] [WARN] High memory usage detected
+[2025-11-05T23:20:28.264522] [INFO] Transaction completed
+[2025-11-05T23:20:28.264503] [INFO] User logged in
+[2025-11-05T23:20:28.264513] [INFO] Health check passed
+[2025-11-05T23:20:28.264481] [INFO] Session started
+[2025-11-05T23:20:28.264567] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.264491] [INFO] Session started
+[2025-11-05T23:20:28.264563] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.264570] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.264550] [ERROR] Disk read failed
+[2025-11-05T23:20:28.264456] [INFO] Cache hit
+[2025-11-05T23:20:28.264578] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.264536] [WARN] Resource threshold approaching
+[2025-11-05T23:20:28.264532] [WARN] Disk space low
+[2025-11-05T23:20:28.264486] [INFO] Configuration loaded
+[2025-11-05T23:20:28.264581] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.264586] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.264559] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.264500] [INFO] Request processed successfully

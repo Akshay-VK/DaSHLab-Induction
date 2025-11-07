@@ -1,0 +1,33 @@
+[2025-11-05T23:20:46.715797] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.715739] [INFO] Transaction completed
+[2025-11-05T23:20:46.715695] [INFO] Session started
+[2025-11-05T23:20:46.715734] [INFO] Transaction completed
+[2025-11-05T23:20:46.715727] [INFO] Health check passed
+[2025-11-05T23:20:46.715813] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.715778] [ERROR] Database connection lost
+[2025-11-05T23:20:46.715824] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.715704] [INFO] Request processed successfully
+[2025-11-05T23:20:46.715817] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.715801] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.715709] [INFO] Session started
+[2025-11-05T23:20:46.715722] [INFO] Database query executed
+[2025-11-05T23:20:46.715685] [INFO] Service initialized
+[2025-11-05T23:20:46.715820] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.715763] [WARN] Resource threshold approaching
+[2025-11-05T23:20:46.715782] [ERROR] Request failed
+[2025-11-05T23:20:46.715805] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.715809] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.715753] [WARN] Resource threshold approaching
+[2025-11-05T23:20:46.715747] [INFO] Service initialized
+[2025-11-05T23:20:46.715786] [ERROR] Request failed
+[2025-11-05T23:20:46.715791] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.715767] [WARN] Timeout warning
+[2025-11-05T23:20:46.715713] [INFO] Cache hit
+[2025-11-05T23:20:46.715731] [INFO] Request processed successfully
+[2025-11-05T23:20:46.715691] [INFO] Health check passed
+[2025-11-05T23:20:46.715660] [INFO] Service initialized
+[2025-11-05T23:20:46.715743] [INFO] Request processed successfully
+[2025-11-05T23:20:46.715758] [WARN] Cache miss
+[2025-11-05T23:20:46.715773] [ERROR] File not found
+[2025-11-05T23:20:46.715718] [INFO] Transaction completed
+[2025-11-05T23:20:46.715700] [INFO] Request processed successfully

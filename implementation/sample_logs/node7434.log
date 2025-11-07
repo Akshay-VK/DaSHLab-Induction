@@ -1,0 +1,36 @@
+[2025-11-05T23:20:43.098079] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.098083] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.098016] [WARN] Cache miss
+[2025-11-05T23:20:43.097999] [INFO] Session started
+[2025-11-05T23:20:43.097982] [INFO] Connection established
+[2025-11-05T23:20:43.097985] [INFO] Health check passed
+[2025-11-05T23:20:43.098066] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.098072] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.097966] [INFO] Health check passed
+[2025-11-05T23:20:43.098032] [WARN] Connection retry attempt
+[2025-11-05T23:20:43.097996] [INFO] Connection established
+[2025-11-05T23:20:43.098045] [WARN] Timeout warning
+[2025-11-05T23:20:43.098021] [WARN] Rate limit approaching
+[2025-11-05T23:20:43.098006] [INFO] Service initialized
+[2025-11-05T23:20:43.097978] [INFO] Transaction completed
+[2025-11-05T23:20:43.098042] [WARN] Slow query performance
+[2025-11-05T23:20:43.098028] [WARN] Slow query performance
+[2025-11-05T23:20:43.098053] [ERROR] Authentication failed
+[2025-11-05T23:20:43.098069] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.098049] [WARN] Connection retry attempt
+[2025-11-05T23:20:43.098012] [INFO] Transaction completed
+[2025-11-05T23:20:43.098058] [ERROR] Network timeout
+[2025-11-05T23:20:43.097992] [INFO] Configuration loaded
+[2025-11-05T23:20:43.098086] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.098075] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.098036] [WARN] High memory usage detected
+[2025-11-05T23:20:43.098009] [INFO] Service initialized
+[2025-11-05T23:20:43.097942] [INFO] Service initialized
+[2025-11-05T23:20:43.098039] [WARN] Timeout warning
+[2025-11-05T23:20:43.098002] [INFO] User logged in
+[2025-11-05T23:20:43.098025] [WARN] Queue size growing
+[2025-11-05T23:20:43.097989] [INFO] Session started
+[2025-11-05T23:20:43.097970] [INFO] User logged in
+[2025-11-05T23:20:43.098090] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.098062] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.097974] [INFO] Cache hit

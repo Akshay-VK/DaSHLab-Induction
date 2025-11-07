@@ -1,0 +1,28 @@
+[2025-11-05T23:20:25.299931] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.299935] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.299843] [INFO] Transaction completed
+[2025-11-05T23:20:25.299867] [INFO] Connection established
+[2025-11-05T23:20:25.299910] [WARN] Deprecated API usage
+[2025-11-05T23:20:25.299884] [INFO] Transaction completed
+[2025-11-05T23:20:25.299957] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.299905] [WARN] Deprecated API usage
+[2025-11-05T23:20:25.299962] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.299849] [INFO] Configuration loaded
+[2025-11-05T23:20:25.299948] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.299875] [INFO] Configuration loaded
+[2025-11-05T23:20:25.299888] [INFO] User logged in
+[2025-11-05T23:20:25.299925] [ERROR] Disk read failed
+[2025-11-05T23:20:25.299939] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.299921] [ERROR] Network timeout
+[2025-11-05T23:20:25.299871] [INFO] Health check passed
+[2025-11-05T23:20:25.299952] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.299896] [INFO] Cache hit
+[2025-11-05T23:20:25.299858] [INFO] Health check passed
+[2025-11-05T23:20:25.299880] [INFO] Connection established
+[2025-11-05T23:20:25.299819] [INFO] Configuration loaded
+[2025-11-05T23:20:25.299916] [ERROR] Database connection lost
+[2025-11-05T23:20:25.299854] [INFO] Health check passed
+[2025-11-05T23:20:25.299892] [INFO] User logged in
+[2025-11-05T23:20:25.299944] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.299900] [INFO] User logged in
+[2025-11-05T23:20:25.299863] [INFO] Session started

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:15.366547] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.366539] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.366459] [INFO] Request processed successfully
+[2025-11-05T23:20:15.366463] [INFO] User logged in
+[2025-11-05T23:20:15.366500] [WARN] High memory usage detected
+[2025-11-05T23:20:15.366485] [INFO] Configuration loaded
+[2025-11-05T23:20:15.366516] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.366427] [INFO] Connection established
+[2025-11-05T23:20:15.366437] [INFO] User logged in
+[2025-11-05T23:20:15.366521] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.366481] [INFO] Transaction completed
+[2025-11-05T23:20:15.366534] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.366476] [INFO] Health check passed
+[2025-11-05T23:20:15.366506] [ERROR] Permission denied
+[2025-11-05T23:20:15.366490] [WARN] Deprecated API usage
+[2025-11-05T23:20:15.366401] [INFO] Connection established
+[2025-11-05T23:20:15.366472] [INFO] Service initialized
+[2025-11-05T23:20:15.366432] [INFO] Connection established
+[2025-11-05T23:20:15.366455] [INFO] Service initialized
+[2025-11-05T23:20:15.366496] [WARN] Cache miss
+[2025-11-05T23:20:15.366552] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.366450] [INFO] Configuration loaded
+[2025-11-05T23:20:15.366530] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.366468] [INFO] Session started
+[2025-11-05T23:20:15.366526] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.366543] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.366446] [INFO] Cache hit
+[2025-11-05T23:20:15.366442] [INFO] Configuration loaded
+[2025-11-05T23:20:15.366511] [ERROR] Invalid input data

@@ -1,0 +1,38 @@
+[2025-11-05T23:20:21.148006] [WARN] Disk space low
+[2025-11-05T23:20:21.147983] [INFO] Service initialized
+[2025-11-05T23:20:21.147970] [INFO] Transaction completed
+[2025-11-05T23:20:21.147980] [INFO] Health check passed
+[2025-11-05T23:20:21.148003] [WARN] Disk space low
+[2025-11-05T23:20:21.147950] [INFO] Transaction completed
+[2025-11-05T23:20:21.147960] [INFO] Session started
+[2025-11-05T23:20:21.148054] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.148059] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.148000] [WARN] Cache miss
+[2025-11-05T23:20:21.148028] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.147953] [INFO] Transaction completed
+[2025-11-05T23:20:21.148038] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.147997] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.147945] [INFO] Connection established
+[2025-11-05T23:20:21.147977] [INFO] Session started
+[2025-11-05T23:20:21.147957] [INFO] Connection established
+[2025-11-05T23:20:21.148065] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.147964] [INFO] Database query executed
+[2025-11-05T23:20:21.148024] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.148048] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.148013] [ERROR] Network timeout
+[2025-11-05T23:20:21.148041] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.148017] [ERROR] Disk read failed
+[2025-11-05T23:20:21.148031] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.148051] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.147986] [INFO] Transaction completed
+[2025-11-05T23:20:21.147967] [INFO] Transaction completed
+[2025-11-05T23:20:21.148035] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.147993] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.148009] [WARN] Queue size growing
+[2025-11-05T23:20:21.148020] [ERROR] Memory allocation error
+[2025-11-05T23:20:21.147973] [INFO] Cache hit
+[2025-11-05T23:20:21.147989] [INFO] User logged in
+[2025-11-05T23:20:21.148062] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.148057] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.148045] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.147921] [INFO] Transaction completed

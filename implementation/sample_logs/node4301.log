@@ -1,0 +1,27 @@
+[2025-11-05T23:20:30.886259] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.886178] [INFO] User logged in
+[2025-11-05T23:20:30.886173] [INFO] Session started
+[2025-11-05T23:20:30.886204] [INFO] Health check passed
+[2025-11-05T23:20:30.886217] [INFO] Configuration loaded
+[2025-11-05T23:20:30.886251] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.886267] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.886200] [INFO] Connection established
+[2025-11-05T23:20:30.886255] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.886284] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.886183] [INFO] Connection established
+[2025-11-05T23:20:30.886271] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.886233] [INFO] Health check passed
+[2025-11-05T23:20:30.886221] [INFO] User logged in
+[2025-11-05T23:20:30.886149] [INFO] User logged in
+[2025-11-05T23:20:30.886213] [INFO] Database query executed
+[2025-11-05T23:20:30.886187] [INFO] Health check passed
+[2025-11-05T23:20:30.886192] [INFO] Database query executed
+[2025-11-05T23:20:30.886225] [INFO] Connection established
+[2025-11-05T23:20:30.886196] [INFO] Transaction completed
+[2025-11-05T23:20:30.886229] [INFO] Health check passed
+[2025-11-05T23:20:30.886239] [WARN] Cache miss
+[2025-11-05T23:20:30.886209] [INFO] User logged in
+[2025-11-05T23:20:30.886245] [ERROR] Request failed
+[2025-11-05T23:20:30.886276] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.886263] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.886280] [DEBUG] Variable value: x=42

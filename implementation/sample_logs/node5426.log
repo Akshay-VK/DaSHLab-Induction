@@ -1,0 +1,27 @@
+[2025-11-05T23:20:35.213694] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.213665] [INFO] Health check passed
+[2025-11-05T23:20:35.213702] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.213723] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.213658] [INFO] Session started
+[2025-11-05T23:20:35.213632] [INFO] Configuration loaded
+[2025-11-05T23:20:35.213688] [ERROR] Network timeout
+[2025-11-05T23:20:35.213698] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.213712] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.213682] [WARN] Queue size growing
+[2025-11-05T23:20:35.213636] [INFO] Transaction completed
+[2025-11-05T23:20:35.213602] [INFO] Database query executed
+[2025-11-05T23:20:35.213671] [INFO] Request processed successfully
+[2025-11-05T23:20:35.213640] [INFO] Transaction completed
+[2025-11-05T23:20:35.213651] [INFO] Transaction completed
+[2025-11-05T23:20:35.213709] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.213668] [INFO] Cache hit
+[2025-11-05T23:20:35.213654] [INFO] Cache hit
+[2025-11-05T23:20:35.213627] [INFO] User logged in
+[2025-11-05T23:20:35.213716] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.213705] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.213647] [INFO] Transaction completed
+[2025-11-05T23:20:35.213674] [INFO] Configuration loaded
+[2025-11-05T23:20:35.213661] [INFO] Database query executed
+[2025-11-05T23:20:35.213720] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.213644] [INFO] Session started
+[2025-11-05T23:20:35.213678] [INFO] Session started

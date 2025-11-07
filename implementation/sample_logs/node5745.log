@@ -1,0 +1,29 @@
+[2025-11-05T23:20:36.285393] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.285273] [INFO] Request processed successfully
+[2025-11-05T23:20:36.285342] [WARN] High memory usage detected
+[2025-11-05T23:20:36.285289] [INFO] Health check passed
+[2025-11-05T23:20:36.285267] [INFO] Connection established
+[2025-11-05T23:20:36.285259] [INFO] Cache hit
+[2025-11-05T23:20:36.285309] [INFO] Cache hit
+[2025-11-05T23:20:36.285359] [WARN] Disk space low
+[2025-11-05T23:20:36.285365] [WARN] Queue size growing
+[2025-11-05T23:20:36.285408] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.285278] [INFO] Cache hit
+[2025-11-05T23:20:36.285325] [INFO] Cache hit
+[2025-11-05T23:20:36.285388] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.285371] [ERROR] Disk read failed
+[2025-11-05T23:20:36.285352] [WARN] Timeout warning
+[2025-11-05T23:20:36.285378] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.285403] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.285398] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.285319] [INFO] User logged in
+[2025-11-05T23:20:36.285298] [INFO] Database query executed
+[2025-11-05T23:20:36.285294] [INFO] Cache hit
+[2025-11-05T23:20:36.285330] [INFO] Connection established
+[2025-11-05T23:20:36.285314] [INFO] Transaction completed
+[2025-11-05T23:20:36.285284] [INFO] Database query executed
+[2025-11-05T23:20:36.285230] [INFO] Session started
+[2025-11-05T23:20:36.285383] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.285304] [INFO] Session started
+[2025-11-05T23:20:36.285336] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.285347] [WARN] Queue size growing

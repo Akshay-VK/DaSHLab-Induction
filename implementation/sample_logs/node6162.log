@@ -1,0 +1,34 @@
+[2025-11-05T23:20:38.393795] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.393697] [INFO] User logged in
+[2025-11-05T23:20:38.393714] [INFO] Request processed successfully
+[2025-11-05T23:20:38.393786] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.393741] [INFO] Cache hit
+[2025-11-05T23:20:38.393678] [INFO] User logged in
+[2025-11-05T23:20:38.393692] [INFO] Request processed successfully
+[2025-11-05T23:20:38.393807] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.393766] [WARN] Cache miss
+[2025-11-05T23:20:38.393719] [INFO] Request processed successfully
+[2025-11-05T23:20:38.393814] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.393652] [INFO] Service initialized
+[2025-11-05T23:20:38.393701] [INFO] User logged in
+[2025-11-05T23:20:38.393781] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.393752] [WARN] Cache miss
+[2025-11-05T23:20:38.393728] [INFO] Connection established
+[2025-11-05T23:20:38.393770] [WARN] Cache miss
+[2025-11-05T23:20:38.393818] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.393683] [INFO] Health check passed
+[2025-11-05T23:20:38.393803] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.393810] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.393733] [INFO] Service initialized
+[2025-11-05T23:20:38.393822] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.393775] [ERROR] Memory allocation error
+[2025-11-05T23:20:38.393688] [INFO] Configuration loaded
+[2025-11-05T23:20:38.393709] [INFO] User logged in
+[2025-11-05T23:20:38.393705] [INFO] Health check passed
+[2025-11-05T23:20:38.393762] [WARN] Cache miss
+[2025-11-05T23:20:38.393790] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.393724] [INFO] User logged in
+[2025-11-05T23:20:38.393758] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.393736] [INFO] Session started
+[2025-11-05T23:20:38.393799] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.393746] [INFO] Service initialized

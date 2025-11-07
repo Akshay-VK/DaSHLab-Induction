@@ -1,0 +1,29 @@
+[2025-11-05T23:20:32.175157] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.175129] [ERROR] Service unavailable
+[2025-11-05T23:20:32.175124] [ERROR] File not found
+[2025-11-05T23:20:32.175134] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.175050] [INFO] Health check passed
+[2025-11-05T23:20:32.175040] [INFO] Configuration loaded
+[2025-11-05T23:20:32.175096] [INFO] Health check passed
+[2025-11-05T23:20:32.175072] [INFO] Request processed successfully
+[2025-11-05T23:20:32.175140] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.175153] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.175148] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.175045] [INFO] Service initialized
+[2025-11-05T23:20:32.175144] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:32.175162] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.175067] [INFO] Request processed successfully
+[2025-11-05T23:20:32.175013] [INFO] Session started
+[2025-11-05T23:20:32.175111] [WARN] Rate limit approaching
+[2025-11-05T23:20:32.175054] [INFO] Transaction completed
+[2025-11-05T23:20:32.175105] [WARN] Rate limit approaching
+[2025-11-05T23:20:32.175059] [INFO] User logged in
+[2025-11-05T23:20:32.175119] [WARN] Deprecated API usage
+[2025-11-05T23:20:32.175088] [INFO] User logged in
+[2025-11-05T23:20:32.175115] [WARN] Cache miss
+[2025-11-05T23:20:32.175100] [INFO] Health check passed
+[2025-11-05T23:20:32.175084] [INFO] Health check passed
+[2025-11-05T23:20:32.175092] [INFO] User logged in
+[2025-11-05T23:20:32.175080] [INFO] Transaction completed
+[2025-11-05T23:20:32.175063] [INFO] Health check passed
+[2025-11-05T23:20:32.175076] [INFO] Request processed successfully

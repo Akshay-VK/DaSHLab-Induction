@@ -1,0 +1,32 @@
+[2025-11-05T23:20:46.052246] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.052201] [ERROR] Request failed
+[2025-11-05T23:20:46.052196] [WARN] Cache miss
+[2025-11-05T23:20:46.052187] [WARN] Disk space low
+[2025-11-05T23:20:46.052118] [INFO] Configuration loaded
+[2025-11-05T23:20:46.052226] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.052165] [INFO] Health check passed
+[2025-11-05T23:20:46.052129] [INFO] Service initialized
+[2025-11-05T23:20:46.052222] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.052123] [INFO] Session started
+[2025-11-05T23:20:46.052144] [INFO] User logged in
+[2025-11-05T23:20:46.052215] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.052173] [INFO] Database query executed
+[2025-11-05T23:20:46.052218] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.052149] [INFO] Cache hit
+[2025-11-05T23:20:46.052112] [INFO] Session started
+[2025-11-05T23:20:46.052140] [INFO] Transaction completed
+[2025-11-05T23:20:46.052183] [WARN] High memory usage detected
+[2025-11-05T23:20:46.052153] [INFO] Session started
+[2025-11-05T23:20:46.052242] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.052234] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.052086] [INFO] Session started
+[2025-11-05T23:20:46.052178] [WARN] Connection retry attempt
+[2025-11-05T23:20:46.052162] [INFO] Service initialized
+[2025-11-05T23:20:46.052169] [INFO] Configuration loaded
+[2025-11-05T23:20:46.052157] [INFO] Transaction completed
+[2025-11-05T23:20:46.052205] [ERROR] Permission denied
+[2025-11-05T23:20:46.052230] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.052210] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.052238] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.052192] [WARN] Cache miss
+[2025-11-05T23:20:46.052133] [INFO] Database query executed

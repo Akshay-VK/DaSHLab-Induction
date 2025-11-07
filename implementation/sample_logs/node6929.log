@@ -1,0 +1,36 @@
+[2025-11-05T23:20:41.286591] [INFO] Service initialized
+[2025-11-05T23:20:41.286605] [WARN] Disk space low
+[2025-11-05T23:20:41.286653] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.286579] [INFO] Service initialized
+[2025-11-05T23:20:41.286632] [ERROR] Invalid input data
+[2025-11-05T23:20:41.286646] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.286619] [WARN] High memory usage detected
+[2025-11-05T23:20:41.286676] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.286642] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.286623] [WARN] High memory usage detected
+[2025-11-05T23:20:41.286612] [WARN] Queue size growing
+[2025-11-05T23:20:41.286661] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.286628] [ERROR] Permission denied
+[2025-11-05T23:20:41.286609] [WARN] High memory usage detected
+[2025-11-05T23:20:41.286657] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.286564] [INFO] Connection established
+[2025-11-05T23:20:41.286616] [WARN] High memory usage detected
+[2025-11-05T23:20:41.286679] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.286637] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.286594] [INFO] Database query executed
+[2025-11-05T23:20:41.286513] [INFO] Health check passed
+[2025-11-05T23:20:41.286583] [INFO] Transaction completed
+[2025-11-05T23:20:41.286572] [INFO] Service initialized
+[2025-11-05T23:20:41.286553] [INFO] Cache hit
+[2025-11-05T23:20:41.286671] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.286549] [INFO] Database query executed
+[2025-11-05T23:20:41.286560] [INFO] User logged in
+[2025-11-05T23:20:41.286576] [INFO] Database query executed
+[2025-11-05T23:20:41.286545] [INFO] Session started
+[2025-11-05T23:20:41.286568] [INFO] Session started
+[2025-11-05T23:20:41.286557] [INFO] User logged in
+[2025-11-05T23:20:41.286600] [WARN] High memory usage detected
+[2025-11-05T23:20:41.286539] [INFO] Transaction completed
+[2025-11-05T23:20:41.286587] [INFO] Configuration loaded
+[2025-11-05T23:20:41.286665] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.286649] [DEBUG] Loop iteration: 15

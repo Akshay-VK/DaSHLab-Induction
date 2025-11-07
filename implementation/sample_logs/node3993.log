@@ -1,0 +1,27 @@
+[2025-11-05T23:20:29.669167] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.669086] [INFO] User logged in
+[2025-11-05T23:20:29.669061] [INFO] Database query executed
+[2025-11-05T23:20:29.669111] [INFO] Configuration loaded
+[2025-11-05T23:20:29.669103] [INFO] Connection established
+[2025-11-05T23:20:29.669153] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.669107] [INFO] Session started
+[2025-11-05T23:20:29.669125] [INFO] Request processed successfully
+[2025-11-05T23:20:29.669156] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.669121] [INFO] Session started
+[2025-11-05T23:20:29.669130] [WARN] Queue size growing
+[2025-11-05T23:20:29.669149] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.669170] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.669118] [INFO] Health check passed
+[2025-11-05T23:20:29.669095] [INFO] User logged in
+[2025-11-05T23:20:29.669181] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.669114] [INFO] Configuration loaded
+[2025-11-05T23:20:29.669185] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.669100] [INFO] Request processed successfully
+[2025-11-05T23:20:29.669177] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.669140] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.669160] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.669091] [INFO] Session started
+[2025-11-05T23:20:29.669145] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.669163] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.669173] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.669135] [ERROR] Request failed

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:15.211958] [INFO] Session started
+[2025-11-05T23:20:15.211999] [INFO] Service initialized
+[2025-11-05T23:20:15.212017] [INFO] Configuration loaded
+[2025-11-05T23:20:15.212021] [INFO] Cache hit
+[2025-11-05T23:20:15.212079] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.212027] [WARN] Deprecated API usage
+[2025-11-05T23:20:15.212048] [WARN] Disk space low
+[2025-11-05T23:20:15.211976] [INFO] Health check passed
+[2025-11-05T23:20:15.211994] [INFO] Connection established
+[2025-11-05T23:20:15.212101] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.212083] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.212055] [ERROR] Disk read failed
+[2025-11-05T23:20:15.212088] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.211990] [INFO] Service initialized
+[2025-11-05T23:20:15.211971] [INFO] Connection established
+[2025-11-05T23:20:15.212013] [INFO] Service initialized
+[2025-11-05T23:20:15.212065] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.212039] [WARN] Timeout warning
+[2025-11-05T23:20:15.212097] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.211966] [INFO] Configuration loaded
+[2025-11-05T23:20:15.212070] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.211931] [INFO] Database query executed
+[2025-11-05T23:20:15.211985] [INFO] User logged in
+[2025-11-05T23:20:15.212060] [ERROR] File not found
+[2025-11-05T23:20:15.212074] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.212092] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.212008] [INFO] Request processed successfully
+[2025-11-05T23:20:15.212033] [WARN] Timeout warning
+[2025-11-05T23:20:15.212003] [INFO] Request processed successfully
+[2025-11-05T23:20:15.212044] [WARN] Slow query performance
+[2025-11-05T23:20:15.211980] [INFO] Health check passed

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:50.559817] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.559842] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.559758] [INFO] Transaction completed
+[2025-11-05T23:20:50.559750] [INFO] Request processed successfully
+[2025-11-05T23:20:50.559770] [INFO] Service initialized
+[2025-11-05T23:20:50.559808] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:50.559717] [INFO] User logged in
+[2025-11-05T23:20:50.559838] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.559737] [INFO] Session started
+[2025-11-05T23:20:50.559774] [INFO] Service initialized
+[2025-11-05T23:20:50.559723] [INFO] Service initialized
+[2025-11-05T23:20:50.559741] [INFO] Transaction completed
+[2025-11-05T23:20:50.559846] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.559827] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.559812] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.559834] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.559793] [WARN] Connection retry attempt
+[2025-11-05T23:20:50.559727] [INFO] Transaction completed
+[2025-11-05T23:20:50.559732] [INFO] Transaction completed
+[2025-11-05T23:20:50.559850] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.559754] [INFO] Session started
+[2025-11-05T23:20:50.559746] [INFO] Request processed successfully
+[2025-11-05T23:20:50.559780] [WARN] Queue size growing
+[2025-11-05T23:20:50.559831] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.559766] [INFO] User logged in
+[2025-11-05T23:20:50.559784] [WARN] High memory usage detected
+[2025-11-05T23:20:50.559804] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.559789] [WARN] Disk space low
+[2025-11-05T23:20:50.559762] [INFO] Transaction completed
+[2025-11-05T23:20:50.559822] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:50.559692] [INFO] Connection established
+[2025-11-05T23:20:50.559799] [ERROR] Authentication failed

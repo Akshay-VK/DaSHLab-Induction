@@ -1,0 +1,37 @@
+[2025-11-05T23:20:32.340873] [INFO] Service initialized
+[2025-11-05T23:20:32.340877] [INFO] User logged in
+[2025-11-05T23:20:32.340885] [INFO] Service initialized
+[2025-11-05T23:20:32.341006] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:32.341010] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.340969] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.340941] [WARN] Connection retry attempt
+[2025-11-05T23:20:32.340868] [INFO] Cache hit
+[2025-11-05T23:20:32.340933] [WARN] Connection retry attempt
+[2025-11-05T23:20:32.340998] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.341002] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.340889] [INFO] Transaction completed
+[2025-11-05T23:20:32.340964] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.340901] [INFO] Connection established
+[2025-11-05T23:20:32.340951] [ERROR] File not found
+[2025-11-05T23:20:32.340928] [WARN] Slow query performance
+[2025-11-05T23:20:32.340983] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.340994] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.340979] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.340990] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.340960] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.340972] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.340937] [WARN] Connection retry attempt
+[2025-11-05T23:20:32.340881] [INFO] Service initialized
+[2025-11-05T23:20:32.340987] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.340905] [INFO] User logged in
+[2025-11-05T23:20:32.340975] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.340846] [INFO] Database query executed
+[2025-11-05T23:20:32.340912] [INFO] Connection established
+[2025-11-05T23:20:32.340897] [INFO] Cache hit
+[2025-11-05T23:20:32.340916] [INFO] Service initialized
+[2025-11-05T23:20:32.340893] [INFO] Configuration loaded
+[2025-11-05T23:20:32.340919] [INFO] Database query executed
+[2025-11-05T23:20:32.340923] [INFO] Health check passed
+[2025-11-05T23:20:32.340909] [INFO] Session started
+[2025-11-05T23:20:32.340956] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.340946] [WARN] Resource threshold approaching

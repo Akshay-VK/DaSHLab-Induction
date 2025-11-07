@@ -1,0 +1,28 @@
+[2025-11-05T23:20:35.212361] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.212325] [INFO] Service initialized
+[2025-11-05T23:20:35.212354] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.212328] [INFO] Transaction completed
+[2025-11-05T23:20:35.212318] [INFO] Transaction completed
+[2025-11-05T23:20:35.212312] [INFO] Cache hit
+[2025-11-05T23:20:35.212293] [INFO] Session started
+[2025-11-05T23:20:35.212303] [INFO] Health check passed
+[2025-11-05T23:20:35.212335] [WARN] Resource threshold approaching
+[2025-11-05T23:20:35.212296] [INFO] Service initialized
+[2025-11-05T23:20:35.212339] [WARN] Resource threshold approaching
+[2025-11-05T23:20:35.212368] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.212315] [INFO] Health check passed
+[2025-11-05T23:20:35.212358] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.212286] [INFO] User logged in
+[2025-11-05T23:20:35.212364] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.212290] [INFO] Configuration loaded
+[2025-11-05T23:20:35.212371] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.212331] [INFO] Connection established
+[2025-11-05T23:20:35.212322] [INFO] Request processed successfully
+[2025-11-05T23:20:35.212309] [INFO] Session started
+[2025-11-05T23:20:35.212306] [INFO] Cache hit
+[2025-11-05T23:20:35.212374] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.212342] [WARN] Timeout warning
+[2025-11-05T23:20:35.212262] [INFO] Session started
+[2025-11-05T23:20:35.212300] [INFO] Health check passed
+[2025-11-05T23:20:35.212350] [ERROR] Permission denied
+[2025-11-05T23:20:35.212347] [ERROR] Disk read failed

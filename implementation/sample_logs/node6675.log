@@ -1,0 +1,32 @@
+[2025-11-05T23:20:40.251498] [WARN] Connection retry attempt
+[2025-11-05T23:20:40.251467] [INFO] Configuration loaded
+[2025-11-05T23:20:40.251550] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.251410] [INFO] Request processed successfully
+[2025-11-05T23:20:40.251459] [INFO] Service initialized
+[2025-11-05T23:20:40.251455] [INFO] Connection established
+[2025-11-05T23:20:40.251571] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.251476] [INFO] Cache hit
+[2025-11-05T23:20:40.251488] [INFO] User logged in
+[2025-11-05T23:20:40.251472] [INFO] Service initialized
+[2025-11-05T23:20:40.251521] [ERROR] Database connection lost
+[2025-11-05T23:20:40.251541] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.251558] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.251554] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.251463] [INFO] Session started
+[2025-11-05T23:20:40.251526] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.251484] [INFO] User logged in
+[2025-11-05T23:20:40.251531] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.251503] [WARN] Slow query performance
+[2025-11-05T23:20:40.251535] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.251516] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.251441] [INFO] Request processed successfully
+[2025-11-05T23:20:40.251480] [INFO] Database query executed
+[2025-11-05T23:20:40.251567] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.251562] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.251508] [WARN] Slow query performance
+[2025-11-05T23:20:40.251512] [WARN] Queue size growing
+[2025-11-05T23:20:40.251450] [INFO] Health check passed
+[2025-11-05T23:20:40.251435] [INFO] Request processed successfully
+[2025-11-05T23:20:40.251546] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.251445] [INFO] User logged in
+[2025-11-05T23:20:40.251492] [INFO] Request processed successfully

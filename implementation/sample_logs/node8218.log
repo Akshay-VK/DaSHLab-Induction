@@ -1,0 +1,33 @@
+[2025-11-05T23:20:46.518146] [WARN] Queue size growing
+[2025-11-05T23:20:46.518188] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.518102] [INFO] Request processed successfully
+[2025-11-05T23:20:46.518110] [INFO] Session started
+[2025-11-05T23:20:46.518219] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.518131] [INFO] User logged in
+[2025-11-05T23:20:46.518201] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.518083] [INFO] Cache hit
+[2025-11-05T23:20:46.518171] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.518097] [INFO] Transaction completed
+[2025-11-05T23:20:46.518114] [INFO] Service initialized
+[2025-11-05T23:20:46.518154] [WARN] Deprecated API usage
+[2025-11-05T23:20:46.518052] [INFO] Connection established
+[2025-11-05T23:20:46.518166] [ERROR] Memory allocation error
+[2025-11-05T23:20:46.518093] [INFO] Request processed successfully
+[2025-11-05T23:20:46.518127] [INFO] Session started
+[2025-11-05T23:20:46.518118] [INFO] User logged in
+[2025-11-05T23:20:46.518179] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.518160] [ERROR] Request failed
+[2025-11-05T23:20:46.518150] [WARN] Cache miss
+[2025-11-05T23:20:46.518196] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.518192] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.518183] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.518209] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.518088] [INFO] Request processed successfully
+[2025-11-05T23:20:46.518205] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.518215] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.518106] [INFO] Connection established
+[2025-11-05T23:20:46.518135] [INFO] Session started
+[2025-11-05T23:20:46.518175] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.518141] [WARN] Cache miss
+[2025-11-05T23:20:46.518078] [INFO] Request processed successfully
+[2025-11-05T23:20:46.518123] [INFO] Transaction completed

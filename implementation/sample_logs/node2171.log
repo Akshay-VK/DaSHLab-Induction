@@ -1,0 +1,29 @@
+[2025-11-05T23:20:21.663713] [INFO] Health check passed
+[2025-11-05T23:20:21.663814] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.663705] [INFO] Session started
+[2025-11-05T23:20:21.663753] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.663727] [WARN] Deprecated API usage
+[2025-11-05T23:20:21.663674] [INFO] Connection established
+[2025-11-05T23:20:21.663732] [WARN] Queue size growing
+[2025-11-05T23:20:21.663638] [INFO] Request processed successfully
+[2025-11-05T23:20:21.663669] [INFO] Connection established
+[2025-11-05T23:20:21.663742] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.663722] [INFO] Session started
+[2025-11-05T23:20:21.663762] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.663687] [INFO] Connection established
+[2025-11-05T23:20:21.663822] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.663747] [ERROR] Network timeout
+[2025-11-05T23:20:21.663683] [INFO] Request processed successfully
+[2025-11-05T23:20:21.663826] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.663766] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.663663] [INFO] Configuration loaded
+[2025-11-05T23:20:21.663737] [WARN] Slow query performance
+[2025-11-05T23:20:21.663692] [INFO] Request processed successfully
+[2025-11-05T23:20:21.663700] [INFO] User logged in
+[2025-11-05T23:20:21.663806] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.663818] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.663718] [INFO] Request processed successfully
+[2025-11-05T23:20:21.663709] [INFO] User logged in
+[2025-11-05T23:20:21.663758] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.663678] [INFO] Database query executed
+[2025-11-05T23:20:21.663696] [INFO] Transaction completed

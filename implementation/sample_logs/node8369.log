@@ -1,0 +1,31 @@
+[2025-11-05T23:20:47.176557] [WARN] Timeout warning
+[2025-11-05T23:20:47.176603] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.176580] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.176535] [INFO] Database query executed
+[2025-11-05T23:20:47.176483] [INFO] Request processed successfully
+[2025-11-05T23:20:47.176516] [INFO] Cache hit
+[2025-11-05T23:20:47.176501] [INFO] Cache hit
+[2025-11-05T23:20:47.176567] [ERROR] Database connection lost
+[2025-11-05T23:20:47.176505] [INFO] Cache hit
+[2025-11-05T23:20:47.176588] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.176584] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.176459] [INFO] Service initialized
+[2025-11-05T23:20:47.176592] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.176600] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.176539] [INFO] Connection established
+[2025-11-05T23:20:47.176527] [INFO] Configuration loaded
+[2025-11-05T23:20:47.176497] [INFO] Configuration loaded
+[2025-11-05T23:20:47.176524] [INFO] Service initialized
+[2025-11-05T23:20:47.176575] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.176549] [WARN] Cache miss
+[2025-11-05T23:20:47.176512] [INFO] Configuration loaded
+[2025-11-05T23:20:47.176544] [WARN] High memory usage detected
+[2025-11-05T23:20:47.176488] [INFO] Request processed successfully
+[2025-11-05T23:20:47.176492] [INFO] Connection established
+[2025-11-05T23:20:47.176571] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.176509] [INFO] Service initialized
+[2025-11-05T23:20:47.176553] [WARN] Connection retry attempt
+[2025-11-05T23:20:47.176520] [INFO] Session started
+[2025-11-05T23:20:47.176531] [INFO] Session started
+[2025-11-05T23:20:47.176562] [ERROR] Service unavailable
+[2025-11-05T23:20:47.176596] [DEBUG] Thread pool size: 8

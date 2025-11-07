@@ -1,0 +1,30 @@
+[2025-11-05T23:20:53.263315] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.263269] [INFO] Health check passed
+[2025-11-05T23:20:53.263350] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.263332] [ERROR] Service unavailable
+[2025-11-05T23:20:53.263287] [INFO] Health check passed
+[2025-11-05T23:20:53.263359] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.263364] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.263304] [INFO] Request processed successfully
+[2025-11-05T23:20:53.263264] [INFO] Request processed successfully
+[2025-11-05T23:20:53.263326] [WARN] Resource threshold approaching
+[2025-11-05T23:20:53.263300] [INFO] Connection established
+[2025-11-05T23:20:53.263369] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.263344] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.263382] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.263273] [INFO] Service initialized
+[2025-11-05T23:20:53.263310] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.263338] [ERROR] Request failed
+[2025-11-05T23:20:53.263249] [INFO] Request processed successfully
+[2025-11-05T23:20:53.263216] [INFO] Cache hit
+[2025-11-05T23:20:53.263254] [INFO] Session started
+[2025-11-05T23:20:53.263296] [INFO] Cache hit
+[2025-11-05T23:20:53.263321] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.263278] [INFO] Request processed successfully
+[2025-11-05T23:20:53.263373] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.263243] [INFO] Health check passed
+[2025-11-05T23:20:53.263378] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.263291] [INFO] Health check passed
+[2025-11-05T23:20:53.263283] [INFO] Database query executed
+[2025-11-05T23:20:53.263259] [INFO] Transaction completed
+[2025-11-05T23:20:53.263355] [DEBUG] HTTP request headers parsed

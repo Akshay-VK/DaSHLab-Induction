@@ -1,0 +1,29 @@
+[2025-11-05T23:20:15.757683] [INFO] Health check passed
+[2025-11-05T23:20:15.757765] [WARN] High memory usage detected
+[2025-11-05T23:20:15.757694] [INFO] Database query executed
+[2025-11-05T23:20:15.757656] [INFO] Health check passed
+[2025-11-05T23:20:15.757776] [ERROR] File not found
+[2025-11-05T23:20:15.757796] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.757689] [INFO] Connection established
+[2025-11-05T23:20:15.757754] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.757704] [INFO] User logged in
+[2025-11-05T23:20:15.757782] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.757699] [INFO] Session started
+[2025-11-05T23:20:15.757736] [INFO] Connection established
+[2025-11-05T23:20:15.757791] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.757801] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.757744] [INFO] Session started
+[2025-11-05T23:20:15.757723] [INFO] Service initialized
+[2025-11-05T23:20:15.757770] [WARN] Slow query performance
+[2025-11-05T23:20:15.757727] [INFO] Service initialized
+[2025-11-05T23:20:15.757740] [INFO] Session started
+[2025-11-05T23:20:15.757731] [INFO] Transaction completed
+[2025-11-05T23:20:15.757709] [INFO] Connection established
+[2025-11-05T23:20:15.757787] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.757714] [INFO] Session started
+[2025-11-05T23:20:15.757718] [INFO] Service initialized
+[2025-11-05T23:20:15.757749] [INFO] User logged in
+[2025-11-05T23:20:15.757810] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.757761] [WARN] Timeout warning
+[2025-11-05T23:20:15.757814] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.757805] [DEBUG] Connection pool status checked

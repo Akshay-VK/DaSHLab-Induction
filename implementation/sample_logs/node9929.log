@@ -1,0 +1,33 @@
+[2025-11-05T23:20:53.747262] [INFO] Transaction completed
+[2025-11-05T23:20:53.747218] [INFO] Configuration loaded
+[2025-11-05T23:20:53.747330] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.747256] [INFO] Session started
+[2025-11-05T23:20:53.747334] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.747251] [INFO] Configuration loaded
+[2025-11-05T23:20:53.747340] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.747325] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.747318] [ERROR] Invalid input data
+[2025-11-05T23:20:53.747345] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.747231] [INFO] Configuration loaded
+[2025-11-05T23:20:53.747245] [INFO] Connection established
+[2025-11-05T23:20:53.747368] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.747373] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.747309] [ERROR] Authentication failed
+[2025-11-05T23:20:53.747359] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.747304] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.747225] [INFO] Session started
+[2025-11-05T23:20:53.747191] [INFO] Health check passed
+[2025-11-05T23:20:53.747298] [WARN] Queue size growing
+[2025-11-05T23:20:53.747241] [INFO] Transaction completed
+[2025-11-05T23:20:53.747287] [INFO] Session started
+[2025-11-05T23:20:53.747272] [INFO] Request processed successfully
+[2025-11-05T23:20:53.747266] [INFO] User logged in
+[2025-11-05T23:20:53.747355] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.747236] [INFO] Configuration loaded
+[2025-11-05T23:20:53.747278] [INFO] Cache hit
+[2025-11-05T23:20:53.747351] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.747379] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.747293] [WARN] Queue size growing
+[2025-11-05T23:20:53.747363] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.747314] [ERROR] File not found
+[2025-11-05T23:20:53.747283] [INFO] Session started

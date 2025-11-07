@@ -1,0 +1,30 @@
+[2025-11-05T23:20:29.975078] [INFO] User logged in
+[2025-11-05T23:20:29.975060] [INFO] Connection established
+[2025-11-05T23:20:29.975134] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.975156] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.975025] [INFO] Configuration loaded
+[2025-11-05T23:20:29.975164] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.975176] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.975103] [INFO] Session started
+[2025-11-05T23:20:29.975168] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.975160] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.975152] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.975139] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.975113] [WARN] High memory usage detected
+[2025-11-05T23:20:29.975074] [INFO] Connection established
+[2025-11-05T23:20:29.975119] [ERROR] Permission denied
+[2025-11-05T23:20:29.975124] [ERROR] Invalid input data
+[2025-11-05T23:20:29.975099] [INFO] Configuration loaded
+[2025-11-05T23:20:29.975144] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.975082] [INFO] Connection established
+[2025-11-05T23:20:29.975065] [INFO] User logged in
+[2025-11-05T23:20:29.975107] [INFO] Database query executed
+[2025-11-05T23:20:29.975050] [INFO] Configuration loaded
+[2025-11-05T23:20:29.975056] [INFO] Service initialized
+[2025-11-05T23:20:29.975148] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.975172] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.975070] [INFO] Transaction completed
+[2025-11-05T23:20:29.975091] [INFO] Transaction completed
+[2025-11-05T23:20:29.975095] [INFO] Request processed successfully
+[2025-11-05T23:20:29.975087] [INFO] Health check passed
+[2025-11-05T23:20:29.975129] [DEBUG] Thread pool size: 8

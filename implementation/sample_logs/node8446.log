@@ -1,0 +1,32 @@
+[2025-11-05T23:20:47.464417] [INFO] Transaction completed
+[2025-11-05T23:20:47.464358] [INFO] Session started
+[2025-11-05T23:20:47.464466] [WARN] Queue size growing
+[2025-11-05T23:20:47.464407] [INFO] Transaction completed
+[2025-11-05T23:20:47.464471] [WARN] Connection retry attempt
+[2025-11-05T23:20:47.464532] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.464393] [INFO] Session started
+[2025-11-05T23:20:47.464486] [ERROR] File not found
+[2025-11-05T23:20:47.464497] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.464491] [ERROR] Request failed
+[2025-11-05T23:20:47.464448] [INFO] Transaction completed
+[2025-11-05T23:20:47.464386] [INFO] Transaction completed
+[2025-11-05T23:20:47.464444] [INFO] Connection established
+[2025-11-05T23:20:47.464523] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.464528] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.464502] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.464402] [INFO] User logged in
+[2025-11-05T23:20:47.464427] [INFO] Configuration loaded
+[2025-11-05T23:20:47.464440] [INFO] Connection established
+[2025-11-05T23:20:47.464412] [INFO] Request processed successfully
+[2025-11-05T23:20:47.464482] [ERROR] Request failed
+[2025-11-05T23:20:47.464515] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.464460] [WARN] Connection retry attempt
+[2025-11-05T23:20:47.464519] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.464431] [INFO] Health check passed
+[2025-11-05T23:20:47.464422] [INFO] Connection established
+[2025-11-05T23:20:47.464476] [WARN] Deprecated API usage
+[2025-11-05T23:20:47.464511] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.464452] [INFO] Transaction completed
+[2025-11-05T23:20:47.464436] [INFO] Request processed successfully
+[2025-11-05T23:20:47.464506] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.464398] [INFO] Session started

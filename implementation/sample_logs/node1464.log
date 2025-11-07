@@ -1,0 +1,36 @@
+[2025-11-05T23:20:18.761133] [INFO] Connection established
+[2025-11-05T23:20:18.761173] [INFO] Database query executed
+[2025-11-05T23:20:18.761258] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.761230] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:18.761160] [INFO] User logged in
+[2025-11-05T23:20:18.761250] [DEBUG] Cache key generated
+[2025-11-05T23:20:18.761177] [INFO] Health check passed
+[2025-11-05T23:20:18.761164] [INFO] Session started
+[2025-11-05T23:20:18.761217] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.761149] [INFO] Database query executed
+[2025-11-05T23:20:18.761263] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.761188] [INFO] User logged in
+[2025-11-05T23:20:18.761137] [INFO] Connection established
+[2025-11-05T23:20:18.761169] [INFO] Cache hit
+[2025-11-05T23:20:18.761153] [INFO] Transaction completed
+[2025-11-05T23:20:18.761101] [INFO] Database query executed
+[2025-11-05T23:20:18.761234] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.761254] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.761271] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.761245] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:18.761202] [WARN] Cache miss
+[2025-11-05T23:20:18.761226] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.761127] [INFO] Session started
+[2025-11-05T23:20:18.761267] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:18.761241] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:18.761157] [INFO] Transaction completed
+[2025-11-05T23:20:18.761196] [INFO] Transaction completed
+[2025-11-05T23:20:18.761222] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.761212] [ERROR] Service unavailable
+[2025-11-05T23:20:18.761184] [INFO] User logged in
+[2025-11-05T23:20:18.761238] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.761145] [INFO] Configuration loaded
+[2025-11-05T23:20:18.761141] [INFO] Configuration loaded
+[2025-11-05T23:20:18.761192] [INFO] Session started
+[2025-11-05T23:20:18.761207] [WARN] Resource threshold approaching
+[2025-11-05T23:20:18.761181] [INFO] Configuration loaded

@@ -1,0 +1,36 @@
+[2025-11-05T23:20:35.968132] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.968063] [INFO] Session started
+[2025-11-05T23:20:35.968170] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.968071] [INFO] Transaction completed
+[2025-11-05T23:20:35.968050] [INFO] Health check passed
+[2025-11-05T23:20:35.968182] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.968092] [INFO] Session started
+[2025-11-05T23:20:35.968117] [ERROR] Network timeout
+[2025-11-05T23:20:35.968174] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.968112] [WARN] Rate limit approaching
+[2025-11-05T23:20:35.968088] [INFO] Database query executed
+[2025-11-05T23:20:35.968146] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.968035] [INFO] Service initialized
+[2025-11-05T23:20:35.968045] [INFO] Database query executed
+[2025-11-05T23:20:35.968075] [INFO] Request processed successfully
+[2025-11-05T23:20:35.968186] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.968011] [INFO] Session started
+[2025-11-05T23:20:35.968127] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.968102] [WARN] Connection retry attempt
+[2025-11-05T23:20:35.968059] [INFO] Database query executed
+[2025-11-05T23:20:35.968055] [INFO] Request processed successfully
+[2025-11-05T23:20:35.968137] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.968084] [INFO] User logged in
+[2025-11-05T23:20:35.968141] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.968079] [INFO] Session started
+[2025-11-05T23:20:35.968166] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.968041] [INFO] Service initialized
+[2025-11-05T23:20:35.968178] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.968150] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.968107] [WARN] Cache miss
+[2025-11-05T23:20:35.968157] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.968097] [WARN] Slow query performance
+[2025-11-05T23:20:35.968122] [ERROR] Permission denied
+[2025-11-05T23:20:35.968154] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.968067] [INFO] Request processed successfully
+[2025-11-05T23:20:35.968161] [DEBUG] HTTP request headers parsed

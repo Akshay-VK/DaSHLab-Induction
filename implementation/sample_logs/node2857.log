@@ -1,0 +1,30 @@
+[2025-11-05T23:20:24.742869] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.742885] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.742890] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.742794] [ERROR] Request failed
+[2025-11-05T23:20:24.742863] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.742778] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.742783] [WARN] Rate limit approaching
+[2025-11-05T23:20:24.742880] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.742767] [WARN] Cache miss
+[2025-11-05T23:20:24.742336] [INFO] Transaction completed
+[2025-11-05T23:20:24.742358] [INFO] Service initialized
+[2025-11-05T23:20:24.742875] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.742366] [INFO] Transaction completed
+[2025-11-05T23:20:24.742350] [INFO] User logged in
+[2025-11-05T23:20:24.742787] [WARN] Timeout warning
+[2025-11-05T23:20:24.742747] [INFO] Cache hit
+[2025-11-05T23:20:24.742739] [INFO] Connection established
+[2025-11-05T23:20:24.742772] [WARN] Deprecated API usage
+[2025-11-05T23:20:24.742895] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.742312] [INFO] Session started
+[2025-11-05T23:20:24.742762] [WARN] High memory usage detected
+[2025-11-05T23:20:24.742899] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.742354] [INFO] Session started
+[2025-11-05T23:20:24.742851] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.742362] [INFO] Transaction completed
+[2025-11-05T23:20:24.742374] [INFO] Service initialized
+[2025-11-05T23:20:24.742756] [WARN] Slow query performance
+[2025-11-05T23:20:24.742341] [INFO] Configuration loaded
+[2025-11-05T23:20:24.742370] [INFO] Cache hit
+[2025-11-05T23:20:24.742346] [INFO] Configuration loaded

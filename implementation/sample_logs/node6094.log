@@ -1,0 +1,28 @@
+[2025-11-05T23:20:38.117520] [INFO] Service initialized
+[2025-11-05T23:20:38.117573] [INFO] Database query executed
+[2025-11-05T23:20:38.117658] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.117637] [ERROR] Memory allocation error
+[2025-11-05T23:20:38.117653] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.117582] [INFO] Request processed successfully
+[2025-11-05T23:20:38.117610] [INFO] Connection established
+[2025-11-05T23:20:38.117662] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.117564] [INFO] Database query executed
+[2025-11-05T23:20:38.117547] [INFO] Cache hit
+[2025-11-05T23:20:38.117596] [INFO] Transaction completed
+[2025-11-05T23:20:38.117601] [INFO] Health check passed
+[2025-11-05T23:20:38.117577] [INFO] Service initialized
+[2025-11-05T23:20:38.117592] [INFO] Configuration loaded
+[2025-11-05T23:20:38.117627] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.117666] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.117674] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.117568] [INFO] Cache hit
+[2025-11-05T23:20:38.117622] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.117631] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.117649] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.117616] [WARN] Resource threshold approaching
+[2025-11-05T23:20:38.117643] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.117587] [INFO] Transaction completed
+[2025-11-05T23:20:38.117559] [INFO] Connection established
+[2025-11-05T23:20:38.117553] [INFO] Cache hit
+[2025-11-05T23:20:38.117606] [INFO] Transaction completed
+[2025-11-05T23:20:38.117670] [DEBUG] Variable value: x=42

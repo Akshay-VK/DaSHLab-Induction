@@ -1,0 +1,34 @@
+[2025-11-05T23:20:46.196809] [INFO] Request processed successfully
+[2025-11-05T23:20:46.196818] [WARN] Deprecated API usage
+[2025-11-05T23:20:46.196884] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.196870] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.196801] [INFO] Service initialized
+[2025-11-05T23:20:46.196813] [INFO] Database query executed
+[2025-11-05T23:20:46.196838] [ERROR] Request failed
+[2025-11-05T23:20:46.196762] [INFO] Database query executed
+[2025-11-05T23:20:46.196828] [WARN] Queue size growing
+[2025-11-05T23:20:46.196874] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.196866] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.196775] [INFO] Request processed successfully
+[2025-11-05T23:20:46.196879] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.196797] [INFO] Session started
+[2025-11-05T23:20:46.196858] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.196893] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.196805] [INFO] Database query executed
+[2025-11-05T23:20:46.196788] [INFO] Service initialized
+[2025-11-05T23:20:46.196862] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.196793] [INFO] User logged in
+[2025-11-05T23:20:46.196843] [ERROR] Database connection lost
+[2025-11-05T23:20:46.196853] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.196757] [INFO] Connection established
+[2025-11-05T23:20:46.196752] [INFO] Service initialized
+[2025-11-05T23:20:46.196766] [INFO] Connection established
+[2025-11-05T23:20:46.196823] [WARN] Disk space low
+[2025-11-05T23:20:46.196899] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.196780] [INFO] Connection established
+[2025-11-05T23:20:46.196833] [WARN] Deprecated API usage
+[2025-11-05T23:20:46.196771] [INFO] Health check passed
+[2025-11-05T23:20:46.196784] [INFO] Connection established
+[2025-11-05T23:20:46.196848] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.196726] [INFO] Service initialized
+[2025-11-05T23:20:46.196889] [DEBUG] Loop iteration: 15

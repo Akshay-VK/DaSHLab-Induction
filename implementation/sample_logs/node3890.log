@@ -1,0 +1,30 @@
+[2025-11-05T23:20:29.184352] [INFO] Session started
+[2025-11-05T23:20:29.184318] [INFO] Transaction completed
+[2025-11-05T23:20:29.184393] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.184426] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.184356] [INFO] Transaction completed
+[2025-11-05T23:20:29.184348] [INFO] Cache hit
+[2025-11-05T23:20:29.184336] [INFO] Request processed successfully
+[2025-11-05T23:20:29.184410] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.184370] [WARN] Queue size growing
+[2025-11-05T23:20:29.184344] [INFO] Connection established
+[2025-11-05T23:20:29.184314] [INFO] Transaction completed
+[2025-11-05T23:20:29.184309] [INFO] Session started
+[2025-11-05T23:20:29.184383] [ERROR] Service unavailable
+[2025-11-05T23:20:29.184360] [INFO] Transaction completed
+[2025-11-05T23:20:29.184323] [INFO] Session started
+[2025-11-05T23:20:29.184332] [INFO] Service initialized
+[2025-11-05T23:20:29.184304] [INFO] Configuration loaded
+[2025-11-05T23:20:29.184374] [WARN] Deprecated API usage
+[2025-11-05T23:20:29.184365] [WARN] Resource threshold approaching
+[2025-11-05T23:20:29.184327] [INFO] Transaction completed
+[2025-11-05T23:20:29.184378] [WARN] Slow query performance
+[2025-11-05T23:20:29.184340] [INFO] Session started
+[2025-11-05T23:20:29.184401] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.184422] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.184418] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.184388] [ERROR] Permission denied
+[2025-11-05T23:20:29.184414] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.184279] [INFO] Transaction completed
+[2025-11-05T23:20:29.184405] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.184397] [DEBUG] Loop iteration: 15

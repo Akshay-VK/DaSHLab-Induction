@@ -1,0 +1,30 @@
+[2025-11-05T23:20:24.861905] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.861900] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.861886] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.861757] [INFO] Connection established
+[2025-11-05T23:20:24.861827] [INFO] Configuration loaded
+[2025-11-05T23:20:24.861870] [WARN] Rate limit approaching
+[2025-11-05T23:20:24.861799] [INFO] User logged in
+[2025-11-05T23:20:24.861881] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.861845] [INFO] Session started
+[2025-11-05T23:20:24.861835] [INFO] Configuration loaded
+[2025-11-05T23:20:24.861890] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.861841] [INFO] Connection established
+[2025-11-05T23:20:24.861808] [INFO] Cache hit
+[2025-11-05T23:20:24.861875] [ERROR] Permission denied
+[2025-11-05T23:20:24.861822] [INFO] Transaction completed
+[2025-11-05T23:20:24.861818] [INFO] Cache hit
+[2025-11-05T23:20:24.861895] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.861917] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.861790] [INFO] Health check passed
+[2025-11-05T23:20:24.861857] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.861804] [INFO] Configuration loaded
+[2025-11-05T23:20:24.861909] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.861861] [WARN] Slow query performance
+[2025-11-05T23:20:24.861913] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.861851] [WARN] Queue size growing
+[2025-11-05T23:20:24.861795] [INFO] Health check passed
+[2025-11-05T23:20:24.861831] [INFO] Cache hit
+[2025-11-05T23:20:24.861784] [INFO] Connection established
+[2025-11-05T23:20:24.861813] [INFO] Request processed successfully
+[2025-11-05T23:20:24.861866] [WARN] Slow query performance

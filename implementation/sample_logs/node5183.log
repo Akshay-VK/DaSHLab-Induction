@@ -1,0 +1,29 @@
+[2025-11-05T23:20:34.346968] [INFO] Transaction completed
+[2025-11-05T23:20:34.347059] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.347078] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.346944] [INFO] Health check passed
+[2025-11-05T23:20:34.347070] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.347006] [WARN] Rate limit approaching
+[2025-11-05T23:20:34.347033] [ERROR] Disk read failed
+[2025-11-05T23:20:34.346917] [INFO] Health check passed
+[2025-11-05T23:20:34.346982] [INFO] Configuration loaded
+[2025-11-05T23:20:34.347074] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.346996] [INFO] Database query executed
+[2025-11-05T23:20:34.347065] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.346973] [INFO] Request processed successfully
+[2025-11-05T23:20:34.346991] [INFO] Cache hit
+[2025-11-05T23:20:34.346987] [INFO] Configuration loaded
+[2025-11-05T23:20:34.346977] [INFO] Service initialized
+[2025-11-05T23:20:34.346955] [INFO] Health check passed
+[2025-11-05T23:20:34.347045] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.347000] [INFO] Service initialized
+[2025-11-05T23:20:34.346950] [INFO] Session started
+[2025-11-05T23:20:34.347017] [WARN] Timeout warning
+[2025-11-05T23:20:34.347054] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.347012] [WARN] Cache miss
+[2025-11-05T23:20:34.347049] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.347039] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.347022] [WARN] High memory usage detected
+[2025-11-05T23:20:34.346959] [INFO] Session started
+[2025-11-05T23:20:34.346964] [INFO] Transaction completed
+[2025-11-05T23:20:34.347028] [ERROR] Permission denied

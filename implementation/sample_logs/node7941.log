@@ -1,0 +1,33 @@
+[2025-11-05T23:20:45.256769] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.256581] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.256782] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.256577] [WARN] Timeout warning
+[2025-11-05T23:20:45.256754] [ERROR] Disk read failed
+[2025-11-05T23:20:45.256517] [INFO] Service initialized
+[2025-11-05T23:20:45.256530] [INFO] Request processed successfully
+[2025-11-05T23:20:45.256759] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.256565] [INFO] Service initialized
+[2025-11-05T23:20:45.256553] [INFO] Service initialized
+[2025-11-05T23:20:45.256795] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.256773] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.256471] [INFO] Transaction completed
+[2025-11-05T23:20:45.256561] [INFO] Session started
+[2025-11-05T23:20:45.256556] [INFO] Database query executed
+[2025-11-05T23:20:45.256539] [INFO] User logged in
+[2025-11-05T23:20:45.256522] [INFO] Session started
+[2025-11-05T23:20:45.256748] [ERROR] Network timeout
+[2025-11-05T23:20:45.256765] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.256508] [INFO] Request processed successfully
+[2025-11-05T23:20:45.256503] [INFO] Session started
+[2025-11-05T23:20:45.256497] [INFO] User logged in
+[2025-11-05T23:20:45.256535] [INFO] Transaction completed
+[2025-11-05T23:20:45.256741] [WARN] Deprecated API usage
+[2025-11-05T23:20:45.256732] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.256791] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.256572] [WARN] Slow query performance
+[2025-11-05T23:20:45.256786] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.256543] [INFO] Service initialized
+[2025-11-05T23:20:45.256549] [INFO] Service initialized
+[2025-11-05T23:20:45.256526] [INFO] Configuration loaded
+[2025-11-05T23:20:45.256777] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.256513] [INFO] Health check passed

@@ -1,0 +1,35 @@
+[2025-11-05T23:20:11.948696] [WARN] Slow query performance
+[2025-11-05T23:20:11.948740] [DEBUG] Cache key generated
+[2025-11-05T23:20:11.948618] [INFO] Service initialized
+[2025-11-05T23:20:11.948758] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:11.948722] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:11.948675] [INFO] Database query executed
+[2025-11-05T23:20:11.948626] [INFO] Cache hit
+[2025-11-05T23:20:11.948640] [INFO] Session started
+[2025-11-05T23:20:11.948711] [ERROR] Disk read failed
+[2025-11-05T23:20:11.948745] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.948631] [INFO] Session started
+[2025-11-05T23:20:11.948645] [INFO] Request processed successfully
+[2025-11-05T23:20:11.948727] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:11.948705] [WARN] Queue size growing
+[2025-11-05T23:20:11.948716] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:11.948680] [INFO] Health check passed
+[2025-11-05T23:20:11.948578] [INFO] Configuration loaded
+[2025-11-05T23:20:11.948686] [WARN] Connection retry attempt
+[2025-11-05T23:20:11.948622] [INFO] Request processed successfully
+[2025-11-05T23:20:11.948649] [INFO] Health check passed
+[2025-11-05T23:20:11.948732] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:11.948636] [INFO] Transaction completed
+[2025-11-05T23:20:11.948613] [INFO] Request processed successfully
+[2025-11-05T23:20:11.948763] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:11.948753] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:11.948691] [WARN] Queue size growing
+[2025-11-05T23:20:11.948701] [WARN] Cache miss
+[2025-11-05T23:20:11.948736] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:11.948653] [INFO] User logged in
+[2025-11-05T23:20:11.948749] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:11.948607] [INFO] Transaction completed
+[2025-11-05T23:20:11.948662] [INFO] Transaction completed
+[2025-11-05T23:20:11.948666] [INFO] Request processed successfully
+[2025-11-05T23:20:11.948671] [INFO] Service initialized
+[2025-11-05T23:20:11.948658] [INFO] Configuration loaded

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:24.947255] [INFO] Session started
+[2025-11-05T23:20:24.947246] [INFO] Configuration loaded
+[2025-11-05T23:20:24.947272] [INFO] Database query executed
+[2025-11-05T23:20:24.947292] [INFO] Transaction completed
+[2025-11-05T23:20:24.947308] [ERROR] File not found
+[2025-11-05T23:20:24.947288] [INFO] Configuration loaded
+[2025-11-05T23:20:24.947322] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.947280] [INFO] Database query executed
+[2025-11-05T23:20:24.947259] [INFO] User logged in
+[2025-11-05T23:20:24.947342] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.947250] [INFO] Request processed successfully
+[2025-11-05T23:20:24.947337] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.947312] [ERROR] Disk read failed
+[2025-11-05T23:20:24.947350] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.947326] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.947241] [INFO] Request processed successfully
+[2025-11-05T23:20:24.947212] [INFO] Session started
+[2025-11-05T23:20:24.947297] [WARN] Rate limit approaching
+[2025-11-05T23:20:24.947345] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.947330] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.947276] [INFO] Cache hit
+[2025-11-05T23:20:24.947263] [INFO] Transaction completed
+[2025-11-05T23:20:24.947303] [ERROR] Memory allocation error
+[2025-11-05T23:20:24.947267] [INFO] Transaction completed
+[2025-11-05T23:20:24.947235] [INFO] Database query executed
+[2025-11-05T23:20:24.947317] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.947334] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.947284] [INFO] Service initialized

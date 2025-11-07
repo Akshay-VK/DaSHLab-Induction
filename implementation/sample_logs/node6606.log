@@ -1,0 +1,29 @@
+[2025-11-05T23:20:40.043897] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.043849] [WARN] Queue size growing
+[2025-11-05T23:20:40.043853] [WARN] Connection retry attempt
+[2025-11-05T23:20:40.043786] [INFO] Session started
+[2025-11-05T23:20:40.043808] [INFO] Cache hit
+[2025-11-05T23:20:40.043844] [WARN] Timeout warning
+[2025-11-05T23:20:40.043748] [INFO] Database query executed
+[2025-11-05T23:20:40.043776] [INFO] Database query executed
+[2025-11-05T23:20:40.043795] [INFO] Configuration loaded
+[2025-11-05T23:20:40.043799] [INFO] User logged in
+[2025-11-05T23:20:40.043893] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.043821] [INFO] Connection established
+[2025-11-05T23:20:40.043867] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.043876] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.043825] [INFO] User logged in
+[2025-11-05T23:20:40.043781] [INFO] Request processed successfully
+[2025-11-05T23:20:40.043871] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.043834] [INFO] Connection established
+[2025-11-05T23:20:40.043885] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.043829] [INFO] Configuration loaded
+[2025-11-05T23:20:40.043839] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.043857] [ERROR] Memory allocation error
+[2025-11-05T23:20:40.043791] [INFO] Configuration loaded
+[2025-11-05T23:20:40.043804] [INFO] Service initialized
+[2025-11-05T23:20:40.043813] [INFO] Database query executed
+[2025-11-05T23:20:40.043880] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.043889] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.043862] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.043818] [INFO] Service initialized

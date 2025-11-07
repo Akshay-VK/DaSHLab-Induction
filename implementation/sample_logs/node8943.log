@@ -1,0 +1,33 @@
+[2025-11-05T23:20:49.517509] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.517513] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.517536] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.517520] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.517528] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.517488] [WARN] High memory usage detected
+[2025-11-05T23:20:49.517419] [INFO] Service initialized
+[2025-11-05T23:20:49.517476] [WARN] Slow query performance
+[2025-11-05T23:20:49.517439] [INFO] Request processed successfully
+[2025-11-05T23:20:49.517454] [INFO] Request processed successfully
+[2025-11-05T23:20:49.517532] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.517472] [WARN] Timeout warning
+[2025-11-05T23:20:49.517480] [WARN] Cache miss
+[2025-11-05T23:20:49.517497] [ERROR] Database connection lost
+[2025-11-05T23:20:49.517516] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.517524] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.517502] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.517484] [WARN] Queue size growing
+[2025-11-05T23:20:49.517458] [INFO] Database query executed
+[2025-11-05T23:20:49.517450] [INFO] Session started
+[2025-11-05T23:20:49.517435] [INFO] Transaction completed
+[2025-11-05T23:20:49.517405] [INFO] Service initialized
+[2025-11-05T23:20:49.517446] [INFO] Cache hit
+[2025-11-05T23:20:49.517442] [INFO] Transaction completed
+[2025-11-05T23:20:49.517381] [INFO] Request processed successfully
+[2025-11-05T23:20:49.517463] [WARN] Queue size growing
+[2025-11-05T23:20:49.517431] [INFO] Session started
+[2025-11-05T23:20:49.517415] [INFO] Transaction completed
+[2025-11-05T23:20:49.517468] [WARN] Cache miss
+[2025-11-05T23:20:49.517493] [ERROR] Database connection lost
+[2025-11-05T23:20:49.517427] [INFO] Session started
+[2025-11-05T23:20:49.517410] [INFO] Configuration loaded
+[2025-11-05T23:20:49.517423] [INFO] Health check passed

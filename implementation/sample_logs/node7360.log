@@ -1,0 +1,23 @@
+[2025-11-05T23:20:42.814235] [INFO] Service initialized
+[2025-11-05T23:20:42.814285] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.814251] [INFO] Cache hit
+[2025-11-05T23:20:42.814231] [INFO] Health check passed
+[2025-11-05T23:20:42.814296] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.814248] [INFO] Session started
+[2025-11-05T23:20:42.814255] [INFO] Cache hit
+[2025-11-05T23:20:42.814227] [INFO] Database query executed
+[2025-11-05T23:20:42.814218] [INFO] Cache hit
+[2025-11-05T23:20:42.814304] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.814244] [INFO] Health check passed
+[2025-11-05T23:20:42.814275] [ERROR] Memory allocation error
+[2025-11-05T23:20:42.814289] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.814270] [ERROR] Network timeout
+[2025-11-05T23:20:42.814265] [WARN] Disk space low
+[2025-11-05T23:20:42.814223] [INFO] User logged in
+[2025-11-05T23:20:42.814239] [INFO] Transaction completed
+[2025-11-05T23:20:42.814280] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.814261] [WARN] Queue size growing
+[2025-11-05T23:20:42.814189] [INFO] Database query executed
+[2025-11-05T23:20:42.814300] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.814293] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.814213] [INFO] Request processed successfully

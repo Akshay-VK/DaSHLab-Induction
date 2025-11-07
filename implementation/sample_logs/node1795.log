@@ -1,0 +1,29 @@
+[2025-11-05T23:20:20.090951] [WARN] High memory usage detected
+[2025-11-05T23:20:20.090869] [INFO] Cache hit
+[2025-11-05T23:20:20.090920] [INFO] Transaction completed
+[2025-11-05T23:20:20.090912] [INFO] Request processed successfully
+[2025-11-05T23:20:20.090995] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.090897] [INFO] Health check passed
+[2025-11-05T23:20:20.090999] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.090986] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.090907] [INFO] Request processed successfully
+[2025-11-05T23:20:20.090963] [ERROR] Network timeout
+[2025-11-05T23:20:20.090968] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.090925] [INFO] Configuration loaded
+[2025-11-05T23:20:20.090893] [INFO] Service initialized
+[2025-11-05T23:20:20.090977] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.090813] [INFO] Health check passed
+[2025-11-05T23:20:20.090942] [WARN] Resource threshold approaching
+[2025-11-05T23:20:20.090884] [INFO] Cache hit
+[2025-11-05T23:20:20.090888] [INFO] Database query executed
+[2025-11-05T23:20:20.090879] [INFO] Transaction completed
+[2025-11-05T23:20:20.090981] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.091003] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.090946] [WARN] Deprecated API usage
+[2025-11-05T23:20:20.090973] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.090902] [INFO] Transaction completed
+[2025-11-05T23:20:20.090957] [ERROR] Database connection lost
+[2025-11-05T23:20:20.090990] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.090931] [INFO] Transaction completed
+[2025-11-05T23:20:20.090936] [INFO] Service initialized
+[2025-11-05T23:20:20.090916] [INFO] Request processed successfully

@@ -1,0 +1,36 @@
+[2025-11-05T23:20:44.936333] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.936317] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.936270] [WARN] Queue size growing
+[2025-11-05T23:20:44.936307] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.936175] [INFO] Database query executed
+[2025-11-05T23:20:44.936312] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.936190] [INFO] Configuration loaded
+[2025-11-05T23:20:44.936185] [INFO] Database query executed
+[2025-11-05T23:20:44.936256] [WARN] High memory usage detected
+[2025-11-05T23:20:44.936299] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.936198] [INFO] User logged in
+[2025-11-05T23:20:44.936225] [INFO] Health check passed
+[2025-11-05T23:20:44.936328] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.936221] [INFO] Connection established
+[2025-11-05T23:20:44.936231] [WARN] Disk space low
+[2025-11-05T23:20:44.936194] [INFO] Database query executed
+[2025-11-05T23:20:44.936203] [INFO] Service initialized
+[2025-11-05T23:20:44.936287] [ERROR] Authentication failed
+[2025-11-05T23:20:44.936144] [INFO] Cache hit
+[2025-11-05T23:20:44.936293] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.936170] [INFO] Health check passed
+[2025-11-05T23:20:44.936323] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.936280] [ERROR] File not found
+[2025-11-05T23:20:44.936252] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.936236] [WARN] High memory usage detected
+[2025-11-05T23:20:44.936303] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.936260] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.936242] [WARN] High memory usage detected
+[2025-11-05T23:20:44.936338] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.936264] [WARN] Deprecated API usage
+[2025-11-05T23:20:44.936208] [INFO] Session started
+[2025-11-05T23:20:44.936247] [WARN] Cache miss
+[2025-11-05T23:20:44.936212] [INFO] Connection established
+[2025-11-05T23:20:44.936217] [INFO] Service initialized
+[2025-11-05T23:20:44.936180] [INFO] Transaction completed
+[2025-11-05T23:20:44.936276] [ERROR] Network timeout

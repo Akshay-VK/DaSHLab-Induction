@@ -1,0 +1,34 @@
+[2025-11-05T23:20:51.426096] [INFO] User logged in
+[2025-11-05T23:20:51.426150] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.426113] [WARN] Cache miss
+[2025-11-05T23:20:51.426119] [WARN] Cache miss
+[2025-11-05T23:20:51.426126] [WARN] Rate limit approaching
+[2025-11-05T23:20:51.426087] [INFO] Cache hit
+[2025-11-05T23:20:51.426158] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.426068] [INFO] User logged in
+[2025-11-05T23:20:51.426141] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.426136] [ERROR] Disk read failed
+[2025-11-05T23:20:51.426081] [INFO] Database query executed
+[2025-11-05T23:20:51.426122] [WARN] Queue size growing
+[2025-11-05T23:20:51.426061] [INFO] Service initialized
+[2025-11-05T23:20:51.426072] [INFO] Transaction completed
+[2025-11-05T23:20:51.426109] [WARN] Timeout warning
+[2025-11-05T23:20:51.426084] [INFO] Cache hit
+[2025-11-05T23:20:51.426132] [WARN] Slow query performance
+[2025-11-05T23:20:51.426099] [INFO] Service initialized
+[2025-11-05T23:20:51.426161] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.426078] [INFO] Database query executed
+[2025-11-05T23:20:51.426102] [INFO] Cache hit
+[2025-11-05T23:20:51.426038] [INFO] Transaction completed
+[2025-11-05T23:20:51.426093] [INFO] Health check passed
+[2025-11-05T23:20:51.426129] [WARN] High memory usage detected
+[2025-11-05T23:20:51.426090] [INFO] Database query executed
+[2025-11-05T23:20:51.426116] [WARN] Resource threshold approaching
+[2025-11-05T23:20:51.426167] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:51.426144] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.426106] [WARN] Disk space low
+[2025-11-05T23:20:51.426065] [INFO] Health check passed
+[2025-11-05T23:20:51.426163] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.426154] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.426147] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.426075] [INFO] Cache hit

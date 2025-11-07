@@ -1,0 +1,26 @@
+[2025-11-05T23:20:43.065729] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.065610] [INFO] Session started
+[2025-11-05T23:20:43.065699] [ERROR] Database connection lost
+[2025-11-05T23:20:43.065647] [INFO] Connection established
+[2025-11-05T23:20:43.065696] [ERROR] Invalid input data
+[2025-11-05T23:20:43.065638] [INFO] Database query executed
+[2025-11-05T23:20:43.065617] [INFO] Configuration loaded
+[2025-11-05T23:20:43.065707] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.065723] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.065621] [INFO] Service initialized
+[2025-11-05T23:20:43.065726] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.065644] [INFO] Database query executed
+[2025-11-05T23:20:43.065628] [INFO] Service initialized
+[2025-11-05T23:20:43.065583] [INFO] Service initialized
+[2025-11-05T23:20:43.065605] [INFO] Connection established
+[2025-11-05T23:20:43.065720] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.065717] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.065710] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.065631] [INFO] Request processed successfully
+[2025-11-05T23:20:43.065641] [INFO] Transaction completed
+[2025-11-05T23:20:43.065634] [INFO] Database query executed
+[2025-11-05T23:20:43.065703] [ERROR] Database connection lost
+[2025-11-05T23:20:43.065624] [INFO] Health check passed
+[2025-11-05T23:20:43.065691] [WARN] Queue size growing
+[2025-11-05T23:20:43.065614] [INFO] Connection established
+[2025-11-05T23:20:43.065714] [DEBUG] Connection pool status checked

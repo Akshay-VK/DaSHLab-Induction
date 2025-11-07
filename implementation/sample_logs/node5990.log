@@ -1,0 +1,32 @@
+[2025-11-05T23:20:37.631501] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.631405] [INFO] Connection established
+[2025-11-05T23:20:37.631433] [INFO] Service initialized
+[2025-11-05T23:20:37.631480] [WARN] Timeout warning
+[2025-11-05T23:20:37.631437] [INFO] Database query executed
+[2025-11-05T23:20:37.631421] [INFO] Session started
+[2025-11-05T23:20:37.631400] [INFO] Configuration loaded
+[2025-11-05T23:20:37.631497] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.631514] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.631369] [INFO] Health check passed
+[2025-11-05T23:20:37.631453] [INFO] Health check passed
+[2025-11-05T23:20:37.631411] [INFO] Transaction completed
+[2025-11-05T23:20:37.631445] [INFO] Transaction completed
+[2025-11-05T23:20:37.631425] [INFO] Request processed successfully
+[2025-11-05T23:20:37.631472] [WARN] Queue size growing
+[2025-11-05T23:20:37.631505] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.631530] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.631394] [INFO] Configuration loaded
+[2025-11-05T23:20:37.631518] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.631449] [INFO] Configuration loaded
+[2025-11-05T23:20:37.631429] [INFO] Transaction completed
+[2025-11-05T23:20:37.631486] [ERROR] Authentication failed
+[2025-11-05T23:20:37.631491] [ERROR] Service unavailable
+[2025-11-05T23:20:37.631416] [INFO] Request processed successfully
+[2025-11-05T23:20:37.631510] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.631477] [WARN] High memory usage detected
+[2025-11-05T23:20:37.631522] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.631441] [INFO] Session started
+[2025-11-05T23:20:37.631457] [INFO] Transaction completed
+[2025-11-05T23:20:37.631525] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.631463] [WARN] High memory usage detected
+[2025-11-05T23:20:37.631468] [WARN] Cache miss

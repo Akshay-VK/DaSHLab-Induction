@@ -1,0 +1,27 @@
+[2025-11-05T23:20:14.048743] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.048748] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.048769] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.048718] [WARN] Rate limit approaching
+[2025-11-05T23:20:14.048670] [INFO] Request processed successfully
+[2025-11-05T23:20:14.048703] [INFO] Request processed successfully
+[2025-11-05T23:20:14.048732] [ERROR] Authentication failed
+[2025-11-05T23:20:14.048700] [INFO] Session started
+[2025-11-05T23:20:14.048691] [INFO] Service initialized
+[2025-11-05T23:20:14.048655] [INFO] Configuration loaded
+[2025-11-05T23:20:14.048727] [WARN] Cache miss
+[2025-11-05T23:20:14.048683] [INFO] Connection established
+[2025-11-05T23:20:14.048708] [INFO] Service initialized
+[2025-11-05T23:20:14.048696] [INFO] Session started
+[2025-11-05T23:20:14.048632] [INFO] Cache hit
+[2025-11-05T23:20:14.048752] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.048660] [INFO] Connection established
+[2025-11-05T23:20:14.048760] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.048722] [WARN] Rate limit approaching
+[2025-11-05T23:20:14.048665] [INFO] Cache hit
+[2025-11-05T23:20:14.048678] [INFO] Session started
+[2025-11-05T23:20:14.048674] [INFO] Configuration loaded
+[2025-11-05T23:20:14.048756] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.048765] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.048738] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.048687] [INFO] Health check passed
+[2025-11-05T23:20:14.048713] [WARN] Deprecated API usage

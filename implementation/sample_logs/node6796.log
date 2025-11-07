@@ -1,0 +1,31 @@
+[2025-11-05T23:20:40.780021] [INFO] Health check passed
+[2025-11-05T23:20:40.780112] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.780053] [INFO] Health check passed
+[2025-11-05T23:20:40.780130] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.780049] [INFO] Transaction completed
+[2025-11-05T23:20:40.780045] [INFO] Cache hit
+[2025-11-05T23:20:40.780036] [INFO] Cache hit
+[2025-11-05T23:20:40.780012] [INFO] Configuration loaded
+[2025-11-05T23:20:40.780017] [INFO] Configuration loaded
+[2025-11-05T23:20:40.780008] [INFO] Transaction completed
+[2025-11-05T23:20:40.780004] [INFO] Session started
+[2025-11-05T23:20:40.780134] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.780126] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.780027] [INFO] Health check passed
+[2025-11-05T23:20:40.780083] [WARN] Disk space low
+[2025-11-05T23:20:40.780107] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.780068] [WARN] Timeout warning
+[2025-11-05T23:20:40.779998] [INFO] Transaction completed
+[2025-11-05T23:20:40.780121] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.780057] [INFO] Configuration loaded
+[2025-11-05T23:20:40.780087] [WARN] Connection retry attempt
+[2025-11-05T23:20:40.780102] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.780041] [INFO] Transaction completed
+[2025-11-05T23:20:40.780078] [WARN] Disk space low
+[2025-11-05T23:20:40.780092] [ERROR] Network timeout
+[2025-11-05T23:20:40.779971] [INFO] Health check passed
+[2025-11-05T23:20:40.780097] [ERROR] File not found
+[2025-11-05T23:20:40.780031] [INFO] Connection established
+[2025-11-05T23:20:40.780063] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.780117] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.780073] [WARN] High memory usage detected

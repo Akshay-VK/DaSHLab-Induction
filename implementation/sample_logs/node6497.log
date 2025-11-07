@@ -1,0 +1,31 @@
+[2025-11-05T23:20:39.642639] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.642627] [ERROR] Disk read failed
+[2025-11-05T23:20:39.642551] [INFO] Transaction completed
+[2025-11-05T23:20:39.642648] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:39.642613] [WARN] Rate limit approaching
+[2025-11-05T23:20:39.642658] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.642585] [INFO] Service initialized
+[2025-11-05T23:20:39.642593] [INFO] Connection established
+[2025-11-05T23:20:39.642569] [INFO] Configuration loaded
+[2025-11-05T23:20:39.642540] [INFO] Database query executed
+[2025-11-05T23:20:39.642546] [INFO] Configuration loaded
+[2025-11-05T23:20:39.642561] [INFO] Service initialized
+[2025-11-05T23:20:39.642556] [INFO] Service initialized
+[2025-11-05T23:20:39.642603] [WARN] High memory usage detected
+[2025-11-05T23:20:39.642589] [INFO] Connection established
+[2025-11-05T23:20:39.642622] [WARN] Deprecated API usage
+[2025-11-05T23:20:39.642598] [INFO] Connection established
+[2025-11-05T23:20:39.642581] [INFO] Request processed successfully
+[2025-11-05T23:20:39.642617] [WARN] Queue size growing
+[2025-11-05T23:20:39.642653] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.642512] [INFO] Cache hit
+[2025-11-05T23:20:39.642573] [INFO] Configuration loaded
+[2025-11-05T23:20:39.642676] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.642671] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.642644] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.642565] [INFO] Transaction completed
+[2025-11-05T23:20:39.642663] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.642577] [INFO] Health check passed
+[2025-11-05T23:20:39.642608] [WARN] High memory usage detected
+[2025-11-05T23:20:39.642667] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.642633] [ERROR] Memory allocation error

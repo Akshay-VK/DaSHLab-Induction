@@ -1,0 +1,28 @@
+[2025-11-05T23:20:25.139356] [ERROR] File not found
+[2025-11-05T23:20:25.139308] [INFO] Health check passed
+[2025-11-05T23:20:25.139291] [INFO] Connection established
+[2025-11-05T23:20:25.139361] [ERROR] Network timeout
+[2025-11-05T23:20:25.139374] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.139386] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.139321] [INFO] Cache hit
+[2025-11-05T23:20:25.139396] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.139391] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.139280] [INFO] Cache hit
+[2025-11-05T23:20:25.139340] [WARN] High memory usage detected
+[2025-11-05T23:20:25.139366] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.139286] [INFO] Session started
+[2025-11-05T23:20:25.139401] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.139300] [INFO] Cache hit
+[2025-11-05T23:20:25.139329] [INFO] User logged in
+[2025-11-05T23:20:25.139326] [INFO] Database query executed
+[2025-11-05T23:20:25.139378] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.139335] [WARN] Rate limit approaching
+[2025-11-05T23:20:25.139350] [WARN] High memory usage detected
+[2025-11-05T23:20:25.139345] [WARN] Slow query performance
+[2025-11-05T23:20:25.139304] [INFO] Request processed successfully
+[2025-11-05T23:20:25.139254] [INFO] Request processed successfully
+[2025-11-05T23:20:25.139382] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.139296] [INFO] User logged in
+[2025-11-05T23:20:25.139312] [INFO] Cache hit
+[2025-11-05T23:20:25.139317] [INFO] Health check passed
+[2025-11-05T23:20:25.139370] [DEBUG] Cache key generated

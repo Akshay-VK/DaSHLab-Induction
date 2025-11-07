@@ -1,0 +1,24 @@
+[2025-11-05T23:20:43.383110] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.383036] [INFO] Transaction completed
+[2025-11-05T23:20:43.383079] [ERROR] Memory allocation error
+[2025-11-05T23:20:43.383114] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.383107] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.383048] [INFO] Session started
+[2025-11-05T23:20:43.383031] [INFO] Cache hit
+[2025-11-05T23:20:43.383057] [INFO] Session started
+[2025-11-05T23:20:43.383015] [INFO] User logged in
+[2025-11-05T23:20:43.383068] [WARN] Queue size growing
+[2025-11-05T23:20:43.383088] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.383099] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.383021] [INFO] Cache hit
+[2025-11-05T23:20:43.383094] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.383040] [INFO] Database query executed
+[2025-11-05T23:20:43.383072] [WARN] Cache miss
+[2025-11-05T23:20:43.383053] [INFO] Session started
+[2025-11-05T23:20:43.383044] [INFO] Request processed successfully
+[2025-11-05T23:20:43.383083] [ERROR] Disk read failed
+[2025-11-05T23:20:43.383026] [INFO] User logged in
+[2025-11-05T23:20:43.383061] [INFO] Service initialized
+[2025-11-05T23:20:43.383103] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.383118] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.382989] [INFO] Request processed successfully

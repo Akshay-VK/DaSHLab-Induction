@@ -1,0 +1,32 @@
+[2025-11-05T23:20:46.867754] [INFO] Database query executed
+[2025-11-05T23:20:46.867848] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.867852] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.867803] [WARN] Timeout warning
+[2025-11-05T23:20:46.867832] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.867788] [INFO] Configuration loaded
+[2025-11-05T23:20:46.867722] [INFO] Service initialized
+[2025-11-05T23:20:46.867836] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.867694] [INFO] Cache hit
+[2025-11-05T23:20:46.867750] [INFO] Transaction completed
+[2025-11-05T23:20:46.867768] [INFO] Database query executed
+[2025-11-05T23:20:46.867741] [INFO] Configuration loaded
+[2025-11-05T23:20:46.867745] [INFO] Request processed successfully
+[2025-11-05T23:20:46.867780] [INFO] User logged in
+[2025-11-05T23:20:46.867758] [INFO] Connection established
+[2025-11-05T23:20:46.867811] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.867784] [INFO] Health check passed
+[2025-11-05T23:20:46.867817] [ERROR] Authentication failed
+[2025-11-05T23:20:46.867776] [INFO] Health check passed
+[2025-11-05T23:20:46.867856] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.867844] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.867821] [ERROR] Permission denied
+[2025-11-05T23:20:46.867840] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.867807] [WARN] High memory usage detected
+[2025-11-05T23:20:46.867792] [INFO] Connection established
+[2025-11-05T23:20:46.867763] [INFO] Session started
+[2025-11-05T23:20:46.867729] [INFO] Transaction completed
+[2025-11-05T23:20:46.867798] [WARN] Queue size growing
+[2025-11-05T23:20:46.867827] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.867860] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.867772] [INFO] Request processed successfully
+[2025-11-05T23:20:46.867735] [INFO] Health check passed

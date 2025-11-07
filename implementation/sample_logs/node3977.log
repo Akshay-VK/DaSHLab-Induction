@@ -1,0 +1,33 @@
+[2025-11-05T23:20:29.590281] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.590198] [INFO] Service initialized
+[2025-11-05T23:20:29.590164] [INFO] Connection established
+[2025-11-05T23:20:29.590256] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.590212] [INFO] Transaction completed
+[2025-11-05T23:20:29.590273] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.590221] [WARN] Rate limit approaching
+[2025-11-05T23:20:29.590247] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.590260] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.590146] [INFO] Configuration loaded
+[2025-11-05T23:20:29.590190] [INFO] Configuration loaded
+[2025-11-05T23:20:29.590181] [INFO] Cache hit
+[2025-11-05T23:20:29.590186] [INFO] Database query executed
+[2025-11-05T23:20:29.590168] [INFO] Cache hit
+[2025-11-05T23:20:29.590173] [INFO] Health check passed
+[2025-11-05T23:20:29.590203] [INFO] Session started
+[2025-11-05T23:20:29.590230] [WARN] Timeout warning
+[2025-11-05T23:20:29.590277] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.590216] [INFO] Configuration loaded
+[2025-11-05T23:20:29.590115] [INFO] User logged in
+[2025-11-05T23:20:29.590241] [ERROR] Permission denied
+[2025-11-05T23:20:29.590207] [INFO] User logged in
+[2025-11-05T23:20:29.590194] [INFO] Health check passed
+[2025-11-05T23:20:29.590252] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.590269] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.590177] [INFO] Connection established
+[2025-11-05T23:20:29.590160] [INFO] Request processed successfully
+[2025-11-05T23:20:29.590140] [INFO] Health check passed
+[2025-11-05T23:20:29.590226] [WARN] High memory usage detected
+[2025-11-05T23:20:29.590155] [INFO] Connection established
+[2025-11-05T23:20:29.590264] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.590150] [INFO] Request processed successfully
+[2025-11-05T23:20:29.590236] [ERROR] Network timeout

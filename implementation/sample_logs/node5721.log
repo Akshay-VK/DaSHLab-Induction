@@ -1,0 +1,31 @@
+[2025-11-05T23:20:36.238695] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.238556] [INFO] Connection established
+[2025-11-05T23:20:36.238687] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.238680] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.238631] [INFO] Transaction completed
+[2025-11-05T23:20:36.238677] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.238646] [WARN] Rate limit approaching
+[2025-11-05T23:20:36.238663] [ERROR] Authentication failed
+[2025-11-05T23:20:36.238607] [INFO] Connection established
+[2025-11-05T23:20:36.238635] [INFO] Connection established
+[2025-11-05T23:20:36.238691] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.238669] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:36.238658] [WARN] Rate limit approaching
+[2025-11-05T23:20:36.238620] [INFO] Database query executed
+[2025-11-05T23:20:36.238702] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.238581] [INFO] Health check passed
+[2025-11-05T23:20:36.238684] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.238586] [INFO] Connection established
+[2025-11-05T23:20:36.238599] [INFO] Connection established
+[2025-11-05T23:20:36.238651] [WARN] Queue size growing
+[2025-11-05T23:20:36.238591] [INFO] Transaction completed
+[2025-11-05T23:20:36.238612] [INFO] Service initialized
+[2025-11-05T23:20:36.238673] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.238603] [INFO] Database query executed
+[2025-11-05T23:20:36.238595] [INFO] Database query executed
+[2025-11-05T23:20:36.238641] [WARN] Queue size growing
+[2025-11-05T23:20:36.238655] [WARN] Disk space low
+[2025-11-05T23:20:36.238698] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.238624] [INFO] Configuration loaded
+[2025-11-05T23:20:36.238628] [INFO] Service initialized
+[2025-11-05T23:20:36.238616] [INFO] Cache hit

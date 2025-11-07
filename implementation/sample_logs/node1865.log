@@ -1,0 +1,31 @@
+[2025-11-05T23:20:20.435693] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.435369] [INFO] Configuration loaded
+[2025-11-05T23:20:20.435656] [WARN] Connection retry attempt
+[2025-11-05T23:20:20.435666] [WARN] Connection retry attempt
+[2025-11-05T23:20:20.435703] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.435373] [INFO] Cache hit
+[2025-11-05T23:20:20.435634] [INFO] User logged in
+[2025-11-05T23:20:20.435559] [INFO] Request processed successfully
+[2025-11-05T23:20:20.435717] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.435662] [WARN] Timeout warning
+[2025-11-05T23:20:20.435698] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.435646] [INFO] Transaction completed
+[2025-11-05T23:20:20.435684] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.435361] [INFO] Connection established
+[2025-11-05T23:20:20.435365] [INFO] Transaction completed
+[2025-11-05T23:20:20.435356] [INFO] User logged in
+[2025-11-05T23:20:20.435331] [INFO] Cache hit
+[2025-11-05T23:20:20.435642] [INFO] Transaction completed
+[2025-11-05T23:20:20.435710] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.435377] [INFO] Database query executed
+[2025-11-05T23:20:20.435383] [INFO] Cache hit
+[2025-11-05T23:20:20.435707] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.435688] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.435545] [INFO] Session started
+[2025-11-05T23:20:20.435679] [ERROR] Service unavailable
+[2025-11-05T23:20:20.435714] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.435650] [INFO] Service initialized
+[2025-11-05T23:20:20.435380] [INFO] Health check passed
+[2025-11-05T23:20:20.435670] [WARN] Cache miss
+[2025-11-05T23:20:20.435674] [WARN] Slow query performance
+[2025-11-05T23:20:20.435387] [INFO] Cache hit

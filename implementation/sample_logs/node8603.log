@@ -1,0 +1,29 @@
+[2025-11-05T23:20:47.973930] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.973927] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.973858] [INFO] Health check passed
+[2025-11-05T23:20:47.973899] [WARN] Timeout warning
+[2025-11-05T23:20:47.973902] [WARN] Resource threshold approaching
+[2025-11-05T23:20:47.973878] [INFO] Request processed successfully
+[2025-11-05T23:20:47.973855] [INFO] Session started
+[2025-11-05T23:20:47.973842] [INFO] User logged in
+[2025-11-05T23:20:47.973891] [WARN] Queue size growing
+[2025-11-05T23:20:47.973852] [INFO] Configuration loaded
+[2025-11-05T23:20:47.973884] [INFO] Transaction completed
+[2025-11-05T23:20:47.973887] [INFO] Configuration loaded
+[2025-11-05T23:20:47.973918] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.973924] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.973845] [INFO] Health check passed
+[2025-11-05T23:20:47.973815] [INFO] Request processed successfully
+[2025-11-05T23:20:47.973861] [INFO] Service initialized
+[2025-11-05T23:20:47.973868] [INFO] Health check passed
+[2025-11-05T23:20:47.973921] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.973849] [INFO] Request processed successfully
+[2025-11-05T23:20:47.973909] [ERROR] Request failed
+[2025-11-05T23:20:47.973875] [INFO] Configuration loaded
+[2025-11-05T23:20:47.973837] [INFO] Transaction completed
+[2025-11-05T23:20:47.973881] [INFO] Service initialized
+[2025-11-05T23:20:47.973872] [INFO] Cache hit
+[2025-11-05T23:20:47.973906] [ERROR] Disk read failed
+[2025-11-05T23:20:47.973895] [WARN] Rate limit approaching
+[2025-11-05T23:20:47.973864] [INFO] Health check passed
+[2025-11-05T23:20:47.973914] [DEBUG] Timer set: 30 seconds

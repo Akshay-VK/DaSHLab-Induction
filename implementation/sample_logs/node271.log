@@ -1,0 +1,34 @@
+[2025-11-05T23:20:13.031725] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:13.031687] [WARN] Rate limit approaching
+[2025-11-05T23:20:13.031755] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.031654] [INFO] Connection established
+[2025-11-05T23:20:13.031678] [WARN] High memory usage detected
+[2025-11-05T23:20:13.031613] [INFO] Configuration loaded
+[2025-11-05T23:20:13.031673] [WARN] Rate limit approaching
+[2025-11-05T23:20:13.031650] [INFO] Service initialized
+[2025-11-05T23:20:13.031742] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:13.031738] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.031734] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:13.031662] [INFO] Transaction completed
+[2025-11-05T23:20:13.031730] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:13.031602] [INFO] Session started
+[2025-11-05T23:20:13.031658] [INFO] Transaction completed
+[2025-11-05T23:20:13.031710] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.031668] [WARN] Slow query performance
+[2025-11-05T23:20:13.031607] [INFO] Database query executed
+[2025-11-05T23:20:13.031622] [INFO] Configuration loaded
+[2025-11-05T23:20:13.031617] [INFO] Configuration loaded
+[2025-11-05T23:20:13.031631] [INFO] User logged in
+[2025-11-05T23:20:13.031645] [INFO] Session started
+[2025-11-05T23:20:13.031705] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:13.031636] [INFO] Request processed successfully
+[2025-11-05T23:20:13.031640] [INFO] Session started
+[2025-11-05T23:20:13.031682] [WARN] Queue size growing
+[2025-11-05T23:20:13.031694] [ERROR] Service unavailable
+[2025-11-05T23:20:13.031746] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.031751] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.031627] [INFO] Configuration loaded
+[2025-11-05T23:20:13.031715] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:13.031720] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.031699] [ERROR] Database connection lost
+[2025-11-05T23:20:13.031576] [INFO] Session started

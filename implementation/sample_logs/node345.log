@@ -1,0 +1,37 @@
+[2025-11-05T23:20:13.779582] [WARN] Timeout warning
+[2025-11-05T23:20:13.779638] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:13.779626] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:13.779565] [INFO] Service initialized
+[2025-11-05T23:20:13.779550] [INFO] Request processed successfully
+[2025-11-05T23:20:13.779644] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.779650] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.779616] [ERROR] Permission denied
+[2025-11-05T23:20:13.779647] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:13.779562] [INFO] Database query executed
+[2025-11-05T23:20:13.779596] [WARN] Connection retry attempt
+[2025-11-05T23:20:13.779653] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.779554] [INFO] User logged in
+[2025-11-05T23:20:13.779632] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.779534] [INFO] Cache hit
+[2025-11-05T23:20:13.779557] [INFO] Transaction completed
+[2025-11-05T23:20:13.779538] [INFO] User logged in
+[2025-11-05T23:20:13.779590] [WARN] Queue size growing
+[2025-11-05T23:20:13.779608] [WARN] Rate limit approaching
+[2025-11-05T23:20:13.779586] [WARN] Rate limit approaching
+[2025-11-05T23:20:13.779542] [INFO] Service initialized
+[2025-11-05T23:20:13.779530] [INFO] User logged in
+[2025-11-05T23:20:13.779612] [ERROR] Authentication failed
+[2025-11-05T23:20:13.779499] [INFO] Service initialized
+[2025-11-05T23:20:13.779605] [WARN] Disk space low
+[2025-11-05T23:20:13.779621] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:13.779578] [INFO] Database query executed
+[2025-11-05T23:20:13.779571] [INFO] Request processed successfully
+[2025-11-05T23:20:13.779524] [INFO] Database query executed
+[2025-11-05T23:20:13.779568] [INFO] Transaction completed
+[2025-11-05T23:20:13.779574] [INFO] Connection established
+[2025-11-05T23:20:13.779600] [WARN] Cache miss
+[2025-11-05T23:20:13.779546] [INFO] Connection established
+[2025-11-05T23:20:13.779656] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.779641] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:13.779629] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.779635] [DEBUG] Memory allocation: 2048 bytes

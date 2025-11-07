@@ -1,0 +1,35 @@
+[2025-11-05T23:20:24.711928] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.711880] [WARN] Timeout warning
+[2025-11-05T23:20:24.711819] [INFO] Configuration loaded
+[2025-11-05T23:20:24.711851] [INFO] Database query executed
+[2025-11-05T23:20:24.711872] [WARN] Timeout warning
+[2025-11-05T23:20:24.711793] [INFO] Request processed successfully
+[2025-11-05T23:20:24.711954] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.711805] [INFO] User logged in
+[2025-11-05T23:20:24.711833] [INFO] Database query executed
+[2025-11-05T23:20:24.711867] [WARN] Queue size growing
+[2025-11-05T23:20:24.711837] [INFO] Transaction completed
+[2025-11-05T23:20:24.711828] [INFO] User logged in
+[2025-11-05T23:20:24.711924] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.711958] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.711876] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.711847] [INFO] Connection established
+[2025-11-05T23:20:24.711842] [INFO] User logged in
+[2025-11-05T23:20:24.711909] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.711919] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.711934] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.711939] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.711892] [ERROR] Request failed
+[2025-11-05T23:20:24.711855] [INFO] Configuration loaded
+[2025-11-05T23:20:24.711799] [INFO] Health check passed
+[2025-11-05T23:20:24.711904] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.711767] [INFO] Connection established
+[2025-11-05T23:20:24.711898] [ERROR] Request failed
+[2025-11-05T23:20:24.711861] [WARN] Resource threshold approaching
+[2025-11-05T23:20:24.711943] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.711914] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.711814] [INFO] Session started
+[2025-11-05T23:20:24.711823] [INFO] Configuration loaded
+[2025-11-05T23:20:24.711809] [INFO] Session started
+[2025-11-05T23:20:24.711948] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.711886] [WARN] Slow query performance

@@ -1,0 +1,35 @@
+[2025-11-05T23:20:31.744007] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.744033] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.743950] [INFO] User logged in
+[2025-11-05T23:20:31.744051] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.743986] [INFO] Transaction completed
+[2025-11-05T23:20:31.744028] [DEBUG] Cache key generated
+[2025-11-05T23:20:31.744072] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.744023] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.744068] [DEBUG] Cache key generated
+[2025-11-05T23:20:31.743897] [INFO] Session started
+[2025-11-05T23:20:31.744012] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.743924] [INFO] Configuration loaded
+[2025-11-05T23:20:31.744060] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:31.743969] [INFO] Database query executed
+[2025-11-05T23:20:31.743973] [INFO] Transaction completed
+[2025-11-05T23:20:31.744046] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.743936] [INFO] Transaction completed
+[2025-11-05T23:20:31.743940] [INFO] Health check passed
+[2025-11-05T23:20:31.743955] [INFO] Database query executed
+[2025-11-05T23:20:31.744042] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:31.744055] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.744082] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.743945] [INFO] Cache hit
+[2025-11-05T23:20:31.743997] [WARN] Cache miss
+[2025-11-05T23:20:31.744036] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.744064] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.744003] [WARN] Slow query performance
+[2025-11-05T23:20:31.743982] [INFO] Configuration loaded
+[2025-11-05T23:20:31.743959] [INFO] Request processed successfully
+[2025-11-05T23:20:31.743964] [INFO] User logged in
+[2025-11-05T23:20:31.744077] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:31.744017] [ERROR] Disk read failed
+[2025-11-05T23:20:31.743931] [INFO] User logged in
+[2025-11-05T23:20:31.743991] [INFO] Service initialized
+[2025-11-05T23:20:31.743977] [INFO] User logged in

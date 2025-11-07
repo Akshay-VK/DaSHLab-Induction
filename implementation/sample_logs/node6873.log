@@ -1,0 +1,34 @@
+[2025-11-05T23:20:41.058996] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.058971] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.058962] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.058854] [INFO] Request processed successfully
+[2025-11-05T23:20:41.058879] [INFO] Request processed successfully
+[2025-11-05T23:20:41.058914] [WARN] Resource threshold approaching
+[2025-11-05T23:20:41.058949] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.058929] [WARN] Disk space low
+[2025-11-05T23:20:41.058933] [WARN] Cache miss
+[2025-11-05T23:20:41.058980] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.058859] [INFO] User logged in
+[2025-11-05T23:20:41.058847] [INFO] Service initialized
+[2025-11-05T23:20:41.058957] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.058870] [INFO] Service initialized
+[2025-11-05T23:20:41.058983] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.058944] [ERROR] Request failed
+[2025-11-05T23:20:41.058904] [INFO] Cache hit
+[2025-11-05T23:20:41.058924] [WARN] Cache miss
+[2025-11-05T23:20:41.058892] [INFO] Health check passed
+[2025-11-05T23:20:41.058896] [INFO] User logged in
+[2025-11-05T23:20:41.058953] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.058939] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.058992] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.058908] [INFO] Transaction completed
+[2025-11-05T23:20:41.058988] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.058888] [INFO] User logged in
+[2025-11-05T23:20:41.058874] [INFO] Database query executed
+[2025-11-05T23:20:41.058975] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.058919] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.058865] [INFO] Request processed successfully
+[2025-11-05T23:20:41.058883] [INFO] User logged in
+[2025-11-05T23:20:41.058820] [INFO] Database query executed
+[2025-11-05T23:20:41.058967] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.058900] [INFO] Connection established

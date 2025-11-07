@@ -1,0 +1,39 @@
+[2025-11-05T23:20:25.581444] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.581356] [INFO] Transaction completed
+[2025-11-05T23:20:25.581411] [WARN] Disk space low
+[2025-11-05T23:20:25.581339] [INFO] Configuration loaded
+[2025-11-05T23:20:25.581416] [WARN] Queue size growing
+[2025-11-05T23:20:25.581459] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.581331] [INFO] Connection established
+[2025-11-05T23:20:25.581392] [INFO] Connection established
+[2025-11-05T23:20:25.581456] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.581335] [INFO] Configuration loaded
+[2025-11-05T23:20:25.581420] [WARN] Disk space low
+[2025-11-05T23:20:25.581352] [INFO] Transaction completed
+[2025-11-05T23:20:25.581368] [INFO] Database query executed
+[2025-11-05T23:20:25.581312] [INFO] Cache hit
+[2025-11-05T23:20:25.581425] [ERROR] File not found
+[2025-11-05T23:20:25.581384] [INFO] Connection established
+[2025-11-05T23:20:25.581327] [INFO] Configuration loaded
+[2025-11-05T23:20:25.581467] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.581287] [INFO] Service initialized
+[2025-11-05T23:20:25.581343] [INFO] User logged in
+[2025-11-05T23:20:25.581396] [INFO] Configuration loaded
+[2025-11-05T23:20:25.581406] [WARN] Deprecated API usage
+[2025-11-05T23:20:25.581430] [ERROR] Authentication failed
+[2025-11-05T23:20:25.581360] [INFO] Health check passed
+[2025-11-05T23:20:25.581463] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.581376] [INFO] Transaction completed
+[2025-11-05T23:20:25.581439] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.581347] [INFO] Transaction completed
+[2025-11-05T23:20:25.581388] [INFO] Service initialized
+[2025-11-05T23:20:25.581452] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.581448] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.581435] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.581318] [INFO] User logged in
+[2025-11-05T23:20:25.581323] [INFO] Database query executed
+[2025-11-05T23:20:25.581380] [INFO] Cache hit
+[2025-11-05T23:20:25.581402] [WARN] Deprecated API usage
+[2025-11-05T23:20:25.581471] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.581372] [INFO] Request processed successfully
+[2025-11-05T23:20:25.581364] [INFO] User logged in

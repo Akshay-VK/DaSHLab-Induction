@@ -1,0 +1,34 @@
+[2025-11-05T23:20:32.839508] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.839515] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.839504] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.839474] [WARN] Disk space low
+[2025-11-05T23:20:32.839490] [ERROR] File not found
+[2025-11-05T23:20:32.839467] [WARN] High memory usage detected
+[2025-11-05T23:20:32.839486] [ERROR] Permission denied
+[2025-11-05T23:20:32.839415] [INFO] Configuration loaded
+[2025-11-05T23:20:32.839470] [WARN] Rate limit approaching
+[2025-11-05T23:20:32.839481] [WARN] Connection retry attempt
+[2025-11-05T23:20:32.839529] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.839500] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.839442] [INFO] Cache hit
+[2025-11-05T23:20:32.839402] [INFO] Database query executed
+[2025-11-05T23:20:32.839458] [WARN] High memory usage detected
+[2025-11-05T23:20:32.839423] [INFO] Cache hit
+[2025-11-05T23:20:32.839411] [INFO] Request processed successfully
+[2025-11-05T23:20:32.839449] [INFO] Health check passed
+[2025-11-05T23:20:32.839453] [INFO] Service initialized
+[2025-11-05T23:20:32.839420] [INFO] Cache hit
+[2025-11-05T23:20:32.839518] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:32.839407] [INFO] Request processed successfully
+[2025-11-05T23:20:32.839377] [INFO] Service initialized
+[2025-11-05T23:20:32.839462] [WARN] Timeout warning
+[2025-11-05T23:20:32.839525] [DEBUG] Cache key generated
+[2025-11-05T23:20:32.839477] [WARN] Timeout warning
+[2025-11-05T23:20:32.839435] [INFO] Transaction completed
+[2025-11-05T23:20:32.839431] [INFO] Database query executed
+[2025-11-05T23:20:32.839495] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.839521] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.839427] [INFO] Request processed successfully
+[2025-11-05T23:20:32.839511] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.839446] [INFO] Service initialized
+[2025-11-05T23:20:32.839439] [INFO] Database query executed

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:34.410397] [INFO] Database query executed
+[2025-11-05T23:20:34.410402] [INFO] Health check passed
+[2025-11-05T23:20:34.410450] [INFO] Cache hit
+[2025-11-05T23:20:34.410479] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.410419] [INFO] Health check passed
+[2025-11-05T23:20:34.410473] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.410415] [INFO] Configuration loaded
+[2025-11-05T23:20:34.410406] [INFO] Connection established
+[2025-11-05T23:20:34.410498] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.410514] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.410510] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.410428] [INFO] Health check passed
+[2025-11-05T23:20:34.410502] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.410411] [INFO] Connection established
+[2025-11-05T23:20:34.410518] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.410424] [INFO] Transaction completed
+[2025-11-05T23:20:34.410445] [INFO] User logged in
+[2025-11-05T23:20:34.410367] [INFO] Request processed successfully
+[2025-11-05T23:20:34.410489] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.410493] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.410484] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.410437] [INFO] Cache hit
+[2025-11-05T23:20:34.410467] [ERROR] Memory allocation error
+[2025-11-05T23:20:34.410441] [INFO] Connection established
+[2025-11-05T23:20:34.410461] [WARN] Cache miss
+[2025-11-05T23:20:34.410456] [WARN] Slow query performance
+[2025-11-05T23:20:34.410433] [INFO] Service initialized
+[2025-11-05T23:20:34.410392] [INFO] Connection established
+[2025-11-05T23:20:34.410506] [DEBUG] Variable value: x=42

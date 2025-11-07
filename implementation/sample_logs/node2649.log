@@ -1,0 +1,33 @@
+[2025-11-05T23:20:23.901733] [INFO] Request processed successfully
+[2025-11-05T23:20:23.901706] [INFO] Session started
+[2025-11-05T23:20:23.901757] [WARN] Cache miss
+[2025-11-05T23:20:23.901802] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.901769] [ERROR] Permission denied
+[2025-11-05T23:20:23.901781] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.901718] [INFO] Transaction completed
+[2025-11-05T23:20:23.901701] [INFO] Cache hit
+[2025-11-05T23:20:23.901792] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:23.901729] [INFO] Configuration loaded
+[2025-11-05T23:20:23.901765] [ERROR] Memory allocation error
+[2025-11-05T23:20:23.901714] [INFO] Database query executed
+[2025-11-05T23:20:23.901795] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.901798] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.901746] [WARN] Slow query performance
+[2025-11-05T23:20:23.901691] [INFO] Transaction completed
+[2025-11-05T23:20:23.901777] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.901737] [INFO] Service initialized
+[2025-11-05T23:20:23.901742] [WARN] Connection retry attempt
+[2025-11-05T23:20:23.901805] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.901773] [ERROR] Authentication failed
+[2025-11-05T23:20:23.901697] [INFO] Health check passed
+[2025-11-05T23:20:23.901753] [WARN] Rate limit approaching
+[2025-11-05T23:20:23.901760] [WARN] Connection retry attempt
+[2025-11-05T23:20:23.901785] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.901682] [INFO] Service initialized
+[2025-11-05T23:20:23.901722] [INFO] Service initialized
+[2025-11-05T23:20:23.901725] [INFO] Cache hit
+[2025-11-05T23:20:23.901687] [INFO] Health check passed
+[2025-11-05T23:20:23.901710] [INFO] Service initialized
+[2025-11-05T23:20:23.901750] [WARN] Disk space low
+[2025-11-05T23:20:23.901617] [INFO] Request processed successfully
+[2025-11-05T23:20:23.901788] [DEBUG] Buffer size: 4096 bytes

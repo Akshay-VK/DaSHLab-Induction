@@ -1,0 +1,24 @@
+[2025-11-05T23:20:12.776594] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:12.776551] [WARN] High memory usage detected
+[2025-11-05T23:20:12.776581] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:12.776519] [INFO] Cache hit
+[2025-11-05T23:20:12.776514] [INFO] User logged in
+[2025-11-05T23:20:12.776572] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:12.776603] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:12.776509] [INFO] Database query executed
+[2025-11-05T23:20:12.776504] [INFO] User logged in
+[2025-11-05T23:20:12.776537] [INFO] Cache hit
+[2025-11-05T23:20:12.776599] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.776527] [INFO] Cache hit
+[2025-11-05T23:20:12.776470] [INFO] Service initialized
+[2025-11-05T23:20:12.776499] [INFO] User logged in
+[2025-11-05T23:20:12.776566] [ERROR] Network timeout
+[2025-11-05T23:20:12.776562] [ERROR] Disk read failed
+[2025-11-05T23:20:12.776577] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:12.776590] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:12.776557] [ERROR] Invalid input data
+[2025-11-05T23:20:12.776586] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.776532] [INFO] Service initialized
+[2025-11-05T23:20:12.776545] [INFO] Connection established
+[2025-11-05T23:20:12.776541] [INFO] Transaction completed
+[2025-11-05T23:20:12.776523] [INFO] Health check passed

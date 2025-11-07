@@ -1,0 +1,25 @@
+[2025-11-05T23:20:48.383270] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:48.383236] [INFO] Health check passed
+[2025-11-05T23:20:48.383302] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.383280] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.383210] [INFO] Database query executed
+[2025-11-05T23:20:48.383289] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.383244] [INFO] Service initialized
+[2025-11-05T23:20:48.383297] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:48.383219] [INFO] Service initialized
+[2025-11-05T23:20:48.383248] [INFO] Health check passed
+[2025-11-05T23:20:48.383275] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.383284] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.383252] [INFO] Request processed successfully
+[2025-11-05T23:20:48.383206] [INFO] Request processed successfully
+[2025-11-05T23:20:48.383200] [INFO] Database query executed
+[2025-11-05T23:20:48.383240] [INFO] Connection established
+[2025-11-05T23:20:48.383215] [INFO] Transaction completed
+[2025-11-05T23:20:48.383258] [WARN] Connection retry attempt
+[2025-11-05T23:20:48.383232] [INFO] Health check passed
+[2025-11-05T23:20:48.383169] [INFO] Transaction completed
+[2025-11-05T23:20:48.383195] [INFO] Health check passed
+[2025-11-05T23:20:48.383227] [INFO] Health check passed
+[2025-11-05T23:20:48.383223] [INFO] Transaction completed
+[2025-11-05T23:20:48.383264] [ERROR] Permission denied
+[2025-11-05T23:20:48.383293] [DEBUG] Variable value: x=42

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:30.450599] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.450632] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.450641] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.450614] [ERROR] Request failed
+[2025-11-05T23:20:30.450544] [INFO] Cache hit
+[2025-11-05T23:20:30.450529] [INFO] Request processed successfully
+[2025-11-05T23:20:30.450568] [INFO] Database query executed
+[2025-11-05T23:20:30.450572] [INFO] Transaction completed
+[2025-11-05T23:20:30.450555] [INFO] Configuration loaded
+[2025-11-05T23:20:30.450534] [INFO] Cache hit
+[2025-11-05T23:20:30.450559] [INFO] User logged in
+[2025-11-05T23:20:30.450580] [INFO] Session started
+[2025-11-05T23:20:30.450539] [INFO] Session started
+[2025-11-05T23:20:30.450650] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.450576] [INFO] Database query executed
+[2025-11-05T23:20:30.450594] [WARN] Queue size growing
+[2025-11-05T23:20:30.450564] [INFO] Configuration loaded
+[2025-11-05T23:20:30.450646] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.450654] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.450663] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.450584] [INFO] Transaction completed
+[2025-11-05T23:20:30.450636] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.450604] [WARN] Cache miss
+[2025-11-05T23:20:30.450549] [INFO] Database query executed
+[2025-11-05T23:20:30.450628] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.450608] [WARN] Cache miss
+[2025-11-05T23:20:30.450659] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.450622] [ERROR] Authentication failed
+[2025-11-05T23:20:30.450588] [INFO] Health check passed
+[2025-11-05T23:20:30.450502] [INFO] Connection established
+[2025-11-05T23:20:30.450618] [ERROR] Invalid input data

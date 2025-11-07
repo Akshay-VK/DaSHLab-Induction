@@ -1,0 +1,42 @@
+[2025-11-05T23:20:20.449502] [WARN] Slow query performance
+[2025-11-05T23:20:20.449570] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.449489] [WARN] Slow query performance
+[2025-11-05T23:20:20.449516] [ERROR] Memory allocation error
+[2025-11-05T23:20:20.449420] [INFO] User logged in
+[2025-11-05T23:20:20.449538] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.449567] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.449441] [INFO] Database query executed
+[2025-11-05T23:20:20.449483] [INFO] Cache hit
+[2025-11-05T23:20:20.449464] [INFO] Connection established
+[2025-11-05T23:20:20.449575] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.449411] [INFO] Configuration loaded
+[2025-11-05T23:20:20.449498] [WARN] Timeout warning
+[2025-11-05T23:20:20.449475] [INFO] Service initialized
+[2025-11-05T23:20:20.449511] [WARN] Resource threshold approaching
+[2025-11-05T23:20:20.449429] [INFO] Service initialized
+[2025-11-05T23:20:20.449457] [INFO] Service initialized
+[2025-11-05T23:20:20.449524] [ERROR] Invalid input data
+[2025-11-05T23:20:20.449416] [INFO] Service initialized
+[2025-11-05T23:20:20.449472] [INFO] Transaction completed
+[2025-11-05T23:20:20.449460] [INFO] Health check passed
+[2025-11-05T23:20:20.449453] [INFO] Database query executed
+[2025-11-05T23:20:20.449479] [INFO] Service initialized
+[2025-11-05T23:20:20.449437] [INFO] Configuration loaded
+[2025-11-05T23:20:20.449529] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.449543] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.449379] [INFO] Cache hit
+[2025-11-05T23:20:20.449547] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.449494] [WARN] Disk space low
+[2025-11-05T23:20:20.449468] [INFO] Connection established
+[2025-11-05T23:20:20.449534] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.449555] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.449551] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.449559] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.449405] [INFO] User logged in
+[2025-11-05T23:20:20.449563] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.449425] [INFO] Database query executed
+[2025-11-05T23:20:20.449506] [WARN] Resource threshold approaching
+[2025-11-05T23:20:20.449449] [INFO] Database query executed
+[2025-11-05T23:20:20.449520] [ERROR] Request failed
+[2025-11-05T23:20:20.449445] [INFO] Health check passed
+[2025-11-05T23:20:20.449433] [INFO] Cache hit

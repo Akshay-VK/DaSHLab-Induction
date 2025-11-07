@@ -1,0 +1,32 @@
+[2025-11-05T23:20:52.273806] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.273745] [WARN] Connection retry attempt
+[2025-11-05T23:20:52.273695] [INFO] Connection established
+[2025-11-05T23:20:52.273680] [INFO] User logged in
+[2025-11-05T23:20:52.273671] [INFO] Configuration loaded
+[2025-11-05T23:20:52.273685] [INFO] Health check passed
+[2025-11-05T23:20:52.273735] [WARN] Queue size growing
+[2025-11-05T23:20:52.273750] [WARN] Queue size growing
+[2025-11-05T23:20:52.273741] [WARN] High memory usage detected
+[2025-11-05T23:20:52.273704] [INFO] User logged in
+[2025-11-05T23:20:52.273793] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.273690] [INFO] Session started
+[2025-11-05T23:20:52.273788] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.273765] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.273770] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.273760] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.273726] [INFO] Database query executed
+[2025-11-05T23:20:52.273779] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.273709] [INFO] User logged in
+[2025-11-05T23:20:52.273797] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.273699] [INFO] Database query executed
+[2025-11-05T23:20:52.273755] [ERROR] Invalid input data
+[2025-11-05T23:20:52.273676] [INFO] Session started
+[2025-11-05T23:20:52.273713] [INFO] Cache hit
+[2025-11-05T23:20:52.273721] [INFO] Cache hit
+[2025-11-05T23:20:52.273666] [INFO] Health check passed
+[2025-11-05T23:20:52.273730] [INFO] Service initialized
+[2025-11-05T23:20:52.273638] [INFO] User logged in
+[2025-11-05T23:20:52.273802] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.273774] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.273783] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.273717] [INFO] Connection established

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:47.847864] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.847776] [INFO] User logged in
+[2025-11-05T23:20:47.847834] [WARN] Resource threshold approaching
+[2025-11-05T23:20:47.847868] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.847837] [WARN] Slow query performance
+[2025-11-05T23:20:47.847823] [INFO] Health check passed
+[2025-11-05T23:20:47.847791] [INFO] User logged in
+[2025-11-05T23:20:47.847816] [INFO] Transaction completed
+[2025-11-05T23:20:47.847874] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.847849] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.847861] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.847853] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.847871] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.847857] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.847797] [INFO] Connection established
+[2025-11-05T23:20:47.847819] [INFO] User logged in
+[2025-11-05T23:20:47.847845] [ERROR] Request failed
+[2025-11-05T23:20:47.847746] [INFO] Health check passed
+[2025-11-05T23:20:47.847830] [WARN] Resource threshold approaching
+[2025-11-05T23:20:47.847794] [INFO] User logged in
+[2025-11-05T23:20:47.847813] [INFO] Configuration loaded
+[2025-11-05T23:20:47.847784] [INFO] Service initialized
+[2025-11-05T23:20:47.847787] [INFO] Connection established
+[2025-11-05T23:20:47.847772] [INFO] Service initialized
+[2025-11-05T23:20:47.847826] [INFO] Request processed successfully
+[2025-11-05T23:20:47.847806] [INFO] Health check passed
+[2025-11-05T23:20:47.847840] [WARN] Timeout warning
+[2025-11-05T23:20:47.847780] [INFO] Cache hit
+[2025-11-05T23:20:47.847809] [INFO] User logged in
+[2025-11-05T23:20:47.847878] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.847803] [INFO] Connection established
+[2025-11-05T23:20:47.847800] [INFO] Configuration loaded

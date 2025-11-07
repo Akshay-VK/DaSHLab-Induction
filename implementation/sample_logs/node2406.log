@@ -1,0 +1,30 @@
+[2025-11-05T23:20:22.660264] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.660140] [INFO] Health check passed
+[2025-11-05T23:20:22.660260] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.660107] [INFO] Database query executed
+[2025-11-05T23:20:22.660200] [WARN] High memory usage detected
+[2025-11-05T23:20:22.660178] [INFO] Service initialized
+[2025-11-05T23:20:22.660164] [INFO] Request processed successfully
+[2025-11-05T23:20:22.660169] [INFO] Health check passed
+[2025-11-05T23:20:22.660191] [INFO] Cache hit
+[2025-11-05T23:20:22.660150] [INFO] Database query executed
+[2025-11-05T23:20:22.660173] [INFO] Session started
+[2025-11-05T23:20:22.660219] [ERROR] Disk read failed
+[2025-11-05T23:20:22.660145] [INFO] Health check passed
+[2025-11-05T23:20:22.660210] [WARN] Timeout warning
+[2025-11-05T23:20:22.660195] [INFO] Request processed successfully
+[2025-11-05T23:20:22.660154] [INFO] Request processed successfully
+[2025-11-05T23:20:22.660252] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.660159] [INFO] Database query executed
+[2025-11-05T23:20:22.660239] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.660243] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.660182] [INFO] Cache hit
+[2025-11-05T23:20:22.660225] [ERROR] Memory allocation error
+[2025-11-05T23:20:22.660133] [INFO] Cache hit
+[2025-11-05T23:20:22.660234] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.660205] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.660230] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.660247] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.660214] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.660186] [INFO] Health check passed
+[2025-11-05T23:20:22.660256] [DEBUG] HTTP request headers parsed

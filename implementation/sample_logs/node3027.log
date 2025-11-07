@@ -1,0 +1,27 @@
+[2025-11-05T23:20:25.457024] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.457010] [INFO] Request processed successfully
+[2025-11-05T23:20:25.457046] [ERROR] Permission denied
+[2025-11-05T23:20:25.457033] [WARN] Slow query performance
+[2025-11-05T23:20:25.457058] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.457053] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.456982] [INFO] Session started
+[2025-11-05T23:20:25.457041] [WARN] Rate limit approaching
+[2025-11-05T23:20:25.457018] [INFO] Transaction completed
+[2025-11-05T23:20:25.457076] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.456978] [INFO] Connection established
+[2025-11-05T23:20:25.457067] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.457029] [WARN] Cache miss
+[2025-11-05T23:20:25.456998] [INFO] Session started
+[2025-11-05T23:20:25.456962] [INFO] User logged in
+[2025-11-05T23:20:25.456968] [INFO] Transaction completed
+[2025-11-05T23:20:25.457062] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.457037] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.457014] [INFO] Configuration loaded
+[2025-11-05T23:20:25.457072] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.457002] [INFO] Connection established
+[2025-11-05T23:20:25.456994] [INFO] Transaction completed
+[2025-11-05T23:20:25.456937] [INFO] User logged in
+[2025-11-05T23:20:25.456990] [INFO] Request processed successfully
+[2025-11-05T23:20:25.456986] [INFO] Database query executed
+[2025-11-05T23:20:25.456973] [INFO] Transaction completed
+[2025-11-05T23:20:25.457006] [INFO] Cache hit

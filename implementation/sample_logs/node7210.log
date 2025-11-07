@@ -1,0 +1,29 @@
+[2025-11-05T23:20:42.328648] [INFO] Service initialized
+[2025-11-05T23:20:42.328639] [INFO] User logged in
+[2025-11-05T23:20:42.328683] [INFO] Connection established
+[2025-11-05T23:20:42.328644] [INFO] Service initialized
+[2025-11-05T23:20:42.328679] [INFO] User logged in
+[2025-11-05T23:20:42.328728] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.328675] [INFO] Session started
+[2025-11-05T23:20:42.328671] [INFO] Connection established
+[2025-11-05T23:20:42.328632] [INFO] Service initialized
+[2025-11-05T23:20:42.328724] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.328654] [INFO] Database query executed
+[2025-11-05T23:20:42.328662] [INFO] Service initialized
+[2025-11-05T23:20:42.328745] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.328606] [INFO] Request processed successfully
+[2025-11-05T23:20:42.328732] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.328754] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.328719] [ERROR] Memory allocation error
+[2025-11-05T23:20:42.328692] [WARN] Disk space low
+[2025-11-05T23:20:42.328758] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.328704] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.328709] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.328736] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.328666] [INFO] Health check passed
+[2025-11-05T23:20:42.328658] [INFO] Request processed successfully
+[2025-11-05T23:20:42.328750] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.328687] [INFO] Connection established
+[2025-11-05T23:20:42.328713] [WARN] Timeout warning
+[2025-11-05T23:20:42.328740] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.328698] [WARN] Rate limit approaching

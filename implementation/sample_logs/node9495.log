@@ -1,0 +1,28 @@
+[2025-11-05T23:20:52.102082] [WARN] Rate limit approaching
+[2025-11-05T23:20:52.102112] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.102038] [INFO] Transaction completed
+[2025-11-05T23:20:52.102091] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.102056] [INFO] Request processed successfully
+[2025-11-05T23:20:52.102075] [WARN] Slow query performance
+[2025-11-05T23:20:52.102071] [WARN] Connection retry attempt
+[2025-11-05T23:20:52.102119] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.102116] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.102087] [ERROR] Invalid input data
+[2025-11-05T23:20:52.102052] [INFO] Health check passed
+[2025-11-05T23:20:52.102030] [INFO] Connection established
+[2025-11-05T23:20:52.102026] [INFO] Connection established
+[2025-11-05T23:20:52.102021] [INFO] User logged in
+[2025-11-05T23:20:52.102059] [INFO] Service initialized
+[2025-11-05T23:20:52.102041] [INFO] Request processed successfully
+[2025-11-05T23:20:52.102063] [INFO] User logged in
+[2025-11-05T23:20:52.102105] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.102034] [INFO] Transaction completed
+[2025-11-05T23:20:52.101996] [INFO] Cache hit
+[2025-11-05T23:20:52.102102] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.102045] [INFO] Request processed successfully
+[2025-11-05T23:20:52.102079] [WARN] Slow query performance
+[2025-11-05T23:20:52.102049] [INFO] Connection established
+[2025-11-05T23:20:52.102095] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.102066] [INFO] Request processed successfully
+[2025-11-05T23:20:52.102109] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.102099] [DEBUG] HTTP request headers parsed

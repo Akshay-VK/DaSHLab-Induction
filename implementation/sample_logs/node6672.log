@@ -1,0 +1,27 @@
+[2025-11-05T23:20:40.245340] [INFO] Health check passed
+[2025-11-05T23:20:40.245263] [INFO] Cache hit
+[2025-11-05T23:20:40.245307] [INFO] Database query executed
+[2025-11-05T23:20:40.245311] [INFO] Service initialized
+[2025-11-05T23:20:40.245387] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.245370] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.245395] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.245294] [INFO] Transaction completed
+[2025-11-05T23:20:40.245336] [INFO] Configuration loaded
+[2025-11-05T23:20:40.245355] [WARN] Connection retry attempt
+[2025-11-05T23:20:40.245324] [INFO] User logged in
+[2025-11-05T23:20:40.245351] [WARN] High memory usage detected
+[2025-11-05T23:20:40.245374] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.245391] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.245346] [WARN] High memory usage detected
+[2025-11-05T23:20:40.245378] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.245315] [INFO] Connection established
+[2025-11-05T23:20:40.245399] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.245319] [INFO] User logged in
+[2025-11-05T23:20:40.245298] [INFO] Transaction completed
+[2025-11-05T23:20:40.245303] [INFO] Configuration loaded
+[2025-11-05T23:20:40.245366] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.245328] [INFO] User logged in
+[2025-11-05T23:20:40.245288] [INFO] Session started
+[2025-11-05T23:20:40.245332] [INFO] User logged in
+[2025-11-05T23:20:40.245360] [ERROR] Database connection lost
+[2025-11-05T23:20:40.245382] [DEBUG] Variable value: x=42

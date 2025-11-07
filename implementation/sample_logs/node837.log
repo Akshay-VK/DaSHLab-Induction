@@ -1,0 +1,27 @@
+[2025-11-05T23:20:15.971240] [INFO] Service initialized
+[2025-11-05T23:20:15.971289] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.971301] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.971278] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.971243] [INFO] Cache hit
+[2025-11-05T23:20:15.971298] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.971223] [INFO] User logged in
+[2025-11-05T23:20:15.971275] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.971292] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.971249] [INFO] Session started
+[2025-11-05T23:20:15.971262] [WARN] Resource threshold approaching
+[2025-11-05T23:20:15.971246] [INFO] Connection established
+[2025-11-05T23:20:15.971267] [ERROR] Memory allocation error
+[2025-11-05T23:20:15.971219] [INFO] User logged in
+[2025-11-05T23:20:15.971237] [INFO] Cache hit
+[2025-11-05T23:20:15.971252] [INFO] Database query executed
+[2025-11-05T23:20:15.971191] [INFO] User logged in
+[2025-11-05T23:20:15.971258] [INFO] Database query executed
+[2025-11-05T23:20:15.971215] [INFO] User logged in
+[2025-11-05T23:20:15.971286] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.971271] [ERROR] Network timeout
+[2025-11-05T23:20:15.971226] [INFO] Service initialized
+[2025-11-05T23:20:15.971233] [INFO] Cache hit
+[2025-11-05T23:20:15.971282] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.971255] [INFO] Database query executed
+[2025-11-05T23:20:15.971230] [INFO] Connection established
+[2025-11-05T23:20:15.971295] [DEBUG] Thread pool size: 8

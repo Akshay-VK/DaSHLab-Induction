@@ -1,0 +1,39 @@
+[2025-11-05T23:20:19.393535] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.393567] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.393473] [INFO] Transaction completed
+[2025-11-05T23:20:19.393497] [WARN] Deprecated API usage
+[2025-11-05T23:20:19.393521] [ERROR] Invalid input data
+[2025-11-05T23:20:19.393424] [INFO] Transaction completed
+[2025-11-05T23:20:19.393468] [INFO] Cache hit
+[2025-11-05T23:20:19.393525] [ERROR] Invalid input data
+[2025-11-05T23:20:19.393514] [WARN] Deprecated API usage
+[2025-11-05T23:20:19.393459] [INFO] Configuration loaded
+[2025-11-05T23:20:19.393554] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.393398] [INFO] User logged in
+[2025-11-05T23:20:19.393431] [INFO] Transaction completed
+[2025-11-05T23:20:19.393464] [INFO] Session started
+[2025-11-05T23:20:19.393558] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.393529] [ERROR] Network timeout
+[2025-11-05T23:20:19.393602] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.393451] [INFO] Service initialized
+[2025-11-05T23:20:19.393575] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.393550] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.393491] [INFO] Database query executed
+[2025-11-05T23:20:19.393588] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.393545] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.393478] [INFO] Cache hit
+[2025-11-05T23:20:19.393584] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.393597] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.393540] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.393486] [INFO] User logged in
+[2025-11-05T23:20:19.393437] [INFO] Health check passed
+[2025-11-05T23:20:19.393503] [WARN] Connection retry attempt
+[2025-11-05T23:20:19.393446] [INFO] Service initialized
+[2025-11-05T23:20:19.393592] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.393580] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.393455] [INFO] Health check passed
+[2025-11-05T23:20:19.393572] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.393509] [WARN] Slow query performance
+[2025-11-05T23:20:19.393442] [INFO] Connection established
+[2025-11-05T23:20:19.393482] [INFO] Session started
+[2025-11-05T23:20:19.393562] [DEBUG] Memory allocation: 2048 bytes

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:49.782168] [INFO] Session started
+[2025-11-05T23:20:49.782219] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.782144] [INFO] Request processed successfully
+[2025-11-05T23:20:49.782208] [ERROR] File not found
+[2025-11-05T23:20:49.782151] [INFO] Cache hit
+[2025-11-05T23:20:49.782216] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.782178] [INFO] Configuration loaded
+[2025-11-05T23:20:49.782189] [WARN] High memory usage detected
+[2025-11-05T23:20:49.782212] [ERROR] File not found
+[2025-11-05T23:20:49.782161] [INFO] Request processed successfully
+[2025-11-05T23:20:49.782236] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.782165] [INFO] Health check passed
+[2025-11-05T23:20:49.782182] [INFO] Session started
+[2025-11-05T23:20:49.782231] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.782175] [INFO] Transaction completed
+[2025-11-05T23:20:49.782158] [INFO] User logged in
+[2025-11-05T23:20:49.782192] [WARN] Deprecated API usage
+[2025-11-05T23:20:49.782227] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:49.782171] [INFO] Database query executed
+[2025-11-05T23:20:49.782147] [INFO] Request processed successfully
+[2025-11-05T23:20:49.782185] [INFO] Database query executed
+[2025-11-05T23:20:49.782200] [WARN] High memory usage detected
+[2025-11-05T23:20:49.782203] [WARN] Cache miss
+[2025-11-05T23:20:49.782139] [INFO] Transaction completed
+[2025-11-05T23:20:49.782155] [INFO] Database query executed
+[2025-11-05T23:20:49.782223] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.782196] [WARN] Cache miss
+[2025-11-05T23:20:49.782115] [INFO] Session started

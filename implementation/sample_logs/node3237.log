@@ -1,0 +1,32 @@
+[2025-11-05T23:20:26.274969] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.274948] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.274887] [INFO] Health check passed
+[2025-11-05T23:20:26.274917] [WARN] Resource threshold approaching
+[2025-11-05T23:20:26.274952] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.274922] [WARN] Deprecated API usage
+[2025-11-05T23:20:26.274913] [INFO] Connection established
+[2025-11-05T23:20:26.274842] [INFO] User logged in
+[2025-11-05T23:20:26.274925] [WARN] Cache miss
+[2025-11-05T23:20:26.274945] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.274874] [INFO] Connection established
+[2025-11-05T23:20:26.274907] [INFO] Transaction completed
+[2025-11-05T23:20:26.274877] [INFO] Connection established
+[2025-11-05T23:20:26.274965] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.274910] [INFO] Transaction completed
+[2025-11-05T23:20:26.274928] [WARN] Cache miss
+[2025-11-05T23:20:26.274940] [ERROR] Network timeout
+[2025-11-05T23:20:26.274897] [INFO] Cache hit
+[2025-11-05T23:20:26.274900] [INFO] Database query executed
+[2025-11-05T23:20:26.274961] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.274932] [WARN] Queue size growing
+[2025-11-05T23:20:26.274866] [INFO] Cache hit
+[2025-11-05T23:20:26.274958] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.274870] [INFO] Health check passed
+[2025-11-05T23:20:26.274904] [INFO] Database query executed
+[2025-11-05T23:20:26.274973] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.274881] [INFO] Configuration loaded
+[2025-11-05T23:20:26.274890] [INFO] Transaction completed
+[2025-11-05T23:20:26.274955] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.274884] [INFO] Connection established
+[2025-11-05T23:20:26.274936] [WARN] Cache miss
+[2025-11-05T23:20:26.274894] [INFO] Database query executed

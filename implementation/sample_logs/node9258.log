@@ -1,0 +1,37 @@
+[2025-11-05T23:20:50.702687] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.702645] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.702654] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.702591] [INFO] Session started
+[2025-11-05T23:20:50.702538] [INFO] Database query executed
+[2025-11-05T23:20:50.702558] [INFO] Configuration loaded
+[2025-11-05T23:20:50.702683] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.702634] [WARN] Slow query performance
+[2025-11-05T23:20:50.702549] [INFO] Configuration loaded
+[2025-11-05T23:20:50.702578] [INFO] Session started
+[2025-11-05T23:20:50.702621] [WARN] Timeout warning
+[2025-11-05T23:20:50.702640] [ERROR] Permission denied
+[2025-11-05T23:20:50.702650] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.702662] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.702574] [INFO] User logged in
+[2025-11-05T23:20:50.702582] [INFO] Transaction completed
+[2025-11-05T23:20:50.702512] [INFO] Session started
+[2025-11-05T23:20:50.702599] [INFO] Configuration loaded
+[2025-11-05T23:20:50.702612] [WARN] Resource threshold approaching
+[2025-11-05T23:20:50.702566] [INFO] Session started
+[2025-11-05T23:20:50.702562] [INFO] Configuration loaded
+[2025-11-05T23:20:50.702570] [INFO] Request processed successfully
+[2025-11-05T23:20:50.702691] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.702595] [INFO] Transaction completed
+[2025-11-05T23:20:50.702679] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.702553] [INFO] Service initialized
+[2025-11-05T23:20:50.702602] [INFO] Service initialized
+[2025-11-05T23:20:50.702617] [WARN] High memory usage detected
+[2025-11-05T23:20:50.702658] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.702607] [INFO] Configuration loaded
+[2025-11-05T23:20:50.702670] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.702666] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:50.702674] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.702625] [WARN] Connection retry attempt
+[2025-11-05T23:20:50.702543] [INFO] Session started
+[2025-11-05T23:20:50.702587] [INFO] Service initialized
+[2025-11-05T23:20:50.702630] [WARN] Deprecated API usage

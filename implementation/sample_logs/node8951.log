@@ -1,0 +1,37 @@
+[2025-11-05T23:20:49.563302] [WARN] Connection retry attempt
+[2025-11-05T23:20:49.563246] [INFO] Connection established
+[2025-11-05T23:20:49.563309] [WARN] Queue size growing
+[2025-11-05T23:20:49.563216] [INFO] Configuration loaded
+[2025-11-05T23:20:49.563356] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.563335] [ERROR] Network timeout
+[2025-11-05T23:20:49.563383] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.563241] [INFO] Request processed successfully
+[2025-11-05T23:20:49.563314] [WARN] High memory usage detected
+[2025-11-05T23:20:49.563319] [WARN] Connection retry attempt
+[2025-11-05T23:20:49.563254] [INFO] Database query executed
+[2025-11-05T23:20:49.563374] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:49.563331] [ERROR] Disk read failed
+[2025-11-05T23:20:49.563402] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.563207] [INFO] User logged in
+[2025-11-05T23:20:49.563211] [INFO] Connection established
+[2025-11-05T23:20:49.563220] [INFO] User logged in
+[2025-11-05T23:20:49.563250] [INFO] Database query executed
+[2025-11-05T23:20:49.563233] [INFO] Configuration loaded
+[2025-11-05T23:20:49.563340] [ERROR] Request failed
+[2025-11-05T23:20:49.563352] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.563224] [INFO] Database query executed
+[2025-11-05T23:20:49.563196] [INFO] Configuration loaded
+[2025-11-05T23:20:49.563325] [ERROR] File not found
+[2025-11-05T23:20:49.563164] [INFO] User logged in
+[2025-11-05T23:20:49.563394] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.563361] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.563237] [INFO] Request processed successfully
+[2025-11-05T23:20:49.563370] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:49.563389] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.563346] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.563379] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.563191] [INFO] Connection established
+[2025-11-05T23:20:49.563202] [INFO] Request processed successfully
+[2025-11-05T23:20:49.563366] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.563398] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.563229] [INFO] Service initialized

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:32.118776] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.118728] [INFO] User logged in
+[2025-11-05T23:20:32.118719] [INFO] User logged in
+[2025-11-05T23:20:32.118770] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.118685] [INFO] Cache hit
+[2025-11-05T23:20:32.118680] [INFO] Configuration loaded
+[2025-11-05T23:20:32.118664] [INFO] Database query executed
+[2025-11-05T23:20:32.118675] [INFO] Database query executed
+[2025-11-05T23:20:32.118795] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.118723] [INFO] Session started
+[2025-11-05T23:20:32.118765] [ERROR] Disk read failed
+[2025-11-05T23:20:32.118745] [WARN] Cache miss
+[2025-11-05T23:20:32.118781] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:32.118670] [INFO] Cache hit
+[2025-11-05T23:20:32.118734] [WARN] Cache miss
+[2025-11-05T23:20:32.118761] [ERROR] Disk read failed
+[2025-11-05T23:20:32.118739] [WARN] Slow query performance
+[2025-11-05T23:20:32.118786] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.118710] [INFO] Health check passed
+[2025-11-05T23:20:32.118699] [INFO] Session started
+[2025-11-05T23:20:32.118755] [ERROR] Disk read failed
+[2025-11-05T23:20:32.118638] [INFO] Cache hit
+[2025-11-05T23:20:32.118714] [INFO] Transaction completed
+[2025-11-05T23:20:32.118791] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.118749] [WARN] Rate limit approaching
+[2025-11-05T23:20:32.118705] [INFO] User logged in
+[2025-11-05T23:20:32.118695] [INFO] Transaction completed
+[2025-11-05T23:20:32.118690] [INFO] User logged in

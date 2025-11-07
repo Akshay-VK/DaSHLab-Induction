@@ -1,0 +1,26 @@
+[2025-11-05T23:20:19.483581] [INFO] Session started
+[2025-11-05T23:20:19.483602] [INFO] Service initialized
+[2025-11-05T23:20:19.483571] [INFO] Connection established
+[2025-11-05T23:20:19.483576] [INFO] Service initialized
+[2025-11-05T23:20:19.483628] [INFO] Database query executed
+[2025-11-05T23:20:19.483615] [INFO] Cache hit
+[2025-11-05T23:20:19.483585] [INFO] Session started
+[2025-11-05T23:20:19.483670] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.483546] [INFO] Health check passed
+[2025-11-05T23:20:19.483634] [WARN] Slow query performance
+[2025-11-05T23:20:19.483642] [ERROR] File not found
+[2025-11-05T23:20:19.483674] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.483594] [INFO] Transaction completed
+[2025-11-05T23:20:19.483683] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.483598] [INFO] Transaction completed
+[2025-11-05T23:20:19.483624] [INFO] Health check passed
+[2025-11-05T23:20:19.483620] [INFO] Connection established
+[2025-11-05T23:20:19.483654] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.483589] [INFO] Transaction completed
+[2025-11-05T23:20:19.483610] [INFO] Configuration loaded
+[2025-11-05T23:20:19.483678] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.483658] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.483649] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.483662] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.483606] [INFO] Request processed successfully
+[2025-11-05T23:20:19.483666] [DEBUG] Variable value: x=42

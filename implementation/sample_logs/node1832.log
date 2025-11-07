@@ -1,0 +1,28 @@
+[2025-11-05T23:20:20.190618] [INFO] Request processed successfully
+[2025-11-05T23:20:20.190684] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.190638] [INFO] User logged in
+[2025-11-05T23:20:20.190676] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.190587] [INFO] Service initialized
+[2025-11-05T23:20:20.190700] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.190663] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.190597] [INFO] Health check passed
+[2025-11-05T23:20:20.190647] [WARN] Cache miss
+[2025-11-05T23:20:20.190630] [INFO] Health check passed
+[2025-11-05T23:20:20.190672] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.190610] [INFO] User logged in
+[2025-11-05T23:20:20.190680] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.190668] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.190653] [ERROR] File not found
+[2025-11-05T23:20:20.190622] [INFO] Service initialized
+[2025-11-05T23:20:20.190634] [INFO] Transaction completed
+[2025-11-05T23:20:20.190562] [INFO] Configuration loaded
+[2025-11-05T23:20:20.190688] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.190593] [INFO] Connection established
+[2025-11-05T23:20:20.190642] [INFO] Database query executed
+[2025-11-05T23:20:20.190614] [INFO] Connection established
+[2025-11-05T23:20:20.190605] [INFO] User logged in
+[2025-11-05T23:20:20.190692] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.190601] [INFO] Configuration loaded
+[2025-11-05T23:20:20.190658] [ERROR] Database connection lost
+[2025-11-05T23:20:20.190626] [INFO] Database query executed
+[2025-11-05T23:20:20.190696] [DEBUG] Cache key generated

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:38.757248] [WARN] Queue size growing
+[2025-11-05T23:20:38.757272] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.757243] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.757281] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.757237] [INFO] User logged in
+[2025-11-05T23:20:38.757288] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.757284] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.757208] [INFO] Transaction completed
+[2025-11-05T23:20:38.757195] [INFO] Connection established
+[2025-11-05T23:20:38.757181] [INFO] Session started
+[2025-11-05T23:20:38.757232] [INFO] Health check passed
+[2025-11-05T23:20:38.757253] [ERROR] File not found
+[2025-11-05T23:20:38.757199] [INFO] Transaction completed
+[2025-11-05T23:20:38.757168] [INFO] Connection established
+[2025-11-05T23:20:38.757258] [ERROR] Request failed
+[2025-11-05T23:20:38.757276] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.757264] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.757190] [INFO] Request processed successfully
+[2025-11-05T23:20:38.757141] [INFO] User logged in
+[2025-11-05T23:20:38.757204] [INFO] Database query executed
+[2025-11-05T23:20:38.757216] [INFO] Cache hit
+[2025-11-05T23:20:38.757292] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.757186] [INFO] Database query executed
+[2025-11-05T23:20:38.757212] [INFO] Request processed successfully
+[2025-11-05T23:20:38.757229] [INFO] Service initialized
+[2025-11-05T23:20:38.757268] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.757225] [INFO] Request processed successfully
+[2025-11-05T23:20:38.757221] [INFO] Configuration loaded
+[2025-11-05T23:20:38.757175] [INFO] Session started

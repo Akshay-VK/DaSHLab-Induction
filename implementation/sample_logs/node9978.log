@@ -1,0 +1,31 @@
+[2025-11-05T23:20:53.961275] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.961260] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.961267] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.961280] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.961160] [INFO] Health check passed
+[2025-11-05T23:20:53.961193] [INFO] Session started
+[2025-11-05T23:20:53.961210] [INFO] Database query executed
+[2025-11-05T23:20:53.961228] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.961284] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.961180] [INFO] Request processed successfully
+[2025-11-05T23:20:53.961175] [INFO] User logged in
+[2025-11-05T23:20:53.961251] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.961288] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.961247] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.961238] [ERROR] Memory allocation error
+[2025-11-05T23:20:53.961220] [WARN] High memory usage detected
+[2025-11-05T23:20:53.961242] [ERROR] Memory allocation error
+[2025-11-05T23:20:53.961201] [INFO] Transaction completed
+[2025-11-05T23:20:53.961271] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.961215] [WARN] High memory usage detected
+[2025-11-05T23:20:53.961263] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.961170] [INFO] Session started
+[2025-11-05T23:20:53.961189] [INFO] Session started
+[2025-11-05T23:20:53.961166] [INFO] Connection established
+[2025-11-05T23:20:53.961135] [INFO] Connection established
+[2025-11-05T23:20:53.961184] [INFO] Configuration loaded
+[2025-11-05T23:20:53.961197] [INFO] Service initialized
+[2025-11-05T23:20:53.961256] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.961224] [WARN] Slow query performance
+[2025-11-05T23:20:53.961205] [INFO] Cache hit
+[2025-11-05T23:20:53.961232] [WARN] Connection retry attempt

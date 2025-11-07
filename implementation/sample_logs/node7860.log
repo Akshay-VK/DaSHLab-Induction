@@ -1,0 +1,26 @@
+[2025-11-05T23:20:44.901336] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.901293] [WARN] Slow query performance
+[2025-11-05T23:20:44.901314] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.901301] [WARN] Rate limit approaching
+[2025-11-05T23:20:44.901207] [INFO] Service initialized
+[2025-11-05T23:20:44.901341] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.901212] [INFO] Connection established
+[2025-11-05T23:20:44.901238] [INFO] Service initialized
+[2025-11-05T23:20:44.901323] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.901332] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.901345] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.901221] [INFO] Health check passed
+[2025-11-05T23:20:44.901328] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.901172] [INFO] Session started
+[2025-11-05T23:20:44.901203] [INFO] Request processed successfully
+[2025-11-05T23:20:44.901248] [WARN] Timeout warning
+[2025-11-05T23:20:44.901197] [INFO] Connection established
+[2025-11-05T23:20:44.901253] [WARN] Slow query performance
+[2025-11-05T23:20:44.901225] [INFO] Configuration loaded
+[2025-11-05T23:20:44.901216] [INFO] Service initialized
+[2025-11-05T23:20:44.901318] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.901229] [INFO] Health check passed
+[2025-11-05T23:20:44.901242] [INFO] Session started
+[2025-11-05T23:20:44.901234] [INFO] Health check passed
+[2025-11-05T23:20:44.901307] [ERROR] Memory allocation error
+[2025-11-05T23:20:44.901350] [DEBUG] Timer set: 30 seconds

@@ -1,0 +1,27 @@
+[2025-11-05T23:20:46.060180] [INFO] Configuration loaded
+[2025-11-05T23:20:46.060258] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.060238] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.060184] [INFO] Cache hit
+[2025-11-05T23:20:46.060254] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.060225] [ERROR] Request failed
+[2025-11-05T23:20:46.060167] [INFO] Transaction completed
+[2025-11-05T23:20:46.060153] [INFO] Health check passed
+[2025-11-05T23:20:46.060188] [INFO] Cache hit
+[2025-11-05T23:20:46.060234] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.060123] [INFO] Service initialized
+[2025-11-05T23:20:46.060148] [INFO] Database query executed
+[2025-11-05T23:20:46.060246] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.060230] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.060242] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.060200] [INFO] Connection established
+[2025-11-05T23:20:46.060196] [INFO] Cache hit
+[2025-11-05T23:20:46.060204] [INFO] User logged in
+[2025-11-05T23:20:46.060209] [WARN] Disk space low
+[2025-11-05T23:20:46.060171] [INFO] Session started
+[2025-11-05T23:20:46.060175] [INFO] Health check passed
+[2025-11-05T23:20:46.060163] [INFO] Cache hit
+[2025-11-05T23:20:46.060250] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.060220] [ERROR] Disk read failed
+[2025-11-05T23:20:46.060214] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.060192] [INFO] Service initialized
+[2025-11-05T23:20:46.060158] [INFO] User logged in

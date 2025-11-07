@@ -1,0 +1,32 @@
+[2025-11-05T23:20:52.973440] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.973348] [INFO] Connection established
+[2025-11-05T23:20:52.973389] [INFO] Cache hit
+[2025-11-05T23:20:52.973380] [INFO] Session started
+[2025-11-05T23:20:52.973402] [WARN] Connection retry attempt
+[2025-11-05T23:20:52.973344] [INFO] Connection established
+[2025-11-05T23:20:52.973369] [INFO] Health check passed
+[2025-11-05T23:20:52.973339] [INFO] User logged in
+[2025-11-05T23:20:52.973365] [INFO] Session started
+[2025-11-05T23:20:52.973405] [WARN] Connection retry attempt
+[2025-11-05T23:20:52.973414] [ERROR] Database connection lost
+[2025-11-05T23:20:52.973444] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.973409] [WARN] Cache miss
+[2025-11-05T23:20:52.973457] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.973355] [INFO] Configuration loaded
+[2025-11-05T23:20:52.973377] [INFO] Request processed successfully
+[2025-11-05T23:20:52.973384] [INFO] Connection established
+[2025-11-05T23:20:52.973373] [INFO] Transaction completed
+[2025-11-05T23:20:52.973447] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.973313] [INFO] Cache hit
+[2025-11-05T23:20:52.973362] [INFO] Cache hit
+[2025-11-05T23:20:52.973392] [INFO] Transaction completed
+[2025-11-05T23:20:52.973358] [INFO] Cache hit
+[2025-11-05T23:20:52.973424] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.973428] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.973436] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.973454] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.973420] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.973397] [WARN] Connection retry attempt
+[2025-11-05T23:20:52.973432] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.973351] [INFO] Connection established
+[2025-11-05T23:20:52.973451] [DEBUG] Memory allocation: 2048 bytes

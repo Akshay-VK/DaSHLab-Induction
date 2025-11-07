@@ -1,0 +1,36 @@
+[2025-11-05T23:20:30.979504] [INFO] Session started
+[2025-11-05T23:20:30.979567] [ERROR] Disk read failed
+[2025-11-05T23:20:30.979517] [INFO] Configuration loaded
+[2025-11-05T23:20:30.979487] [INFO] Request processed successfully
+[2025-11-05T23:20:30.979573] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.979529] [INFO] Connection established
+[2025-11-05T23:20:30.979591] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.979612] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.979513] [INFO] Health check passed
+[2025-11-05T23:20:30.979478] [INFO] Service initialized
+[2025-11-05T23:20:30.979599] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.979578] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.979439] [INFO] Session started
+[2025-11-05T23:20:30.979557] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.979539] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.979491] [INFO] Connection established
+[2025-11-05T23:20:30.979495] [INFO] Connection established
+[2025-11-05T23:20:30.979521] [INFO] Health check passed
+[2025-11-05T23:20:30.979525] [INFO] User logged in
+[2025-11-05T23:20:30.979500] [INFO] Service initialized
+[2025-11-05T23:20:30.979544] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.979482] [INFO] Configuration loaded
+[2025-11-05T23:20:30.979595] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.979552] [WARN] Slow query performance
+[2025-11-05T23:20:30.979473] [INFO] User logged in
+[2025-11-05T23:20:30.979508] [INFO] User logged in
+[2025-11-05T23:20:30.979583] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.979467] [INFO] Health check passed
+[2025-11-05T23:20:30.979562] [ERROR] Database connection lost
+[2025-11-05T23:20:30.979621] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.979548] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.979587] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.979607] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.979533] [INFO] User logged in
+[2025-11-05T23:20:30.979616] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.979603] [DEBUG] Connection pool status checked

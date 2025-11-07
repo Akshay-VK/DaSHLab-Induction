@@ -1,0 +1,37 @@
+[2025-11-05T23:20:22.049381] [WARN] Queue size growing
+[2025-11-05T23:20:22.049337] [INFO] Session started
+[2025-11-05T23:20:22.049356] [INFO] User logged in
+[2025-11-05T23:20:22.049296] [INFO] Database query executed
+[2025-11-05T23:20:22.049328] [INFO] Service initialized
+[2025-11-05T23:20:22.049395] [WARN] Slow query performance
+[2025-11-05T23:20:22.049429] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.049351] [INFO] Session started
+[2025-11-05T23:20:22.049301] [INFO] Connection established
+[2025-11-05T23:20:22.049386] [WARN] Slow query performance
+[2025-11-05T23:20:22.049406] [ERROR] Invalid input data
+[2025-11-05T23:20:22.049279] [INFO] Request processed successfully
+[2025-11-05T23:20:22.049445] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.049372] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.049376] [WARN] Resource threshold approaching
+[2025-11-05T23:20:22.049390] [WARN] Disk space low
+[2025-11-05T23:20:22.049411] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.049311] [INFO] Connection established
+[2025-11-05T23:20:22.049360] [INFO] Request processed successfully
+[2025-11-05T23:20:22.049291] [INFO] Health check passed
+[2025-11-05T23:20:22.049315] [INFO] Configuration loaded
+[2025-11-05T23:20:22.049401] [ERROR] Disk read failed
+[2025-11-05T23:20:22.049366] [WARN] Slow query performance
+[2025-11-05T23:20:22.049435] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.049333] [INFO] Health check passed
+[2025-11-05T23:20:22.049449] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.049440] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.049425] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.049346] [INFO] Health check passed
+[2025-11-05T23:20:22.049320] [INFO] Cache hit
+[2025-11-05T23:20:22.049306] [INFO] Connection established
+[2025-11-05T23:20:22.049421] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.049286] [INFO] Transaction completed
+[2025-11-05T23:20:22.049324] [INFO] Connection established
+[2025-11-05T23:20:22.049252] [INFO] Connection established
+[2025-11-05T23:20:22.049342] [INFO] Cache hit
+[2025-11-05T23:20:22.049416] [DEBUG] Thread pool size: 8

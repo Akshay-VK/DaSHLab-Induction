@@ -1,0 +1,27 @@
+[2025-11-05T23:20:24.612093] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.612041] [INFO] Session started
+[2025-11-05T23:20:24.612037] [INFO] Service initialized
+[2025-11-05T23:20:24.611986] [INFO] User logged in
+[2025-11-05T23:20:24.612123] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.612087] [ERROR] Permission denied
+[2025-11-05T23:20:24.612029] [INFO] User logged in
+[2025-11-05T23:20:24.612019] [INFO] Request processed successfully
+[2025-11-05T23:20:24.612058] [INFO] Connection established
+[2025-11-05T23:20:24.612070] [INFO] User logged in
+[2025-11-05T23:20:24.612024] [INFO] Request processed successfully
+[2025-11-05T23:20:24.612097] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.612110] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.612045] [INFO] Cache hit
+[2025-11-05T23:20:24.612128] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.612114] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.612106] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.612081] [ERROR] Invalid input data
+[2025-11-05T23:20:24.612013] [INFO] Service initialized
+[2025-11-05T23:20:24.612066] [INFO] Health check passed
+[2025-11-05T23:20:24.612119] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.612062] [INFO] Request processed successfully
+[2025-11-05T23:20:24.612054] [INFO] Request processed successfully
+[2025-11-05T23:20:24.612050] [INFO] Request processed successfully
+[2025-11-05T23:20:24.612102] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.612075] [WARN] Deprecated API usage
+[2025-11-05T23:20:24.612033] [INFO] Request processed successfully

@@ -1,0 +1,33 @@
+[2025-11-05T23:20:31.331472] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.331458] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:31.331468] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.331394] [INFO] Transaction completed
+[2025-11-05T23:20:31.331489] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.331403] [INFO] Connection established
+[2025-11-05T23:20:31.331481] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.331502] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.331485] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.331432] [WARN] Queue size growing
+[2025-11-05T23:20:31.331407] [INFO] Connection established
+[2025-11-05T23:20:31.331366] [INFO] Connection established
+[2025-11-05T23:20:31.331426] [WARN] Disk space low
+[2025-11-05T23:20:31.331390] [INFO] Transaction completed
+[2025-11-05T23:20:31.331453] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.331411] [INFO] Cache hit
+[2025-11-05T23:20:31.331376] [INFO] Service initialized
+[2025-11-05T23:20:31.331497] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.331361] [INFO] Cache hit
+[2025-11-05T23:20:31.331493] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.331355] [INFO] Session started
+[2025-11-05T23:20:31.331437] [WARN] Timeout warning
+[2025-11-05T23:20:31.331442] [ERROR] Invalid input data
+[2025-11-05T23:20:31.331385] [INFO] Database query executed
+[2025-11-05T23:20:31.331421] [WARN] Disk space low
+[2025-11-05T23:20:31.331398] [INFO] Configuration loaded
+[2025-11-05T23:20:31.331371] [INFO] Service initialized
+[2025-11-05T23:20:31.331477] [DEBUG] Cache key generated
+[2025-11-05T23:20:31.331463] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:31.331381] [INFO] Cache hit
+[2025-11-05T23:20:31.331448] [DEBUG] Cache key generated
+[2025-11-05T23:20:31.331328] [INFO] User logged in
+[2025-11-05T23:20:31.331415] [INFO] Connection established

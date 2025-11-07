@@ -1,0 +1,34 @@
+[2025-11-05T23:20:26.194479] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.194427] [WARN] Deprecated API usage
+[2025-11-05T23:20:26.194375] [INFO] Request processed successfully
+[2025-11-05T23:20:26.194464] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.194367] [INFO] Session started
+[2025-11-05T23:20:26.194421] [WARN] Deprecated API usage
+[2025-11-05T23:20:26.194424] [WARN] Deprecated API usage
+[2025-11-05T23:20:26.194407] [INFO] Session started
+[2025-11-05T23:20:26.194362] [INFO] Health check passed
+[2025-11-05T23:20:26.194388] [INFO] Service initialized
+[2025-11-05T23:20:26.194378] [INFO] Service initialized
+[2025-11-05T23:20:26.194412] [WARN] Slow query performance
+[2025-11-05T23:20:26.194371] [INFO] Connection established
+[2025-11-05T23:20:26.194458] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.194467] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.194461] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.194451] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.194476] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.194447] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.194337] [INFO] Request processed successfully
+[2025-11-05T23:20:26.194455] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.194471] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.194385] [INFO] Cache hit
+[2025-11-05T23:20:26.194440] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.194435] [ERROR] Network timeout
+[2025-11-05T23:20:26.194381] [INFO] User logged in
+[2025-11-05T23:20:26.194395] [INFO] Configuration loaded
+[2025-11-05T23:20:26.194401] [INFO] User logged in
+[2025-11-05T23:20:26.194404] [INFO] Database query executed
+[2025-11-05T23:20:26.194392] [INFO] Database query executed
+[2025-11-05T23:20:26.194431] [ERROR] Memory allocation error
+[2025-11-05T23:20:26.194444] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.194416] [WARN] High memory usage detected
+[2025-11-05T23:20:26.194398] [INFO] User logged in

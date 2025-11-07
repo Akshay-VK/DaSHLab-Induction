@@ -1,0 +1,36 @@
+[2025-11-05T23:20:51.015844] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.015719] [INFO] Transaction completed
+[2025-11-05T23:20:51.015778] [WARN] Queue size growing
+[2025-11-05T23:20:51.015708] [INFO] Transaction completed
+[2025-11-05T23:20:51.015815] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:51.015811] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.015744] [INFO] Connection established
+[2025-11-05T23:20:51.015740] [INFO] Session started
+[2025-11-05T23:20:51.015748] [INFO] Connection established
+[2025-11-05T23:20:51.015796] [ERROR] Permission denied
+[2025-11-05T23:20:51.015723] [INFO] User logged in
+[2025-11-05T23:20:51.015768] [WARN] Timeout warning
+[2025-11-05T23:20:51.015759] [INFO] Request processed successfully
+[2025-11-05T23:20:51.015840] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.015790] [WARN] Disk space low
+[2025-11-05T23:20:51.015736] [INFO] Service initialized
+[2025-11-05T23:20:51.015786] [WARN] Rate limit approaching
+[2025-11-05T23:20:51.015836] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.015823] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.015728] [INFO] Session started
+[2025-11-05T23:20:51.015751] [INFO] Connection established
+[2025-11-05T23:20:51.015853] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.015832] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.015819] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.015801] [ERROR] Authentication failed
+[2025-11-05T23:20:51.015806] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.015773] [WARN] Cache miss
+[2025-11-05T23:20:51.015714] [INFO] Service initialized
+[2025-11-05T23:20:51.015782] [WARN] Timeout warning
+[2025-11-05T23:20:51.015849] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.015732] [INFO] Cache hit
+[2025-11-05T23:20:51.015755] [INFO] Session started
+[2025-11-05T23:20:51.015827] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.015681] [INFO] Cache hit
+[2025-11-05T23:20:51.015763] [INFO] Connection established
+[2025-11-05T23:20:51.015857] [DEBUG] Buffer size: 4096 bytes

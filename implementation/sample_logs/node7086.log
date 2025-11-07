@@ -1,0 +1,28 @@
+[2025-11-05T23:20:41.830285] [INFO] Cache hit
+[2025-11-05T23:20:41.830276] [INFO] Database query executed
+[2025-11-05T23:20:41.830362] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.830306] [WARN] Queue size growing
+[2025-11-05T23:20:41.830373] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.830357] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.830353] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.830272] [INFO] Service initialized
+[2025-11-05T23:20:41.830369] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.830289] [INFO] Session started
+[2025-11-05T23:20:41.830258] [INFO] Cache hit
+[2025-11-05T23:20:41.830219] [INFO] Configuration loaded
+[2025-11-05T23:20:41.830321] [ERROR] Request failed
+[2025-11-05T23:20:41.830343] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.830310] [WARN] Queue size growing
+[2025-11-05T23:20:41.830263] [INFO] Request processed successfully
+[2025-11-05T23:20:41.830338] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.830267] [INFO] Request processed successfully
+[2025-11-05T23:20:41.830316] [ERROR] Invalid input data
+[2025-11-05T23:20:41.830333] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.830378] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.830294] [INFO] Service initialized
+[2025-11-05T23:20:41.830280] [INFO] Session started
+[2025-11-05T23:20:41.830245] [INFO] Transaction completed
+[2025-11-05T23:20:41.830327] [ERROR] Permission denied
+[2025-11-05T23:20:41.830300] [WARN] Timeout warning
+[2025-11-05T23:20:41.830252] [INFO] Service initialized
+[2025-11-05T23:20:41.830348] [DEBUG] HTTP request headers parsed

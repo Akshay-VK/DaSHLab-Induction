@@ -1,0 +1,30 @@
+[2025-11-05T23:20:36.317794] [WARN] High memory usage detected
+[2025-11-05T23:20:36.317790] [WARN] Timeout warning
+[2025-11-05T23:20:36.317742] [INFO] Service initialized
+[2025-11-05T23:20:36.317738] [INFO] Health check passed
+[2025-11-05T23:20:36.317807] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.317820] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.317733] [INFO] Connection established
+[2025-11-05T23:20:36.317780] [INFO] User logged in
+[2025-11-05T23:20:36.317815] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.317706] [INFO] Request processed successfully
+[2025-11-05T23:20:36.317767] [INFO] Connection established
+[2025-11-05T23:20:36.317746] [INFO] Health check passed
+[2025-11-05T23:20:36.317832] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.317841] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.317803] [ERROR] Invalid input data
+[2025-11-05T23:20:36.317729] [INFO] Connection established
+[2025-11-05T23:20:36.317825] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.317777] [INFO] Cache hit
+[2025-11-05T23:20:36.317764] [INFO] Health check passed
+[2025-11-05T23:20:36.317749] [INFO] Request processed successfully
+[2025-11-05T23:20:36.317753] [INFO] User logged in
+[2025-11-05T23:20:36.317770] [INFO] User logged in
+[2025-11-05T23:20:36.317829] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.317812] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.317756] [INFO] Transaction completed
+[2025-11-05T23:20:36.317836] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.317760] [INFO] Database query executed
+[2025-11-05T23:20:36.317799] [ERROR] Service unavailable
+[2025-11-05T23:20:36.317785] [WARN] Disk space low
+[2025-11-05T23:20:36.317774] [INFO] User logged in

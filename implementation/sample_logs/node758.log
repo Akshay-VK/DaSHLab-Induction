@@ -1,0 +1,29 @@
+[2025-11-05T23:20:15.684348] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.684252] [INFO] Configuration loaded
+[2025-11-05T23:20:15.684336] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.684247] [INFO] Configuration loaded
+[2025-11-05T23:20:15.684282] [INFO] Health check passed
+[2025-11-05T23:20:15.684344] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.684261] [INFO] Service initialized
+[2025-11-05T23:20:15.684209] [INFO] Health check passed
+[2025-11-05T23:20:15.684331] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.684265] [INFO] Transaction completed
+[2025-11-05T23:20:15.684352] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.684310] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.684256] [INFO] Session started
+[2025-11-05T23:20:15.684304] [WARN] Deprecated API usage
+[2025-11-05T23:20:15.684290] [INFO] Connection established
+[2025-11-05T23:20:15.684243] [INFO] Request processed successfully
+[2025-11-05T23:20:15.684294] [INFO] Configuration loaded
+[2025-11-05T23:20:15.684321] [ERROR] Request failed
+[2025-11-05T23:20:15.684298] [INFO] User logged in
+[2025-11-05T23:20:15.684278] [INFO] Connection established
+[2025-11-05T23:20:15.684274] [INFO] Service initialized
+[2025-11-05T23:20:15.684326] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.684315] [ERROR] File not found
+[2025-11-05T23:20:15.684286] [INFO] Request processed successfully
+[2025-11-05T23:20:15.684340] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.684357] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.684361] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.684236] [INFO] Request processed successfully
+[2025-11-05T23:20:15.684270] [INFO] Database query executed

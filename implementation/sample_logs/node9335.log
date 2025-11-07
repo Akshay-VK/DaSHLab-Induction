@@ -1,0 +1,31 @@
+[2025-11-05T23:20:51.050341] [INFO] Health check passed
+[2025-11-05T23:20:51.050346] [INFO] Transaction completed
+[2025-11-05T23:20:51.050390] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.050400] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.050365] [WARN] Slow query performance
+[2025-11-05T23:20:51.050384] [ERROR] Network timeout
+[2025-11-05T23:20:51.050260] [INFO] Configuration loaded
+[2025-11-05T23:20:51.050313] [INFO] Session started
+[2025-11-05T23:20:51.050299] [INFO] Connection established
+[2025-11-05T23:20:51.050331] [INFO] Health check passed
+[2025-11-05T23:20:51.050308] [INFO] Request processed successfully
+[2025-11-05T23:20:51.050359] [WARN] Cache miss
+[2025-11-05T23:20:51.050405] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.050395] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.050424] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.050369] [WARN] Connection retry attempt
+[2025-11-05T23:20:51.050337] [INFO] Transaction completed
+[2025-11-05T23:20:51.050303] [INFO] Connection established
+[2025-11-05T23:20:51.050317] [INFO] Service initialized
+[2025-11-05T23:20:51.050378] [WARN] Cache miss
+[2025-11-05T23:20:51.050428] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.050354] [INFO] Transaction completed
+[2025-11-05T23:20:51.050409] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.050350] [INFO] Session started
+[2025-11-05T23:20:51.050413] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.050374] [WARN] Queue size growing
+[2025-11-05T23:20:51.050288] [INFO] Service initialized
+[2025-11-05T23:20:51.050419] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.050294] [INFO] Connection established
+[2025-11-05T23:20:51.050326] [INFO] Session started
+[2025-11-05T23:20:51.050321] [INFO] Transaction completed

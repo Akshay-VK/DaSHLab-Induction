@@ -1,0 +1,35 @@
+[2025-11-05T23:20:43.944902] [INFO] Configuration loaded
+[2025-11-05T23:20:43.944943] [WARN] Queue size growing
+[2025-11-05T23:20:43.945015] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.944938] [WARN] High memory usage detected
+[2025-11-05T23:20:43.944981] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.944906] [INFO] Request processed successfully
+[2025-11-05T23:20:43.944915] [INFO] Configuration loaded
+[2025-11-05T23:20:43.944952] [WARN] Cache miss
+[2025-11-05T23:20:43.945011] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.945002] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.944883] [INFO] Request processed successfully
+[2025-11-05T23:20:43.944968] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.944932] [INFO] Health check passed
+[2025-11-05T23:20:43.944924] [INFO] Service initialized
+[2025-11-05T23:20:43.944911] [INFO] User logged in
+[2025-11-05T23:20:43.944990] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.944868] [INFO] Service initialized
+[2025-11-05T23:20:43.944887] [INFO] User logged in
+[2025-11-05T23:20:43.944972] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.945006] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.944891] [INFO] Health check passed
+[2025-11-05T23:20:43.944998] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.944985] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.944919] [INFO] Cache hit
+[2025-11-05T23:20:43.944978] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.944835] [INFO] Request processed successfully
+[2025-11-05T23:20:43.944928] [INFO] Connection established
+[2025-11-05T23:20:43.944993] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.944956] [WARN] Slow query performance
+[2025-11-05T23:20:43.944895] [INFO] Session started
+[2025-11-05T23:20:43.944948] [WARN] Rate limit approaching
+[2025-11-05T23:20:43.944962] [ERROR] Database connection lost
+[2025-11-05T23:20:43.944862] [INFO] Request processed successfully
+[2025-11-05T23:20:43.944878] [INFO] Request processed successfully
+[2025-11-05T23:20:43.944873] [INFO] Database query executed

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:25.273822] [WARN] High memory usage detected
+[2025-11-05T23:20:25.273764] [INFO] Cache hit
+[2025-11-05T23:20:25.273808] [INFO] Session started
+[2025-11-05T23:20:25.273799] [INFO] Configuration loaded
+[2025-11-05T23:20:25.273827] [WARN] Queue size growing
+[2025-11-05T23:20:25.273855] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.273786] [INFO] Cache hit
+[2025-11-05T23:20:25.273863] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.273795] [INFO] Session started
+[2025-11-05T23:20:25.273791] [INFO] Configuration loaded
+[2025-11-05T23:20:25.273850] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.273841] [ERROR] Service unavailable
+[2025-11-05T23:20:25.273769] [INFO] Service initialized
+[2025-11-05T23:20:25.273836] [ERROR] Database connection lost
+[2025-11-05T23:20:25.273872] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.273773] [INFO] Transaction completed
+[2025-11-05T23:20:25.273754] [INFO] Session started
+[2025-11-05T23:20:25.273812] [INFO] Service initialized
+[2025-11-05T23:20:25.273729] [INFO] Configuration loaded
+[2025-11-05T23:20:25.273859] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.273831] [WARN] High memory usage detected
+[2025-11-05T23:20:25.273782] [INFO] Session started
+[2025-11-05T23:20:25.273759] [INFO] Configuration loaded
+[2025-11-05T23:20:25.273845] [ERROR] Memory allocation error
+[2025-11-05T23:20:25.273817] [WARN] Queue size growing
+[2025-11-05T23:20:25.273778] [INFO] Cache hit
+[2025-11-05T23:20:25.273803] [INFO] Session started
+[2025-11-05T23:20:25.273868] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.273876] [DEBUG] Buffer size: 4096 bytes

@@ -1,0 +1,34 @@
+[2025-11-05T23:20:16.413823] [WARN] Rate limit approaching
+[2025-11-05T23:20:16.413753] [INFO] Connection established
+[2025-11-05T23:20:16.413807] [INFO] Transaction completed
+[2025-11-05T23:20:16.413773] [INFO] Session started
+[2025-11-05T23:20:16.413791] [INFO] Session started
+[2025-11-05T23:20:16.413747] [INFO] Connection established
+[2025-11-05T23:20:16.413720] [INFO] User logged in
+[2025-11-05T23:20:16.413803] [INFO] Health check passed
+[2025-11-05T23:20:16.413843] [ERROR] Permission denied
+[2025-11-05T23:20:16.413868] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.413895] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.413763] [INFO] Cache hit
+[2025-11-05T23:20:16.413886] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.413832] [WARN] Slow query performance
+[2025-11-05T23:20:16.413778] [INFO] Session started
+[2025-11-05T23:20:16.413787] [INFO] Health check passed
+[2025-11-05T23:20:16.413859] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.413782] [INFO] Service initialized
+[2025-11-05T23:20:16.413853] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.413812] [INFO] User logged in
+[2025-11-05T23:20:16.413872] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.413795] [INFO] Connection established
+[2025-11-05T23:20:16.413828] [WARN] Rate limit approaching
+[2025-11-05T23:20:16.413882] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.413900] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.413799] [INFO] Cache hit
+[2025-11-05T23:20:16.413817] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.413837] [WARN] Cache miss
+[2025-11-05T23:20:16.413890] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.413758] [INFO] Configuration loaded
+[2025-11-05T23:20:16.413863] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.413847] [ERROR] Disk read failed
+[2025-11-05T23:20:16.413768] [INFO] Cache hit
+[2025-11-05T23:20:16.413877] [DEBUG] Buffer size: 4096 bytes

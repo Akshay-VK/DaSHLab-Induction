@@ -1,0 +1,30 @@
+[2025-11-05T23:20:20.177556] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.177523] [WARN] High memory usage detected
+[2025-11-05T23:20:20.177450] [INFO] User logged in
+[2025-11-05T23:20:20.177415] [INFO] User logged in
+[2025-11-05T23:20:20.177570] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.177564] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.177476] [INFO] User logged in
+[2025-11-05T23:20:20.177543] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.177517] [WARN] Cache miss
+[2025-11-05T23:20:20.177508] [INFO] Database query executed
+[2025-11-05T23:20:20.177459] [INFO] Health check passed
+[2025-11-05T23:20:20.177502] [INFO] Service initialized
+[2025-11-05T23:20:20.177485] [INFO] Request processed successfully
+[2025-11-05T23:20:20.177489] [INFO] Configuration loaded
+[2025-11-05T23:20:20.177493] [INFO] User logged in
+[2025-11-05T23:20:20.177575] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.177537] [ERROR] Invalid input data
+[2025-11-05T23:20:20.177551] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.177560] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.177547] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.177465] [INFO] Health check passed
+[2025-11-05T23:20:20.177480] [INFO] Configuration loaded
+[2025-11-05T23:20:20.177443] [INFO] Transaction completed
+[2025-11-05T23:20:20.177470] [INFO] Connection established
+[2025-11-05T23:20:20.177533] [ERROR] Authentication failed
+[2025-11-05T23:20:20.177580] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.177497] [INFO] Request processed successfully
+[2025-11-05T23:20:20.177455] [INFO] Cache hit
+[2025-11-05T23:20:20.177512] [INFO] Service initialized
+[2025-11-05T23:20:20.177527] [WARN] Deprecated API usage

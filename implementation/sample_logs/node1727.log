@@ -1,0 +1,26 @@
+[2025-11-05T23:20:19.896212] [ERROR] Permission denied
+[2025-11-05T23:20:19.896104] [INFO] Configuration loaded
+[2025-11-05T23:20:19.896228] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.896254] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.896109] [INFO] Session started
+[2025-11-05T23:20:19.896241] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.896203] [WARN] Slow query performance
+[2025-11-05T23:20:19.896219] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.896160] [INFO] Connection established
+[2025-11-05T23:20:19.896114] [INFO] Database query executed
+[2025-11-05T23:20:19.896223] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.896123] [INFO] Session started
+[2025-11-05T23:20:19.896078] [INFO] Service initialized
+[2025-11-05T23:20:19.896249] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.896232] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.896140] [INFO] Transaction completed
+[2025-11-05T23:20:19.896246] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.896156] [INFO] Cache hit
+[2025-11-05T23:20:19.896152] [INFO] Cache hit
+[2025-11-05T23:20:19.896131] [INFO] Configuration loaded
+[2025-11-05T23:20:19.896147] [INFO] Transaction completed
+[2025-11-05T23:20:19.896118] [INFO] User logged in
+[2025-11-05T23:20:19.896144] [INFO] Configuration loaded
+[2025-11-05T23:20:19.896237] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.896135] [INFO] Connection established
+[2025-11-05T23:20:19.896127] [INFO] Request processed successfully

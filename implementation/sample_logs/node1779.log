@@ -1,0 +1,28 @@
+[2025-11-05T23:20:20.039697] [INFO] Connection established
+[2025-11-05T23:20:20.039757] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.039683] [INFO] Request processed successfully
+[2025-11-05T23:20:20.039665] [INFO] Service initialized
+[2025-11-05T23:20:20.039743] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.039761] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.039670] [INFO] Session started
+[2025-11-05T23:20:20.039688] [INFO] Cache hit
+[2025-11-05T23:20:20.039661] [INFO] Connection established
+[2025-11-05T23:20:20.039656] [INFO] Session started
+[2025-11-05T23:20:20.039701] [INFO] Session started
+[2025-11-05T23:20:20.039617] [INFO] Request processed successfully
+[2025-11-05T23:20:20.039726] [WARN] Queue size growing
+[2025-11-05T23:20:20.039722] [WARN] Rate limit approaching
+[2025-11-05T23:20:20.039651] [INFO] Cache hit
+[2025-11-05T23:20:20.039692] [INFO] Connection established
+[2025-11-05T23:20:20.039717] [WARN] Deprecated API usage
+[2025-11-05T23:20:20.039705] [INFO] Request processed successfully
+[2025-11-05T23:20:20.039752] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.039766] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.039738] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.039771] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.039645] [INFO] Cache hit
+[2025-11-05T23:20:20.039748] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.039732] [ERROR] Network timeout
+[2025-11-05T23:20:20.039679] [INFO] Cache hit
+[2025-11-05T23:20:20.039711] [WARN] High memory usage detected
+[2025-11-05T23:20:20.039675] [INFO] Service initialized

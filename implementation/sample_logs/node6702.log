@@ -1,0 +1,31 @@
+[2025-11-05T23:20:40.369684] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.369658] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.369600] [INFO] Health check passed
+[2025-11-05T23:20:40.369639] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.369563] [INFO] Request processed successfully
+[2025-11-05T23:20:40.369575] [INFO] Transaction completed
+[2025-11-05T23:20:40.369643] [WARN] Disk space low
+[2025-11-05T23:20:40.369556] [INFO] Transaction completed
+[2025-11-05T23:20:40.369629] [WARN] Disk space low
+[2025-11-05T23:20:40.369693] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.369549] [INFO] Cache hit
+[2025-11-05T23:20:40.369524] [INFO] Database query executed
+[2025-11-05T23:20:40.369676] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.369663] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.369668] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.369634] [WARN] Resource threshold approaching
+[2025-11-05T23:20:40.369581] [INFO] Health check passed
+[2025-11-05T23:20:40.369680] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.369614] [INFO] Health check passed
+[2025-11-05T23:20:40.369610] [INFO] Health check passed
+[2025-11-05T23:20:40.369625] [WARN] Cache miss
+[2025-11-05T23:20:40.369590] [INFO] Database query executed
+[2025-11-05T23:20:40.369653] [ERROR] File not found
+[2025-11-05T23:20:40.369604] [INFO] Request processed successfully
+[2025-11-05T23:20:40.369568] [INFO] Health check passed
+[2025-11-05T23:20:40.369620] [WARN] High memory usage detected
+[2025-11-05T23:20:40.369595] [INFO] Transaction completed
+[2025-11-05T23:20:40.369648] [ERROR] File not found
+[2025-11-05T23:20:40.369689] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.369586] [INFO] Database query executed
+[2025-11-05T23:20:40.369672] [DEBUG] Loop iteration: 15

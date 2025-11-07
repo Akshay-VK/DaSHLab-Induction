@@ -1,0 +1,31 @@
+[2025-11-05T23:20:50.648916] [INFO] Service initialized
+[2025-11-05T23:20:50.648950] [INFO] Cache hit
+[2025-11-05T23:20:50.648959] [INFO] Transaction completed
+[2025-11-05T23:20:50.648920] [INFO] Transaction completed
+[2025-11-05T23:20:50.649035] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.649031] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.649011] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.648963] [INFO] Configuration loaded
+[2025-11-05T23:20:50.648938] [INFO] Configuration loaded
+[2025-11-05T23:20:50.649002] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.648954] [INFO] Cache hit
+[2025-11-05T23:20:50.648925] [INFO] Transaction completed
+[2025-11-05T23:20:50.648968] [WARN] Connection retry attempt
+[2025-11-05T23:20:50.649023] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.648986] [WARN] Timeout warning
+[2025-11-05T23:20:50.648947] [INFO] Session started
+[2025-11-05T23:20:50.649015] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.648992] [ERROR] Network timeout
+[2025-11-05T23:20:50.648880] [INFO] Configuration loaded
+[2025-11-05T23:20:50.648978] [WARN] Cache miss
+[2025-11-05T23:20:50.648973] [WARN] Timeout warning
+[2025-11-05T23:20:50.649006] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:50.648906] [INFO] User logged in
+[2025-11-05T23:20:50.648929] [INFO] Session started
+[2025-11-05T23:20:50.648943] [INFO] Transaction completed
+[2025-11-05T23:20:50.648996] [ERROR] File not found
+[2025-11-05T23:20:50.648911] [INFO] Request processed successfully
+[2025-11-05T23:20:50.649027] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.648933] [INFO] Database query executed
+[2025-11-05T23:20:50.648982] [WARN] High memory usage detected
+[2025-11-05T23:20:50.649019] [DEBUG] Thread pool size: 8

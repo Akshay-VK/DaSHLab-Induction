@@ -1,0 +1,37 @@
+[2025-11-05T23:20:47.190768] [INFO] User logged in
+[2025-11-05T23:20:47.190758] [INFO] Service initialized
+[2025-11-05T23:20:47.190718] [INFO] Session started
+[2025-11-05T23:20:47.190752] [INFO] Transaction completed
+[2025-11-05T23:20:47.190827] [WARN] Timeout warning
+[2025-11-05T23:20:47.190772] [INFO] Database query executed
+[2025-11-05T23:20:47.190911] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.190895] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.190878] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.190807] [INFO] Connection established
+[2025-11-05T23:20:47.190864] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.190777] [INFO] Connection established
+[2025-11-05T23:20:47.190855] [ERROR] File not found
+[2025-11-05T23:20:47.190900] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.190745] [INFO] User logged in
+[2025-11-05T23:20:47.190815] [INFO] Connection established
+[2025-11-05T23:20:47.190841] [WARN] Disk space low
+[2025-11-05T23:20:47.190906] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.190802] [INFO] Database query executed
+[2025-11-05T23:20:47.190846] [ERROR] Permission denied
+[2025-11-05T23:20:47.190915] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.190836] [WARN] High memory usage detected
+[2025-11-05T23:20:47.190791] [INFO] User logged in
+[2025-11-05T23:20:47.190797] [INFO] User logged in
+[2025-11-05T23:20:47.190811] [INFO] Cache hit
+[2025-11-05T23:20:47.190882] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.190851] [ERROR] Permission denied
+[2025-11-05T23:20:47.190859] [ERROR] Permission denied
+[2025-11-05T23:20:47.190821] [WARN] Cache miss
+[2025-11-05T23:20:47.190786] [INFO] Database query executed
+[2025-11-05T23:20:47.190782] [INFO] Database query executed
+[2025-11-05T23:20:47.190873] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.190763] [INFO] Configuration loaded
+[2025-11-05T23:20:47.190831] [WARN] Slow query performance
+[2025-11-05T23:20:47.190886] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.190891] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.190869] [DEBUG] Connection pool status checked

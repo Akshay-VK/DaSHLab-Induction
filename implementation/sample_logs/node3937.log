@@ -1,0 +1,30 @@
+[2025-11-05T23:20:29.446288] [INFO] Cache hit
+[2025-11-05T23:20:29.446313] [WARN] Slow query performance
+[2025-11-05T23:20:29.446371] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.446284] [INFO] Health check passed
+[2025-11-05T23:20:29.446356] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.446168] [INFO] Connection established
+[2025-11-05T23:20:29.446329] [ERROR] Network timeout
+[2025-11-05T23:20:29.446343] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.446347] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.446339] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.446366] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.446297] [INFO] Health check passed
+[2025-11-05T23:20:29.446318] [WARN] Cache miss
+[2025-11-05T23:20:29.446303] [WARN] Connection retry attempt
+[2025-11-05T23:20:29.446256] [INFO] Service initialized
+[2025-11-05T23:20:29.446324] [ERROR] Network timeout
+[2025-11-05T23:20:29.446334] [ERROR] Database connection lost
+[2025-11-05T23:20:29.446275] [INFO] Configuration loaded
+[2025-11-05T23:20:29.446361] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.446308] [WARN] Timeout warning
+[2025-11-05T23:20:29.446352] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.446271] [INFO] Database query executed
+[2025-11-05T23:20:29.446293] [INFO] Session started
+[2025-11-05T23:20:29.446252] [INFO] Configuration loaded
+[2025-11-05T23:20:29.446243] [INFO] Request processed successfully
+[2025-11-05T23:20:29.446280] [INFO] Session started
+[2025-11-05T23:20:29.446248] [INFO] Cache hit
+[2025-11-05T23:20:29.446266] [INFO] User logged in
+[2025-11-05T23:20:29.446234] [INFO] Health check passed
+[2025-11-05T23:20:29.446262] [INFO] Request processed successfully

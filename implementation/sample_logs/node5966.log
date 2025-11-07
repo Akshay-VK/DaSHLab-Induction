@@ -1,0 +1,29 @@
+[2025-11-05T23:20:37.532324] [WARN] Resource threshold approaching
+[2025-11-05T23:20:37.532319] [WARN] Queue size growing
+[2025-11-05T23:20:37.532284] [INFO] Connection established
+[2025-11-05T23:20:37.532308] [INFO] Session started
+[2025-11-05T23:20:37.532346] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.532279] [INFO] Configuration loaded
+[2025-11-05T23:20:37.532292] [INFO] Session started
+[2025-11-05T23:20:37.532270] [INFO] Session started
+[2025-11-05T23:20:37.532368] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.532341] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.532359] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.532304] [INFO] Configuration loaded
+[2025-11-05T23:20:37.532261] [INFO] Cache hit
+[2025-11-05T23:20:37.532350] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.532314] [WARN] High memory usage detected
+[2025-11-05T23:20:37.532257] [INFO] Request processed successfully
+[2025-11-05T23:20:37.532266] [INFO] Request processed successfully
+[2025-11-05T23:20:37.532373] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.532330] [ERROR] Authentication failed
+[2025-11-05T23:20:37.532300] [INFO] Health check passed
+[2025-11-05T23:20:37.532354] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.532335] [ERROR] Request failed
+[2025-11-05T23:20:37.532225] [INFO] Request processed successfully
+[2025-11-05T23:20:37.532364] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.532274] [INFO] Transaction completed
+[2025-11-05T23:20:37.532296] [INFO] Request processed successfully
+[2025-11-05T23:20:37.532288] [INFO] Cache hit
+[2025-11-05T23:20:37.532251] [INFO] Connection established
+[2025-11-05T23:20:37.532376] [DEBUG] Loop iteration: 15

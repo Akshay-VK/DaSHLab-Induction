@@ -1,0 +1,32 @@
+[2025-11-05T23:20:23.178035] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.178026] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.178006] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.177933] [INFO] Database query executed
+[2025-11-05T23:20:23.177904] [INFO] Connection established
+[2025-11-05T23:20:23.177987] [ERROR] Request failed
+[2025-11-05T23:20:23.178002] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.177914] [INFO] Connection established
+[2025-11-05T23:20:23.177928] [INFO] Transaction completed
+[2025-11-05T23:20:23.177863] [INFO] Connection established
+[2025-11-05T23:20:23.177924] [INFO] Health check passed
+[2025-11-05T23:20:23.177955] [INFO] Configuration loaded
+[2025-11-05T23:20:23.178016] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.177997] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.177960] [WARN] Slow query performance
+[2025-11-05T23:20:23.177919] [INFO] Service initialized
+[2025-11-05T23:20:23.177894] [INFO] Database query executed
+[2025-11-05T23:20:23.177889] [INFO] User logged in
+[2025-11-05T23:20:23.177899] [INFO] Connection established
+[2025-11-05T23:20:23.178012] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:23.177909] [INFO] Database query executed
+[2025-11-05T23:20:23.177971] [WARN] Resource threshold approaching
+[2025-11-05T23:20:23.177982] [ERROR] Request failed
+[2025-11-05T23:20:23.177950] [INFO] Configuration loaded
+[2025-11-05T23:20:23.178030] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.178022] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.177966] [WARN] Queue size growing
+[2025-11-05T23:20:23.177937] [INFO] Database query executed
+[2025-11-05T23:20:23.177991] [ERROR] Database connection lost
+[2025-11-05T23:20:23.177946] [INFO] Health check passed
+[2025-11-05T23:20:23.177976] [WARN] Resource threshold approaching
+[2025-11-05T23:20:23.177942] [INFO] Connection established

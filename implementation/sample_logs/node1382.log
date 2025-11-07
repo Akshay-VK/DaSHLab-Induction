@@ -1,0 +1,28 @@
+[2025-11-05T23:20:18.279177] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.279154] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.279138] [WARN] Resource threshold approaching
+[2025-11-05T23:20:18.279129] [WARN] Deprecated API usage
+[2025-11-05T23:20:18.279071] [INFO] Database query executed
+[2025-11-05T23:20:18.279115] [INFO] Session started
+[2025-11-05T23:20:18.279089] [INFO] Transaction completed
+[2025-11-05T23:20:18.279085] [INFO] User logged in
+[2025-11-05T23:20:18.279134] [WARN] Resource threshold approaching
+[2025-11-05T23:20:18.279192] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.279081] [INFO] Cache hit
+[2025-11-05T23:20:18.279111] [INFO] User logged in
+[2025-11-05T23:20:18.279143] [WARN] Disk space low
+[2025-11-05T23:20:18.279093] [INFO] Connection established
+[2025-11-05T23:20:18.279107] [INFO] Health check passed
+[2025-11-05T23:20:18.279076] [INFO] User logged in
+[2025-11-05T23:20:18.279159] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.279044] [INFO] Session started
+[2025-11-05T23:20:18.279098] [INFO] Health check passed
+[2025-11-05T23:20:18.279183] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.279148] [ERROR] Authentication failed
+[2025-11-05T23:20:18.279164] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:18.279187] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:18.279123] [INFO] Request processed successfully
+[2025-11-05T23:20:18.279173] [DEBUG] Cache key generated
+[2025-11-05T23:20:18.279102] [INFO] Service initialized
+[2025-11-05T23:20:18.279168] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.279119] [INFO] Configuration loaded

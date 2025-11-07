@@ -1,0 +1,34 @@
+[2025-11-05T23:20:36.534731] [WARN] Queue size growing
+[2025-11-05T23:20:36.534757] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.534719] [WARN] High memory usage detected
+[2025-11-05T23:20:36.534766] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.534699] [WARN] Timeout warning
+[2025-11-05T23:20:36.534656] [INFO] User logged in
+[2025-11-05T23:20:36.534749] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.534705] [WARN] Disk space low
+[2025-11-05T23:20:36.534727] [WARN] High memory usage detected
+[2025-11-05T23:20:36.534606] [INFO] Connection established
+[2025-11-05T23:20:36.534638] [INFO] Transaction completed
+[2025-11-05T23:20:36.534677] [INFO] Health check passed
+[2025-11-05T23:20:36.534664] [INFO] Database query executed
+[2025-11-05T23:20:36.534744] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.534753] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.534660] [INFO] User logged in
+[2025-11-05T23:20:36.534770] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.534775] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.534643] [INFO] Service initialized
+[2025-11-05T23:20:36.534694] [INFO] Database query executed
+[2025-11-05T23:20:36.534681] [INFO] Request processed successfully
+[2025-11-05T23:20:36.534669] [INFO] Session started
+[2025-11-05T23:20:36.534723] [WARN] High memory usage detected
+[2025-11-05T23:20:36.534689] [INFO] Service initialized
+[2025-11-05T23:20:36.534737] [ERROR] Authentication failed
+[2025-11-05T23:20:36.534761] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.534651] [INFO] Request processed successfully
+[2025-11-05T23:20:36.534632] [INFO] Service initialized
+[2025-11-05T23:20:36.534714] [WARN] Deprecated API usage
+[2025-11-05T23:20:36.534710] [WARN] Deprecated API usage
+[2025-11-05T23:20:36.534673] [INFO] Service initialized
+[2025-11-05T23:20:36.534780] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.534647] [INFO] Service initialized
+[2025-11-05T23:20:36.534685] [INFO] Database query executed

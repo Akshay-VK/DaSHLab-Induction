@@ -1,0 +1,32 @@
+[2025-11-05T23:20:40.559285] [INFO] User logged in
+[2025-11-05T23:20:40.559359] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.559309] [INFO] Service initialized
+[2025-11-05T23:20:40.559266] [INFO] Database query executed
+[2025-11-05T23:20:40.559348] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.559305] [INFO] Database query executed
+[2025-11-05T23:20:40.559254] [INFO] Connection established
+[2025-11-05T23:20:40.559318] [WARN] Cache miss
+[2025-11-05T23:20:40.559371] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.559368] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.559301] [INFO] Cache hit
+[2025-11-05T23:20:40.559259] [INFO] Configuration loaded
+[2025-11-05T23:20:40.559262] [INFO] Cache hit
+[2025-11-05T23:20:40.559296] [INFO] Configuration loaded
+[2025-11-05T23:20:40.559330] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.559289] [INFO] Service initialized
+[2025-11-05T23:20:40.559339] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.559344] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.559334] [ERROR] Database connection lost
+[2025-11-05T23:20:40.559282] [INFO] Connection established
+[2025-11-05T23:20:40.559322] [WARN] Cache miss
+[2025-11-05T23:20:40.559225] [INFO] Health check passed
+[2025-11-05T23:20:40.559326] [WARN] Cache miss
+[2025-11-05T23:20:40.559249] [INFO] Configuration loaded
+[2025-11-05T23:20:40.559352] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.559314] [WARN] High memory usage detected
+[2025-11-05T23:20:40.559274] [INFO] Health check passed
+[2025-11-05T23:20:40.559355] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.559277] [INFO] User logged in
+[2025-11-05T23:20:40.559292] [INFO] Service initialized
+[2025-11-05T23:20:40.559270] [INFO] Health check passed
+[2025-11-05T23:20:40.559364] [DEBUG] Cache key generated

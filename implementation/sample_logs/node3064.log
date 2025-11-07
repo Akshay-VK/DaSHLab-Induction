@@ -1,0 +1,32 @@
+[2025-11-05T23:20:25.597348] [WARN] Queue size growing
+[2025-11-05T23:20:25.597423] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.597395] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.597304] [INFO] Database query executed
+[2025-11-05T23:20:25.597313] [INFO] Cache hit
+[2025-11-05T23:20:25.597375] [ERROR] Authentication failed
+[2025-11-05T23:20:25.597334] [INFO] Request processed successfully
+[2025-11-05T23:20:25.597309] [INFO] Connection established
+[2025-11-05T23:20:25.597391] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.597386] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.597403] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.597381] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.597411] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.597419] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.597363] [WARN] Disk space low
+[2025-11-05T23:20:25.597338] [INFO] Health check passed
+[2025-11-05T23:20:25.597281] [INFO] Configuration loaded
+[2025-11-05T23:20:25.597399] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.597358] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.597407] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.597353] [WARN] Rate limit approaching
+[2025-11-05T23:20:25.597326] [INFO] Session started
+[2025-11-05T23:20:25.597256] [INFO] Session started
+[2025-11-05T23:20:25.597342] [INFO] Database query executed
+[2025-11-05T23:20:25.597415] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.597288] [INFO] Session started
+[2025-11-05T23:20:25.597322] [INFO] Session started
+[2025-11-05T23:20:25.597370] [ERROR] Memory allocation error
+[2025-11-05T23:20:25.597294] [INFO] Session started
+[2025-11-05T23:20:25.597317] [INFO] Service initialized
+[2025-11-05T23:20:25.597300] [INFO] Service initialized
+[2025-11-05T23:20:25.597330] [INFO] Health check passed

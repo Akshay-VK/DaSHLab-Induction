@@ -1,0 +1,27 @@
+[2025-11-05T23:20:36.708981] [INFO] Database query executed
+[2025-11-05T23:20:36.708990] [INFO] Connection established
+[2025-11-05T23:20:36.708971] [INFO] Session started
+[2025-11-05T23:20:36.709048] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.708931] [INFO] Cache hit
+[2025-11-05T23:20:36.708966] [INFO] Session started
+[2025-11-05T23:20:36.708906] [INFO] Health check passed
+[2025-11-05T23:20:36.709031] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:36.709035] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.709000] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.709053] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.708943] [INFO] Cache hit
+[2025-11-05T23:20:36.709044] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.708937] [INFO] Session started
+[2025-11-05T23:20:36.709022] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.709017] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.708985] [INFO] Service initialized
+[2025-11-05T23:20:36.709006] [ERROR] Permission denied
+[2025-11-05T23:20:36.708976] [INFO] Request processed successfully
+[2025-11-05T23:20:36.708994] [INFO] Session started
+[2025-11-05T23:20:36.708962] [INFO] Cache hit
+[2025-11-05T23:20:36.708958] [INFO] Health check passed
+[2025-11-05T23:20:36.708953] [INFO] User logged in
+[2025-11-05T23:20:36.708948] [INFO] Configuration loaded
+[2025-11-05T23:20:36.709040] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.709011] [ERROR] Disk read failed
+[2025-11-05T23:20:36.709026] [DEBUG] Connection pool status checked

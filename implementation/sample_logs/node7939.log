@@ -1,0 +1,28 @@
+[2025-11-05T23:20:45.250289] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.250279] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.250163] [INFO] User logged in
+[2025-11-05T23:20:45.250241] [INFO] Session started
+[2025-11-05T23:20:45.250237] [INFO] Database query executed
+[2025-11-05T23:20:45.250294] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.250223] [INFO] Request processed successfully
+[2025-11-05T23:20:45.250214] [INFO] Database query executed
+[2025-11-05T23:20:45.250245] [INFO] Session started
+[2025-11-05T23:20:45.250284] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.250195] [INFO] Service initialized
+[2025-11-05T23:20:45.250308] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.250250] [INFO] Connection established
+[2025-11-05T23:20:45.250312] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.250189] [INFO] Connection established
+[2025-11-05T23:20:45.250266] [WARN] Queue size growing
+[2025-11-05T23:20:45.250210] [INFO] Service initialized
+[2025-11-05T23:20:45.250254] [INFO] Service initialized
+[2025-11-05T23:20:45.250228] [INFO] Request processed successfully
+[2025-11-05T23:20:45.250232] [INFO] Request processed successfully
+[2025-11-05T23:20:45.250200] [INFO] Connection established
+[2025-11-05T23:20:45.250303] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.250260] [WARN] Rate limit approaching
+[2025-11-05T23:20:45.250219] [INFO] Database query executed
+[2025-11-05T23:20:45.250298] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.250316] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.250273] [ERROR] File not found
+[2025-11-05T23:20:45.250205] [INFO] Health check passed

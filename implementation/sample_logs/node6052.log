@@ -1,0 +1,34 @@
+[2025-11-05T23:20:37.967824] [WARN] High memory usage detected
+[2025-11-05T23:20:37.967773] [INFO] Cache hit
+[2025-11-05T23:20:37.967866] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.967891] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.967814] [INFO] Service initialized
+[2025-11-05T23:20:37.967862] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.967883] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.967900] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.967769] [INFO] Service initialized
+[2025-11-05T23:20:37.967782] [INFO] Database query executed
+[2025-11-05T23:20:37.967841] [WARN] Queue size growing
+[2025-11-05T23:20:37.967870] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.967833] [WARN] Disk space low
+[2025-11-05T23:20:37.967764] [INFO] Configuration loaded
+[2025-11-05T23:20:37.967803] [INFO] Session started
+[2025-11-05T23:20:37.967786] [INFO] Health check passed
+[2025-11-05T23:20:37.967810] [INFO] Session started
+[2025-11-05T23:20:37.967829] [WARN] Rate limit approaching
+[2025-11-05T23:20:37.967847] [ERROR] File not found
+[2025-11-05T23:20:37.967758] [INFO] Session started
+[2025-11-05T23:20:37.967857] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.967819] [INFO] Database query executed
+[2025-11-05T23:20:37.967887] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.967879] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.967790] [INFO] Connection established
+[2025-11-05T23:20:37.967895] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.967795] [INFO] Configuration loaded
+[2025-11-05T23:20:37.967875] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.967853] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.967778] [INFO] Cache hit
+[2025-11-05T23:20:37.967837] [WARN] High memory usage detected
+[2025-11-05T23:20:37.967807] [INFO] Service initialized
+[2025-11-05T23:20:37.967732] [INFO] Health check passed
+[2025-11-05T23:20:37.967799] [INFO] Connection established

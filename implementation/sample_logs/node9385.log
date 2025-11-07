@@ -1,0 +1,30 @@
+[2025-11-05T23:20:51.416390] [INFO] Request processed successfully
+[2025-11-05T23:20:51.416425] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.416396] [INFO] Database query executed
+[2025-11-05T23:20:51.416435] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.416330] [INFO] Configuration loaded
+[2025-11-05T23:20:51.416393] [INFO] Service initialized
+[2025-11-05T23:20:51.416372] [INFO] Session started
+[2025-11-05T23:20:51.416441] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.416369] [INFO] Service initialized
+[2025-11-05T23:20:51.416403] [WARN] Timeout warning
+[2025-11-05T23:20:51.416375] [INFO] Request processed successfully
+[2025-11-05T23:20:51.416388] [INFO] Service initialized
+[2025-11-05T23:20:51.416407] [WARN] Cache miss
+[2025-11-05T23:20:51.416363] [INFO] Session started
+[2025-11-05T23:20:51.416385] [INFO] Transaction completed
+[2025-11-05T23:20:51.416431] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.416438] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.416399] [INFO] Database query executed
+[2025-11-05T23:20:51.416381] [INFO] Database query executed
+[2025-11-05T23:20:51.416422] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.416447] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.416418] [ERROR] Permission denied
+[2025-11-05T23:20:51.416354] [INFO] Health check passed
+[2025-11-05T23:20:51.416359] [INFO] User logged in
+[2025-11-05T23:20:51.416378] [INFO] Connection established
+[2025-11-05T23:20:51.416366] [INFO] Health check passed
+[2025-11-05T23:20:51.416428] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.416414] [ERROR] Request failed
+[2025-11-05T23:20:51.416410] [WARN] Rate limit approaching
+[2025-11-05T23:20:51.416444] [DEBUG] Timer set: 30 seconds

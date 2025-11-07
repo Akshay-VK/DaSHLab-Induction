@@ -1,0 +1,33 @@
+[2025-11-05T23:20:14.359691] [INFO] Service initialized
+[2025-11-05T23:20:14.359763] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.359663] [INFO] Session started
+[2025-11-05T23:20:14.359639] [INFO] Cache hit
+[2025-11-05T23:20:14.359675] [INFO] User logged in
+[2025-11-05T23:20:14.359748] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.359645] [INFO] Service initialized
+[2025-11-05T23:20:14.359719] [ERROR] Invalid input data
+[2025-11-05T23:20:14.359654] [INFO] Connection established
+[2025-11-05T23:20:14.359731] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.359679] [INFO] Session started
+[2025-11-05T23:20:14.359710] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.359672] [INFO] Health check passed
+[2025-11-05T23:20:14.359683] [INFO] Cache hit
+[2025-11-05T23:20:14.359714] [WARN] Slow query performance
+[2025-11-05T23:20:14.359723] [ERROR] Database connection lost
+[2025-11-05T23:20:14.359756] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.359687] [INFO] Service initialized
+[2025-11-05T23:20:14.359736] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.359744] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.359752] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.359632] [INFO] Health check passed
+[2025-11-05T23:20:14.359649] [INFO] Request processed successfully
+[2025-11-05T23:20:14.359659] [INFO] Cache hit
+[2025-11-05T23:20:14.359667] [INFO] Session started
+[2025-11-05T23:20:14.359759] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.359605] [INFO] Health check passed
+[2025-11-05T23:20:14.359767] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.359706] [WARN] Deprecated API usage
+[2025-11-05T23:20:14.359701] [WARN] Queue size growing
+[2025-11-05T23:20:14.359740] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.359727] [ERROR] Authentication failed
+[2025-11-05T23:20:14.359697] [WARN] Rate limit approaching

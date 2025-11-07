@@ -1,0 +1,28 @@
+[2025-11-05T23:20:24.331236] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.331253] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.331184] [INFO] Service initialized
+[2025-11-05T23:20:24.331196] [INFO] Request processed successfully
+[2025-11-05T23:20:24.331217] [ERROR] Network timeout
+[2025-11-05T23:20:24.331149] [INFO] Session started
+[2025-11-05T23:20:24.331180] [INFO] Health check passed
+[2025-11-05T23:20:24.331228] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.331153] [INFO] Cache hit
+[2025-11-05T23:20:24.331168] [INFO] Session started
+[2025-11-05T23:20:24.331159] [INFO] Request processed successfully
+[2025-11-05T23:20:24.331202] [WARN] Cache miss
+[2025-11-05T23:20:24.331172] [INFO] Health check passed
+[2025-11-05T23:20:24.331176] [INFO] Connection established
+[2025-11-05T23:20:24.331249] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.331232] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.331212] [WARN] Deprecated API usage
+[2025-11-05T23:20:24.331113] [INFO] Health check passed
+[2025-11-05T23:20:24.331163] [INFO] Database query executed
+[2025-11-05T23:20:24.331207] [WARN] High memory usage detected
+[2025-11-05T23:20:24.331188] [INFO] User logged in
+[2025-11-05T23:20:24.331257] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.331144] [INFO] Database query executed
+[2025-11-05T23:20:24.331240] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.331223] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.331139] [INFO] Configuration loaded
+[2025-11-05T23:20:24.331192] [INFO] Session started
+[2025-11-05T23:20:24.331245] [DEBUG] Thread pool size: 8

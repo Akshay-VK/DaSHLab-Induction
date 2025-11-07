@@ -1,0 +1,31 @@
+[2025-11-05T23:20:30.898172] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.898151] [WARN] Resource threshold approaching
+[2025-11-05T23:20:30.898137] [INFO] Transaction completed
+[2025-11-05T23:20:30.898109] [INFO] Service initialized
+[2025-11-05T23:20:30.898117] [INFO] Transaction completed
+[2025-11-05T23:20:30.898181] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.898219] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.898064] [INFO] User logged in
+[2025-11-05T23:20:30.898121] [INFO] Database query executed
+[2025-11-05T23:20:30.898113] [INFO] Session started
+[2025-11-05T23:20:30.898203] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.898156] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.898167] [ERROR] Network timeout
+[2025-11-05T23:20:30.898104] [INFO] Request processed successfully
+[2025-11-05T23:20:30.898133] [INFO] Transaction completed
+[2025-11-05T23:20:30.898145] [INFO] Service initialized
+[2025-11-05T23:20:30.898100] [INFO] Service initialized
+[2025-11-05T23:20:30.898199] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.898212] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.898207] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.898125] [INFO] Cache hit
+[2025-11-05T23:20:30.898089] [INFO] Session started
+[2025-11-05T23:20:30.898216] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.898095] [INFO] Service initialized
+[2025-11-05T23:20:30.898190] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.898185] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.898194] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.898162] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.898177] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.898129] [INFO] Session started
+[2025-11-05T23:20:30.898141] [INFO] Request processed successfully

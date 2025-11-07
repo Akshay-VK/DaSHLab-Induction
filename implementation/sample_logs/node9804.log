@@ -1,0 +1,30 @@
+[2025-11-05T23:20:53.279529] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.279451] [INFO] Connection established
+[2025-11-05T23:20:53.279468] [INFO] Service initialized
+[2025-11-05T23:20:53.279546] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.279447] [INFO] Request processed successfully
+[2025-11-05T23:20:53.279443] [INFO] Service initialized
+[2025-11-05T23:20:53.279487] [WARN] Queue size growing
+[2025-11-05T23:20:53.279455] [INFO] Service initialized
+[2025-11-05T23:20:53.279492] [WARN] High memory usage detected
+[2025-11-05T23:20:53.279551] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.279555] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.279429] [INFO] Session started
+[2025-11-05T23:20:53.279434] [INFO] Cache hit
+[2025-11-05T23:20:53.279481] [INFO] Database query executed
+[2025-11-05T23:20:53.279476] [INFO] Cache hit
+[2025-11-05T23:20:53.279524] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.279498] [WARN] Cache miss
+[2025-11-05T23:20:53.279519] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.279464] [INFO] Configuration loaded
+[2025-11-05T23:20:53.279533] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.279398] [INFO] Service initialized
+[2025-11-05T23:20:53.279439] [INFO] Service initialized
+[2025-11-05T23:20:53.279537] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.279502] [WARN] Timeout warning
+[2025-11-05T23:20:53.279423] [INFO] Session started
+[2025-11-05T23:20:53.279508] [ERROR] Request failed
+[2025-11-05T23:20:53.279542] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.279513] [ERROR] Service unavailable
+[2025-11-05T23:20:53.279460] [INFO] Request processed successfully
+[2025-11-05T23:20:53.279472] [INFO] Cache hit

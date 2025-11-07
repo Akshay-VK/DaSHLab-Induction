@@ -1,0 +1,35 @@
+[2025-11-05T23:20:28.906808] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.906692] [INFO] Transaction completed
+[2025-11-05T23:20:28.906773] [WARN] Resource threshold approaching
+[2025-11-05T23:20:28.906682] [INFO] Database query executed
+[2025-11-05T23:20:28.906739] [INFO] Session started
+[2025-11-05T23:20:28.906657] [INFO] Request processed successfully
+[2025-11-05T23:20:28.906830] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.906798] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.906825] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.906710] [INFO] Database query executed
+[2025-11-05T23:20:28.906789] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.906731] [INFO] Transaction completed
+[2025-11-05T23:20:28.906816] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.906723] [INFO] Service initialized
+[2025-11-05T23:20:28.906719] [INFO] Session started
+[2025-11-05T23:20:28.906778] [ERROR] Disk read failed
+[2025-11-05T23:20:28.906714] [INFO] Session started
+[2025-11-05T23:20:28.906696] [INFO] User logged in
+[2025-11-05T23:20:28.906793] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.906700] [INFO] User logged in
+[2025-11-05T23:20:28.906803] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.906704] [INFO] Session started
+[2025-11-05T23:20:28.906784] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.906735] [INFO] Transaction completed
+[2025-11-05T23:20:28.906812] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.906753] [INFO] User logged in
+[2025-11-05T23:20:28.906727] [INFO] Configuration loaded
+[2025-11-05T23:20:28.906820] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.906759] [WARN] Cache miss
+[2025-11-05T23:20:28.906687] [INFO] Request processed successfully
+[2025-11-05T23:20:28.906743] [INFO] Service initialized
+[2025-11-05T23:20:28.906768] [WARN] Slow query performance
+[2025-11-05T23:20:28.906764] [WARN] Connection retry attempt
+[2025-11-05T23:20:28.906747] [INFO] Configuration loaded
+[2025-11-05T23:20:28.906834] [DEBUG] Thread pool size: 8

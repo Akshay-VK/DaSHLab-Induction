@@ -1,0 +1,27 @@
+[2025-11-05T23:20:46.399679] [INFO] Session started
+[2025-11-05T23:20:46.399688] [INFO] Database query executed
+[2025-11-05T23:20:46.399754] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.399746] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.399655] [INFO] Connection established
+[2025-11-05T23:20:46.399761] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.399661] [INFO] Health check passed
+[2025-11-05T23:20:46.399702] [INFO] Health check passed
+[2025-11-05T23:20:46.399714] [INFO] Cache hit
+[2025-11-05T23:20:46.399741] [ERROR] Permission denied
+[2025-11-05T23:20:46.399724] [WARN] Connection retry attempt
+[2025-11-05T23:20:46.399737] [ERROR] Database connection lost
+[2025-11-05T23:20:46.399629] [INFO] Service initialized
+[2025-11-05T23:20:46.399675] [INFO] Transaction completed
+[2025-11-05T23:20:46.399765] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.399693] [INFO] Connection established
+[2025-11-05T23:20:46.399732] [WARN] Connection retry attempt
+[2025-11-05T23:20:46.399666] [INFO] Cache hit
+[2025-11-05T23:20:46.399750] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.399729] [WARN] Cache miss
+[2025-11-05T23:20:46.399707] [INFO] Connection established
+[2025-11-05T23:20:46.399671] [INFO] Session started
+[2025-11-05T23:20:46.399719] [WARN] Slow query performance
+[2025-11-05T23:20:46.399758] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.399697] [INFO] Request processed successfully
+[2025-11-05T23:20:46.399711] [INFO] Service initialized
+[2025-11-05T23:20:46.399684] [INFO] Health check passed

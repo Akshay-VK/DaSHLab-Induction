@@ -1,0 +1,30 @@
+[2025-11-05T23:20:52.582587] [INFO] User logged in
+[2025-11-05T23:20:52.582640] [WARN] Deprecated API usage
+[2025-11-05T23:20:52.582570] [INFO] Cache hit
+[2025-11-05T23:20:52.582624] [WARN] Connection retry attempt
+[2025-11-05T23:20:52.582637] [WARN] Connection retry attempt
+[2025-11-05T23:20:52.582583] [INFO] Configuration loaded
+[2025-11-05T23:20:52.582633] [WARN] Deprecated API usage
+[2025-11-05T23:20:52.582598] [INFO] Cache hit
+[2025-11-05T23:20:52.582660] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.582678] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.582645] [ERROR] Database connection lost
+[2025-11-05T23:20:52.582612] [INFO] Session started
+[2025-11-05T23:20:52.582579] [INFO] Database query executed
+[2025-11-05T23:20:52.582664] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.582605] [INFO] Health check passed
+[2025-11-05T23:20:52.582672] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.582649] [ERROR] Disk read failed
+[2025-11-05T23:20:52.582619] [INFO] Cache hit
+[2025-11-05T23:20:52.582668] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.582653] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.582575] [INFO] Database query executed
+[2025-11-05T23:20:52.582609] [INFO] Session started
+[2025-11-05T23:20:52.582629] [WARN] Queue size growing
+[2025-11-05T23:20:52.582657] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.582591] [INFO] Database query executed
+[2025-11-05T23:20:52.582546] [INFO] Request processed successfully
+[2025-11-05T23:20:52.582616] [INFO] Cache hit
+[2025-11-05T23:20:52.582675] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.582594] [INFO] Service initialized
+[2025-11-05T23:20:52.582602] [INFO] Service initialized

@@ -1,0 +1,34 @@
+[2025-11-05T23:20:27.513807] [INFO] Connection established
+[2025-11-05T23:20:27.513913] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.513853] [INFO] User logged in
+[2025-11-05T23:20:27.513879] [WARN] Deprecated API usage
+[2025-11-05T23:20:27.513849] [INFO] Service initialized
+[2025-11-05T23:20:27.513837] [INFO] Cache hit
+[2025-11-05T23:20:27.513874] [INFO] User logged in
+[2025-11-05T23:20:27.513842] [INFO] Cache hit
+[2025-11-05T23:20:27.513777] [INFO] Service initialized
+[2025-11-05T23:20:27.513846] [INFO] Request processed successfully
+[2025-11-05T23:20:27.513816] [INFO] Service initialized
+[2025-11-05T23:20:27.513941] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.513812] [INFO] Health check passed
+[2025-11-05T23:20:27.513865] [INFO] Database query executed
+[2025-11-05T23:20:27.513802] [INFO] Request processed successfully
+[2025-11-05T23:20:27.513821] [INFO] Session started
+[2025-11-05T23:20:27.513870] [INFO] Transaction completed
+[2025-11-05T23:20:27.513929] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.513889] [WARN] Deprecated API usage
+[2025-11-05T23:20:27.513833] [INFO] Cache hit
+[2025-11-05T23:20:27.513908] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.513893] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.513884] [WARN] Slow query performance
+[2025-11-05T23:20:27.513829] [INFO] Health check passed
+[2025-11-05T23:20:27.513925] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.513861] [INFO] Connection established
+[2025-11-05T23:20:27.513921] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.513898] [ERROR] File not found
+[2025-11-05T23:20:27.513917] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.513825] [INFO] Database query executed
+[2025-11-05T23:20:27.513858] [INFO] Connection established
+[2025-11-05T23:20:27.513903] [ERROR] Database connection lost
+[2025-11-05T23:20:27.513933] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.513936] [DEBUG] Memory allocation: 2048 bytes

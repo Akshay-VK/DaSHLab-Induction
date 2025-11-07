@@ -1,0 +1,31 @@
+[2025-11-05T23:20:24.709569] [WARN] Slow query performance
+[2025-11-05T23:20:24.709516] [INFO] Connection established
+[2025-11-05T23:20:24.709620] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.709625] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.709491] [INFO] Session started
+[2025-11-05T23:20:24.709554] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.709565] [WARN] Timeout warning
+[2025-11-05T23:20:24.709525] [INFO] Transaction completed
+[2025-11-05T23:20:24.709502] [INFO] Session started
+[2025-11-05T23:20:24.709601] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.709548] [INFO] Cache hit
+[2025-11-05T23:20:24.709559] [WARN] Resource threshold approaching
+[2025-11-05T23:20:24.709597] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.709629] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.709584] [WARN] Cache miss
+[2025-11-05T23:20:24.709591] [ERROR] Disk read failed
+[2025-11-05T23:20:24.709606] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.709530] [INFO] Connection established
+[2025-11-05T23:20:24.709574] [WARN] Deprecated API usage
+[2025-11-05T23:20:24.709543] [INFO] Transaction completed
+[2025-11-05T23:20:24.709579] [WARN] Timeout warning
+[2025-11-05T23:20:24.709457] [INFO] Transaction completed
+[2025-11-05T23:20:24.709534] [INFO] Service initialized
+[2025-11-05T23:20:24.709521] [INFO] Cache hit
+[2025-11-05T23:20:24.709485] [INFO] Health check passed
+[2025-11-05T23:20:24.709497] [INFO] Transaction completed
+[2025-11-05T23:20:24.709611] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.709507] [INFO] User logged in
+[2025-11-05T23:20:24.709539] [INFO] User logged in
+[2025-11-05T23:20:24.709511] [INFO] Request processed successfully
+[2025-11-05T23:20:24.709615] [DEBUG] Memory allocation: 2048 bytes

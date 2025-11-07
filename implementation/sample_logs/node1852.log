@@ -1,0 +1,37 @@
+[2025-11-05T23:20:20.261950] [WARN] Connection retry attempt
+[2025-11-05T23:20:20.261864] [INFO] Transaction completed
+[2025-11-05T23:20:20.261855] [INFO] Cache hit
+[2025-11-05T23:20:20.261969] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.262048] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.261825] [INFO] Connection established
+[2025-11-05T23:20:20.262040] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.261938] [WARN] Slow query performance
+[2025-11-05T23:20:20.261974] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.261881] [INFO] Service initialized
+[2025-11-05T23:20:20.261959] [ERROR] Database connection lost
+[2025-11-05T23:20:20.261889] [INFO] Cache hit
+[2025-11-05T23:20:20.261885] [INFO] Database query executed
+[2025-11-05T23:20:20.262036] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.261869] [INFO] Transaction completed
+[2025-11-05T23:20:20.261860] [INFO] Session started
+[2025-11-05T23:20:20.261934] [WARN] Cache miss
+[2025-11-05T23:20:20.261893] [INFO] Connection established
+[2025-11-05T23:20:20.262044] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.261946] [WARN] Resource threshold approaching
+[2025-11-05T23:20:20.261921] [WARN] Cache miss
+[2025-11-05T23:20:20.261898] [INFO] Session started
+[2025-11-05T23:20:20.262029] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.261912] [WARN] Disk space low
+[2025-11-05T23:20:20.261906] [INFO] Transaction completed
+[2025-11-05T23:20:20.261978] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.261873] [INFO] Service initialized
+[2025-11-05T23:20:20.261963] [ERROR] Service unavailable
+[2025-11-05T23:20:20.261902] [INFO] Connection established
+[2025-11-05T23:20:20.261849] [INFO] User logged in
+[2025-11-05T23:20:20.261982] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.261916] [WARN] Queue size growing
+[2025-11-05T23:20:20.261877] [INFO] Transaction completed
+[2025-11-05T23:20:20.261926] [WARN] Deprecated API usage
+[2025-11-05T23:20:20.261942] [WARN] Resource threshold approaching
+[2025-11-05T23:20:20.261954] [WARN] Slow query performance
+[2025-11-05T23:20:20.261930] [WARN] Slow query performance

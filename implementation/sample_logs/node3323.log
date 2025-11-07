@@ -1,0 +1,27 @@
+[2025-11-05T23:20:26.497029] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.497014] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.497007] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.497036] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.496964] [INFO] Configuration loaded
+[2025-11-05T23:20:26.497003] [ERROR] Network timeout
+[2025-11-05T23:20:26.497011] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.496999] [ERROR] Authentication failed
+[2025-11-05T23:20:26.496958] [INFO] Session started
+[2025-11-05T23:20:26.497023] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.496991] [WARN] Timeout warning
+[2025-11-05T23:20:26.496949] [INFO] User logged in
+[2025-11-05T23:20:26.496975] [INFO] Request processed successfully
+[2025-11-05T23:20:26.496924] [INFO] Service initialized
+[2025-11-05T23:20:26.496961] [INFO] User logged in
+[2025-11-05T23:20:26.496971] [INFO] Database query executed
+[2025-11-05T23:20:26.496954] [INFO] User logged in
+[2025-11-05T23:20:26.497017] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.496987] [INFO] Health check passed
+[2025-11-05T23:20:26.496984] [INFO] Session started
+[2025-11-05T23:20:26.497020] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.496981] [INFO] Connection established
+[2025-11-05T23:20:26.496968] [INFO] Database query executed
+[2025-11-05T23:20:26.497026] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.497033] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.496978] [INFO] Request processed successfully
+[2025-11-05T23:20:26.496995] [WARN] Deprecated API usage

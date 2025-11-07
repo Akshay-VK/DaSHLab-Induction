@@ -1,0 +1,35 @@
+[2025-11-05T23:20:49.530868] [ERROR] Memory allocation error
+[2025-11-05T23:20:49.530846] [WARN] Timeout warning
+[2025-11-05T23:20:49.530825] [INFO] Cache hit
+[2025-11-05T23:20:49.530785] [INFO] Configuration loaded
+[2025-11-05T23:20:49.530897] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.530812] [INFO] Service initialized
+[2025-11-05T23:20:49.530750] [INFO] Connection established
+[2025-11-05T23:20:49.530909] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.530851] [WARN] Queue size growing
+[2025-11-05T23:20:49.530837] [WARN] Slow query performance
+[2025-11-05T23:20:49.530795] [INFO] Session started
+[2025-11-05T23:20:49.530883] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.530808] [INFO] Health check passed
+[2025-11-05T23:20:49.530913] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:49.530804] [INFO] Connection established
+[2025-11-05T23:20:49.530831] [WARN] High memory usage detected
+[2025-11-05T23:20:49.530817] [INFO] Transaction completed
+[2025-11-05T23:20:49.530780] [INFO] Service initialized
+[2025-11-05T23:20:49.530863] [WARN] Cache miss
+[2025-11-05T23:20:49.530790] [INFO] Transaction completed
+[2025-11-05T23:20:49.530927] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.530873] [ERROR] Network timeout
+[2025-11-05T23:20:49.530842] [WARN] Queue size growing
+[2025-11-05T23:20:49.530917] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.530905] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:49.530855] [WARN] Rate limit approaching
+[2025-11-05T23:20:49.530821] [INFO] Cache hit
+[2025-11-05T23:20:49.530901] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.530859] [WARN] Resource threshold approaching
+[2025-11-05T23:20:49.530922] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.530892] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.530800] [INFO] Database query executed
+[2025-11-05T23:20:49.530773] [INFO] Health check passed
+[2025-11-05T23:20:49.530877] [ERROR] Permission denied
+[2025-11-05T23:20:49.530888] [DEBUG] Variable value: x=42

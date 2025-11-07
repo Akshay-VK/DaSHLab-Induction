@@ -1,0 +1,26 @@
+[2025-11-05T23:20:28.064870] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.064862] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.064801] [INFO] Connection established
+[2025-11-05T23:20:28.064812] [INFO] Connection established
+[2025-11-05T23:20:28.064819] [INFO] Transaction completed
+[2025-11-05T23:20:28.064853] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.064749] [INFO] Service initialized
+[2025-11-05T23:20:28.064797] [INFO] Service initialized
+[2025-11-05T23:20:28.064865] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.064831] [WARN] Connection retry attempt
+[2025-11-05T23:20:28.064772] [INFO] Cache hit
+[2025-11-05T23:20:28.064815] [INFO] Transaction completed
+[2025-11-05T23:20:28.064844] [ERROR] File not found
+[2025-11-05T23:20:28.064839] [WARN] Rate limit approaching
+[2025-11-05T23:20:28.064849] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.064827] [WARN] Rate limit approaching
+[2025-11-05T23:20:28.064789] [INFO] User logged in
+[2025-11-05T23:20:28.064805] [INFO] Transaction completed
+[2025-11-05T23:20:28.064785] [INFO] Configuration loaded
+[2025-11-05T23:20:28.064835] [WARN] Deprecated API usage
+[2025-11-05T23:20:28.064781] [INFO] User logged in
+[2025-11-05T23:20:28.064857] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.064777] [INFO] Cache hit
+[2025-11-05T23:20:28.064822] [INFO] User logged in
+[2025-11-05T23:20:28.064808] [INFO] Service initialized
+[2025-11-05T23:20:28.064793] [INFO] Database query executed

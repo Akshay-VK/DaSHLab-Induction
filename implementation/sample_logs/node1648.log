@@ -1,0 +1,36 @@
+[2025-11-05T23:20:19.511085] [WARN] Disk space low
+[2025-11-05T23:20:19.511172] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.511095] [WARN] High memory usage detected
+[2025-11-05T23:20:19.511062] [INFO] User logged in
+[2025-11-05T23:20:19.511091] [WARN] Slow query performance
+[2025-11-05T23:20:19.511151] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.511128] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.511146] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.511187] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.511017] [INFO] User logged in
+[2025-11-05T23:20:19.511010] [INFO] Request processed successfully
+[2025-11-05T23:20:19.511177] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.511117] [ERROR] Disk read failed
+[2025-11-05T23:20:19.511070] [INFO] Service initialized
+[2025-11-05T23:20:19.511105] [WARN] Disk space low
+[2025-11-05T23:20:19.511079] [INFO] Connection established
+[2025-11-05T23:20:19.511042] [INFO] Session started
+[2025-11-05T23:20:19.511156] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.511140] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.511066] [INFO] Transaction completed
+[2025-11-05T23:20:19.511027] [INFO] Connection established
+[2025-11-05T23:20:19.511037] [INFO] Database query executed
+[2025-11-05T23:20:19.511111] [ERROR] Network timeout
+[2025-11-05T23:20:19.511161] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.511032] [INFO] User logged in
+[2025-11-05T23:20:19.510983] [INFO] Cache hit
+[2025-11-05T23:20:19.511167] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.511123] [ERROR] Request failed
+[2025-11-05T23:20:19.511022] [INFO] Database query executed
+[2025-11-05T23:20:19.511075] [INFO] Connection established
+[2025-11-05T23:20:19.511101] [WARN] Slow query performance
+[2025-11-05T23:20:19.511056] [INFO] Transaction completed
+[2025-11-05T23:20:19.511046] [INFO] Transaction completed
+[2025-11-05T23:20:19.511183] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.511051] [INFO] Health check passed
+[2025-11-05T23:20:19.511134] [DEBUG] Loop iteration: 15

@@ -1,0 +1,34 @@
+[2025-11-05T23:20:20.798863] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.798834] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.798829] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.798867] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.798800] [WARN] Resource threshold approaching
+[2025-11-05T23:20:20.798825] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.798844] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.798805] [ERROR] Network timeout
+[2025-11-05T23:20:20.798796] [WARN] Slow query performance
+[2025-11-05T23:20:20.798848] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.798853] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.798815] [ERROR] Network timeout
+[2025-11-05T23:20:20.798738] [INFO] Health check passed
+[2025-11-05T23:20:20.798773] [INFO] Database query executed
+[2025-11-05T23:20:20.798748] [INFO] Health check passed
+[2025-11-05T23:20:20.798810] [ERROR] File not found
+[2025-11-05T23:20:20.798723] [INFO] Transaction completed
+[2025-11-05T23:20:20.798756] [INFO] Health check passed
+[2025-11-05T23:20:20.798785] [INFO] User logged in
+[2025-11-05T23:20:20.798752] [INFO] Configuration loaded
+[2025-11-05T23:20:20.798857] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.798820] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.798871] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.798761] [INFO] Connection established
+[2025-11-05T23:20:20.798729] [INFO] Connection established
+[2025-11-05T23:20:20.798781] [INFO] Transaction completed
+[2025-11-05T23:20:20.798734] [INFO] Request processed successfully
+[2025-11-05T23:20:20.798769] [INFO] Cache hit
+[2025-11-05T23:20:20.798765] [INFO] Database query executed
+[2025-11-05T23:20:20.798791] [WARN] Timeout warning
+[2025-11-05T23:20:20.798699] [INFO] Connection established
+[2025-11-05T23:20:20.798743] [INFO] Health check passed
+[2025-11-05T23:20:20.798839] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.798777] [INFO] Health check passed

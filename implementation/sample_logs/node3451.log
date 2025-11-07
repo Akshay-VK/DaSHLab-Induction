@@ -1,0 +1,36 @@
+[2025-11-05T23:20:27.465559] [INFO] Session started
+[2025-11-05T23:20:27.465613] [WARN] Cache miss
+[2025-11-05T23:20:27.465563] [INFO] User logged in
+[2025-11-05T23:20:27.465493] [INFO] Session started
+[2025-11-05T23:20:27.465587] [INFO] Connection established
+[2025-11-05T23:20:27.465620] [ERROR] Memory allocation error
+[2025-11-05T23:20:27.465628] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.465631] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:27.465590] [INFO] Database query executed
+[2025-11-05T23:20:27.465572] [INFO] User logged in
+[2025-11-05T23:20:27.465544] [INFO] Health check passed
+[2025-11-05T23:20:27.465549] [INFO] Health check passed
+[2025-11-05T23:20:27.465637] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.465643] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.465603] [WARN] Timeout warning
+[2025-11-05T23:20:27.465640] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.465607] [WARN] Rate limit approaching
+[2025-11-05T23:20:27.465575] [INFO] Service initialized
+[2025-11-05T23:20:27.465569] [INFO] Service initialized
+[2025-11-05T23:20:27.465566] [INFO] Transaction completed
+[2025-11-05T23:20:27.465581] [INFO] Database query executed
+[2025-11-05T23:20:27.465610] [WARN] Timeout warning
+[2025-11-05T23:20:27.465553] [INFO] Session started
+[2025-11-05T23:20:27.465599] [INFO] Configuration loaded
+[2025-11-05T23:20:27.465649] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.465518] [INFO] Connection established
+[2025-11-05T23:20:27.465556] [INFO] Health check passed
+[2025-11-05T23:20:27.465646] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.465616] [WARN] Disk space low
+[2025-11-05T23:20:27.465596] [INFO] Cache hit
+[2025-11-05T23:20:27.465579] [INFO] Database query executed
+[2025-11-05T23:20:27.465652] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.465634] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.465584] [INFO] Configuration loaded
+[2025-11-05T23:20:27.465593] [INFO] Connection established
+[2025-11-05T23:20:27.465624] [ERROR] File not found

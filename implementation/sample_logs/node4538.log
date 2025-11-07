@@ -1,0 +1,27 @@
+[2025-11-05T23:20:31.823681] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.823638] [INFO] Cache hit
+[2025-11-05T23:20:31.823658] [ERROR] Memory allocation error
+[2025-11-05T23:20:31.823626] [INFO] Connection established
+[2025-11-05T23:20:31.823611] [INFO] Request processed successfully
+[2025-11-05T23:20:31.823603] [INFO] Configuration loaded
+[2025-11-05T23:20:31.823673] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.823599] [INFO] Connection established
+[2025-11-05T23:20:31.823652] [WARN] Deprecated API usage
+[2025-11-05T23:20:31.823646] [WARN] Resource threshold approaching
+[2025-11-05T23:20:31.823622] [INFO] Connection established
+[2025-11-05T23:20:31.823594] [INFO] Session started
+[2025-11-05T23:20:31.823615] [INFO] User logged in
+[2025-11-05T23:20:31.823695] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.823607] [INFO] Cache hit
+[2025-11-05T23:20:31.823618] [INFO] Cache hit
+[2025-11-05T23:20:31.823664] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.823564] [INFO] Configuration loaded
+[2025-11-05T23:20:31.823687] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.823677] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.823634] [INFO] Request processed successfully
+[2025-11-05T23:20:31.823699] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.823691] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:31.823641] [INFO] Connection established
+[2025-11-05T23:20:31.823630] [INFO] Database query executed
+[2025-11-05T23:20:31.823589] [INFO] User logged in
+[2025-11-05T23:20:31.823669] [DEBUG] Thread pool size: 8

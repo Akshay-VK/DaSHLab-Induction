@@ -1,0 +1,29 @@
+[2025-11-05T23:20:15.548227] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.548203] [INFO] Cache hit
+[2025-11-05T23:20:15.548237] [WARN] Timeout warning
+[2025-11-05T23:20:15.548134] [INFO] Service initialized
+[2025-11-05T23:20:15.548185] [INFO] Configuration loaded
+[2025-11-05T23:20:15.548176] [INFO] Cache hit
+[2025-11-05T23:20:15.548167] [INFO] Session started
+[2025-11-05T23:20:15.548278] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.548190] [INFO] Database query executed
+[2025-11-05T23:20:15.548258] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.548284] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.548172] [INFO] Transaction completed
+[2025-11-05T23:20:15.548232] [WARN] Slow query performance
+[2025-11-05T23:20:15.548216] [INFO] Database query executed
+[2025-11-05T23:20:15.548263] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.548273] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.548269] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.548161] [INFO] Configuration loaded
+[2025-11-05T23:20:15.548294] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.548252] [ERROR] Disk read failed
+[2025-11-05T23:20:15.548289] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.548242] [WARN] Slow query performance
+[2025-11-05T23:20:15.548199] [INFO] Health check passed
+[2025-11-05T23:20:15.548212] [INFO] Transaction completed
+[2025-11-05T23:20:15.548221] [INFO] User logged in
+[2025-11-05T23:20:15.548207] [INFO] Session started
+[2025-11-05T23:20:15.548194] [INFO] Request processed successfully
+[2025-11-05T23:20:15.548181] [INFO] Transaction completed
+[2025-11-05T23:20:15.548247] [ERROR] Permission denied

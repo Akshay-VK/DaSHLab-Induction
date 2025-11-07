@@ -1,0 +1,35 @@
+[2025-11-05T23:20:26.598552] [WARN] Disk space low
+[2025-11-05T23:20:26.598615] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.598485] [INFO] Service initialized
+[2025-11-05T23:20:26.598491] [INFO] Cache hit
+[2025-11-05T23:20:26.598576] [WARN] Slow query performance
+[2025-11-05T23:20:26.598589] [ERROR] Permission denied
+[2025-11-05T23:20:26.598500] [INFO] Health check passed
+[2025-11-05T23:20:26.598564] [WARN] High memory usage detected
+[2025-11-05T23:20:26.598515] [INFO] Session started
+[2025-11-05T23:20:26.598572] [WARN] Slow query performance
+[2025-11-05T23:20:26.598607] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.598496] [INFO] Database query executed
+[2025-11-05T23:20:26.598579] [WARN] Slow query performance
+[2025-11-05T23:20:26.598508] [INFO] User logged in
+[2025-11-05T23:20:26.598619] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.598539] [INFO] Health check passed
+[2025-11-05T23:20:26.598535] [INFO] Database query executed
+[2025-11-05T23:20:26.598556] [WARN] Cache miss
+[2025-11-05T23:20:26.598457] [INFO] Request processed successfully
+[2025-11-05T23:20:26.598512] [INFO] Database query executed
+[2025-11-05T23:20:26.598542] [INFO] Transaction completed
+[2025-11-05T23:20:26.598611] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.598598] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.598519] [INFO] Service initialized
+[2025-11-05T23:20:26.598527] [INFO] Configuration loaded
+[2025-11-05T23:20:26.598547] [WARN] Cache miss
+[2025-11-05T23:20:26.598531] [INFO] Database query executed
+[2025-11-05T23:20:26.598568] [WARN] Deprecated API usage
+[2025-11-05T23:20:26.598622] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.598585] [ERROR] Permission denied
+[2025-11-05T23:20:26.598603] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.598504] [INFO] Service initialized
+[2025-11-05T23:20:26.598560] [WARN] High memory usage detected
+[2025-11-05T23:20:26.598593] [ERROR] Disk read failed
+[2025-11-05T23:20:26.598523] [INFO] Health check passed

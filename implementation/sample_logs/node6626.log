@@ -1,0 +1,29 @@
+[2025-11-05T23:20:40.089599] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.089576] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.089581] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.089604] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.089504] [INFO] User logged in
+[2025-11-05T23:20:40.089523] [WARN] Cache miss
+[2025-11-05T23:20:40.089519] [WARN] Queue size growing
+[2025-11-05T23:20:40.089492] [INFO] Transaction completed
+[2025-11-05T23:20:40.089512] [INFO] Configuration loaded
+[2025-11-05T23:20:40.089570] [ERROR] Permission denied
+[2025-11-05T23:20:40.089459] [INFO] Service initialized
+[2025-11-05T23:20:40.089500] [INFO] Configuration loaded
+[2025-11-05T23:20:40.089479] [INFO] Configuration loaded
+[2025-11-05T23:20:40.089389] [INFO] Database query executed
+[2025-11-05T23:20:40.089483] [INFO] Database query executed
+[2025-11-05T23:20:40.089487] [INFO] Transaction completed
+[2025-11-05T23:20:40.089613] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.089586] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.089474] [INFO] Request processed successfully
+[2025-11-05T23:20:40.089528] [WARN] Deprecated API usage
+[2025-11-05T23:20:40.089496] [INFO] Health check passed
+[2025-11-05T23:20:40.089608] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.089470] [INFO] Session started
+[2025-11-05T23:20:40.089453] [INFO] Transaction completed
+[2025-11-05T23:20:40.089590] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.089595] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.089465] [INFO] Session started
+[2025-11-05T23:20:40.089562] [WARN] Queue size growing
+[2025-11-05T23:20:40.089508] [INFO] Transaction completed

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:22.882632] [INFO] Connection established
+[2025-11-05T23:20:22.882644] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.882671] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.882691] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.882677] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.882652] [WARN] Timeout warning
+[2025-11-05T23:20:22.882698] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.882681] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.882622] [INFO] Session started
+[2025-11-05T23:20:22.882594] [INFO] Connection established
+[2025-11-05T23:20:22.882657] [ERROR] Invalid input data
+[2025-11-05T23:20:22.882611] [INFO] Service initialized
+[2025-11-05T23:20:22.882636] [INFO] Request processed successfully
+[2025-11-05T23:20:22.882639] [INFO] User logged in
+[2025-11-05T23:20:22.882599] [INFO] Transaction completed
+[2025-11-05T23:20:22.882665] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.882674] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.882684] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.882625] [INFO] User logged in
+[2025-11-05T23:20:22.882603] [INFO] Health check passed
+[2025-11-05T23:20:22.882661] [ERROR] Service unavailable
+[2025-11-05T23:20:22.882648] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.882568] [INFO] Service initialized
+[2025-11-05T23:20:22.882629] [INFO] Connection established
+[2025-11-05T23:20:22.882607] [INFO] User logged in
+[2025-11-05T23:20:22.882687] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.882694] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.882618] [INFO] Cache hit
+[2025-11-05T23:20:22.882615] [INFO] Request processed successfully

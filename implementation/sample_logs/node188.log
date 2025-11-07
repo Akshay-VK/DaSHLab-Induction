@@ -1,0 +1,30 @@
+[2025-11-05T23:20:12.659973] [INFO] User logged in
+[2025-11-05T23:20:12.659968] [INFO] Cache hit
+[2025-11-05T23:20:12.660073] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:12.659978] [INFO] Configuration loaded
+[2025-11-05T23:20:12.659983] [INFO] Request processed successfully
+[2025-11-05T23:20:12.660017] [INFO] Cache hit
+[2025-11-05T23:20:12.660091] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:12.659957] [INFO] Request processed successfully
+[2025-11-05T23:20:12.660082] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:12.660053] [ERROR] Memory allocation error
+[2025-11-05T23:20:12.660023] [WARN] High memory usage detected
+[2025-11-05T23:20:12.659929] [INFO] Configuration loaded
+[2025-11-05T23:20:12.660086] [DEBUG] Cache key generated
+[2025-11-05T23:20:12.660009] [INFO] Cache hit
+[2025-11-05T23:20:12.660059] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:12.659991] [INFO] Transaction completed
+[2025-11-05T23:20:12.660048] [ERROR] Service unavailable
+[2025-11-05T23:20:12.660042] [WARN] Resource threshold approaching
+[2025-11-05T23:20:12.660078] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:12.660069] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.660064] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:12.660000] [INFO] Configuration loaded
+[2025-11-05T23:20:12.660005] [INFO] Cache hit
+[2025-11-05T23:20:12.660037] [WARN] Timeout warning
+[2025-11-05T23:20:12.660013] [INFO] Transaction completed
+[2025-11-05T23:20:12.660033] [WARN] High memory usage detected
+[2025-11-05T23:20:12.659963] [INFO] Database query executed
+[2025-11-05T23:20:12.660028] [WARN] Rate limit approaching
+[2025-11-05T23:20:12.659996] [INFO] Database query executed
+[2025-11-05T23:20:12.659987] [INFO] Request processed successfully

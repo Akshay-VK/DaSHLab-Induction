@@ -1,0 +1,26 @@
+[2025-11-05T23:20:19.759385] [INFO] Session started
+[2025-11-05T23:20:19.759464] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.759450] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.759435] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.759349] [INFO] Request processed successfully
+[2025-11-05T23:20:19.759394] [INFO] User logged in
+[2025-11-05T23:20:19.759440] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.759389] [INFO] Service initialized
+[2025-11-05T23:20:19.759400] [WARN] Queue size growing
+[2025-11-05T23:20:19.759411] [WARN] Cache miss
+[2025-11-05T23:20:19.759406] [WARN] Timeout warning
+[2025-11-05T23:20:19.759429] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.759380] [INFO] Connection established
+[2025-11-05T23:20:19.759445] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.759355] [INFO] Cache hit
+[2025-11-05T23:20:19.759455] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.759422] [ERROR] Memory allocation error
+[2025-11-05T23:20:19.759343] [INFO] Session started
+[2025-11-05T23:20:19.759375] [INFO] User logged in
+[2025-11-05T23:20:19.759365] [INFO] Connection established
+[2025-11-05T23:20:19.759470] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.759317] [INFO] Request processed successfully
+[2025-11-05T23:20:19.759359] [INFO] Request processed successfully
+[2025-11-05T23:20:19.759417] [WARN] Rate limit approaching
+[2025-11-05T23:20:19.759460] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.759370] [INFO] Request processed successfully

@@ -1,0 +1,27 @@
+[2025-11-05T23:20:19.565898] [INFO] User logged in
+[2025-11-05T23:20:19.565950] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.565954] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.565971] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.565895] [INFO] Transaction completed
+[2025-11-05T23:20:19.565946] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.565943] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.565850] [INFO] Session started
+[2025-11-05T23:20:19.565878] [INFO] Database query executed
+[2025-11-05T23:20:19.565887] [INFO] Configuration loaded
+[2025-11-05T23:20:19.565934] [ERROR] Permission denied
+[2025-11-05T23:20:19.565964] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.565913] [INFO] Cache hit
+[2025-11-05T23:20:19.565939] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.565957] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.565916] [INFO] Transaction completed
+[2025-11-05T23:20:19.565882] [INFO] Connection established
+[2025-11-05T23:20:19.565909] [INFO] Service initialized
+[2025-11-05T23:20:19.565902] [INFO] Session started
+[2025-11-05T23:20:19.565874] [INFO] Health check passed
+[2025-11-05T23:20:19.565961] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.565891] [INFO] Configuration loaded
+[2025-11-05T23:20:19.565920] [INFO] Service initialized
+[2025-11-05T23:20:19.565930] [ERROR] Disk read failed
+[2025-11-05T23:20:19.565925] [WARN] Slow query performance
+[2025-11-05T23:20:19.565968] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.565906] [INFO] Configuration loaded

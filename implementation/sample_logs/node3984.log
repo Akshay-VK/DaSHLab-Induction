@@ -1,0 +1,30 @@
+[2025-11-05T23:20:29.606503] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.606490] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.606495] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.606363] [INFO] Service initialized
+[2025-11-05T23:20:29.606507] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.606410] [INFO] User logged in
+[2025-11-05T23:20:29.606406] [INFO] Session started
+[2025-11-05T23:20:29.606437] [WARN] Cache miss
+[2025-11-05T23:20:29.606425] [INFO] Cache hit
+[2025-11-05T23:20:29.606499] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.606313] [INFO] Service initialized
+[2025-11-05T23:20:29.606481] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.606396] [INFO] Health check passed
+[2025-11-05T23:20:29.606359] [INFO] Session started
+[2025-11-05T23:20:29.606354] [INFO] Transaction completed
+[2025-11-05T23:20:29.606430] [INFO] Health check passed
+[2025-11-05T23:20:29.606486] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.606449] [WARN] High memory usage detected
+[2025-11-05T23:20:29.606346] [INFO] Connection established
+[2025-11-05T23:20:29.606470] [ERROR] Disk read failed
+[2025-11-05T23:20:29.606443] [WARN] Queue size growing
+[2025-11-05T23:20:29.606512] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.606465] [ERROR] Memory allocation error
+[2025-11-05T23:20:29.606340] [INFO] Cache hit
+[2025-11-05T23:20:29.606459] [WARN] Slow query performance
+[2025-11-05T23:20:29.606415] [INFO] Session started
+[2025-11-05T23:20:29.606421] [INFO] Configuration loaded
+[2025-11-05T23:20:29.606350] [INFO] Connection established
+[2025-11-05T23:20:29.606455] [WARN] Disk space low
+[2025-11-05T23:20:29.606477] [DEBUG] Thread pool size: 8

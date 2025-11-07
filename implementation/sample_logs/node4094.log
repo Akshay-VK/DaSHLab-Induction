@@ -1,0 +1,29 @@
+[2025-11-05T23:20:30.026260] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.026297] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.026317] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.026218] [INFO] Transaction completed
+[2025-11-05T23:20:30.026325] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.026307] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.026232] [INFO] Service initialized
+[2025-11-05T23:20:30.026202] [INFO] Connection established
+[2025-11-05T23:20:30.026292] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.026270] [ERROR] Authentication failed
+[2025-11-05T23:20:30.026174] [INFO] Request processed successfully
+[2025-11-05T23:20:30.026223] [INFO] Configuration loaded
+[2025-11-05T23:20:30.026264] [WARN] High memory usage detected
+[2025-11-05T23:20:30.026321] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.026286] [ERROR] Database connection lost
+[2025-11-05T23:20:30.026236] [INFO] Configuration loaded
+[2025-11-05T23:20:30.026276] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.026255] [WARN] Disk space low
+[2025-11-05T23:20:30.026302] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.026334] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.026329] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.026249] [INFO] Configuration loaded
+[2025-11-05T23:20:30.026313] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.026240] [INFO] Cache hit
+[2025-11-05T23:20:30.026208] [INFO] Service initialized
+[2025-11-05T23:20:30.026227] [INFO] Configuration loaded
+[2025-11-05T23:20:30.026281] [ERROR] Authentication failed
+[2025-11-05T23:20:30.026245] [INFO] Service initialized
+[2025-11-05T23:20:30.026213] [INFO] Cache hit

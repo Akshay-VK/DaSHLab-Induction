@@ -1,0 +1,31 @@
+[2025-11-05T23:20:14.350125] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.350096] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.350063] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.350029] [INFO] Cache hit
+[2025-11-05T23:20:14.350007] [INFO] Connection established
+[2025-11-05T23:20:14.350042] [INFO] Session started
+[2025-11-05T23:20:14.350058] [INFO] Health check passed
+[2025-11-05T23:20:14.350025] [INFO] User logged in
+[2025-11-05T23:20:14.350016] [INFO] Request processed successfully
+[2025-11-05T23:20:14.350112] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.350034] [INFO] User logged in
+[2025-11-05T23:20:14.350047] [INFO] Database query executed
+[2025-11-05T23:20:14.350051] [INFO] Connection established
+[2025-11-05T23:20:14.350012] [INFO] Configuration loaded
+[2025-11-05T23:20:14.350002] [INFO] Database query executed
+[2025-11-05T23:20:14.350068] [WARN] Queue size growing
+[2025-11-05T23:20:14.350072] [WARN] High memory usage detected
+[2025-11-05T23:20:14.350077] [WARN] Disk space low
+[2025-11-05T23:20:14.350109] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.350021] [INFO] Transaction completed
+[2025-11-05T23:20:14.350083] [ERROR] File not found
+[2025-11-05T23:20:14.350054] [INFO] Session started
+[2025-11-05T23:20:14.350121] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.350091] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.350038] [INFO] Health check passed
+[2025-11-05T23:20:14.350117] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.350100] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.350105] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.350087] [ERROR] Database connection lost
+[2025-11-05T23:20:14.349970] [INFO] Database query executed
+[2025-11-05T23:20:14.349996] [INFO] Configuration loaded

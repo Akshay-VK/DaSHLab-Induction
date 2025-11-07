@@ -1,0 +1,30 @@
+[2025-11-05T23:20:30.166227] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.166214] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.166161] [INFO] Cache hit
+[2025-11-05T23:20:30.166209] [ERROR] Permission denied
+[2025-11-05T23:20:30.166232] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.166078] [INFO] Transaction completed
+[2025-11-05T23:20:30.166148] [INFO] Service initialized
+[2025-11-05T23:20:30.166152] [INFO] Connection established
+[2025-11-05T23:20:30.166188] [WARN] Slow query performance
+[2025-11-05T23:20:30.166129] [INFO] Session started
+[2025-11-05T23:20:30.166105] [INFO] Database query executed
+[2025-11-05T23:20:30.166183] [WARN] Rate limit approaching
+[2025-11-05T23:20:30.166237] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.166138] [INFO] Connection established
+[2025-11-05T23:20:30.166199] [ERROR] File not found
+[2025-11-05T23:20:30.166241] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.166143] [INFO] User logged in
+[2025-11-05T23:20:30.166111] [INFO] Configuration loaded
+[2025-11-05T23:20:30.166116] [INFO] Transaction completed
+[2025-11-05T23:20:30.166134] [INFO] Session started
+[2025-11-05T23:20:30.166120] [INFO] Configuration loaded
+[2025-11-05T23:20:30.166156] [INFO] Session started
+[2025-11-05T23:20:30.166170] [INFO] Service initialized
+[2025-11-05T23:20:30.166176] [WARN] Queue size growing
+[2025-11-05T23:20:30.166125] [INFO] Session started
+[2025-11-05T23:20:30.166193] [WARN] Disk space low
+[2025-11-05T23:20:30.166223] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.166166] [INFO] Connection established
+[2025-11-05T23:20:30.166219] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.166204] [ERROR] Authentication failed

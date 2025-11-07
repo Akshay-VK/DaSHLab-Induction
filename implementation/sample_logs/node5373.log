@@ -1,0 +1,31 @@
+[2025-11-05T23:20:34.987051] [WARN] Queue size growing
+[2025-11-05T23:20:34.987011] [INFO] Configuration loaded
+[2025-11-05T23:20:34.986978] [INFO] Session started
+[2025-11-05T23:20:34.987021] [INFO] Session started
+[2025-11-05T23:20:34.987030] [INFO] User logged in
+[2025-11-05T23:20:34.987043] [INFO] Request processed successfully
+[2025-11-05T23:20:34.987229] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.986993] [INFO] Database query executed
+[2025-11-05T23:20:34.987207] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.987198] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.987026] [INFO] Cache hit
+[2025-11-05T23:20:34.987034] [INFO] User logged in
+[2025-11-05T23:20:34.987039] [INFO] Request processed successfully
+[2025-11-05T23:20:34.986988] [INFO] Session started
+[2025-11-05T23:20:34.987016] [INFO] Cache hit
+[2025-11-05T23:20:34.986937] [INFO] Configuration loaded
+[2025-11-05T23:20:34.987220] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.987069] [ERROR] Database connection lost
+[2025-11-05T23:20:34.987057] [WARN] Queue size growing
+[2025-11-05T23:20:34.987203] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.987179] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.986998] [INFO] Transaction completed
+[2025-11-05T23:20:34.987193] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.986984] [INFO] Health check passed
+[2025-11-05T23:20:34.987211] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.987003] [INFO] Session started
+[2025-11-05T23:20:34.987224] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.987007] [INFO] Configuration loaded
+[2025-11-05T23:20:34.987063] [ERROR] Service unavailable
+[2025-11-05T23:20:34.987215] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.987233] [DEBUG] Loop iteration: 15

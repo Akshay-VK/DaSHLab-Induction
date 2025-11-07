@@ -1,0 +1,29 @@
+[2025-11-05T23:20:41.008556] [INFO] User logged in
+[2025-11-05T23:20:41.008619] [WARN] Disk space low
+[2025-11-05T23:20:41.008614] [WARN] Disk space low
+[2025-11-05T23:20:41.008665] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.008589] [INFO] User logged in
+[2025-11-05T23:20:41.008655] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.008508] [INFO] User logged in
+[2025-11-05T23:20:41.008645] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.008575] [INFO] Request processed successfully
+[2025-11-05T23:20:41.008598] [INFO] Database query executed
+[2025-11-05T23:20:41.008560] [INFO] Request processed successfully
+[2025-11-05T23:20:41.008608] [WARN] Timeout warning
+[2025-11-05T23:20:41.008625] [ERROR] Network timeout
+[2025-11-05T23:20:41.008584] [INFO] Session started
+[2025-11-05T23:20:41.008659] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.008535] [INFO] Session started
+[2025-11-05T23:20:41.008570] [INFO] Service initialized
+[2025-11-05T23:20:41.008650] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.008641] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.008603] [INFO] Connection established
+[2025-11-05T23:20:41.008594] [INFO] Connection established
+[2025-11-05T23:20:41.008636] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.008580] [INFO] User logged in
+[2025-11-05T23:20:41.008551] [INFO] Health check passed
+[2025-11-05T23:20:41.008546] [INFO] Configuration loaded
+[2025-11-05T23:20:41.008669] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.008566] [INFO] Configuration loaded
+[2025-11-05T23:20:41.008542] [INFO] Health check passed
+[2025-11-05T23:20:41.008631] [DEBUG] Timer set: 30 seconds

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:23.346014] [INFO] Connection established
+[2025-11-05T23:20:23.345989] [INFO] Connection established
+[2025-11-05T23:20:23.346163] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.346033] [INFO] User logged in
+[2025-11-05T23:20:23.346158] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.346038] [INFO] Service initialized
+[2025-11-05T23:20:23.346148] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.346019] [INFO] Service initialized
+[2025-11-05T23:20:23.346023] [INFO] Session started
+[2025-11-05T23:20:23.346009] [INFO] Configuration loaded
+[2025-11-05T23:20:23.346028] [INFO] User logged in
+[2025-11-05T23:20:23.345949] [INFO] Configuration loaded
+[2025-11-05T23:20:23.346004] [INFO] Connection established
+[2025-11-05T23:20:23.345983] [INFO] Session started
+[2025-11-05T23:20:23.345976] [INFO] Service initialized
+[2025-11-05T23:20:23.346177] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.346143] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.346000] [INFO] User logged in
+[2025-11-05T23:20:23.346052] [INFO] User logged in
+[2025-11-05T23:20:23.346059] [WARN] Cache miss
+[2025-11-05T23:20:23.346043] [INFO] Cache hit
+[2025-11-05T23:20:23.346122] [ERROR] Network timeout
+[2025-11-05T23:20:23.346048] [INFO] Cache hit
+[2025-11-05T23:20:23.346138] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.346110] [WARN] Timeout warning
+[2025-11-05T23:20:23.346153] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.346168] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.345994] [INFO] Database query executed
+[2025-11-05T23:20:23.346173] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:23.346132] [ERROR] Database connection lost
+[2025-11-05T23:20:23.346127] [ERROR] Network timeout

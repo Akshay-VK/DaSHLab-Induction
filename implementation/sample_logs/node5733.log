@@ -1,0 +1,30 @@
+[2025-11-05T23:20:36.263285] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.263293] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.263281] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.263236] [WARN] Timeout warning
+[2025-11-05T23:20:36.263250] [ERROR] Network timeout
+[2025-11-05T23:20:36.263241] [WARN] Slow query performance
+[2025-11-05T23:20:36.263245] [WARN] Queue size growing
+[2025-11-05T23:20:36.263212] [INFO] Connection established
+[2025-11-05T23:20:36.263170] [INFO] Transaction completed
+[2025-11-05T23:20:36.263182] [INFO] Connection established
+[2025-11-05T23:20:36.263192] [INFO] Request processed successfully
+[2025-11-05T23:20:36.263267] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.263227] [INFO] User logged in
+[2025-11-05T23:20:36.263203] [INFO] Configuration loaded
+[2025-11-05T23:20:36.263254] [ERROR] Service unavailable
+[2025-11-05T23:20:36.263176] [INFO] User logged in
+[2025-11-05T23:20:36.263232] [WARN] Cache miss
+[2025-11-05T23:20:36.263144] [INFO] User logged in
+[2025-11-05T23:20:36.263216] [INFO] Service initialized
+[2025-11-05T23:20:36.263195] [INFO] Session started
+[2025-11-05T23:20:36.263199] [INFO] Transaction completed
+[2025-11-05T23:20:36.263187] [INFO] User logged in
+[2025-11-05T23:20:36.263208] [INFO] Request processed successfully
+[2025-11-05T23:20:36.263263] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.263271] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.263289] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.263275] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.263223] [INFO] Connection established
+[2025-11-05T23:20:36.263259] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.263219] [INFO] Cache hit

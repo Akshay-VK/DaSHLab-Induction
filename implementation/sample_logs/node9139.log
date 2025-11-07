@@ -1,0 +1,31 @@
+[2025-11-05T23:20:50.362289] [INFO] Request processed successfully
+[2025-11-05T23:20:50.362392] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.362282] [INFO] Transaction completed
+[2025-11-05T23:20:50.362349] [WARN] High memory usage detected
+[2025-11-05T23:20:50.362307] [INFO] Transaction completed
+[2025-11-05T23:20:50.362294] [INFO] Connection established
+[2025-11-05T23:20:50.362368] [ERROR] Request failed
+[2025-11-05T23:20:50.362374] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.362255] [INFO] Database query executed
+[2025-11-05T23:20:50.362353] [WARN] Cache miss
+[2025-11-05T23:20:50.362387] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.362334] [INFO] Configuration loaded
+[2025-11-05T23:20:50.362408] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.362314] [INFO] Request processed successfully
+[2025-11-05T23:20:50.362383] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.362344] [WARN] Cache miss
+[2025-11-05T23:20:50.362326] [INFO] Cache hit
+[2025-11-05T23:20:50.362396] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.362400] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.362404] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.362318] [INFO] Service initialized
+[2025-11-05T23:20:50.362322] [INFO] Health check passed
+[2025-11-05T23:20:50.362330] [INFO] Request processed successfully
+[2025-11-05T23:20:50.362310] [INFO] Connection established
+[2025-11-05T23:20:50.362363] [ERROR] Network timeout
+[2025-11-05T23:20:50.362298] [INFO] Connection established
+[2025-11-05T23:20:50.362303] [INFO] Configuration loaded
+[2025-11-05T23:20:50.362358] [WARN] Rate limit approaching
+[2025-11-05T23:20:50.362379] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.362338] [INFO] Service initialized
+[2025-11-05T23:20:50.362413] [DEBUG] Buffer size: 4096 bytes

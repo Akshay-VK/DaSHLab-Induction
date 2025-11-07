@@ -1,0 +1,33 @@
+[2025-11-05T23:20:37.728855] [INFO] Connection established
+[2025-11-05T23:20:37.728922] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.728918] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.728797] [INFO] Transaction completed
+[2025-11-05T23:20:37.728926] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.728865] [WARN] Cache miss
+[2025-11-05T23:20:37.728909] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.728851] [INFO] Service initialized
+[2025-11-05T23:20:37.728809] [INFO] Service initialized
+[2025-11-05T23:20:37.728904] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.728830] [INFO] Transaction completed
+[2025-11-05T23:20:37.728834] [INFO] Connection established
+[2025-11-05T23:20:37.728847] [INFO] Request processed successfully
+[2025-11-05T23:20:37.728887] [ERROR] Service unavailable
+[2025-11-05T23:20:37.728870] [WARN] Timeout warning
+[2025-11-05T23:20:37.728789] [INFO] Service initialized
+[2025-11-05T23:20:37.728931] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.728826] [INFO] Connection established
+[2025-11-05T23:20:37.728899] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.728859] [INFO] Cache hit
+[2025-11-05T23:20:37.728803] [INFO] Connection established
+[2025-11-05T23:20:37.728814] [INFO] Connection established
+[2025-11-05T23:20:37.728839] [INFO] Connection established
+[2025-11-05T23:20:37.728882] [WARN] Disk space low
+[2025-11-05T23:20:37.728935] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.728914] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.728818] [INFO] Request processed successfully
+[2025-11-05T23:20:37.728822] [INFO] Session started
+[2025-11-05T23:20:37.728893] [ERROR] File not found
+[2025-11-05T23:20:37.728875] [WARN] Rate limit approaching
+[2025-11-05T23:20:37.728760] [INFO] User logged in
+[2025-11-05T23:20:37.728843] [INFO] Health check passed
+[2025-11-05T23:20:37.728878] [WARN] Deprecated API usage

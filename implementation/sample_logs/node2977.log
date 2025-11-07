@@ -1,0 +1,32 @@
+[2025-11-05T23:20:25.251293] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.251236] [INFO] Service initialized
+[2025-11-05T23:20:25.251223] [INFO] Database query executed
+[2025-11-05T23:20:25.251297] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.251213] [INFO] Session started
+[2025-11-05T23:20:25.251244] [INFO] Cache hit
+[2025-11-05T23:20:25.251178] [INFO] Service initialized
+[2025-11-05T23:20:25.251327] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.251232] [INFO] Service initialized
+[2025-11-05T23:20:25.251319] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.251227] [INFO] Connection established
+[2025-11-05T23:20:25.251218] [INFO] Transaction completed
+[2025-11-05T23:20:25.251260] [INFO] Connection established
+[2025-11-05T23:20:25.251268] [INFO] Service initialized
+[2025-11-05T23:20:25.251203] [INFO] User logged in
+[2025-11-05T23:20:25.251288] [ERROR] Permission denied
+[2025-11-05T23:20:25.251335] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.251209] [INFO] Transaction completed
+[2025-11-05T23:20:25.251306] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.251302] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.251264] [INFO] Configuration loaded
+[2025-11-05T23:20:25.251248] [INFO] Session started
+[2025-11-05T23:20:25.251240] [INFO] Connection established
+[2025-11-05T23:20:25.251323] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.251274] [WARN] Resource threshold approaching
+[2025-11-05T23:20:25.251279] [WARN] Timeout warning
+[2025-11-05T23:20:25.251331] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.251252] [INFO] Service initialized
+[2025-11-05T23:20:25.251311] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.251284] [ERROR] Disk read failed
+[2025-11-05T23:20:25.251315] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.251256] [INFO] Database query executed

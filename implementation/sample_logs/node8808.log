@@ -1,0 +1,35 @@
+[2025-11-05T23:20:48.991326] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:48.991305] [WARN] Slow query performance
+[2025-11-05T23:20:48.991146] [INFO] Service initialized
+[2025-11-05T23:20:48.991198] [INFO] Transaction completed
+[2025-11-05T23:20:48.991120] [INFO] Health check passed
+[2025-11-05T23:20:48.991348] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:48.991151] [INFO] Configuration loaded
+[2025-11-05T23:20:48.991188] [INFO] Session started
+[2025-11-05T23:20:48.991364] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.991331] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.991352] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:48.991193] [INFO] Cache hit
+[2025-11-05T23:20:48.991373] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:48.991203] [INFO] Configuration loaded
+[2025-11-05T23:20:48.991175] [INFO] Service initialized
+[2025-11-05T23:20:48.991214] [WARN] Queue size growing
+[2025-11-05T23:20:48.991179] [INFO] Connection established
+[2025-11-05T23:20:48.991316] [ERROR] Invalid input data
+[2025-11-05T23:20:48.991299] [WARN] High memory usage detected
+[2025-11-05T23:20:48.991294] [WARN] Disk space low
+[2025-11-05T23:20:48.991183] [INFO] Configuration loaded
+[2025-11-05T23:20:48.991356] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.991369] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.991171] [INFO] Health check passed
+[2025-11-05T23:20:48.991287] [WARN] Queue size growing
+[2025-11-05T23:20:48.991310] [WARN] Queue size growing
+[2025-11-05T23:20:48.991340] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.991344] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.991361] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.991161] [INFO] Cache hit
+[2025-11-05T23:20:48.991157] [INFO] Database query executed
+[2025-11-05T23:20:48.991320] [ERROR] Disk read failed
+[2025-11-05T23:20:48.991336] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.991207] [INFO] Cache hit
+[2025-11-05T23:20:48.991166] [INFO] Health check passed

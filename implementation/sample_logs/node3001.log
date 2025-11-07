@@ -1,0 +1,33 @@
+[2025-11-05T23:20:25.350549] [WARN] High memory usage detected
+[2025-11-05T23:20:25.350503] [INFO] Cache hit
+[2025-11-05T23:20:25.350540] [WARN] Cache miss
+[2025-11-05T23:20:25.350574] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.350477] [INFO] User logged in
+[2025-11-05T23:20:25.350559] [ERROR] Authentication failed
+[2025-11-05T23:20:25.350545] [WARN] Queue size growing
+[2025-11-05T23:20:25.350487] [INFO] Request processed successfully
+[2025-11-05T23:20:25.350519] [INFO] Cache hit
+[2025-11-05T23:20:25.350466] [INFO] Database query executed
+[2025-11-05T23:20:25.350578] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.350460] [INFO] Session started
+[2025-11-05T23:20:25.350603] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.350511] [INFO] User logged in
+[2025-11-05T23:20:25.350595] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.350582] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.350482] [INFO] Session started
+[2025-11-05T23:20:25.350525] [WARN] High memory usage detected
+[2025-11-05T23:20:25.350433] [INFO] Session started
+[2025-11-05T23:20:25.350553] [WARN] Timeout warning
+[2025-11-05T23:20:25.350500] [INFO] Session started
+[2025-11-05T23:20:25.350495] [INFO] Transaction completed
+[2025-11-05T23:20:25.350586] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.350507] [INFO] Database query executed
+[2025-11-05T23:20:25.350569] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.350564] [ERROR] Database connection lost
+[2025-11-05T23:20:25.350472] [INFO] Transaction completed
+[2025-11-05T23:20:25.350491] [INFO] Cache hit
+[2025-11-05T23:20:25.350535] [WARN] High memory usage detected
+[2025-11-05T23:20:25.350591] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.350599] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.350515] [INFO] Database query executed
+[2025-11-05T23:20:25.350530] [WARN] High memory usage detected

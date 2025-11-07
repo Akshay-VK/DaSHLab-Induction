@@ -1,0 +1,32 @@
+[2025-11-05T23:20:46.011115] [INFO] Connection established
+[2025-11-05T23:20:46.011106] [INFO] User logged in
+[2025-11-05T23:20:46.011160] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.011175] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.011102] [INFO] Service initialized
+[2025-11-05T23:20:46.011120] [INFO] Service initialized
+[2025-11-05T23:20:46.011165] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.011143] [ERROR] Invalid input data
+[2025-11-05T23:20:46.011198] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.011194] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.011089] [INFO] Request processed successfully
+[2025-11-05T23:20:46.011185] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.011131] [WARN] Queue size growing
+[2025-11-05T23:20:46.011125] [INFO] Transaction completed
+[2025-11-05T23:20:46.011093] [INFO] Health check passed
+[2025-11-05T23:20:46.011150] [ERROR] Permission denied
+[2025-11-05T23:20:46.011155] [ERROR] Memory allocation error
+[2025-11-05T23:20:46.011207] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.011111] [INFO] Database query executed
+[2025-11-05T23:20:46.011074] [INFO] Request processed successfully
+[2025-11-05T23:20:46.011138] [ERROR] Request failed
+[2025-11-05T23:20:46.011203] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.011063] [INFO] Request processed successfully
+[2025-11-05T23:20:46.011069] [INFO] Cache hit
+[2025-11-05T23:20:46.011098] [INFO] Connection established
+[2025-11-05T23:20:46.011180] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.011084] [INFO] Cache hit
+[2025-11-05T23:20:46.011211] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.011170] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.011189] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.011037] [INFO] Configuration loaded
+[2025-11-05T23:20:46.011079] [INFO] Service initialized

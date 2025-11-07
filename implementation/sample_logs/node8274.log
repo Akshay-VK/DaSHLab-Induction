@@ -1,0 +1,25 @@
+[2025-11-05T23:20:46.808784] [INFO] Session started
+[2025-11-05T23:20:46.808862] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.808821] [ERROR] File not found
+[2025-11-05T23:20:46.808854] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.808850] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.808858] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.808811] [WARN] Timeout warning
+[2025-11-05T23:20:46.808807] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.808832] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.808750] [INFO] Configuration loaded
+[2025-11-05T23:20:46.808775] [INFO] Request processed successfully
+[2025-11-05T23:20:46.808779] [INFO] Connection established
+[2025-11-05T23:20:46.808697] [INFO] Health check passed
+[2025-11-05T23:20:46.808758] [INFO] Configuration loaded
+[2025-11-05T23:20:46.808788] [INFO] Request processed successfully
+[2025-11-05T23:20:46.808842] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.808763] [INFO] Service initialized
+[2025-11-05T23:20:46.808837] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.808797] [INFO] Database query executed
+[2025-11-05T23:20:46.808846] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.808801] [INFO] Transaction completed
+[2025-11-05T23:20:46.808769] [INFO] Database query executed
+[2025-11-05T23:20:46.808826] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.808817] [ERROR] Memory allocation error
+[2025-11-05T23:20:46.808792] [INFO] Transaction completed

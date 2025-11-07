@@ -1,0 +1,37 @@
+[2025-11-05T23:20:33.319268] [INFO] Configuration loaded
+[2025-11-05T23:20:33.319303] [INFO] Connection established
+[2025-11-05T23:20:33.319294] [INFO] Database query executed
+[2025-11-05T23:20:33.319371] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.319290] [INFO] Connection established
+[2025-11-05T23:20:33.319226] [INFO] Request processed successfully
+[2025-11-05T23:20:33.319327] [WARN] Cache miss
+[2025-11-05T23:20:33.319367] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.319285] [INFO] Health check passed
+[2025-11-05T23:20:33.321619] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.319281] [INFO] Cache hit
+[2025-11-05T23:20:33.319333] [ERROR] Permission denied
+[2025-11-05T23:20:33.319244] [INFO] Service initialized
+[2025-11-05T23:20:33.319276] [INFO] Transaction completed
+[2025-11-05T23:20:33.319363] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.319259] [INFO] Health check passed
+[2025-11-05T23:20:33.319238] [INFO] Connection established
+[2025-11-05T23:20:33.319349] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.319313] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.319308] [WARN] High memory usage detected
+[2025-11-05T23:20:33.319386] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.319376] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.319344] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.319272] [INFO] Configuration loaded
+[2025-11-05T23:20:33.319298] [INFO] Session started
+[2025-11-05T23:20:33.321584] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.319250] [INFO] Health check passed
+[2025-11-05T23:20:33.319318] [WARN] High memory usage detected
+[2025-11-05T23:20:33.319354] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.319382] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.319255] [INFO] Cache hit
+[2025-11-05T23:20:33.319339] [ERROR] Invalid input data
+[2025-11-05T23:20:33.319263] [INFO] Transaction completed
+[2025-11-05T23:20:33.319198] [INFO] Cache hit
+[2025-11-05T23:20:33.319358] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.319231] [INFO] Configuration loaded
+[2025-11-05T23:20:33.319322] [WARN] Rate limit approaching

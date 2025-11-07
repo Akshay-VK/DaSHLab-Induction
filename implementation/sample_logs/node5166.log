@@ -1,0 +1,30 @@
+[2025-11-05T23:20:34.298539] [INFO] Service initialized
+[2025-11-05T23:20:34.298611] [WARN] Rate limit approaching
+[2025-11-05T23:20:34.298628] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.298544] [INFO] Session started
+[2025-11-05T23:20:34.298641] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.298567] [INFO] Cache hit
+[2025-11-05T23:20:34.298608] [WARN] Queue size growing
+[2025-11-05T23:20:34.298654] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.298563] [INFO] Transaction completed
+[2025-11-05T23:20:34.298554] [INFO] Session started
+[2025-11-05T23:20:34.298588] [INFO] User logged in
+[2025-11-05T23:20:34.298580] [INFO] Session started
+[2025-11-05T23:20:34.298622] [ERROR] Memory allocation error
+[2025-11-05T23:20:34.298584] [INFO] Connection established
+[2025-11-05T23:20:34.298658] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.298649] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.298572] [INFO] Transaction completed
+[2025-11-05T23:20:34.298592] [INFO] Service initialized
+[2025-11-05T23:20:34.298617] [ERROR] Invalid input data
+[2025-11-05T23:20:34.298645] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.298549] [INFO] Connection established
+[2025-11-05T23:20:34.298637] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.298632] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.298662] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.298603] [WARN] Timeout warning
+[2025-11-05T23:20:34.298508] [INFO] Health check passed
+[2025-11-05T23:20:34.298576] [INFO] Transaction completed
+[2025-11-05T23:20:34.298598] [WARN] Cache miss
+[2025-11-05T23:20:34.298558] [INFO] Cache hit
+[2025-11-05T23:20:34.298533] [INFO] Request processed successfully

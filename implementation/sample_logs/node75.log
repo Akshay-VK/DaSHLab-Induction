@@ -1,0 +1,36 @@
+[2025-11-05T23:20:11.830725] [WARN] Connection retry attempt
+[2025-11-05T23:20:11.830787] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:11.830796] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:11.830769] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:11.830696] [INFO] Transaction completed
+[2025-11-05T23:20:11.830712] [INFO] Health check passed
+[2025-11-05T23:20:11.830680] [INFO] Connection established
+[2025-11-05T23:20:11.830667] [INFO] Connection established
+[2025-11-05T23:20:11.830684] [INFO] Database query executed
+[2025-11-05T23:20:11.830749] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:11.830782] [DEBUG] Cache key generated
+[2025-11-05T23:20:11.830661] [INFO] Service initialized
+[2025-11-05T23:20:11.830764] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.830757] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.830692] [INFO] Request processed successfully
+[2025-11-05T23:20:11.830708] [INFO] Connection established
+[2025-11-05T23:20:11.830739] [ERROR] Network timeout
+[2025-11-05T23:20:11.830810] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.830676] [INFO] Cache hit
+[2025-11-05T23:20:11.830801] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.830701] [INFO] Cache hit
+[2025-11-05T23:20:11.830704] [INFO] Session started
+[2025-11-05T23:20:11.830671] [INFO] User logged in
+[2025-11-05T23:20:11.830760] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:11.830806] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:11.830774] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.830753] [DEBUG] Cache key generated
+[2025-11-05T23:20:11.830792] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:11.830735] [ERROR] Network timeout
+[2025-11-05T23:20:11.830716] [INFO] Connection established
+[2025-11-05T23:20:11.830688] [INFO] User logged in
+[2025-11-05T23:20:11.830744] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:11.830635] [INFO] Configuration loaded
+[2025-11-05T23:20:11.830720] [INFO] Session started
+[2025-11-05T23:20:11.830778] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.830730] [WARN] Cache miss

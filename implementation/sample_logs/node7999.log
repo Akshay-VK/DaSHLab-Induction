@@ -1,0 +1,36 @@
+[2025-11-05T23:20:45.429388] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.429358] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.429348] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.429238] [INFO] Transaction completed
+[2025-11-05T23:20:45.429366] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.429332] [WARN] Slow query performance
+[2025-11-05T23:20:45.429362] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.429254] [INFO] User logged in
+[2025-11-05T23:20:45.429303] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.429244] [INFO] Cache hit
+[2025-11-05T23:20:45.429308] [WARN] Resource threshold approaching
+[2025-11-05T23:20:45.429210] [INFO] Connection established
+[2025-11-05T23:20:45.429259] [INFO] User logged in
+[2025-11-05T23:20:45.429276] [INFO] User logged in
+[2025-11-05T23:20:45.429354] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.429383] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.429317] [WARN] Queue size growing
+[2025-11-05T23:20:45.429375] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.429338] [ERROR] File not found
+[2025-11-05T23:20:45.429343] [ERROR] Network timeout
+[2025-11-05T23:20:45.429397] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.429267] [INFO] Request processed successfully
+[2025-11-05T23:20:45.429371] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.429263] [INFO] Cache hit
+[2025-11-05T23:20:45.429298] [INFO] Session started
+[2025-11-05T23:20:45.429280] [INFO] Session started
+[2025-11-05T23:20:45.429284] [INFO] Database query executed
+[2025-11-05T23:20:45.429322] [WARN] Disk space low
+[2025-11-05T23:20:45.429379] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.429293] [INFO] Health check passed
+[2025-11-05T23:20:45.429392] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.429289] [INFO] Cache hit
+[2025-11-05T23:20:45.429271] [INFO] Connection established
+[2025-11-05T23:20:45.429326] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.429313] [WARN] Disk space low
+[2025-11-05T23:20:45.429250] [INFO] Connection established

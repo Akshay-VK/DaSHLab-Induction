@@ -1,0 +1,42 @@
+[2025-11-05T23:20:14.480677] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.480725] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.480614] [INFO] User logged in
+[2025-11-05T23:20:14.480589] [INFO] Request processed successfully
+[2025-11-05T23:20:14.480521] [INFO] Cache hit
+[2025-11-05T23:20:14.480594] [INFO] Connection established
+[2025-11-05T23:20:14.480555] [INFO] Request processed successfully
+[2025-11-05T23:20:14.480539] [INFO] User logged in
+[2025-11-05T23:20:14.480704] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.480575] [INFO] Connection established
+[2025-11-05T23:20:14.480609] [INFO] Cache hit
+[2025-11-05T23:20:14.480656] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.480626] [WARN] Timeout warning
+[2025-11-05T23:20:14.480621] [WARN] Disk space low
+[2025-11-05T23:20:14.480534] [INFO] Request processed successfully
+[2025-11-05T23:20:14.480709] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.480694] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.480631] [WARN] Deprecated API usage
+[2025-11-05T23:20:14.480699] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.480683] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.480566] [INFO] Connection established
+[2025-11-05T23:20:14.480662] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.480585] [INFO] Database query executed
+[2025-11-05T23:20:14.480545] [INFO] User logged in
+[2025-11-05T23:20:14.480571] [INFO] Database query executed
+[2025-11-05T23:20:14.480643] [ERROR] File not found
+[2025-11-05T23:20:14.480720] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.480599] [INFO] Database query executed
+[2025-11-05T23:20:14.480550] [INFO] Database query executed
+[2025-11-05T23:20:14.480560] [INFO] User logged in
+[2025-11-05T23:20:14.480672] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.480688] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.480528] [INFO] Service initialized
+[2025-11-05T23:20:14.480494] [INFO] Service initialized
+[2025-11-05T23:20:14.480604] [INFO] Health check passed
+[2025-11-05T23:20:14.480636] [WARN] Resource threshold approaching
+[2025-11-05T23:20:14.480730] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.480735] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.480580] [INFO] Transaction completed
+[2025-11-05T23:20:14.480667] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.480714] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.480649] [ERROR] Invalid input data

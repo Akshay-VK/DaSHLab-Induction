@@ -1,0 +1,27 @@
+[2025-11-05T23:20:25.704072] [WARN] Cache miss
+[2025-11-05T23:20:25.704111] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.704048] [INFO] Cache hit
+[2025-11-05T23:20:25.704057] [INFO] Service initialized
+[2025-11-05T23:20:25.704043] [INFO] Database query executed
+[2025-11-05T23:20:25.704076] [WARN] Deprecated API usage
+[2025-11-05T23:20:25.704025] [INFO] Service initialized
+[2025-11-05T23:20:25.704102] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.704052] [INFO] Transaction completed
+[2025-11-05T23:20:25.704015] [INFO] Configuration loaded
+[2025-11-05T23:20:25.704082] [ERROR] Request failed
+[2025-11-05T23:20:25.704093] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.703982] [INFO] Health check passed
+[2025-11-05T23:20:25.704120] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.704087] [ERROR] Disk read failed
+[2025-11-05T23:20:25.704106] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.704115] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.704020] [INFO] Health check passed
+[2025-11-05T23:20:25.704124] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.704038] [INFO] Session started
+[2025-11-05T23:20:25.704034] [INFO] Transaction completed
+[2025-11-05T23:20:25.704062] [WARN] High memory usage detected
+[2025-11-05T23:20:25.704009] [INFO] Health check passed
+[2025-11-05T23:20:25.704029] [INFO] Health check passed
+[2025-11-05T23:20:25.704098] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.704067] [WARN] Queue size growing
+[2025-11-05T23:20:25.704128] [DEBUG] Memory allocation: 2048 bytes

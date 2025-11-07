@@ -1,0 +1,27 @@
+[2025-11-05T23:20:33.583596] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.583562] [INFO] Transaction completed
+[2025-11-05T23:20:33.583551] [INFO] Session started
+[2025-11-05T23:20:33.583544] [INFO] Connection established
+[2025-11-05T23:20:33.583580] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.583555] [INFO] Health check passed
+[2025-11-05T23:20:33.583537] [INFO] Transaction completed
+[2025-11-05T23:20:33.583576] [ERROR] Invalid input data
+[2025-11-05T23:20:33.583540] [INFO] Connection established
+[2025-11-05T23:20:33.583527] [INFO] Configuration loaded
+[2025-11-05T23:20:33.583514] [INFO] Connection established
+[2025-11-05T23:20:33.583607] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.583610] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.583548] [INFO] Transaction completed
+[2025-11-05T23:20:33.583488] [INFO] Health check passed
+[2025-11-05T23:20:33.583519] [INFO] Transaction completed
+[2025-11-05T23:20:33.583558] [INFO] Cache hit
+[2025-11-05T23:20:33.583603] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.583585] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.583567] [WARN] Disk space low
+[2025-11-05T23:20:33.583588] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.583530] [INFO] Health check passed
+[2025-11-05T23:20:33.583592] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.583523] [INFO] Transaction completed
+[2025-11-05T23:20:33.583572] [ERROR] Authentication failed
+[2025-11-05T23:20:33.583534] [INFO] Configuration loaded
+[2025-11-05T23:20:33.583599] [DEBUG] Thread pool size: 8

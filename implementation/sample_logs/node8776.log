@@ -1,0 +1,34 @@
+[2025-11-05T23:20:48.741837] [WARN] Deprecated API usage
+[2025-11-05T23:20:48.741865] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.741813] [INFO] Cache hit
+[2025-11-05T23:20:48.741884] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:48.741899] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.741846] [WARN] Connection retry attempt
+[2025-11-05T23:20:48.741783] [INFO] User logged in
+[2025-11-05T23:20:48.736616] [INFO] Database query executed
+[2025-11-05T23:20:48.741875] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.741808] [INFO] Cache hit
+[2025-11-05T23:20:48.736649] [INFO] Cache hit
+[2025-11-05T23:20:48.736661] [INFO] Session started
+[2025-11-05T23:20:48.741880] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.741888] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.736655] [INFO] Connection established
+[2025-11-05T23:20:48.736643] [INFO] Transaction completed
+[2025-11-05T23:20:48.741841] [WARN] Timeout warning
+[2025-11-05T23:20:48.741850] [WARN] Disk space low
+[2025-11-05T23:20:48.741831] [WARN] Connection retry attempt
+[2025-11-05T23:20:48.741800] [INFO] Transaction completed
+[2025-11-05T23:20:48.741795] [INFO] Health check passed
+[2025-11-05T23:20:48.741817] [INFO] User logged in
+[2025-11-05T23:20:48.741790] [INFO] Health check passed
+[2025-11-05T23:20:48.741895] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.741821] [INFO] Session started
+[2025-11-05T23:20:48.741892] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.741855] [ERROR] Request failed
+[2025-11-05T23:20:48.741903] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:48.741777] [INFO] Request processed successfully
+[2025-11-05T23:20:48.741871] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.741804] [INFO] Health check passed
+[2025-11-05T23:20:48.741717] [INFO] Transaction completed
+[2025-11-05T23:20:48.741860] [ERROR] Authentication failed
+[2025-11-05T23:20:48.741769] [INFO] Connection established

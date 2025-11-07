@@ -1,0 +1,36 @@
+[2025-11-05T23:20:33.710352] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.710214] [INFO] Request processed successfully
+[2025-11-05T23:20:33.710265] [INFO] Connection established
+[2025-11-05T23:20:33.710243] [INFO] User logged in
+[2025-11-05T23:20:33.710219] [INFO] User logged in
+[2025-11-05T23:20:33.710335] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.710260] [INFO] Connection established
+[2025-11-05T23:20:33.710293] [WARN] Slow query performance
+[2025-11-05T23:20:33.710288] [WARN] Slow query performance
+[2025-11-05T23:20:33.710331] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.710180] [INFO] Transaction completed
+[2025-11-05T23:20:33.710256] [INFO] Transaction completed
+[2025-11-05T23:20:33.710358] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.710298] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.710248] [INFO] Connection established
+[2025-11-05T23:20:33.710229] [INFO] Connection established
+[2025-11-05T23:20:33.710323] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.710366] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.710319] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.710252] [INFO] Database query executed
+[2025-11-05T23:20:33.710207] [INFO] User logged in
+[2025-11-05T23:20:33.710273] [INFO] Service initialized
+[2025-11-05T23:20:33.710224] [INFO] Connection established
+[2025-11-05T23:20:33.710269] [INFO] Cache hit
+[2025-11-05T23:20:33.710233] [INFO] Request processed successfully
+[2025-11-05T23:20:33.710344] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.710348] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.710303] [WARN] Resource threshold approaching
+[2025-11-05T23:20:33.710282] [INFO] Session started
+[2025-11-05T23:20:33.710278] [INFO] Cache hit
+[2025-11-05T23:20:33.710328] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.710307] [WARN] Slow query performance
+[2025-11-05T23:20:33.710362] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.710313] [ERROR] Permission denied
+[2025-11-05T23:20:33.710238] [INFO] Request processed successfully
+[2025-11-05T23:20:33.710340] [DEBUG] Variable value: x=42

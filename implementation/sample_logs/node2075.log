@@ -1,0 +1,32 @@
+[2025-11-05T23:20:21.346996] [INFO] Request processed successfully
+[2025-11-05T23:20:21.346987] [INFO] User logged in
+[2025-11-05T23:20:21.347025] [WARN] Slow query performance
+[2025-11-05T23:20:21.347045] [ERROR] Invalid input data
+[2025-11-05T23:20:21.346982] [INFO] Request processed successfully
+[2025-11-05T23:20:21.347098] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.347014] [INFO] Configuration loaded
+[2025-11-05T23:20:21.346973] [INFO] User logged in
+[2025-11-05T23:20:21.347081] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.346951] [INFO] Connection established
+[2025-11-05T23:20:21.347071] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.347039] [WARN] Timeout warning
+[2025-11-05T23:20:21.347030] [WARN] Deprecated API usage
+[2025-11-05T23:20:21.347076] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.347019] [WARN] Timeout warning
+[2025-11-05T23:20:21.347089] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.347050] [ERROR] File not found
+[2025-11-05T23:20:21.346968] [INFO] User logged in
+[2025-11-05T23:20:21.347035] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.346923] [INFO] Transaction completed
+[2025-11-05T23:20:21.347061] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.347001] [INFO] Cache hit
+[2025-11-05T23:20:21.347010] [INFO] Configuration loaded
+[2025-11-05T23:20:21.346977] [INFO] Database query executed
+[2025-11-05T23:20:21.347055] [ERROR] Permission denied
+[2025-11-05T23:20:21.347006] [INFO] Session started
+[2025-11-05T23:20:21.347085] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.347065] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.347094] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.346991] [INFO] Transaction completed
+[2025-11-05T23:20:21.346963] [INFO] Connection established
+[2025-11-05T23:20:21.346958] [INFO] Configuration loaded

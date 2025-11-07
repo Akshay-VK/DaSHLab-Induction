@@ -1,0 +1,25 @@
+[2025-11-05T23:20:29.780680] [WARN] Slow query performance
+[2025-11-05T23:20:29.780675] [WARN] Resource threshold approaching
+[2025-11-05T23:20:29.780721] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.780716] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.780742] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.780710] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.780734] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.780738] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.780669] [INFO] Database query executed
+[2025-11-05T23:20:29.780636] [INFO] Database query executed
+[2025-11-05T23:20:29.780664] [INFO] Transaction completed
+[2025-11-05T23:20:29.780705] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.780699] [ERROR] Invalid input data
+[2025-11-05T23:20:29.780684] [WARN] Deprecated API usage
+[2025-11-05T23:20:29.780730] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.780641] [INFO] Database query executed
+[2025-11-05T23:20:29.780693] [WARN] Rate limit approaching
+[2025-11-05T23:20:29.780604] [INFO] Transaction completed
+[2025-11-05T23:20:29.780725] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.780689] [WARN] Resource threshold approaching
+[2025-11-05T23:20:29.780651] [INFO] Health check passed
+[2025-11-05T23:20:29.780656] [INFO] User logged in
+[2025-11-05T23:20:29.780646] [INFO] Database query executed
+[2025-11-05T23:20:29.780660] [INFO] Connection established
+[2025-11-05T23:20:29.780631] [INFO] Transaction completed

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:52.157427] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.157416] [ERROR] Authentication failed
+[2025-11-05T23:20:52.157449] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.157436] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.157303] [INFO] Cache hit
+[2025-11-05T23:20:52.157376] [INFO] Configuration loaded
+[2025-11-05T23:20:52.157411] [WARN] Timeout warning
+[2025-11-05T23:20:52.157406] [WARN] Resource threshold approaching
+[2025-11-05T23:20:52.157344] [INFO] Configuration loaded
+[2025-11-05T23:20:52.157444] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.157440] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.157359] [INFO] Database query executed
+[2025-11-05T23:20:52.157401] [INFO] Connection established
+[2025-11-05T23:20:52.157392] [INFO] User logged in
+[2025-11-05T23:20:52.157422] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.157380] [INFO] Connection established
+[2025-11-05T23:20:52.157339] [INFO] Configuration loaded
+[2025-11-05T23:20:52.157372] [INFO] Session started
+[2025-11-05T23:20:52.157384] [INFO] Database query executed
+[2025-11-05T23:20:52.157453] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.157350] [INFO] Service initialized
+[2025-11-05T23:20:52.157333] [INFO] Health check passed
+[2025-11-05T23:20:52.157431] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.157368] [INFO] Cache hit
+[2025-11-05T23:20:52.157397] [INFO] Configuration loaded
+[2025-11-05T23:20:52.157355] [INFO] Transaction completed
+[2025-11-05T23:20:52.157364] [INFO] Database query executed
+[2025-11-05T23:20:52.157388] [INFO] Session started

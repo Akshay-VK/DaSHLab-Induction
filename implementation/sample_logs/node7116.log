@@ -1,0 +1,32 @@
+[2025-11-05T23:20:41.892322] [ERROR] File not found
+[2025-11-05T23:20:41.892349] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.892215] [INFO] Health check passed
+[2025-11-05T23:20:41.892369] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.892270] [INFO] Connection established
+[2025-11-05T23:20:41.892287] [INFO] Transaction completed
+[2025-11-05T23:20:41.892357] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.892300] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.892361] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.892258] [INFO] Cache hit
+[2025-11-05T23:20:41.892305] [WARN] Resource threshold approaching
+[2025-11-05T23:20:41.892266] [INFO] Transaction completed
+[2025-11-05T23:20:41.892253] [INFO] Cache hit
+[2025-11-05T23:20:41.892365] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.892340] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.892336] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.892327] [ERROR] Authentication failed
+[2025-11-05T23:20:41.892317] [WARN] Cache miss
+[2025-11-05T23:20:41.892279] [INFO] Connection established
+[2025-11-05T23:20:41.892243] [INFO] User logged in
+[2025-11-05T23:20:41.892353] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.892262] [INFO] Health check passed
+[2025-11-05T23:20:41.892332] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.892248] [INFO] Cache hit
+[2025-11-05T23:20:41.892238] [INFO] Request processed successfully
+[2025-11-05T23:20:41.892313] [WARN] High memory usage detected
+[2025-11-05T23:20:41.892344] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.892295] [INFO] Request processed successfully
+[2025-11-05T23:20:41.892291] [INFO] Session started
+[2025-11-05T23:20:41.892309] [WARN] Slow query performance
+[2025-11-05T23:20:41.892283] [INFO] Configuration loaded
+[2025-11-05T23:20:41.892275] [INFO] Request processed successfully

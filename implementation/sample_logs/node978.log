@@ -1,0 +1,29 @@
+[2025-11-05T23:20:16.587411] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.587323] [INFO] Configuration loaded
+[2025-11-05T23:20:16.587398] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.587331] [INFO] Health check passed
+[2025-11-05T23:20:16.587335] [INFO] Session started
+[2025-11-05T23:20:16.587391] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.587310] [INFO] Connection established
+[2025-11-05T23:20:16.587327] [INFO] Cache hit
+[2025-11-05T23:20:16.587358] [INFO] User logged in
+[2025-11-05T23:20:16.587300] [INFO] User logged in
+[2025-11-05T23:20:16.587319] [INFO] Cache hit
+[2025-11-05T23:20:16.587342] [INFO] Configuration loaded
+[2025-11-05T23:20:16.587407] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.587363] [WARN] Disk space low
+[2025-11-05T23:20:16.587415] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.587354] [INFO] Health check passed
+[2025-11-05T23:20:16.587368] [WARN] Deprecated API usage
+[2025-11-05T23:20:16.587305] [INFO] Database query executed
+[2025-11-05T23:20:16.587314] [INFO] Service initialized
+[2025-11-05T23:20:16.587394] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.587373] [ERROR] Permission denied
+[2025-11-05T23:20:16.587346] [INFO] Transaction completed
+[2025-11-05T23:20:16.587403] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.587350] [INFO] Service initialized
+[2025-11-05T23:20:16.587383] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.587378] [ERROR] Network timeout
+[2025-11-05T23:20:16.587339] [INFO] Configuration loaded
+[2025-11-05T23:20:16.587273] [INFO] Configuration loaded
+[2025-11-05T23:20:16.587387] [DEBUG] Variable value: x=42

@@ -1,0 +1,35 @@
+[2025-11-05T23:20:43.813205] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.813083] [INFO] Service initialized
+[2025-11-05T23:20:43.813196] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.813192] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.813096] [INFO] Health check passed
+[2025-11-05T23:20:43.813122] [INFO] Database query executed
+[2025-11-05T23:20:43.813073] [INFO] Health check passed
+[2025-11-05T23:20:43.813087] [INFO] User logged in
+[2025-11-05T23:20:43.813057] [INFO] Connection established
+[2025-11-05T23:20:43.813078] [INFO] User logged in
+[2025-11-05T23:20:43.813126] [INFO] Transaction completed
+[2025-11-05T23:20:43.813157] [WARN] Connection retry attempt
+[2025-11-05T23:20:43.813172] [ERROR] Request failed
+[2025-11-05T23:20:43.813152] [WARN] Queue size growing
+[2025-11-05T23:20:43.813031] [INFO] Cache hit
+[2025-11-05T23:20:43.813210] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.813091] [INFO] Connection established
+[2025-11-05T23:20:43.813140] [INFO] Configuration loaded
+[2025-11-05T23:20:43.813136] [INFO] Service initialized
+[2025-11-05T23:20:43.813188] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.813109] [INFO] Database query executed
+[2025-11-05T23:20:43.813178] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.813063] [INFO] User logged in
+[2025-11-05T23:20:43.813104] [INFO] Database query executed
+[2025-11-05T23:20:43.813146] [WARN] Timeout warning
+[2025-11-05T23:20:43.813161] [WARN] Resource threshold approaching
+[2025-11-05T23:20:43.813068] [INFO] User logged in
+[2025-11-05T23:20:43.813215] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.813131] [INFO] Request processed successfully
+[2025-11-05T23:20:43.813100] [INFO] Configuration loaded
+[2025-11-05T23:20:43.813166] [ERROR] Request failed
+[2025-11-05T23:20:43.813183] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.813117] [INFO] Session started
+[2025-11-05T23:20:43.813201] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.813113] [INFO] Configuration loaded

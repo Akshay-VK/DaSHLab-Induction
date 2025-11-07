@@ -1,0 +1,30 @@
+[2025-11-05T23:20:46.309576] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.292298] [INFO] Health check passed
+[2025-11-05T23:20:46.309580] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.292274] [INFO] Health check passed
+[2025-11-05T23:20:46.292288] [INFO] Session started
+[2025-11-05T23:20:46.309594] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.309559] [ERROR] Network timeout
+[2025-11-05T23:20:46.309452] [INFO] Cache hit
+[2025-11-05T23:20:46.309564] [ERROR] Disk read failed
+[2025-11-05T23:20:46.309538] [WARN] High memory usage detected
+[2025-11-05T23:20:46.309607] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.292229] [INFO] User logged in
+[2025-11-05T23:20:46.309569] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.309523] [INFO] Service initialized
+[2025-11-05T23:20:46.309515] [INFO] User logged in
+[2025-11-05T23:20:46.292268] [INFO] Connection established
+[2025-11-05T23:20:46.292257] [INFO] Health check passed
+[2025-11-05T23:20:46.309599] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.309553] [WARN] Queue size growing
+[2025-11-05T23:20:46.292302] [INFO] Cache hit
+[2025-11-05T23:20:46.292284] [INFO] Request processed successfully
+[2025-11-05T23:20:46.292263] [INFO] Configuration loaded
+[2025-11-05T23:20:46.309543] [WARN] Cache miss
+[2025-11-05T23:20:46.309549] [WARN] Disk space low
+[2025-11-05T23:20:46.292293] [INFO] Configuration loaded
+[2025-11-05T23:20:46.309585] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.309528] [INFO] Database query executed
+[2025-11-05T23:20:46.309589] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.309603] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.292279] [INFO] Request processed successfully

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:28.846962] [WARN] Slow query performance
+[2025-11-05T23:20:28.846954] [WARN] Queue size growing
+[2025-11-05T23:20:28.847015] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.846971] [ERROR] Permission denied
+[2025-11-05T23:20:28.846942] [INFO] Connection established
+[2025-11-05T23:20:28.846896] [INFO] Cache hit
+[2025-11-05T23:20:28.846905] [INFO] Configuration loaded
+[2025-11-05T23:20:28.846915] [INFO] Cache hit
+[2025-11-05T23:20:28.847007] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.846958] [WARN] Disk space low
+[2025-11-05T23:20:28.847010] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.846938] [INFO] Transaction completed
+[2025-11-05T23:20:28.846901] [INFO] Configuration loaded
+[2025-11-05T23:20:28.847000] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.846992] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.846988] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.846984] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.846930] [INFO] Health check passed
+[2025-11-05T23:20:28.846945] [INFO] Service initialized
+[2025-11-05T23:20:28.846927] [INFO] Session started
+[2025-11-05T23:20:28.846949] [INFO] Connection established
+[2025-11-05T23:20:28.846966] [WARN] Slow query performance
+[2025-11-05T23:20:28.846919] [INFO] Request processed successfully
+[2025-11-05T23:20:28.847004] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.847018] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.846935] [INFO] Request processed successfully
+[2025-11-05T23:20:28.846871] [INFO] Session started
+[2025-11-05T23:20:28.846923] [INFO] Service initialized
+[2025-11-05T23:20:28.846909] [INFO] Configuration loaded
+[2025-11-05T23:20:28.846979] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.846975] [ERROR] Permission denied
+[2025-11-05T23:20:28.846996] [DEBUG] Memory allocation: 2048 bytes

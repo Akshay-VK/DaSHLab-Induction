@@ -1,0 +1,26 @@
+[2025-11-05T23:20:36.564145] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.564095] [INFO] Transaction completed
+[2025-11-05T23:20:36.564125] [WARN] Cache miss
+[2025-11-05T23:20:36.564119] [WARN] Cache miss
+[2025-11-05T23:20:36.564139] [ERROR] Authentication failed
+[2025-11-05T23:20:36.564130] [ERROR] Authentication failed
+[2025-11-05T23:20:36.564061] [INFO] Request processed successfully
+[2025-11-05T23:20:36.564036] [INFO] Transaction completed
+[2025-11-05T23:20:36.564158] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.564091] [INFO] Cache hit
+[2025-11-05T23:20:36.564068] [INFO] Transaction completed
+[2025-11-05T23:20:36.564135] [ERROR] Network timeout
+[2025-11-05T23:20:36.564170] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.564074] [INFO] Connection established
+[2025-11-05T23:20:36.564099] [INFO] Connection established
+[2025-11-05T23:20:36.564174] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.564113] [INFO] Health check passed
+[2025-11-05T23:20:36.564080] [INFO] Health check passed
+[2025-11-05T23:20:36.564154] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.564179] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.564149] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.564108] [INFO] User logged in
+[2025-11-05T23:20:36.564086] [INFO] Session started
+[2025-11-05T23:20:36.564162] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.564166] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.564104] [INFO] Configuration loaded

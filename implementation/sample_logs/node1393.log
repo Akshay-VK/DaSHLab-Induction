@@ -1,0 +1,28 @@
+[2025-11-05T23:20:18.334292] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.334258] [WARN] Cache miss
+[2025-11-05T23:20:18.334282] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.334180] [INFO] Request processed successfully
+[2025-11-05T23:20:18.334171] [INFO] Cache hit
+[2025-11-05T23:20:18.334298] [DEBUG] Cache key generated
+[2025-11-05T23:20:18.334176] [INFO] Transaction completed
+[2025-11-05T23:20:18.334271] [ERROR] Request failed
+[2025-11-05T23:20:18.334191] [INFO] Transaction completed
+[2025-11-05T23:20:18.334207] [INFO] User logged in
+[2025-11-05T23:20:18.334286] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.334301] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.334167] [INFO] Request processed successfully
+[2025-11-05T23:20:18.334295] [DEBUG] Cache key generated
+[2025-11-05T23:20:18.334183] [INFO] Database query executed
+[2025-11-05T23:20:18.334263] [ERROR] Database connection lost
+[2025-11-05T23:20:18.334211] [INFO] Health check passed
+[2025-11-05T23:20:18.334141] [INFO] User logged in
+[2025-11-05T23:20:18.334201] [INFO] Request processed successfully
+[2025-11-05T23:20:18.334187] [INFO] Configuration loaded
+[2025-11-05T23:20:18.334278] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:18.334204] [INFO] Configuration loaded
+[2025-11-05T23:20:18.334254] [WARN] Slow query performance
+[2025-11-05T23:20:18.334268] [ERROR] Database connection lost
+[2025-11-05T23:20:18.334194] [INFO] Connection established
+[2025-11-05T23:20:18.334198] [INFO] Health check passed
+[2025-11-05T23:20:18.334289] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.334275] [DEBUG] Loop iteration: 15

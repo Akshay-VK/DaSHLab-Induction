@@ -1,0 +1,30 @@
+[2025-11-05T23:20:36.647324] [INFO] Transaction completed
+[2025-11-05T23:20:36.647429] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.647401] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.647319] [INFO] Database query executed
+[2025-11-05T23:20:36.647329] [INFO] Database query executed
+[2025-11-05T23:20:36.647355] [INFO] Configuration loaded
+[2025-11-05T23:20:36.647308] [INFO] Cache hit
+[2025-11-05T23:20:36.647438] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.647425] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.647443] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.647337] [INFO] Cache hit
+[2025-11-05T23:20:36.647395] [ERROR] Permission denied
+[2025-11-05T23:20:36.647314] [INFO] Transaction completed
+[2025-11-05T23:20:36.647333] [INFO] Session started
+[2025-11-05T23:20:36.647389] [WARN] Queue size growing
+[2025-11-05T23:20:36.647380] [WARN] Queue size growing
+[2025-11-05T23:20:36.647415] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.647364] [INFO] Health check passed
+[2025-11-05T23:20:36.647350] [INFO] Request processed successfully
+[2025-11-05T23:20:36.647420] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.647447] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.647370] [WARN] Slow query performance
+[2025-11-05T23:20:36.647406] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.647360] [INFO] Transaction completed
+[2025-11-05T23:20:36.647375] [WARN] Cache miss
+[2025-11-05T23:20:36.647345] [INFO] Database query executed
+[2025-11-05T23:20:36.647384] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.647411] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.647282] [INFO] Configuration loaded
+[2025-11-05T23:20:36.647434] [DEBUG] Memory allocation: 2048 bytes

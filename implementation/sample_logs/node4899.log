@@ -1,0 +1,29 @@
+[2025-11-05T23:20:33.225467] [INFO] Database query executed
+[2025-11-05T23:20:33.225507] [ERROR] Memory allocation error
+[2025-11-05T23:20:33.225487] [WARN] Timeout warning
+[2025-11-05T23:20:33.225532] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.225449] [INFO] Service initialized
+[2025-11-05T23:20:33.225385] [INFO] Transaction completed
+[2025-11-05T23:20:33.225426] [INFO] Cache hit
+[2025-11-05T23:20:33.225444] [INFO] Cache hit
+[2025-11-05T23:20:33.225537] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.225517] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.225419] [INFO] User logged in
+[2025-11-05T23:20:33.225463] [INFO] Configuration loaded
+[2025-11-05T23:20:33.225477] [INFO] Database query executed
+[2025-11-05T23:20:33.225523] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.225550] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.225527] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.225512] [ERROR] Database connection lost
+[2025-11-05T23:20:33.225497] [WARN] Cache miss
+[2025-11-05T23:20:33.225481] [INFO] Configuration loaded
+[2025-11-05T23:20:33.225439] [INFO] Configuration loaded
+[2025-11-05T23:20:33.225458] [INFO] Request processed successfully
+[2025-11-05T23:20:33.225541] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.225472] [INFO] Configuration loaded
+[2025-11-05T23:20:33.225493] [WARN] Rate limit approaching
+[2025-11-05T23:20:33.225546] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.225453] [INFO] Transaction completed
+[2025-11-05T23:20:33.225431] [INFO] Request processed successfully
+[2025-11-05T23:20:33.225502] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.225413] [INFO] Request processed successfully

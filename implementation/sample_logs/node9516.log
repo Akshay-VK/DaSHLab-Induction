@@ -1,0 +1,28 @@
+[2025-11-05T23:20:52.196988] [INFO] Session started
+[2025-11-05T23:20:52.197016] [WARN] Resource threshold approaching
+[2025-11-05T23:20:52.196961] [INFO] Session started
+[2025-11-05T23:20:52.197007] [WARN] Deprecated API usage
+[2025-11-05T23:20:52.197041] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.197001] [INFO] Database query executed
+[2025-11-05T23:20:52.197021] [WARN] Slow query performance
+[2025-11-05T23:20:52.197045] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.196947] [INFO] Request processed successfully
+[2025-11-05T23:20:52.197032] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.197012] [WARN] Cache miss
+[2025-11-05T23:20:52.197059] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.196957] [INFO] Request processed successfully
+[2025-11-05T23:20:52.196966] [INFO] Session started
+[2025-11-05T23:20:52.197054] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.196970] [INFO] Database query executed
+[2025-11-05T23:20:52.197067] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.196997] [INFO] Health check passed
+[2025-11-05T23:20:52.197050] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.196952] [INFO] Session started
+[2025-11-05T23:20:52.196984] [INFO] Request processed successfully
+[2025-11-05T23:20:52.196975] [INFO] Health check passed
+[2025-11-05T23:20:52.196920] [INFO] Service initialized
+[2025-11-05T23:20:52.196993] [INFO] Database query executed
+[2025-11-05T23:20:52.196979] [INFO] Service initialized
+[2025-11-05T23:20:52.197037] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.197063] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.197027] [ERROR] Authentication failed

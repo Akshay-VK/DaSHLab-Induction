@@ -1,0 +1,30 @@
+[2025-11-05T23:20:29.347074] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.347033] [INFO] Request processed successfully
+[2025-11-05T23:20:29.347018] [INFO] Request processed successfully
+[2025-11-05T23:20:29.347078] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.347015] [INFO] Transaction completed
+[2025-11-05T23:20:29.347001] [INFO] Service initialized
+[2025-11-05T23:20:29.346992] [INFO] User logged in
+[2025-11-05T23:20:29.347048] [WARN] Slow query performance
+[2025-11-05T23:20:29.347087] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.347084] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.347036] [INFO] Cache hit
+[2025-11-05T23:20:29.346968] [INFO] Connection established
+[2025-11-05T23:20:29.347044] [WARN] Slow query performance
+[2025-11-05T23:20:29.347030] [INFO] Configuration loaded
+[2025-11-05T23:20:29.347081] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.347021] [INFO] Connection established
+[2025-11-05T23:20:29.347064] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.347008] [INFO] User logged in
+[2025-11-05T23:20:29.347068] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.347055] [WARN] Rate limit approaching
+[2025-11-05T23:20:29.347005] [INFO] Connection established
+[2025-11-05T23:20:29.347039] [INFO] Configuration loaded
+[2025-11-05T23:20:29.347051] [WARN] High memory usage detected
+[2025-11-05T23:20:29.347060] [ERROR] Network timeout
+[2025-11-05T23:20:29.347090] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.347024] [INFO] Database query executed
+[2025-11-05T23:20:29.347071] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.347012] [INFO] Health check passed
+[2025-11-05T23:20:29.347028] [INFO] Transaction completed
+[2025-11-05T23:20:29.346997] [INFO] Configuration loaded

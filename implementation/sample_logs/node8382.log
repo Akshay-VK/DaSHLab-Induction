@@ -1,0 +1,37 @@
+[2025-11-05T23:20:47.265214] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.265115] [INFO] Configuration loaded
+[2025-11-05T23:20:47.265210] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.265172] [ERROR] File not found
+[2025-11-05T23:20:47.265190] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.265123] [INFO] Request processed successfully
+[2025-11-05T23:20:47.265218] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.265093] [INFO] Request processed successfully
+[2025-11-05T23:20:47.265086] [INFO] Cache hit
+[2025-11-05T23:20:47.265041] [INFO] Request processed successfully
+[2025-11-05T23:20:47.265186] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.265150] [WARN] Connection retry attempt
+[2025-11-05T23:20:47.265073] [INFO] Session started
+[2025-11-05T23:20:47.265102] [INFO] User logged in
+[2025-11-05T23:20:47.265177] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.265154] [WARN] Resource threshold approaching
+[2025-11-05T23:20:47.265110] [INFO] Transaction completed
+[2025-11-05T23:20:47.265139] [INFO] Database query executed
+[2025-11-05T23:20:47.265130] [INFO] Connection established
+[2025-11-05T23:20:47.265202] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:47.265097] [INFO] Health check passed
+[2025-11-05T23:20:47.265077] [INFO] Service initialized
+[2025-11-05T23:20:47.265127] [INFO] Database query executed
+[2025-11-05T23:20:47.265090] [INFO] Session started
+[2025-11-05T23:20:47.265067] [INFO] Service initialized
+[2025-11-05T23:20:47.265135] [INFO] Health check passed
+[2025-11-05T23:20:47.265198] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.265167] [ERROR] Service unavailable
+[2025-11-05T23:20:47.265081] [INFO] Health check passed
+[2025-11-05T23:20:47.265145] [WARN] Queue size growing
+[2025-11-05T23:20:47.265119] [INFO] Database query executed
+[2025-11-05T23:20:47.265106] [INFO] Configuration loaded
+[2025-11-05T23:20:47.265158] [WARN] Rate limit approaching
+[2025-11-05T23:20:47.265194] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.265206] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.265162] [WARN] Slow query performance
+[2025-11-05T23:20:47.265181] [DEBUG] Timer set: 30 seconds

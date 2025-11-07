@@ -1,0 +1,28 @@
+[2025-11-05T23:20:41.652672] [INFO] Cache hit
+[2025-11-05T23:20:41.652667] [INFO] Service initialized
+[2025-11-05T23:20:41.652688] [INFO] Database query executed
+[2025-11-05T23:20:41.652757] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.652750] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.652725] [ERROR] Request failed
+[2025-11-05T23:20:41.652730] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.652711] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.652738] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.652680] [INFO] Session started
+[2025-11-05T23:20:41.652746] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.652660] [INFO] Transaction completed
+[2025-11-05T23:20:41.652702] [INFO] Session started
+[2025-11-05T23:20:41.652715] [WARN] Cache miss
+[2025-11-05T23:20:41.652706] [INFO] Configuration loaded
+[2025-11-05T23:20:41.652734] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.652676] [INFO] Transaction completed
+[2025-11-05T23:20:41.652664] [INFO] Connection established
+[2025-11-05T23:20:41.652691] [INFO] Database query executed
+[2025-11-05T23:20:41.652695] [INFO] Health check passed
+[2025-11-05T23:20:41.652699] [INFO] Session started
+[2025-11-05T23:20:41.652630] [INFO] Transaction completed
+[2025-11-05T23:20:41.652655] [INFO] Connection established
+[2025-11-05T23:20:41.652742] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.652684] [INFO] Connection established
+[2025-11-05T23:20:41.652754] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.652721] [ERROR] Database connection lost
+[2025-11-05T23:20:41.652760] [DEBUG] Entering function process_data()

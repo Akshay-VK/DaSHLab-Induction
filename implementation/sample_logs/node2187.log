@@ -1,0 +1,29 @@
+[2025-11-05T23:20:21.758586] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.758558] [INFO] Request processed successfully
+[2025-11-05T23:20:21.758609] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.758536] [INFO] Health check passed
+[2025-11-05T23:20:21.758485] [INFO] Cache hit
+[2025-11-05T23:20:21.758561] [INFO] Session started
+[2025-11-05T23:20:21.758625] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.758597] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.758592] [ERROR] Permission denied
+[2025-11-05T23:20:21.758568] [INFO] Connection established
+[2025-11-05T23:20:21.758494] [INFO] Session started
+[2025-11-05T23:20:21.758498] [INFO] Transaction completed
+[2025-11-05T23:20:21.758480] [INFO] Connection established
+[2025-11-05T23:20:21.758629] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.758613] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.758565] [INFO] User logged in
+[2025-11-05T23:20:21.758542] [INFO] Request processed successfully
+[2025-11-05T23:20:21.758550] [INFO] Database query executed
+[2025-11-05T23:20:21.758574] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.758601] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.758605] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.758546] [INFO] Request processed successfully
+[2025-11-05T23:20:21.758579] [WARN] Queue size growing
+[2025-11-05T23:20:21.758554] [INFO] Session started
+[2025-11-05T23:20:21.758457] [INFO] User logged in
+[2025-11-05T23:20:21.758583] [WARN] Queue size growing
+[2025-11-05T23:20:21.758621] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.758490] [INFO] Cache hit
+[2025-11-05T23:20:21.758617] [DEBUG] Entering function process_data()

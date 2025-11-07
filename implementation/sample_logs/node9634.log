@@ -1,0 +1,25 @@
+[2025-11-05T23:20:52.683893] [WARN] Queue size growing
+[2025-11-05T23:20:52.683878] [INFO] Service initialized
+[2025-11-05T23:20:52.683915] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.683940] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.683921] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.683882] [INFO] Session started
+[2025-11-05T23:20:52.683840] [INFO] Cache hit
+[2025-11-05T23:20:52.683930] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.683887] [INFO] Database query executed
+[2025-11-05T23:20:52.683864] [INFO] User logged in
+[2025-11-05T23:20:52.683903] [WARN] Timeout warning
+[2025-11-05T23:20:52.683925] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.683944] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.683909] [ERROR] Disk read failed
+[2025-11-05T23:20:52.683834] [INFO] User logged in
+[2025-11-05T23:20:52.683855] [INFO] Transaction completed
+[2025-11-05T23:20:52.683898] [WARN] Timeout warning
+[2025-11-05T23:20:52.683860] [INFO] Health check passed
+[2025-11-05T23:20:52.683807] [INFO] Transaction completed
+[2025-11-05T23:20:52.683935] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.683845] [INFO] Database query executed
+[2025-11-05T23:20:52.683873] [INFO] User logged in
+[2025-11-05T23:20:52.683850] [INFO] Request processed successfully
+[2025-11-05T23:20:52.683948] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.683869] [INFO] Session started

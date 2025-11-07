@@ -1,0 +1,24 @@
+[2025-11-05T23:20:35.963376] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.963330] [INFO] Cache hit
+[2025-11-05T23:20:35.963389] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.963317] [INFO] Session started
+[2025-11-05T23:20:35.963343] [INFO] User logged in
+[2025-11-05T23:20:35.963322] [INFO] Service initialized
+[2025-11-05T23:20:35.963367] [ERROR] Memory allocation error
+[2025-11-05T23:20:35.963401] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.963348] [WARN] Rate limit approaching
+[2025-11-05T23:20:35.963361] [WARN] Disk space low
+[2025-11-05T23:20:35.963335] [INFO] Request processed successfully
+[2025-11-05T23:20:35.963312] [INFO] Cache hit
+[2025-11-05T23:20:35.963371] [ERROR] Permission denied
+[2025-11-05T23:20:35.963380] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.963353] [WARN] Slow query performance
+[2025-11-05T23:20:35.963357] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.963326] [INFO] Database query executed
+[2025-11-05T23:20:35.963409] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.963397] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.963405] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.963393] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.963339] [INFO] Database query executed
+[2025-11-05T23:20:35.963289] [INFO] Transaction completed
+[2025-11-05T23:20:35.963385] [DEBUG] Loop iteration: 15

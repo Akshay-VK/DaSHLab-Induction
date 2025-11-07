@@ -1,0 +1,36 @@
+[2025-11-05T23:20:53.757291] [WARN] Cache miss
+[2025-11-05T23:20:53.757247] [INFO] Connection established
+[2025-11-05T23:20:53.757336] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.757359] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.757299] [WARN] Disk space low
+[2025-11-05T23:20:53.757332] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.757238] [INFO] Database query executed
+[2025-11-05T23:20:53.757345] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.757287] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.757279] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.757323] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.757255] [INFO] Cache hit
+[2025-11-05T23:20:53.757211] [INFO] Transaction completed
+[2025-11-05T23:20:53.757307] [WARN] Timeout warning
+[2025-11-05T23:20:53.757259] [INFO] Session started
+[2025-11-05T23:20:53.757216] [INFO] User logged in
+[2025-11-05T23:20:53.757313] [ERROR] Request failed
+[2025-11-05T23:20:53.757355] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.757295] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.757283] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.757273] [WARN] Queue size growing
+[2025-11-05T23:20:53.757328] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.757234] [INFO] Service initialized
+[2025-11-05T23:20:53.757205] [INFO] Service initialized
+[2025-11-05T23:20:53.757351] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.757179] [INFO] Cache hit
+[2025-11-05T23:20:53.757303] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.757263] [INFO] Service initialized
+[2025-11-05T23:20:53.757318] [ERROR] Request failed
+[2025-11-05T23:20:53.757220] [INFO] Service initialized
+[2025-11-05T23:20:53.757341] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.757267] [INFO] User logged in
+[2025-11-05T23:20:53.757225] [INFO] Session started
+[2025-11-05T23:20:53.757243] [INFO] Connection established
+[2025-11-05T23:20:53.757229] [INFO] Request processed successfully
+[2025-11-05T23:20:53.757251] [INFO] Database query executed

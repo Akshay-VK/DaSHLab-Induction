@@ -1,0 +1,22 @@
+[2025-11-05T23:20:44.059335] [INFO] Health check passed
+[2025-11-05T23:20:44.059386] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.059354] [INFO] Connection established
+[2025-11-05T23:20:44.059416] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.059345] [INFO] Cache hit
+[2025-11-05T23:20:44.059395] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.059340] [INFO] Transaction completed
+[2025-11-05T23:20:44.059399] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.059408] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.059391] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.059420] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.059303] [INFO] Transaction completed
+[2025-11-05T23:20:44.059369] [WARN] Slow query performance
+[2025-11-05T23:20:44.059377] [ERROR] Network timeout
+[2025-11-05T23:20:44.059403] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.059424] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.059359] [WARN] Deprecated API usage
+[2025-11-05T23:20:44.059364] [WARN] Cache miss
+[2025-11-05T23:20:44.059349] [INFO] Health check passed
+[2025-11-05T23:20:44.059381] [ERROR] Network timeout
+[2025-11-05T23:20:44.059329] [INFO] Cache hit
+[2025-11-05T23:20:44.059412] [DEBUG] Connection pool status checked

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:41.039734] [INFO] Cache hit
+[2025-11-05T23:20:41.039749] [INFO] Database query executed
+[2025-11-05T23:20:41.039822] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.039762] [INFO] Cache hit
+[2025-11-05T23:20:41.039776] [INFO] Session started
+[2025-11-05T23:20:41.039831] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.039710] [INFO] Configuration loaded
+[2025-11-05T23:20:41.039716] [INFO] Request processed successfully
+[2025-11-05T23:20:41.039840] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.039806] [WARN] Cache miss
+[2025-11-05T23:20:41.039722] [INFO] Transaction completed
+[2025-11-05T23:20:41.039787] [WARN] Deprecated API usage
+[2025-11-05T23:20:41.039740] [INFO] Health check passed
+[2025-11-05T23:20:41.039753] [INFO] Database query executed
+[2025-11-05T23:20:41.039844] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.039816] [ERROR] File not found
+[2025-11-05T23:20:41.039836] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.039793] [WARN] High memory usage detected
+[2025-11-05T23:20:41.039758] [INFO] Transaction completed
+[2025-11-05T23:20:41.039797] [WARN] Disk space low
+[2025-11-05T23:20:41.039682] [INFO] Configuration loaded
+[2025-11-05T23:20:41.039826] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.039782] [WARN] Timeout warning
+[2025-11-05T23:20:41.039768] [INFO] Service initialized
+[2025-11-05T23:20:41.039744] [INFO] Transaction completed
+[2025-11-05T23:20:41.039811] [ERROR] Database connection lost
+[2025-11-05T23:20:41.039727] [INFO] User logged in
+[2025-11-05T23:20:41.039772] [INFO] Request processed successfully
+[2025-11-05T23:20:41.039801] [WARN] Disk space low

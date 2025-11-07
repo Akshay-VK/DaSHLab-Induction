@@ -1,0 +1,30 @@
+[2025-11-05T23:20:33.059349] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.059339] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.059256] [INFO] Configuration loaded
+[2025-11-05T23:20:33.059299] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.059274] [INFO] Configuration loaded
+[2025-11-05T23:20:33.059316] [ERROR] Disk read failed
+[2025-11-05T23:20:33.059249] [INFO] Cache hit
+[2025-11-05T23:20:33.059288] [INFO] Database query executed
+[2025-11-05T23:20:33.059304] [WARN] Deprecated API usage
+[2025-11-05T23:20:33.059267] [INFO] Database query executed
+[2025-11-05T23:20:33.059308] [WARN] Timeout warning
+[2025-11-05T23:20:33.059285] [INFO] User logged in
+[2025-11-05T23:20:33.059335] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.059260] [INFO] Service initialized
+[2025-11-05T23:20:33.059346] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.059295] [INFO] Service initialized
+[2025-11-05T23:20:33.059328] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.059332] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.059221] [INFO] Session started
+[2025-11-05T23:20:33.059253] [INFO] Service initialized
+[2025-11-05T23:20:33.059281] [INFO] User logged in
+[2025-11-05T23:20:33.059271] [INFO] Session started
+[2025-11-05T23:20:33.059263] [INFO] Service initialized
+[2025-11-05T23:20:33.059278] [INFO] Session started
+[2025-11-05T23:20:33.059342] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.059291] [INFO] User logged in
+[2025-11-05T23:20:33.059311] [WARN] Cache miss
+[2025-11-05T23:20:33.059320] [ERROR] Disk read failed
+[2025-11-05T23:20:33.059324] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.059244] [INFO] Configuration loaded

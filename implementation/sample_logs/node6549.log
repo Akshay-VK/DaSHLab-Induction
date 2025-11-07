@@ -1,0 +1,27 @@
+[2025-11-05T23:20:39.833587] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.833553] [INFO] Configuration loaded
+[2025-11-05T23:20:39.833581] [ERROR] File not found
+[2025-11-05T23:20:39.833601] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.833461] [INFO] Transaction completed
+[2025-11-05T23:20:39.833505] [INFO] Service initialized
+[2025-11-05T23:20:39.833523] [INFO] Transaction completed
+[2025-11-05T23:20:39.833568] [WARN] Cache miss
+[2025-11-05T23:20:39.833592] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.833531] [INFO] Configuration loaded
+[2025-11-05T23:20:39.833597] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.833527] [INFO] Transaction completed
+[2025-11-05T23:20:39.833535] [INFO] Connection established
+[2025-11-05T23:20:39.833517] [INFO] Cache hit
+[2025-11-05T23:20:39.833620] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.833611] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.833625] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.833615] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.833512] [INFO] Database query executed
+[2025-11-05T23:20:39.833607] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.833558] [INFO] Connection established
+[2025-11-05T23:20:39.833499] [INFO] Cache hit
+[2025-11-05T23:20:39.833544] [INFO] Database query executed
+[2025-11-05T23:20:39.833562] [INFO] Database query executed
+[2025-11-05T23:20:39.833575] [ERROR] Request failed
+[2025-11-05T23:20:39.833549] [INFO] Transaction completed
+[2025-11-05T23:20:39.833540] [INFO] Configuration loaded

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:38.153147] [WARN] Slow query performance
+[2025-11-05T23:20:38.153151] [WARN] Queue size growing
+[2025-11-05T23:20:38.153131] [INFO] Service initialized
+[2025-11-05T23:20:38.153099] [INFO] Session started
+[2025-11-05T23:20:38.153042] [INFO] Health check passed
+[2025-11-05T23:20:38.153141] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.153162] [ERROR] File not found
+[2025-11-05T23:20:38.153126] [INFO] User logged in
+[2025-11-05T23:20:38.153108] [INFO] Database query executed
+[2025-11-05T23:20:38.153185] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.153070] [INFO] Cache hit
+[2025-11-05T23:20:38.153103] [INFO] Service initialized
+[2025-11-05T23:20:38.153136] [WARN] Cache miss
+[2025-11-05T23:20:38.153176] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.153167] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.153075] [INFO] Connection established
+[2025-11-05T23:20:38.153118] [INFO] Service initialized
+[2025-11-05T23:20:38.153172] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.153113] [INFO] Connection established
+[2025-11-05T23:20:38.153189] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.153095] [INFO] Health check passed
+[2025-11-05T23:20:38.153180] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.153156] [ERROR] Permission denied
+[2025-11-05T23:20:38.153085] [INFO] Health check passed
+[2025-11-05T23:20:38.153122] [INFO] Connection established
+[2025-11-05T23:20:38.153193] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.153090] [INFO] Health check passed
+[2025-11-05T23:20:38.153080] [INFO] Transaction completed

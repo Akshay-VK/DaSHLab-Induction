@@ -1,0 +1,30 @@
+[2025-11-05T23:20:32.884981] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:32.884908] [INFO] Health check passed
+[2025-11-05T23:20:32.884896] [INFO] Health check passed
+[2025-11-05T23:20:32.884900] [INFO] Service initialized
+[2025-11-05T23:20:32.884855] [INFO] User logged in
+[2025-11-05T23:20:32.884936] [WARN] Rate limit approaching
+[2025-11-05T23:20:32.884879] [INFO] Session started
+[2025-11-05T23:20:32.884977] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.884944] [WARN] Cache miss
+[2025-11-05T23:20:32.884940] [WARN] Connection retry attempt
+[2025-11-05T23:20:32.884870] [INFO] Cache hit
+[2025-11-05T23:20:32.884861] [INFO] Connection established
+[2025-11-05T23:20:32.884888] [INFO] Cache hit
+[2025-11-05T23:20:32.884884] [INFO] Cache hit
+[2025-11-05T23:20:32.884914] [WARN] Slow query performance
+[2025-11-05T23:20:32.884918] [WARN] Cache miss
+[2025-11-05T23:20:32.884866] [INFO] Cache hit
+[2025-11-05T23:20:32.884875] [INFO] Database query executed
+[2025-11-05T23:20:32.884973] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.884829] [INFO] Cache hit
+[2025-11-05T23:20:32.884955] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.884892] [INFO] Service initialized
+[2025-11-05T23:20:32.884923] [WARN] Resource threshold approaching
+[2025-11-05T23:20:32.884950] [ERROR] Database connection lost
+[2025-11-05T23:20:32.884968] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.884964] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.884904] [INFO] Connection established
+[2025-11-05T23:20:32.884960] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.884927] [WARN] Connection retry attempt
+[2025-11-05T23:20:32.884931] [WARN] Disk space low

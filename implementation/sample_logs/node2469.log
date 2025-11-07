@@ -1,0 +1,25 @@
+[2025-11-05T23:20:22.932768] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.932723] [INFO] Session started
+[2025-11-05T23:20:22.932758] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.932777] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.932684] [INFO] User logged in
+[2025-11-05T23:20:22.932793] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.932734] [WARN] Queue size growing
+[2025-11-05T23:20:22.932713] [INFO] Cache hit
+[2025-11-05T23:20:22.932718] [INFO] Cache hit
+[2025-11-05T23:20:22.932705] [INFO] Cache hit
+[2025-11-05T23:20:22.932753] [ERROR] Permission denied
+[2025-11-05T23:20:22.932743] [ERROR] Invalid input data
+[2025-11-05T23:20:22.932748] [ERROR] Database connection lost
+[2025-11-05T23:20:22.932660] [INFO] Transaction completed
+[2025-11-05T23:20:22.932729] [WARN] Cache miss
+[2025-11-05T23:20:22.932701] [INFO] Health check passed
+[2025-11-05T23:20:22.932696] [INFO] Service initialized
+[2025-11-05T23:20:22.932709] [INFO] Cache hit
+[2025-11-05T23:20:22.932763] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.932691] [INFO] Request processed successfully
+[2025-11-05T23:20:22.932785] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.932781] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.932789] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.932772] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.932738] [WARN] Connection retry attempt

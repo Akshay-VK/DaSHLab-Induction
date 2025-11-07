@@ -1,0 +1,29 @@
+[2025-11-05T23:20:37.185078] [INFO] Service initialized
+[2025-11-05T23:20:37.185166] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.185132] [ERROR] Permission denied
+[2025-11-05T23:20:37.185154] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.185074] [INFO] Configuration loaded
+[2025-11-05T23:20:37.185082] [INFO] Service initialized
+[2025-11-05T23:20:37.185098] [INFO] Configuration loaded
+[2025-11-05T23:20:37.185162] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.185145] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.185150] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.185174] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.185029] [INFO] User logged in
+[2025-11-05T23:20:37.185111] [WARN] Slow query performance
+[2025-11-05T23:20:37.185058] [INFO] Request processed successfully
+[2025-11-05T23:20:37.185157] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.185116] [WARN] Disk space low
+[2025-11-05T23:20:37.185052] [INFO] Service initialized
+[2025-11-05T23:20:37.185086] [INFO] Configuration loaded
+[2025-11-05T23:20:37.185170] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.185090] [INFO] Health check passed
+[2025-11-05T23:20:37.185121] [WARN] Rate limit approaching
+[2025-11-05T23:20:37.185070] [INFO] Configuration loaded
+[2025-11-05T23:20:37.185106] [INFO] User logged in
+[2025-11-05T23:20:37.185140] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.185066] [INFO] Database query executed
+[2025-11-05T23:20:37.185062] [INFO] Configuration loaded
+[2025-11-05T23:20:37.185102] [INFO] Database query executed
+[2025-11-05T23:20:37.185094] [INFO] Database query executed
+[2025-11-05T23:20:37.185128] [ERROR] File not found

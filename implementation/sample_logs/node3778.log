@@ -1,0 +1,30 @@
+[2025-11-05T23:20:28.793293] [INFO] Service initialized
+[2025-11-05T23:20:28.793338] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.793247] [INFO] Database query executed
+[2025-11-05T23:20:28.793342] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.793286] [INFO] Cache hit
+[2025-11-05T23:20:28.793270] [INFO] Session started
+[2025-11-05T23:20:28.793311] [WARN] Deprecated API usage
+[2025-11-05T23:20:28.793324] [ERROR] Database connection lost
+[2025-11-05T23:20:28.793290] [INFO] Database query executed
+[2025-11-05T23:20:28.793315] [WARN] Rate limit approaching
+[2025-11-05T23:20:28.793302] [WARN] Disk space low
+[2025-11-05T23:20:28.793328] [ERROR] Permission denied
+[2025-11-05T23:20:28.793297] [INFO] Request processed successfully
+[2025-11-05T23:20:28.793278] [INFO] Cache hit
+[2025-11-05T23:20:28.793319] [WARN] Rate limit approaching
+[2025-11-05T23:20:28.793357] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.793361] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.793266] [INFO] Request processed successfully
+[2025-11-05T23:20:28.793364] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.793346] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.793333] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.793253] [INFO] Health check passed
+[2025-11-05T23:20:28.793307] [WARN] Queue size growing
+[2025-11-05T23:20:28.793223] [INFO] Service initialized
+[2025-11-05T23:20:28.793354] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.793282] [INFO] Service initialized
+[2025-11-05T23:20:28.793261] [INFO] Configuration loaded
+[2025-11-05T23:20:28.793257] [INFO] Database query executed
+[2025-11-05T23:20:28.793350] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.793274] [INFO] Connection established

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:52.884208] [WARN] Queue size growing
+[2025-11-05T23:20:52.884145] [INFO] Health check passed
+[2025-11-05T23:20:52.884173] [INFO] Database query executed
+[2025-11-05T23:20:52.884274] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.884214] [WARN] Rate limit approaching
+[2025-11-05T23:20:52.884240] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.884133] [INFO] Connection established
+[2025-11-05T23:20:52.884246] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.884269] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.884263] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.884203] [WARN] Timeout warning
+[2025-11-05T23:20:52.884184] [INFO] Connection established
+[2025-11-05T23:20:52.884227] [ERROR] Memory allocation error
+[2025-11-05T23:20:52.884279] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.884233] [ERROR] Authentication failed
+[2025-11-05T23:20:52.884252] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.884126] [INFO] Session started
+[2025-11-05T23:20:52.884162] [INFO] Configuration loaded
+[2025-11-05T23:20:52.884197] [WARN] Queue size growing
+[2025-11-05T23:20:52.884168] [INFO] Connection established
+[2025-11-05T23:20:52.884179] [INFO] Health check passed
+[2025-11-05T23:20:52.884257] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.884140] [INFO] Health check passed
+[2025-11-05T23:20:52.884099] [INFO] Health check passed
+[2025-11-05T23:20:52.884191] [WARN] Connection retry attempt
+[2025-11-05T23:20:52.884221] [ERROR] File not found
+[2025-11-05T23:20:52.884151] [INFO] Connection established
+[2025-11-05T23:20:52.884157] [INFO] Health check passed

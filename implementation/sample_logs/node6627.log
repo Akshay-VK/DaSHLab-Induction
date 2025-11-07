@@ -1,0 +1,31 @@
+[2025-11-05T23:20:40.091541] [INFO] Database query executed
+[2025-11-05T23:20:40.091589] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.091505] [INFO] Connection established
+[2025-11-05T23:20:40.091628] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.091567] [WARN] Timeout warning
+[2025-11-05T23:20:40.091484] [INFO] Connection established
+[2025-11-05T23:20:40.091562] [WARN] Slow query performance
+[2025-11-05T23:20:40.091537] [INFO] Transaction completed
+[2025-11-05T23:20:40.091495] [INFO] Health check passed
+[2025-11-05T23:20:40.091528] [INFO] Cache hit
+[2025-11-05T23:20:40.091594] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.091614] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.091456] [INFO] Connection established
+[2025-11-05T23:20:40.091578] [ERROR] Request failed
+[2025-11-05T23:20:40.091583] [ERROR] File not found
+[2025-11-05T23:20:40.091490] [INFO] Transaction completed
+[2025-11-05T23:20:40.091550] [INFO] Connection established
+[2025-11-05T23:20:40.091572] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.091604] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.091599] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.091519] [INFO] Configuration loaded
+[2025-11-05T23:20:40.091514] [INFO] Service initialized
+[2025-11-05T23:20:40.091524] [INFO] Service initialized
+[2025-11-05T23:20:40.091546] [INFO] Connection established
+[2025-11-05T23:20:40.091510] [INFO] Request processed successfully
+[2025-11-05T23:20:40.091619] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.091500] [INFO] Database query executed
+[2025-11-05T23:20:40.091623] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.091533] [INFO] Request processed successfully
+[2025-11-05T23:20:40.091608] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.091556] [WARN] Deprecated API usage

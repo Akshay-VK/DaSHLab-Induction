@@ -1,0 +1,36 @@
+[2025-11-05T23:20:38.636008] [INFO] Session started
+[2025-11-05T23:20:38.635976] [INFO] Session started
+[2025-11-05T23:20:38.635980] [INFO] Session started
+[2025-11-05T23:20:38.636057] [ERROR] Database connection lost
+[2025-11-05T23:20:38.636018] [INFO] Health check passed
+[2025-11-05T23:20:38.636096] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.636012] [INFO] Database query executed
+[2025-11-05T23:20:38.636042] [WARN] Cache miss
+[2025-11-05T23:20:38.636037] [WARN] Cache miss
+[2025-11-05T23:20:38.636091] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.636033] [WARN] Disk space low
+[2025-11-05T23:20:38.636082] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.636064] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.636022] [INFO] Request processed successfully
+[2025-11-05T23:20:38.635966] [INFO] Transaction completed
+[2025-11-05T23:20:38.636027] [WARN] Timeout warning
+[2025-11-05T23:20:38.636105] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.636101] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.635940] [INFO] User logged in
+[2025-11-05T23:20:38.636078] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.636003] [INFO] User logged in
+[2025-11-05T23:20:38.635961] [INFO] User logged in
+[2025-11-05T23:20:38.636086] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.635999] [INFO] Connection established
+[2025-11-05T23:20:38.635990] [INFO] Request processed successfully
+[2025-11-05T23:20:38.635951] [INFO] Session started
+[2025-11-05T23:20:38.636069] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.635985] [INFO] Transaction completed
+[2025-11-05T23:20:38.635913] [INFO] Service initialized
+[2025-11-05T23:20:38.635956] [INFO] Transaction completed
+[2025-11-05T23:20:38.635994] [INFO] Request processed successfully
+[2025-11-05T23:20:38.636047] [WARN] Queue size growing
+[2025-11-05T23:20:38.636073] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.635946] [INFO] Connection established
+[2025-11-05T23:20:38.635971] [INFO] Service initialized
+[2025-11-05T23:20:38.636051] [WARN] Deprecated API usage

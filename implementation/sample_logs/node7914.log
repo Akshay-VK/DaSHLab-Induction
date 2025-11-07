@@ -1,0 +1,28 @@
+[2025-11-05T23:20:45.135089] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.134992] [INFO] Cache hit
+[2025-11-05T23:20:45.135015] [INFO] Connection established
+[2025-11-05T23:20:45.134940] [INFO] Request processed successfully
+[2025-11-05T23:20:45.135004] [INFO] Transaction completed
+[2025-11-05T23:20:45.134975] [INFO] Health check passed
+[2025-11-05T23:20:45.135130] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.135103] [ERROR] Disk read failed
+[2025-11-05T23:20:45.134988] [INFO] Database query executed
+[2025-11-05T23:20:45.135116] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.134971] [INFO] Health check passed
+[2025-11-05T23:20:45.135126] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.135000] [INFO] Health check passed
+[2025-11-05T23:20:45.135077] [INFO] Request processed successfully
+[2025-11-05T23:20:45.134996] [INFO] Cache hit
+[2025-11-05T23:20:45.134979] [INFO] Transaction completed
+[2025-11-05T23:20:45.135135] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.135121] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.134983] [INFO] Session started
+[2025-11-05T23:20:45.135107] [ERROR] Memory allocation error
+[2025-11-05T23:20:45.135011] [INFO] User logged in
+[2025-11-05T23:20:45.135068] [INFO] Health check passed
+[2025-11-05T23:20:45.135093] [WARN] Slow query performance
+[2025-11-05T23:20:45.135083] [WARN] Queue size growing
+[2025-11-05T23:20:45.134965] [INFO] Cache hit
+[2025-11-05T23:20:45.135008] [INFO] Request processed successfully
+[2025-11-05T23:20:45.135098] [WARN] Deprecated API usage
+[2025-11-05T23:20:45.135112] [DEBUG] Cache key generated

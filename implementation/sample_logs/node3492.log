@@ -1,0 +1,29 @@
+[2025-11-05T23:20:27.634896] [WARN] Queue size growing
+[2025-11-05T23:20:27.634874] [INFO] User logged in
+[2025-11-05T23:20:27.634865] [INFO] Cache hit
+[2025-11-05T23:20:27.634870] [INFO] Service initialized
+[2025-11-05T23:20:27.634861] [INFO] Health check passed
+[2025-11-05T23:20:27.634818] [INFO] Request processed successfully
+[2025-11-05T23:20:27.634930] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.634838] [INFO] Cache hit
+[2025-11-05T23:20:27.634892] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.634828] [INFO] Service initialized
+[2025-11-05T23:20:27.634939] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.634857] [INFO] Configuration loaded
+[2025-11-05T23:20:27.634833] [INFO] Request processed successfully
+[2025-11-05T23:20:27.634784] [INFO] Health check passed
+[2025-11-05T23:20:27.634812] [INFO] Transaction completed
+[2025-11-05T23:20:27.634847] [INFO] Request processed successfully
+[2025-11-05T23:20:27.634912] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.634886] [WARN] Slow query performance
+[2025-11-05T23:20:27.634922] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.634917] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.634907] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.634944] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.634881] [WARN] Timeout warning
+[2025-11-05T23:20:27.634823] [INFO] Configuration loaded
+[2025-11-05T23:20:27.634926] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.634935] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.634842] [INFO] Cache hit
+[2025-11-05T23:20:27.634902] [ERROR] Network timeout
+[2025-11-05T23:20:27.634852] [INFO] Database query executed

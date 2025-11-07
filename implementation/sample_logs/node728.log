@@ -1,0 +1,32 @@
+[2025-11-05T23:20:15.562889] [INFO] Service initialized
+[2025-11-05T23:20:15.562990] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.562943] [ERROR] File not found
+[2025-11-05T23:20:15.562820] [INFO] Connection established
+[2025-11-05T23:20:15.562872] [INFO] User logged in
+[2025-11-05T23:20:15.562893] [INFO] Request processed successfully
+[2025-11-05T23:20:15.562868] [INFO] Request processed successfully
+[2025-11-05T23:20:15.562977] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.562930] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.562972] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.562913] [INFO] Cache hit
+[2025-11-05T23:20:15.562879] [INFO] Transaction completed
+[2025-11-05T23:20:15.562958] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.562981] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.562964] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.562901] [INFO] Transaction completed
+[2025-11-05T23:20:15.562949] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.562905] [INFO] Database query executed
+[2025-11-05T23:20:15.562939] [ERROR] Memory allocation error
+[2025-11-05T23:20:15.562854] [INFO] Database query executed
+[2025-11-05T23:20:15.562934] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.562919] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.562864] [INFO] User logged in
+[2025-11-05T23:20:15.562986] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.562909] [INFO] Cache hit
+[2025-11-05T23:20:15.562847] [INFO] User logged in
+[2025-11-05T23:20:15.562954] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.562859] [INFO] User logged in
+[2025-11-05T23:20:15.562884] [INFO] Request processed successfully
+[2025-11-05T23:20:15.562925] [WARN] Deprecated API usage
+[2025-11-05T23:20:15.562897] [INFO] Service initialized
+[2025-11-05T23:20:15.562968] [DEBUG] Memory allocation: 2048 bytes

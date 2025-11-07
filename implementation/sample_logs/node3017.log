@@ -1,0 +1,29 @@
+[2025-11-05T23:20:25.407877] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.407857] [ERROR] Memory allocation error
+[2025-11-05T23:20:25.407846] [WARN] Resource threshold approaching
+[2025-11-05T23:20:25.407807] [INFO] Transaction completed
+[2025-11-05T23:20:25.407882] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.407868] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.407825] [INFO] Service initialized
+[2025-11-05T23:20:25.407891] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.407792] [INFO] Session started
+[2025-11-05T23:20:25.407829] [INFO] Database query executed
+[2025-11-05T23:20:25.407851] [WARN] Resource threshold approaching
+[2025-11-05T23:20:25.407887] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.407820] [INFO] Health check passed
+[2025-11-05T23:20:25.407767] [INFO] Cache hit
+[2025-11-05T23:20:25.407835] [WARN] Slow query performance
+[2025-11-05T23:20:25.407761] [INFO] Transaction completed
+[2025-11-05T23:20:25.407735] [INFO] Session started
+[2025-11-05T23:20:25.407797] [INFO] Service initialized
+[2025-11-05T23:20:25.407862] [ERROR] Invalid input data
+[2025-11-05T23:20:25.407802] [INFO] Service initialized
+[2025-11-05T23:20:25.407896] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.407782] [INFO] Cache hit
+[2025-11-05T23:20:25.407841] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.407811] [INFO] Cache hit
+[2025-11-05T23:20:25.407787] [INFO] Session started
+[2025-11-05T23:20:25.407873] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.407772] [INFO] Database query executed
+[2025-11-05T23:20:25.407777] [INFO] Health check passed
+[2025-11-05T23:20:25.407816] [INFO] Service initialized

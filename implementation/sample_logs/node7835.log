@@ -1,0 +1,29 @@
+[2025-11-05T23:20:44.848299] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.848304] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.848223] [INFO] Transaction completed
+[2025-11-05T23:20:44.848188] [INFO] Transaction completed
+[2025-11-05T23:20:44.848197] [INFO] Health check passed
+[2025-11-05T23:20:44.848183] [INFO] Cache hit
+[2025-11-05T23:20:44.848261] [ERROR] Request failed
+[2025-11-05T23:20:44.848256] [WARN] Disk space low
+[2025-11-05T23:20:44.848192] [INFO] Database query executed
+[2025-11-05T23:20:44.848236] [INFO] User logged in
+[2025-11-05T23:20:44.848247] [WARN] Slow query performance
+[2025-11-05T23:20:44.848147] [INFO] Transaction completed
+[2025-11-05T23:20:44.848241] [WARN] High memory usage detected
+[2025-11-05T23:20:44.848232] [INFO] Request processed successfully
+[2025-11-05T23:20:44.848281] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.848209] [INFO] User logged in
+[2025-11-05T23:20:44.848291] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.848205] [INFO] Service initialized
+[2025-11-05T23:20:44.848271] [ERROR] Permission denied
+[2025-11-05T23:20:44.848252] [WARN] Slow query performance
+[2025-11-05T23:20:44.848227] [INFO] Cache hit
+[2025-11-05T23:20:44.848295] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.848177] [INFO] Connection established
+[2025-11-05T23:20:44.848201] [INFO] Health check passed
+[2025-11-05T23:20:44.848286] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.848214] [INFO] Service initialized
+[2025-11-05T23:20:44.848267] [ERROR] Disk read failed
+[2025-11-05T23:20:44.848219] [INFO] Transaction completed
+[2025-11-05T23:20:44.848276] [DEBUG] Loop iteration: 15

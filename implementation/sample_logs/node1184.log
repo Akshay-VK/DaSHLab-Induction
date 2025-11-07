@@ -1,0 +1,29 @@
+[2025-11-05T23:20:17.444064] [INFO] Connection established
+[2025-11-05T23:20:17.444161] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.444045] [INFO] Connection established
+[2025-11-05T23:20:17.444040] [INFO] Session started
+[2025-11-05T23:20:17.444060] [INFO] Health check passed
+[2025-11-05T23:20:17.444124] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.444072] [INFO] Transaction completed
+[2025-11-05T23:20:17.444105] [ERROR] File not found
+[2025-11-05T23:20:17.444050] [INFO] Request processed successfully
+[2025-11-05T23:20:17.444133] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.444093] [INFO] Database query executed
+[2025-11-05T23:20:17.444034] [INFO] Cache hit
+[2025-11-05T23:20:17.444143] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.444148] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.444115] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.444076] [INFO] Connection established
+[2025-11-05T23:20:17.444080] [INFO] Configuration loaded
+[2025-11-05T23:20:17.444120] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.444157] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.444138] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.444084] [INFO] Health check passed
+[2025-11-05T23:20:17.444055] [INFO] Cache hit
+[2025-11-05T23:20:17.444129] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.444152] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.444089] [INFO] Configuration loaded
+[2025-11-05T23:20:17.444110] [ERROR] Request failed
+[2025-11-05T23:20:17.444099] [WARN] Connection retry attempt
+[2025-11-05T23:20:17.444008] [INFO] Database query executed
+[2025-11-05T23:20:17.444068] [INFO] Cache hit

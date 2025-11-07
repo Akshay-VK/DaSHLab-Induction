@@ -1,0 +1,27 @@
+[2025-11-05T23:20:22.884668] [INFO] Connection established
+[2025-11-05T23:20:22.884641] [INFO] Service initialized
+[2025-11-05T23:20:22.884686] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.884638] [INFO] Cache hit
+[2025-11-05T23:20:22.884701] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.884634] [INFO] Configuration loaded
+[2025-11-05T23:20:22.884645] [INFO] Health check passed
+[2025-11-05T23:20:22.884694] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.884690] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.884620] [INFO] Transaction completed
+[2025-11-05T23:20:22.884708] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.884677] [ERROR] Authentication failed
+[2025-11-05T23:20:22.884697] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.884592] [INFO] Session started
+[2025-11-05T23:20:22.884672] [WARN] Slow query performance
+[2025-11-05T23:20:22.884626] [INFO] Cache hit
+[2025-11-05T23:20:22.884662] [INFO] Health check passed
+[2025-11-05T23:20:22.884711] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.884665] [INFO] Transaction completed
+[2025-11-05T23:20:22.884652] [INFO] Session started
+[2025-11-05T23:20:22.884714] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.884682] [ERROR] Database connection lost
+[2025-11-05T23:20:22.884630] [INFO] Request processed successfully
+[2025-11-05T23:20:22.884655] [INFO] Connection established
+[2025-11-05T23:20:22.884648] [INFO] Session started
+[2025-11-05T23:20:22.884704] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.884659] [INFO] Transaction completed

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:47.182098] [ERROR] Memory allocation error
+[2025-11-05T23:20:47.181953] [INFO] User logged in
+[2025-11-05T23:20:47.182116] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.181957] [INFO] Service initialized
+[2025-11-05T23:20:47.182089] [ERROR] Authentication failed
+[2025-11-05T23:20:47.182137] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.181924] [INFO] Cache hit
+[2025-11-05T23:20:47.182127] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.182008] [WARN] Deprecated API usage
+[2025-11-05T23:20:47.182120] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.181995] [INFO] Session started
+[2025-11-05T23:20:47.181984] [INFO] Database query executed
+[2025-11-05T23:20:47.182012] [WARN] Slow query performance
+[2025-11-05T23:20:47.182132] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.181962] [INFO] Health check passed
+[2025-11-05T23:20:47.182109] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.181991] [INFO] Configuration loaded
+[2025-11-05T23:20:47.181966] [INFO] Connection established
+[2025-11-05T23:20:47.181981] [INFO] Transaction completed
+[2025-11-05T23:20:47.182004] [WARN] Rate limit approaching
+[2025-11-05T23:20:47.182124] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.181977] [INFO] Request processed successfully
+[2025-11-05T23:20:47.182017] [WARN] Timeout warning
+[2025-11-05T23:20:47.181988] [INFO] Transaction completed
+[2025-11-05T23:20:47.182104] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.181970] [INFO] Health check passed
+[2025-11-05T23:20:47.181947] [INFO] Request processed successfully
+[2025-11-05T23:20:47.181973] [INFO] Configuration loaded
+[2025-11-05T23:20:47.182112] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.181999] [INFO] Transaction completed

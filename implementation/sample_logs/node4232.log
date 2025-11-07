@@ -1,0 +1,30 @@
+[2025-11-05T23:20:30.558835] [INFO] Session started
+[2025-11-05T23:20:30.558848] [INFO] Request processed successfully
+[2025-11-05T23:20:30.576259] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.558881] [ERROR] File not found
+[2025-11-05T23:20:30.558793] [INFO] Database query executed
+[2025-11-05T23:20:30.558910] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.558914] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.558808] [INFO] Cache hit
+[2025-11-05T23:20:30.558818] [INFO] Database query executed
+[2025-11-05T23:20:30.558813] [INFO] Cache hit
+[2025-11-05T23:20:30.558874] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.558822] [INFO] Cache hit
+[2025-11-05T23:20:30.576250] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.558844] [INFO] Transaction completed
+[2025-11-05T23:20:30.558887] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.558901] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.558864] [WARN] Queue size growing
+[2025-11-05T23:20:30.558853] [INFO] Cache hit
+[2025-11-05T23:20:30.558905] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.558804] [INFO] Cache hit
+[2025-11-05T23:20:30.558919] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.558892] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.558831] [INFO] Database query executed
+[2025-11-05T23:20:30.558827] [INFO] Cache hit
+[2025-11-05T23:20:30.558840] [INFO] Transaction completed
+[2025-11-05T23:20:30.558870] [WARN] Resource threshold approaching
+[2025-11-05T23:20:30.558896] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.558767] [INFO] Cache hit
+[2025-11-05T23:20:30.558859] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.558798] [INFO] Health check passed

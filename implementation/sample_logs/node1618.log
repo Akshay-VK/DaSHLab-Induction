@@ -1,0 +1,32 @@
+[2025-11-05T23:20:19.443628] [INFO] Configuration loaded
+[2025-11-05T23:20:19.443685] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.443674] [ERROR] Disk read failed
+[2025-11-05T23:20:19.443642] [INFO] Database query executed
+[2025-11-05T23:20:19.443611] [INFO] Configuration loaded
+[2025-11-05T23:20:19.443602] [INFO] Database query executed
+[2025-11-05T23:20:19.443624] [INFO] Database query executed
+[2025-11-05T23:20:19.443547] [INFO] Health check passed
+[2025-11-05T23:20:19.443713] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.443717] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.443689] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.443584] [INFO] Database query executed
+[2025-11-05T23:20:19.443703] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.443698] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.443579] [INFO] Configuration loaded
+[2025-11-05T23:20:19.443606] [INFO] Cache hit
+[2025-11-05T23:20:19.443708] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.443663] [WARN] Deprecated API usage
+[2025-11-05T23:20:19.443615] [INFO] Health check passed
+[2025-11-05T23:20:19.443680] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.443658] [WARN] Connection retry attempt
+[2025-11-05T23:20:19.443694] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.443574] [INFO] Session started
+[2025-11-05T23:20:19.443589] [INFO] Transaction completed
+[2025-11-05T23:20:19.443653] [WARN] Deprecated API usage
+[2025-11-05T23:20:19.443620] [INFO] Health check passed
+[2025-11-05T23:20:19.443669] [ERROR] Authentication failed
+[2025-11-05T23:20:19.443648] [WARN] Deprecated API usage
+[2025-11-05T23:20:19.443593] [INFO] Database query executed
+[2025-11-05T23:20:19.443637] [INFO] Session started
+[2025-11-05T23:20:19.443633] [INFO] Request processed successfully
+[2025-11-05T23:20:19.443598] [INFO] User logged in

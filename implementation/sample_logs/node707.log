@@ -1,0 +1,30 @@
+[2025-11-05T23:20:15.491085] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.491040] [WARN] Slow query performance
+[2025-11-05T23:20:15.490978] [INFO] User logged in
+[2025-11-05T23:20:15.491082] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.491057] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.491002] [INFO] User logged in
+[2025-11-05T23:20:15.491009] [INFO] Configuration loaded
+[2025-11-05T23:20:15.491013] [INFO] Cache hit
+[2025-11-05T23:20:15.491064] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.491075] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.490987] [INFO] Connection established
+[2025-11-05T23:20:15.491005] [INFO] Connection established
+[2025-11-05T23:20:15.491078] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.491016] [INFO] User logged in
+[2025-11-05T23:20:15.491067] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.491044] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.490953] [INFO] Database query executed
+[2025-11-05T23:20:15.490995] [INFO] User logged in
+[2025-11-05T23:20:15.491049] [ERROR] Authentication failed
+[2025-11-05T23:20:15.491032] [WARN] High memory usage detected
+[2025-11-05T23:20:15.491052] [ERROR] Memory allocation error
+[2025-11-05T23:20:15.491036] [WARN] Connection retry attempt
+[2025-11-05T23:20:15.491071] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.490991] [INFO] Database query executed
+[2025-11-05T23:20:15.491028] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.491023] [INFO] Health check passed
+[2025-11-05T23:20:15.490983] [INFO] Request processed successfully
+[2025-11-05T23:20:15.491061] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.491019] [INFO] Transaction completed
+[2025-11-05T23:20:15.490998] [INFO] Configuration loaded

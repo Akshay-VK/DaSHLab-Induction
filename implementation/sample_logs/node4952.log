@@ -1,0 +1,27 @@
+[2025-11-05T23:20:33.449444] [INFO] Configuration loaded
+[2025-11-05T23:20:33.449379] [INFO] Transaction completed
+[2025-11-05T23:20:33.449528] [ERROR] Request failed
+[2025-11-05T23:20:33.449570] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.449457] [INFO] User logged in
+[2025-11-05T23:20:33.449540] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.449436] [INFO] Health check passed
+[2025-11-05T23:20:33.449581] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.449418] [INFO] Health check passed
+[2025-11-05T23:20:33.449564] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.449544] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.449517] [ERROR] Disk read failed
+[2025-11-05T23:20:33.449534] [ERROR] Service unavailable
+[2025-11-05T23:20:33.449575] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.449431] [INFO] Connection established
+[2025-11-05T23:20:33.449449] [INFO] Health check passed
+[2025-11-05T23:20:33.449426] [INFO] Cache hit
+[2025-11-05T23:20:33.449407] [INFO] Configuration loaded
+[2025-11-05T23:20:33.449413] [INFO] User logged in
+[2025-11-05T23:20:33.449560] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.449463] [WARN] Resource threshold approaching
+[2025-11-05T23:20:33.449422] [INFO] Connection established
+[2025-11-05T23:20:33.449440] [INFO] Connection established
+[2025-11-05T23:20:33.449550] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.449453] [INFO] Database query executed
+[2025-11-05T23:20:33.449468] [WARN] Slow query performance
+[2025-11-05T23:20:33.449555] [DEBUG] Entering function process_data()

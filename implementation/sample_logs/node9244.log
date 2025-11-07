@@ -1,0 +1,31 @@
+[2025-11-05T23:20:50.675359] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.675300] [INFO] Cache hit
+[2025-11-05T23:20:50.675304] [INFO] Health check passed
+[2025-11-05T23:20:50.675291] [INFO] Connection established
+[2025-11-05T23:20:50.675287] [INFO] Request processed successfully
+[2025-11-05T23:20:50.675327] [WARN] Rate limit approaching
+[2025-11-05T23:20:50.675308] [INFO] Connection established
+[2025-11-05T23:20:50.675283] [INFO] Connection established
+[2025-11-05T23:20:50.675351] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.675371] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.675275] [INFO] Cache hit
+[2025-11-05T23:20:50.675379] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.675279] [INFO] Cache hit
+[2025-11-05T23:20:50.675375] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.675367] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.675261] [INFO] Service initialized
+[2025-11-05T23:20:50.675341] [ERROR] Authentication failed
+[2025-11-05T23:20:50.675255] [INFO] Database query executed
+[2025-11-05T23:20:50.675383] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.675312] [INFO] Connection established
+[2025-11-05T23:20:50.675230] [INFO] Service initialized
+[2025-11-05T23:20:50.675323] [WARN] Resource threshold approaching
+[2025-11-05T23:20:50.675270] [INFO] Health check passed
+[2025-11-05T23:20:50.675318] [WARN] Rate limit approaching
+[2025-11-05T23:20:50.675355] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.675266] [INFO] Health check passed
+[2025-11-05T23:20:50.675364] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.675335] [WARN] Cache miss
+[2025-11-05T23:20:50.675295] [INFO] Health check passed
+[2025-11-05T23:20:50.675345] [ERROR] Disk read failed
+[2025-11-05T23:20:50.675331] [WARN] Deprecated API usage

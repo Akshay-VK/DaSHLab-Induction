@@ -1,0 +1,37 @@
+[2025-11-05T23:20:42.650193] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.650187] [WARN] Queue size growing
+[2025-11-05T23:20:42.650235] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.650226] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.650119] [INFO] Session started
+[2025-11-05T23:20:42.650211] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.650166] [INFO] Service initialized
+[2025-11-05T23:20:42.650131] [INFO] User logged in
+[2025-11-05T23:20:42.650177] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.650136] [INFO] Service initialized
+[2025-11-05T23:20:42.650123] [INFO] Cache hit
+[2025-11-05T23:20:42.650127] [INFO] Request processed successfully
+[2025-11-05T23:20:42.650068] [INFO] Request processed successfully
+[2025-11-05T23:20:42.650217] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.650157] [INFO] Session started
+[2025-11-05T23:20:42.650102] [INFO] Session started
+[2025-11-05T23:20:42.650172] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.650149] [INFO] Service initialized
+[2025-11-05T23:20:42.650248] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.650257] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.650243] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.650153] [INFO] Transaction completed
+[2025-11-05T23:20:42.650096] [INFO] Cache hit
+[2025-11-05T23:20:42.650182] [WARN] High memory usage detected
+[2025-11-05T23:20:42.650162] [INFO] Session started
+[2025-11-05T23:20:42.650261] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.650144] [INFO] Database query executed
+[2025-11-05T23:20:42.650265] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.650108] [INFO] Service initialized
+[2025-11-05T23:20:42.650199] [ERROR] Disk read failed
+[2025-11-05T23:20:42.650140] [INFO] Connection established
+[2025-11-05T23:20:42.650239] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.650253] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.650114] [INFO] Health check passed
+[2025-11-05T23:20:42.650231] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.650221] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.650205] [ERROR] Request failed

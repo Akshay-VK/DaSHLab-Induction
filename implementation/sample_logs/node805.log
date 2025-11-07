@@ -1,0 +1,28 @@
+[2025-11-05T23:20:15.816740] [INFO] Cache hit
+[2025-11-05T23:20:15.816779] [INFO] User logged in
+[2025-11-05T23:20:15.816823] [ERROR] Permission denied
+[2025-11-05T23:20:15.816818] [ERROR] Authentication failed
+[2025-11-05T23:20:15.816787] [INFO] Request processed successfully
+[2025-11-05T23:20:15.816745] [INFO] User logged in
+[2025-11-05T23:20:15.816774] [INFO] Transaction completed
+[2025-11-05T23:20:15.816750] [INFO] Cache hit
+[2025-11-05T23:20:15.816712] [INFO] Database query executed
+[2025-11-05T23:20:15.816862] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.816828] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.816793] [WARN] Slow query performance
+[2025-11-05T23:20:15.816852] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.816811] [WARN] Timeout warning
+[2025-11-05T23:20:15.816839] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.816760] [INFO] Session started
+[2025-11-05T23:20:15.816843] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.816847] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.816802] [WARN] Connection retry attempt
+[2025-11-05T23:20:15.816834] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.816769] [INFO] Session started
+[2025-11-05T23:20:15.816857] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.816783] [INFO] Session started
+[2025-11-05T23:20:15.816755] [INFO] Request processed successfully
+[2025-11-05T23:20:15.816867] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.816798] [WARN] Deprecated API usage
+[2025-11-05T23:20:15.816807] [WARN] Deprecated API usage
+[2025-11-05T23:20:15.816765] [INFO] Service initialized

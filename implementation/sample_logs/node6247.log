@@ -1,0 +1,37 @@
+[2025-11-05T23:20:38.657762] [ERROR] Disk read failed
+[2025-11-05T23:20:38.657814] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.657694] [INFO] Service initialized
+[2025-11-05T23:20:38.657801] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.657689] [INFO] Transaction completed
+[2025-11-05T23:20:38.657734] [INFO] Transaction completed
+[2025-11-05T23:20:38.657647] [INFO] Health check passed
+[2025-11-05T23:20:38.657680] [INFO] Session started
+[2025-11-05T23:20:38.657722] [INFO] Service initialized
+[2025-11-05T23:20:38.657809] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.657726] [INFO] Service initialized
+[2025-11-05T23:20:38.657797] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.657826] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.657793] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.657719] [INFO] Configuration loaded
+[2025-11-05T23:20:38.657698] [INFO] Cache hit
+[2025-11-05T23:20:38.657757] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.657710] [INFO] Session started
+[2025-11-05T23:20:38.657805] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.657745] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.657749] [WARN] Timeout warning
+[2025-11-05T23:20:38.657781] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.657739] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.657772] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.657818] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.657715] [INFO] Request processed successfully
+[2025-11-05T23:20:38.657685] [INFO] Transaction completed
+[2025-11-05T23:20:38.657675] [INFO] Transaction completed
+[2025-11-05T23:20:38.657702] [INFO] Service initialized
+[2025-11-05T23:20:38.657790] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.657768] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.657822] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.657706] [INFO] Cache hit
+[2025-11-05T23:20:38.657786] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.657777] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.657753] [WARN] Slow query performance
+[2025-11-05T23:20:38.657730] [INFO] User logged in

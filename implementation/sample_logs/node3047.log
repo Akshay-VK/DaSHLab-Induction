@@ -1,0 +1,35 @@
+[2025-11-05T23:20:25.560569] [INFO] Configuration loaded
+[2025-11-05T23:20:25.560659] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.560625] [WARN] High memory usage detected
+[2025-11-05T23:20:25.560669] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.560634] [WARN] Timeout warning
+[2025-11-05T23:20:25.560616] [WARN] Disk space low
+[2025-11-05T23:20:25.560607] [WARN] Resource threshold approaching
+[2025-11-05T23:20:25.560565] [INFO] Cache hit
+[2025-11-05T23:20:25.560682] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.560589] [WARN] High memory usage detected
+[2025-11-05T23:20:25.560584] [WARN] Rate limit approaching
+[2025-11-05T23:20:25.560673] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.560621] [WARN] Disk space low
+[2025-11-05T23:20:25.560560] [INFO] Database query executed
+[2025-11-05T23:20:25.560677] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.560655] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.560544] [INFO] Request processed successfully
+[2025-11-05T23:20:25.560505] [INFO] Session started
+[2025-11-05T23:20:25.560664] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.560639] [ERROR] File not found
+[2025-11-05T23:20:25.560578] [INFO] User logged in
+[2025-11-05T23:20:25.560574] [INFO] Database query executed
+[2025-11-05T23:20:25.560649] [ERROR] File not found
+[2025-11-05T23:20:25.560551] [INFO] Service initialized
+[2025-11-05T23:20:25.560556] [INFO] Health check passed
+[2025-11-05T23:20:25.560691] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.560612] [WARN] High memory usage detected
+[2025-11-05T23:20:25.560539] [INFO] Session started
+[2025-11-05T23:20:25.560686] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.560533] [INFO] Health check passed
+[2025-11-05T23:20:25.560629] [WARN] Deprecated API usage
+[2025-11-05T23:20:25.560603] [WARN] Queue size growing
+[2025-11-05T23:20:25.560644] [ERROR] Permission denied
+[2025-11-05T23:20:25.560594] [WARN] Timeout warning
+[2025-11-05T23:20:25.560598] [WARN] Connection retry attempt

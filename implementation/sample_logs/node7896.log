@@ -1,0 +1,31 @@
+[2025-11-05T23:20:45.025396] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.025305] [INFO] Connection established
+[2025-11-05T23:20:45.025367] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.025375] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.025389] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.025297] [INFO] Service initialized
+[2025-11-05T23:20:45.025301] [INFO] Service initialized
+[2025-11-05T23:20:45.025336] [INFO] Health check passed
+[2025-11-05T23:20:45.025329] [INFO] Cache hit
+[2025-11-05T23:20:45.025403] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.025357] [WARN] Disk space low
+[2025-11-05T23:20:45.025371] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.025332] [INFO] Connection established
+[2025-11-05T23:20:45.025393] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.025288] [INFO] User logged in
+[2025-11-05T23:20:45.025382] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.025348] [WARN] Queue size growing
+[2025-11-05T23:20:45.025339] [INFO] Configuration loaded
+[2025-11-05T23:20:45.025352] [WARN] Cache miss
+[2025-11-05T23:20:45.025386] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.025309] [INFO] Session started
+[2025-11-05T23:20:45.025314] [INFO] Configuration loaded
+[2025-11-05T23:20:45.025292] [INFO] Request processed successfully
+[2025-11-05T23:20:45.025362] [ERROR] Disk read failed
+[2025-11-05T23:20:45.025325] [INFO] Cache hit
+[2025-11-05T23:20:45.025400] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.025344] [WARN] Timeout warning
+[2025-11-05T23:20:45.025321] [INFO] User logged in
+[2025-11-05T23:20:45.025378] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.025318] [INFO] Service initialized
+[2025-11-05T23:20:45.025265] [INFO] Transaction completed

@@ -1,0 +1,35 @@
+[2025-11-05T23:20:35.374942] [INFO] User logged in
+[2025-11-05T23:20:35.374978] [INFO] Cache hit
+[2025-11-05T23:20:35.375019] [WARN] Timeout warning
+[2025-11-05T23:20:35.374999] [WARN] Cache miss
+[2025-11-05T23:20:35.375043] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.374950] [INFO] Configuration loaded
+[2025-11-05T23:20:35.374937] [INFO] Transaction completed
+[2025-11-05T23:20:35.375074] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.375065] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.375039] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.374974] [INFO] Request processed successfully
+[2025-11-05T23:20:35.375052] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.375061] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.374922] [INFO] User logged in
+[2025-11-05T23:20:35.374933] [INFO] Configuration loaded
+[2025-11-05T23:20:35.374970] [INFO] Health check passed
+[2025-11-05T23:20:35.374928] [INFO] Cache hit
+[2025-11-05T23:20:35.374946] [INFO] Health check passed
+[2025-11-05T23:20:35.374985] [INFO] User logged in
+[2025-11-05T23:20:35.375005] [WARN] Timeout warning
+[2025-11-05T23:20:35.374989] [INFO] Database query executed
+[2025-11-05T23:20:35.374966] [INFO] Configuration loaded
+[2025-11-05T23:20:35.375048] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.374896] [INFO] Transaction completed
+[2025-11-05T23:20:35.375070] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.375033] [ERROR] Disk read failed
+[2025-11-05T23:20:35.375023] [WARN] Slow query performance
+[2025-11-05T23:20:35.375029] [ERROR] Memory allocation error
+[2025-11-05T23:20:35.375056] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.375009] [WARN] Connection retry attempt
+[2025-11-05T23:20:35.374962] [INFO] Service initialized
+[2025-11-05T23:20:35.374993] [INFO] Health check passed
+[2025-11-05T23:20:35.374958] [INFO] User logged in
+[2025-11-05T23:20:35.375015] [WARN] Queue size growing
+[2025-11-05T23:20:35.374954] [INFO] Health check passed

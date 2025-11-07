@@ -1,0 +1,34 @@
+[2025-11-05T23:20:40.199558] [WARN] Cache miss
+[2025-11-05T23:20:40.199481] [INFO] Configuration loaded
+[2025-11-05T23:20:40.199616] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.199607] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.199534] [INFO] Transaction completed
+[2025-11-05T23:20:40.199502] [INFO] Request processed successfully
+[2025-11-05T23:20:40.199624] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.199611] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.199487] [INFO] Session started
+[2025-11-05T23:20:40.199547] [INFO] Request processed successfully
+[2025-11-05T23:20:40.199589] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.199538] [INFO] Request processed successfully
+[2025-11-05T23:20:40.199492] [INFO] Session started
+[2025-11-05T23:20:40.199529] [INFO] User logged in
+[2025-11-05T23:20:40.199506] [INFO] User logged in
+[2025-11-05T23:20:40.199628] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.199516] [INFO] Transaction completed
+[2025-11-05T23:20:40.199520] [INFO] User logged in
+[2025-11-05T23:20:40.199620] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.199594] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.199543] [INFO] Service initialized
+[2025-11-05T23:20:40.199578] [ERROR] Request failed
+[2025-11-05T23:20:40.199599] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.199524] [INFO] Request processed successfully
+[2025-11-05T23:20:40.199634] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.199552] [INFO] Request processed successfully
+[2025-11-05T23:20:40.199511] [INFO] Transaction completed
+[2025-11-05T23:20:40.199454] [INFO] Request processed successfully
+[2025-11-05T23:20:40.199603] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.199497] [INFO] Health check passed
+[2025-11-05T23:20:40.199567] [WARN] Deprecated API usage
+[2025-11-05T23:20:40.199583] [ERROR] Memory allocation error
+[2025-11-05T23:20:40.199572] [WARN] Queue size growing
+[2025-11-05T23:20:40.199563] [WARN] Connection retry attempt

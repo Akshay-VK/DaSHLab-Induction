@@ -1,0 +1,31 @@
+[2025-11-05T23:20:44.459780] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.459818] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.459703] [INFO] Health check passed
+[2025-11-05T23:20:44.459822] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.459734] [INFO] Cache hit
+[2025-11-05T23:20:44.459798] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.459814] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.459713] [INFO] Health check passed
+[2025-11-05T23:20:44.459802] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.459730] [INFO] Request processed successfully
+[2025-11-05T23:20:44.459810] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.459738] [INFO] User logged in
+[2025-11-05T23:20:44.459828] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.459775] [WARN] Deprecated API usage
+[2025-11-05T23:20:44.459678] [INFO] Transaction completed
+[2025-11-05T23:20:44.459718] [INFO] Configuration loaded
+[2025-11-05T23:20:44.459726] [INFO] Connection established
+[2025-11-05T23:20:44.459787] [ERROR] Database connection lost
+[2025-11-05T23:20:44.459743] [INFO] User logged in
+[2025-11-05T23:20:44.459793] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.459764] [WARN] High memory usage detected
+[2025-11-05T23:20:44.459754] [INFO] Session started
+[2025-11-05T23:20:44.459833] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.459722] [INFO] Transaction completed
+[2025-11-05T23:20:44.459770] [WARN] Cache miss
+[2025-11-05T23:20:44.459837] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.459806] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.459709] [INFO] Request processed successfully
+[2025-11-05T23:20:44.459750] [INFO] Request processed successfully
+[2025-11-05T23:20:44.459759] [INFO] Connection established
+[2025-11-05T23:20:44.459747] [INFO] Service initialized

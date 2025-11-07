@@ -1,0 +1,30 @@
+[2025-11-05T23:20:21.476747] [INFO] Request processed successfully
+[2025-11-05T23:20:21.476718] [INFO] Connection established
+[2025-11-05T23:20:21.476703] [INFO] Connection established
+[2025-11-05T23:20:21.476751] [INFO] Connection established
+[2025-11-05T23:20:21.476825] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.476729] [INFO] Cache hit
+[2025-11-05T23:20:21.476734] [INFO] Health check passed
+[2025-11-05T23:20:21.476713] [INFO] User logged in
+[2025-11-05T23:20:21.476830] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.476816] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.476796] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.476667] [INFO] Connection established
+[2025-11-05T23:20:21.476698] [INFO] Configuration loaded
+[2025-11-05T23:20:21.476811] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.476692] [INFO] Service initialized
+[2025-11-05T23:20:21.476801] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.476821] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.476708] [INFO] Health check passed
+[2025-11-05T23:20:21.476755] [INFO] Configuration loaded
+[2025-11-05T23:20:21.476743] [INFO] Health check passed
+[2025-11-05T23:20:21.476723] [INFO] User logged in
+[2025-11-05T23:20:21.476774] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.476739] [INFO] Service initialized
+[2025-11-05T23:20:21.476806] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.476786] [ERROR] Request failed
+[2025-11-05T23:20:21.476791] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.476759] [INFO] User logged in
+[2025-11-05T23:20:21.476768] [INFO] Health check passed
+[2025-11-05T23:20:21.476781] [ERROR] File not found
+[2025-11-05T23:20:21.476763] [INFO] Database query executed

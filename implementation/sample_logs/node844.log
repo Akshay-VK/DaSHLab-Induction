@@ -1,0 +1,34 @@
+[2025-11-05T23:20:16.069230] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.069245] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.069249] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.069260] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.069138] [INFO] User logged in
+[2025-11-05T23:20:16.069159] [INFO] Health check passed
+[2025-11-05T23:20:16.069167] [INFO] Session started
+[2025-11-05T23:20:16.069151] [INFO] Service initialized
+[2025-11-05T23:20:16.069218] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.069175] [INFO] Session started
+[2025-11-05T23:20:16.069213] [ERROR] Memory allocation error
+[2025-11-05T23:20:16.069155] [INFO] Service initialized
+[2025-11-05T23:20:16.069178] [INFO] Transaction completed
+[2025-11-05T23:20:16.069222] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.069163] [INFO] Request processed successfully
+[2025-11-05T23:20:16.069171] [INFO] Service initialized
+[2025-11-05T23:20:16.069235] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.069203] [WARN] Cache miss
+[2025-11-05T23:20:16.069253] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.069242] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.069265] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.069133] [INFO] Configuration loaded
+[2025-11-05T23:20:16.069208] [ERROR] Authentication failed
+[2025-11-05T23:20:16.069193] [INFO] Health check passed
+[2025-11-05T23:20:16.069226] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.069142] [INFO] Request processed successfully
+[2025-11-05T23:20:16.069182] [INFO] Database query executed
+[2025-11-05T23:20:16.069199] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.069109] [INFO] Service initialized
+[2025-11-05T23:20:16.069256] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.069186] [INFO] Connection established
+[2025-11-05T23:20:16.069238] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.069147] [INFO] Database query executed
+[2025-11-05T23:20:16.069190] [INFO] Transaction completed

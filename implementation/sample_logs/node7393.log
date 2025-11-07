@@ -1,0 +1,33 @@
+[2025-11-05T23:20:42.969421] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.969436] [ERROR] Request failed
+[2025-11-05T23:20:42.969395] [INFO] Cache hit
+[2025-11-05T23:20:42.969413] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.969344] [INFO] Health check passed
+[2025-11-05T23:20:42.969403] [WARN] Slow query performance
+[2025-11-05T23:20:42.969365] [INFO] User logged in
+[2025-11-05T23:20:42.969470] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.969449] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.969368] [INFO] Database query executed
+[2025-11-05T23:20:42.969387] [INFO] Transaction completed
+[2025-11-05T23:20:42.969446] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.969384] [INFO] Connection established
+[2025-11-05T23:20:42.969380] [INFO] Transaction completed
+[2025-11-05T23:20:42.969459] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.969408] [WARN] Timeout warning
+[2025-11-05T23:20:42.969456] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.969466] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.969441] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.969319] [INFO] User logged in
+[2025-11-05T23:20:42.969391] [INFO] Cache hit
+[2025-11-05T23:20:42.969357] [INFO] Cache hit
+[2025-11-05T23:20:42.969398] [INFO] Database query executed
+[2025-11-05T23:20:42.969372] [INFO] Transaction completed
+[2025-11-05T23:20:42.969361] [INFO] Health check passed
+[2025-11-05T23:20:42.969453] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.969376] [INFO] Configuration loaded
+[2025-11-05T23:20:42.969429] [ERROR] Database connection lost
+[2025-11-05T23:20:42.969424] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.969353] [INFO] Configuration loaded
+[2025-11-05T23:20:42.969417] [WARN] High memory usage detected
+[2025-11-05T23:20:42.969463] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.969348] [INFO] Service initialized

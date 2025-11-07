@@ -1,0 +1,35 @@
+[2025-11-05T23:20:15.707241] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.707149] [INFO] Request processed successfully
+[2025-11-05T23:20:15.707260] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.707183] [INFO] Configuration loaded
+[2025-11-05T23:20:15.707212] [WARN] Timeout warning
+[2025-11-05T23:20:15.707196] [INFO] User logged in
+[2025-11-05T23:20:15.707158] [INFO] Transaction completed
+[2025-11-05T23:20:15.707226] [ERROR] Authentication failed
+[2025-11-05T23:20:15.707130] [INFO] Transaction completed
+[2025-11-05T23:20:15.707173] [INFO] Configuration loaded
+[2025-11-05T23:20:15.707118] [INFO] Session started
+[2025-11-05T23:20:15.707216] [WARN] Cache miss
+[2025-11-05T23:20:15.707179] [INFO] Transaction completed
+[2025-11-05T23:20:15.707251] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.707246] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.707279] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.707187] [INFO] Cache hit
+[2025-11-05T23:20:15.707191] [INFO] Session started
+[2025-11-05T23:20:15.707202] [WARN] High memory usage detected
+[2025-11-05T23:20:15.707231] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.707268] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.707207] [WARN] Deprecated API usage
+[2025-11-05T23:20:15.707162] [INFO] Session started
+[2025-11-05T23:20:15.707221] [ERROR] Database connection lost
+[2025-11-05T23:20:15.707140] [INFO] Database query executed
+[2025-11-05T23:20:15.707091] [INFO] Cache hit
+[2025-11-05T23:20:15.707169] [INFO] Service initialized
+[2025-11-05T23:20:15.707264] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.707134] [INFO] Database query executed
+[2025-11-05T23:20:15.707255] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.707236] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.707154] [INFO] Session started
+[2025-11-05T23:20:15.707274] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.707124] [INFO] Transaction completed
+[2025-11-05T23:20:15.707144] [INFO] Service initialized

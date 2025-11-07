@@ -1,0 +1,29 @@
+[2025-11-05T23:20:28.335299] [INFO] Transaction completed
+[2025-11-05T23:20:28.335355] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.335364] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.335339] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.335283] [INFO] Service initialized
+[2025-11-05T23:20:28.335266] [INFO] Transaction completed
+[2025-11-05T23:20:28.335309] [WARN] Cache miss
+[2025-11-05T23:20:28.335351] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.335368] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.335262] [INFO] Transaction completed
+[2025-11-05T23:20:28.335314] [WARN] Queue size growing
+[2025-11-05T23:20:28.335287] [INFO] Connection established
+[2025-11-05T23:20:28.335295] [INFO] User logged in
+[2025-11-05T23:20:28.335252] [INFO] Request processed successfully
+[2025-11-05T23:20:28.335303] [INFO] Cache hit
+[2025-11-05T23:20:28.335275] [INFO] Configuration loaded
+[2025-11-05T23:20:28.335257] [INFO] Transaction completed
+[2025-11-05T23:20:28.335335] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.335359] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.335347] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.335218] [INFO] Service initialized
+[2025-11-05T23:20:28.335291] [INFO] User logged in
+[2025-11-05T23:20:28.335246] [INFO] Database query executed
+[2025-11-05T23:20:28.335343] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.335279] [INFO] Request processed successfully
+[2025-11-05T23:20:28.335323] [WARN] Timeout warning
+[2025-11-05T23:20:28.335319] [WARN] Queue size growing
+[2025-11-05T23:20:28.335329] [ERROR] Request failed
+[2025-11-05T23:20:28.335270] [INFO] Database query executed

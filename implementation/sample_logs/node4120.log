@@ -1,0 +1,28 @@
+[2025-11-05T23:20:30.111637] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.111663] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.111193] [INFO] Service initialized
+[2025-11-05T23:20:30.111212] [INFO] Transaction completed
+[2025-11-05T23:20:30.111234] [INFO] Database query executed
+[2025-11-05T23:20:30.111260] [ERROR] Invalid input data
+[2025-11-05T23:20:30.111221] [INFO] Service initialized
+[2025-11-05T23:20:30.111275] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.111265] [ERROR] Network timeout
+[2025-11-05T23:20:30.111156] [INFO] Configuration loaded
+[2025-11-05T23:20:30.111216] [INFO] User logged in
+[2025-11-05T23:20:30.111676] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.111270] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.111188] [INFO] Service initialized
+[2025-11-05T23:20:30.111658] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.111672] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.111245] [WARN] Queue size growing
+[2025-11-05T23:20:30.111207] [INFO] Cache hit
+[2025-11-05T23:20:30.111280] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.111198] [INFO] Transaction completed
+[2025-11-05T23:20:30.111226] [INFO] Configuration loaded
+[2025-11-05T23:20:30.111203] [INFO] Transaction completed
+[2025-11-05T23:20:30.111240] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.111254] [WARN] Queue size growing
+[2025-11-05T23:20:30.111230] [INFO] Database query executed
+[2025-11-05T23:20:30.111249] [WARN] Queue size growing
+[2025-11-05T23:20:30.111182] [INFO] Transaction completed
+[2025-11-05T23:20:30.111668] [DEBUG] Variable value: x=42

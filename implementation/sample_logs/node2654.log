@@ -1,0 +1,35 @@
+[2025-11-05T23:20:23.912793] [INFO] Transaction completed
+[2025-11-05T23:20:23.912804] [INFO] Request processed successfully
+[2025-11-05T23:20:23.912855] [ERROR] Service unavailable
+[2025-11-05T23:20:23.912910] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.912797] [INFO] Connection established
+[2025-11-05T23:20:23.912789] [INFO] Transaction completed
+[2025-11-05T23:20:23.912825] [INFO] Request processed successfully
+[2025-11-05T23:20:23.912815] [INFO] Transaction completed
+[2025-11-05T23:20:23.912884] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.912781] [INFO] User logged in
+[2025-11-05T23:20:23.912811] [INFO] Cache hit
+[2025-11-05T23:20:23.912818] [INFO] Health check passed
+[2025-11-05T23:20:23.912801] [INFO] Database query executed
+[2025-11-05T23:20:23.912880] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.912785] [INFO] Request processed successfully
+[2025-11-05T23:20:23.912888] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.912751] [INFO] Cache hit
+[2025-11-05T23:20:23.912900] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.912851] [ERROR] Request failed
+[2025-11-05T23:20:23.912868] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.912858] [ERROR] Disk read failed
+[2025-11-05T23:20:23.912891] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.912833] [WARN] Slow query performance
+[2025-11-05T23:20:23.912808] [INFO] Request processed successfully
+[2025-11-05T23:20:23.912838] [WARN] Connection retry attempt
+[2025-11-05T23:20:23.912821] [INFO] Service initialized
+[2025-11-05T23:20:23.912863] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.912872] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.912895] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.912776] [INFO] Connection established
+[2025-11-05T23:20:23.912905] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.912828] [INFO] Connection established
+[2025-11-05T23:20:23.912875] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.912842] [WARN] Disk space low
+[2025-11-05T23:20:23.912847] [ERROR] Disk read failed

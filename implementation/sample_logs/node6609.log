@@ -1,0 +1,30 @@
+[2025-11-05T23:20:40.048892] [INFO] Session started
+[2025-11-05T23:20:40.048888] [INFO] Connection established
+[2025-11-05T23:20:40.048848] [INFO] Configuration loaded
+[2025-11-05T23:20:40.048870] [INFO] Configuration loaded
+[2025-11-05T23:20:40.048958] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.048945] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.048880] [INFO] Configuration loaded
+[2025-11-05T23:20:40.048940] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.048918] [WARN] Queue size growing
+[2025-11-05T23:20:40.048954] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.048972] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.048913] [WARN] Cache miss
+[2025-11-05T23:20:40.048857] [INFO] Cache hit
+[2025-11-05T23:20:40.048924] [ERROR] Disk read failed
+[2025-11-05T23:20:40.048837] [INFO] Database query executed
+[2025-11-05T23:20:40.048908] [WARN] Timeout warning
+[2025-11-05T23:20:40.048964] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.048897] [INFO] Configuration loaded
+[2025-11-05T23:20:40.048968] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.048852] [INFO] Connection established
+[2025-11-05T23:20:40.048843] [INFO] User logged in
+[2025-11-05T23:20:40.048884] [INFO] User logged in
+[2025-11-05T23:20:40.048929] [ERROR] File not found
+[2025-11-05T23:20:40.048862] [INFO] Health check passed
+[2025-11-05T23:20:40.048866] [INFO] Health check passed
+[2025-11-05T23:20:40.048950] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.048903] [WARN] Cache miss
+[2025-11-05T23:20:40.048875] [INFO] Service initialized
+[2025-11-05T23:20:40.048934] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.048809] [INFO] Request processed successfully

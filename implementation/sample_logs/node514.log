@@ -1,0 +1,30 @@
+[2025-11-05T23:20:14.636016] [INFO] Database query executed
+[2025-11-05T23:20:14.636127] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.636136] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.636140] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.636025] [INFO] Session started
+[2025-11-05T23:20:14.636104] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.636021] [INFO] User logged in
+[2025-11-05T23:20:14.636073] [WARN] Deprecated API usage
+[2025-11-05T23:20:14.636123] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.636132] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.636064] [INFO] Health check passed
+[2025-11-05T23:20:14.636068] [INFO] Transaction completed
+[2025-11-05T23:20:14.636114] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.636099] [ERROR] Memory allocation error
+[2025-11-05T23:20:14.636082] [WARN] Slow query performance
+[2025-11-05T23:20:14.636078] [WARN] Timeout warning
+[2025-11-05T23:20:14.635985] [INFO] Connection established
+[2025-11-05T23:20:14.636109] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.636043] [INFO] Transaction completed
+[2025-11-05T23:20:14.636060] [INFO] Connection established
+[2025-11-05T23:20:14.636010] [INFO] Transaction completed
+[2025-11-05T23:20:14.636052] [INFO] Health check passed
+[2025-11-05T23:20:14.636094] [ERROR] Memory allocation error
+[2025-11-05T23:20:14.636031] [INFO] Connection established
+[2025-11-05T23:20:14.636039] [INFO] User logged in
+[2025-11-05T23:20:14.636047] [INFO] Configuration loaded
+[2025-11-05T23:20:14.636118] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.636035] [INFO] Connection established
+[2025-11-05T23:20:14.636056] [INFO] Service initialized
+[2025-11-05T23:20:14.636089] [ERROR] Permission denied

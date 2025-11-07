@@ -1,0 +1,29 @@
+[2025-11-05T23:20:15.401196] [INFO] Service initialized
+[2025-11-05T23:20:15.401184] [INFO] Health check passed
+[2025-11-05T23:20:15.401284] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.401239] [WARN] High memory usage detected
+[2025-11-05T23:20:15.401275] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.401290] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.401188] [INFO] User logged in
+[2025-11-05T23:20:15.401271] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.401230] [WARN] Resource threshold approaching
+[2025-11-05T23:20:15.401224] [WARN] Cache miss
+[2025-11-05T23:20:15.401139] [INFO] Database query executed
+[2025-11-05T23:20:15.401209] [INFO] User logged in
+[2025-11-05T23:20:15.401300] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.401205] [INFO] Request processed successfully
+[2025-11-05T23:20:15.401218] [INFO] Health check passed
+[2025-11-05T23:20:15.401192] [INFO] User logged in
+[2025-11-05T23:20:15.401214] [INFO] Configuration loaded
+[2025-11-05T23:20:15.401173] [INFO] Request processed successfully
+[2025-11-05T23:20:15.401246] [ERROR] Permission denied
+[2025-11-05T23:20:15.401295] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.401251] [ERROR] File not found
+[2025-11-05T23:20:15.401235] [WARN] Queue size growing
+[2025-11-05T23:20:15.401201] [INFO] Cache hit
+[2025-11-05T23:20:15.401179] [INFO] Configuration loaded
+[2025-11-05T23:20:15.401261] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.401257] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.401266] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.401168] [INFO] Session started
+[2025-11-05T23:20:15.401279] [DEBUG] HTTP request headers parsed

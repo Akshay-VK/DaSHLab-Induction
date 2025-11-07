@@ -1,0 +1,34 @@
+[2025-11-05T23:20:16.322378] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.322364] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.322288] [WARN] Queue size growing
+[2025-11-05T23:20:16.319381] [INFO] Session started
+[2025-11-05T23:20:16.319396] [INFO] Session started
+[2025-11-05T23:20:16.322372] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.322321] [ERROR] File not found
+[2025-11-05T23:20:16.322368] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.319333] [INFO] Session started
+[2025-11-05T23:20:16.322356] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.319392] [INFO] Request processed successfully
+[2025-11-05T23:20:16.322304] [WARN] Slow query performance
+[2025-11-05T23:20:16.319440] [WARN] Disk space low
+[2025-11-05T23:20:16.319424] [INFO] Transaction completed
+[2025-11-05T23:20:16.319372] [INFO] Health check passed
+[2025-11-05T23:20:16.319436] [WARN] Queue size growing
+[2025-11-05T23:20:16.319401] [INFO] Transaction completed
+[2025-11-05T23:20:16.322331] [ERROR] File not found
+[2025-11-05T23:20:16.319411] [INFO] Cache hit
+[2025-11-05T23:20:16.322347] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.319415] [INFO] Connection established
+[2025-11-05T23:20:16.322337] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.319386] [INFO] Transaction completed
+[2025-11-05T23:20:16.322310] [WARN] Deprecated API usage
+[2025-11-05T23:20:16.319376] [INFO] Cache hit
+[2025-11-05T23:20:16.319406] [INFO] Configuration loaded
+[2025-11-05T23:20:16.322360] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.322351] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.319361] [INFO] User logged in
+[2025-11-05T23:20:16.322326] [ERROR] Authentication failed
+[2025-11-05T23:20:16.322342] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.319430] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.319367] [INFO] Health check passed
+[2025-11-05T23:20:16.319419] [INFO] Health check passed

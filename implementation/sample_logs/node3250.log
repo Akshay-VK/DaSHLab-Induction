@@ -1,0 +1,32 @@
+[2025-11-05T23:20:26.302431] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.302445] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.302418] [WARN] Cache miss
+[2025-11-05T23:20:26.302439] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.302360] [INFO] Database query executed
+[2025-11-05T23:20:26.302406] [WARN] Timeout warning
+[2025-11-05T23:20:26.302387] [INFO] Configuration loaded
+[2025-11-05T23:20:26.302414] [WARN] Timeout warning
+[2025-11-05T23:20:26.302381] [INFO] Connection established
+[2025-11-05T23:20:26.302364] [INFO] Configuration loaded
+[2025-11-05T23:20:26.302353] [INFO] Transaction completed
+[2025-11-05T23:20:26.302454] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.302457] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.302423] [ERROR] Memory allocation error
+[2025-11-05T23:20:26.302357] [INFO] Connection established
+[2025-11-05T23:20:26.302435] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.302374] [INFO] Transaction completed
+[2025-11-05T23:20:26.302368] [INFO] Health check passed
+[2025-11-05T23:20:26.302442] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.302451] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.302384] [INFO] Connection established
+[2025-11-05T23:20:26.302401] [WARN] High memory usage detected
+[2025-11-05T23:20:26.302394] [INFO] Session started
+[2025-11-05T23:20:26.302397] [INFO] Health check passed
+[2025-11-05T23:20:26.302324] [INFO] Session started
+[2025-11-05T23:20:26.302390] [INFO] User logged in
+[2025-11-05T23:20:26.302427] [ERROR] Request failed
+[2025-11-05T23:20:26.302448] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.302410] [WARN] Queue size growing
+[2025-11-05T23:20:26.302371] [INFO] Health check passed
+[2025-11-05T23:20:26.302349] [INFO] Session started
+[2025-11-05T23:20:26.302377] [INFO] Connection established

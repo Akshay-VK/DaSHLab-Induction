@@ -1,0 +1,28 @@
+[2025-11-05T23:20:40.887064] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.886521] [ERROR] Network timeout
+[2025-11-05T23:20:40.886485] [INFO] Service initialized
+[2025-11-05T23:20:40.886493] [INFO] Service initialized
+[2025-11-05T23:20:40.886489] [INFO] Transaction completed
+[2025-11-05T23:20:40.887070] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.887074] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.886419] [INFO] Health check passed
+[2025-11-05T23:20:40.887037] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.887087] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.886501] [INFO] Configuration loaded
+[2025-11-05T23:20:40.886463] [INFO] Transaction completed
+[2025-11-05T23:20:40.887097] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.886468] [INFO] Cache hit
+[2025-11-05T23:20:40.886481] [INFO] Connection established
+[2025-11-05T23:20:40.886444] [INFO] Health check passed
+[2025-11-05T23:20:40.886450] [INFO] Cache hit
+[2025-11-05T23:20:40.886527] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.886459] [INFO] Database query executed
+[2025-11-05T23:20:40.886455] [INFO] Transaction completed
+[2025-11-05T23:20:40.886515] [WARN] Timeout warning
+[2025-11-05T23:20:40.886472] [INFO] Cache hit
+[2025-11-05T23:20:40.887092] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.886505] [INFO] Session started
+[2025-11-05T23:20:40.886476] [INFO] Database query executed
+[2025-11-05T23:20:40.886497] [INFO] Health check passed
+[2025-11-05T23:20:40.887080] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.886509] [INFO] Cache hit

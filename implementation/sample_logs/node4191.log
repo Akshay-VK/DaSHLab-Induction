@@ -1,0 +1,27 @@
+[2025-11-05T23:20:30.440229] [WARN] Queue size growing
+[2025-11-05T23:20:30.440195] [INFO] Service initialized
+[2025-11-05T23:20:30.440199] [INFO] Configuration loaded
+[2025-11-05T23:20:30.440207] [INFO] Cache hit
+[2025-11-05T23:20:30.440156] [INFO] Configuration loaded
+[2025-11-05T23:20:30.440202] [INFO] Connection established
+[2025-11-05T23:20:30.440246] [WARN] Cache miss
+[2025-11-05T23:20:30.440276] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.440181] [INFO] User logged in
+[2025-11-05T23:20:30.440220] [INFO] Transaction completed
+[2025-11-05T23:20:30.440216] [INFO] Database query executed
+[2025-11-05T23:20:30.440234] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.440224] [INFO] Health check passed
+[2025-11-05T23:20:30.440242] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.440265] [ERROR] Request failed
+[2025-11-05T23:20:30.440211] [INFO] Connection established
+[2025-11-05T23:20:30.440271] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.440251] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.440280] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.440260] [ERROR] Database connection lost
+[2025-11-05T23:20:30.440238] [WARN] Queue size growing
+[2025-11-05T23:20:30.440186] [INFO] Service initialized
+[2025-11-05T23:20:30.440255] [WARN] Cache miss
+[2025-11-05T23:20:30.440289] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.440294] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.440191] [INFO] User logged in
+[2025-11-05T23:20:30.440284] [DEBUG] Connection pool status checked

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:41.786521] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.786503] [WARN] Slow query performance
+[2025-11-05T23:20:41.786536] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.786495] [WARN] High memory usage detected
+[2025-11-05T23:20:41.786543] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.786483] [INFO] Health check passed
+[2025-11-05T23:20:41.786472] [INFO] Database query executed
+[2025-11-05T23:20:41.786449] [INFO] Service initialized
+[2025-11-05T23:20:41.786562] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.786415] [INFO] Connection established
+[2025-11-05T23:20:41.786490] [INFO] Cache hit
+[2025-11-05T23:20:41.786547] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.786540] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.786453] [INFO] Cache hit
+[2025-11-05T23:20:41.786512] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.786462] [INFO] Configuration loaded
+[2025-11-05T23:20:41.786554] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.786500] [WARN] Slow query performance
+[2025-11-05T23:20:41.786558] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.786532] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.786525] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.786507] [WARN] Timeout warning
+[2025-11-05T23:20:41.786528] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.786457] [INFO] Database query executed
+[2025-11-05T23:20:41.786445] [INFO] Cache hit
+[2025-11-05T23:20:41.786480] [INFO] Configuration loaded
+[2025-11-05T23:20:41.786466] [INFO] Request processed successfully
+[2025-11-05T23:20:41.786487] [INFO] Session started
+[2025-11-05T23:20:41.786550] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.786516] [ERROR] Disk read failed
+[2025-11-05T23:20:41.786476] [INFO] Session started
+[2025-11-05T23:20:41.786439] [INFO] Cache hit

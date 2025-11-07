@@ -1,0 +1,26 @@
+[2025-11-05T23:20:50.167531] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.167508] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.167482] [INFO] Session started
+[2025-11-05T23:20:50.167488] [WARN] Rate limit approaching
+[2025-11-05T23:20:50.167452] [INFO] Service initialized
+[2025-11-05T23:20:50.167493] [WARN] Rate limit approaching
+[2025-11-05T23:20:50.167503] [ERROR] Disk read failed
+[2025-11-05T23:20:50.167522] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.167497] [WARN] Rate limit approaching
+[2025-11-05T23:20:50.167535] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.167434] [INFO] Transaction completed
+[2025-11-05T23:20:50.167443] [INFO] Database query executed
+[2025-11-05T23:20:50.167474] [INFO] Request processed successfully
+[2025-11-05T23:20:50.167429] [INFO] User logged in
+[2025-11-05T23:20:50.167439] [INFO] Request processed successfully
+[2025-11-05T23:20:50.167457] [INFO] Transaction completed
+[2025-11-05T23:20:50.167465] [INFO] Session started
+[2025-11-05T23:20:50.167423] [INFO] User logged in
+[2025-11-05T23:20:50.167513] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.167461] [INFO] Session started
+[2025-11-05T23:20:50.167397] [INFO] Database query executed
+[2025-11-05T23:20:50.167469] [INFO] Cache hit
+[2025-11-05T23:20:50.167478] [INFO] User logged in
+[2025-11-05T23:20:50.167518] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.167527] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.167448] [INFO] Session started

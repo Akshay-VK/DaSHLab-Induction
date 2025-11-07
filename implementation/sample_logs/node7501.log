@@ -1,0 +1,28 @@
+[2025-11-05T23:20:43.667491] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.667444] [INFO] Health check passed
+[2025-11-05T23:20:43.667508] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.667441] [INFO] Service initialized
+[2025-11-05T23:20:43.667485] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.667450] [INFO] Cache hit
+[2025-11-05T23:20:43.667437] [INFO] Request processed successfully
+[2025-11-05T23:20:43.667454] [INFO] Cache hit
+[2025-11-05T23:20:43.667488] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.667494] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.667434] [INFO] Cache hit
+[2025-11-05T23:20:43.667501] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.667480] [ERROR] Database connection lost
+[2025-11-05T23:20:43.667467] [INFO] Transaction completed
+[2025-11-05T23:20:43.667400] [INFO] Session started
+[2025-11-05T23:20:43.667457] [INFO] Configuration loaded
+[2025-11-05T23:20:43.667425] [INFO] User logged in
+[2025-11-05T23:20:43.667464] [INFO] Configuration loaded
+[2025-11-05T23:20:43.667518] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.667475] [WARN] Connection retry attempt
+[2025-11-05T23:20:43.667505] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.667512] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.667461] [INFO] Database query executed
+[2025-11-05T23:20:43.667447] [INFO] Transaction completed
+[2025-11-05T23:20:43.667471] [WARN] Timeout warning
+[2025-11-05T23:20:43.667515] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.667497] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.667430] [INFO] Health check passed

@@ -1,0 +1,35 @@
+[2025-11-05T23:20:21.394844] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.394852] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.394724] [INFO] Request processed successfully
+[2025-11-05T23:20:21.394820] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.394803] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.394720] [INFO] Session started
+[2025-11-05T23:20:21.394856] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.394710] [INFO] Health check passed
+[2025-11-05T23:20:21.394779] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.394811] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.394787] [WARN] Disk space low
+[2025-11-05T23:20:21.394738] [INFO] Cache hit
+[2025-11-05T23:20:21.394771] [WARN] Disk space low
+[2025-11-05T23:20:21.394729] [INFO] Cache hit
+[2025-11-05T23:20:21.394783] [WARN] Disk space low
+[2025-11-05T23:20:21.394685] [INFO] Session started
+[2025-11-05T23:20:21.394747] [INFO] Transaction completed
+[2025-11-05T23:20:21.394799] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.394775] [WARN] Slow query performance
+[2025-11-05T23:20:21.394832] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.394848] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.394715] [INFO] Session started
+[2025-11-05T23:20:21.394751] [INFO] Cache hit
+[2025-11-05T23:20:21.394742] [INFO] Cache hit
+[2025-11-05T23:20:21.394766] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.394824] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.394734] [INFO] User logged in
+[2025-11-05T23:20:21.394840] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.394760] [INFO] Cache hit
+[2025-11-05T23:20:21.394815] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.394828] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.394755] [INFO] Request processed successfully
+[2025-11-05T23:20:21.394793] [ERROR] Invalid input data
+[2025-11-05T23:20:21.394807] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.394836] [DEBUG] Timer set: 30 seconds

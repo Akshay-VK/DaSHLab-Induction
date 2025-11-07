@@ -1,0 +1,30 @@
+[2025-11-05T23:20:38.491747] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.491673] [INFO] Configuration loaded
+[2025-11-05T23:20:38.491733] [ERROR] Service unavailable
+[2025-11-05T23:20:38.491678] [INFO] Session started
+[2025-11-05T23:20:38.491669] [INFO] Health check passed
+[2025-11-05T23:20:38.491775] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.491622] [INFO] Cache hit
+[2025-11-05T23:20:38.491649] [INFO] Database query executed
+[2025-11-05T23:20:38.491767] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.491723] [WARN] Queue size growing
+[2025-11-05T23:20:38.491659] [INFO] Connection established
+[2025-11-05T23:20:38.491655] [INFO] Configuration loaded
+[2025-11-05T23:20:38.491771] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.491779] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.491703] [INFO] Session started
+[2025-11-05T23:20:38.491752] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.491695] [INFO] Database query executed
+[2025-11-05T23:20:38.491664] [INFO] Cache hit
+[2025-11-05T23:20:38.491756] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.491682] [INFO] Session started
+[2025-11-05T23:20:38.491714] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.491729] [ERROR] Database connection lost
+[2025-11-05T23:20:38.491743] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.491719] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.491687] [INFO] User logged in
+[2025-11-05T23:20:38.491709] [WARN] High memory usage detected
+[2025-11-05T23:20:38.491738] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.491762] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.491699] [INFO] Cache hit
+[2025-11-05T23:20:38.491691] [INFO] Connection established

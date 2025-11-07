@@ -1,0 +1,27 @@
+[2025-11-05T23:20:48.040083] [INFO] Configuration loaded
+[2025-11-05T23:20:48.040129] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:48.040126] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.040076] [INFO] Connection established
+[2025-11-05T23:20:48.040054] [INFO] Session started
+[2025-11-05T23:20:48.040119] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.040123] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.040024] [INFO] Connection established
+[2025-11-05T23:20:48.040049] [INFO] Service initialized
+[2025-11-05T23:20:48.040080] [INFO] Health check passed
+[2025-11-05T23:20:48.040086] [INFO] Connection established
+[2025-11-05T23:20:48.040089] [INFO] Connection established
+[2025-11-05T23:20:48.040140] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:48.040066] [INFO] Database query executed
+[2025-11-05T23:20:48.040058] [INFO] Database query executed
+[2025-11-05T23:20:48.040103] [ERROR] Database connection lost
+[2025-11-05T23:20:48.040107] [ERROR] Database connection lost
+[2025-11-05T23:20:48.040062] [INFO] Transaction completed
+[2025-11-05T23:20:48.040069] [INFO] Configuration loaded
+[2025-11-05T23:20:48.040116] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:48.040112] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.040098] [WARN] Slow query performance
+[2025-11-05T23:20:48.040073] [INFO] Configuration loaded
+[2025-11-05T23:20:48.040144] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.040094] [WARN] Connection retry attempt
+[2025-11-05T23:20:48.040133] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:48.040136] [DEBUG] Memory allocation: 2048 bytes

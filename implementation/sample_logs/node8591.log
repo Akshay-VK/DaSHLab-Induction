@@ -1,0 +1,29 @@
+[2025-11-05T23:20:47.951099] [INFO] Configuration loaded
+[2025-11-05T23:20:47.951120] [ERROR] File not found
+[2025-11-05T23:20:47.951149] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.951131] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:47.951144] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.951032] [INFO] Health check passed
+[2025-11-05T23:20:47.951128] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.951110] [WARN] Timeout warning
+[2025-11-05T23:20:47.951080] [INFO] Database query executed
+[2025-11-05T23:20:47.951124] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.951106] [WARN] Slow query performance
+[2025-11-05T23:20:47.951065] [INFO] Configuration loaded
+[2025-11-05T23:20:47.951093] [INFO] User logged in
+[2025-11-05T23:20:47.951083] [INFO] Transaction completed
+[2025-11-05T23:20:47.951068] [INFO] Request processed successfully
+[2025-11-05T23:20:47.951096] [INFO] Service initialized
+[2025-11-05T23:20:47.951087] [INFO] Health check passed
+[2025-11-05T23:20:47.951137] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.951141] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.951102] [INFO] Service initialized
+[2025-11-05T23:20:47.951147] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.951056] [INFO] Connection established
+[2025-11-05T23:20:47.951090] [INFO] Request processed successfully
+[2025-11-05T23:20:47.951073] [INFO] User logged in
+[2025-11-05T23:20:47.951134] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.951061] [INFO] Database query executed
+[2025-11-05T23:20:47.951113] [WARN] Rate limit approaching
+[2025-11-05T23:20:47.951116] [WARN] Cache miss
+[2025-11-05T23:20:47.951077] [INFO] Session started

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:31.361955] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.361910] [WARN] Cache miss
+[2025-11-05T23:20:31.361946] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.361931] [DEBUG] Cache key generated
+[2025-11-05T23:20:31.361868] [INFO] Service initialized
+[2025-11-05T23:20:31.361842] [INFO] Cache hit
+[2025-11-05T23:20:31.361968] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.361920] [ERROR] Service unavailable
+[2025-11-05T23:20:31.361846] [INFO] Request processed successfully
+[2025-11-05T23:20:31.361905] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.361832] [INFO] Session started
+[2025-11-05T23:20:31.361880] [INFO] Request processed successfully
+[2025-11-05T23:20:31.361855] [INFO] Request processed successfully
+[2025-11-05T23:20:31.361889] [INFO] Transaction completed
+[2025-11-05T23:20:31.361837] [INFO] Configuration loaded
+[2025-11-05T23:20:31.361900] [WARN] Timeout warning
+[2025-11-05T23:20:31.361864] [INFO] Session started
+[2025-11-05T23:20:31.361859] [INFO] Service initialized
+[2025-11-05T23:20:31.361941] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.361895] [WARN] Deprecated API usage
+[2025-11-05T23:20:31.361876] [INFO] Health check passed
+[2025-11-05T23:20:31.361872] [INFO] Connection established
+[2025-11-05T23:20:31.361805] [INFO] Connection established
+[2025-11-05T23:20:31.361964] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.361960] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.361914] [WARN] Connection retry attempt
+[2025-11-05T23:20:31.361851] [INFO] Configuration loaded
+[2025-11-05T23:20:31.361937] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.361950] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.361926] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.361884] [INFO] Health check passed

@@ -1,0 +1,33 @@
+[2025-11-05T23:20:26.261918] [WARN] Cache miss
+[2025-11-05T23:20:26.261929] [ERROR] Invalid input data
+[2025-11-05T23:20:26.261877] [INFO] Health check passed
+[2025-11-05T23:20:26.261925] [ERROR] Authentication failed
+[2025-11-05T23:20:26.261862] [INFO] Request processed successfully
+[2025-11-05T23:20:26.261933] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.261839] [INFO] Configuration loaded
+[2025-11-05T23:20:26.261914] [WARN] Resource threshold approaching
+[2025-11-05T23:20:26.261883] [INFO] Cache hit
+[2025-11-05T23:20:26.261947] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.261967] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.261944] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.261890] [INFO] User logged in
+[2025-11-05T23:20:26.261961] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.261870] [INFO] Transaction completed
+[2025-11-05T23:20:26.261893] [INFO] Database query executed
+[2025-11-05T23:20:26.261938] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.261951] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.261886] [INFO] Session started
+[2025-11-05T23:20:26.261970] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.261921] [WARN] Queue size growing
+[2025-11-05T23:20:26.261910] [WARN] Queue size growing
+[2025-11-05T23:20:26.261903] [INFO] Configuration loaded
+[2025-11-05T23:20:26.261867] [INFO] Request processed successfully
+[2025-11-05T23:20:26.261880] [INFO] Cache hit
+[2025-11-05T23:20:26.261906] [INFO] Service initialized
+[2025-11-05T23:20:26.261958] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.261954] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.261896] [INFO] Session started
+[2025-11-05T23:20:26.261964] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.261899] [INFO] Session started
+[2025-11-05T23:20:26.261941] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.261874] [INFO] Connection established

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:26.090928] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.090967] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.090907] [INFO] Connection established
+[2025-11-05T23:20:26.090946] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.090877] [INFO] Service initialized
+[2025-11-05T23:20:26.090936] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.090884] [INFO] Request processed successfully
+[2025-11-05T23:20:26.090933] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.090891] [INFO] Request processed successfully
+[2025-11-05T23:20:26.090895] [INFO] User logged in
+[2025-11-05T23:20:26.090888] [INFO] User logged in
+[2025-11-05T23:20:26.090942] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.090881] [INFO] Health check passed
+[2025-11-05T23:20:26.090873] [INFO] Health check passed
+[2025-11-05T23:20:26.090963] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.090959] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.090953] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.090901] [INFO] Request processed successfully
+[2025-11-05T23:20:26.090911] [WARN] Slow query performance
+[2025-11-05T23:20:26.090956] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.090915] [WARN] Slow query performance
+[2025-11-05T23:20:26.090923] [ERROR] Network timeout
+[2025-11-05T23:20:26.090939] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.090862] [INFO] Connection established
+[2025-11-05T23:20:26.090870] [INFO] Database query executed
+[2025-11-05T23:20:26.090838] [INFO] Health check passed
+[2025-11-05T23:20:26.090919] [WARN] Connection retry attempt
+[2025-11-05T23:20:26.090904] [INFO] Database query executed
+[2025-11-05T23:20:26.090866] [INFO] User logged in
+[2025-11-05T23:20:26.090898] [INFO] Health check passed
+[2025-11-05T23:20:26.090949] [DEBUG] Timer set: 30 seconds

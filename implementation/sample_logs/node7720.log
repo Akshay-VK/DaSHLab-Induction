@@ -1,0 +1,31 @@
+[2025-11-05T23:20:44.391467] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.391408] [INFO] User logged in
+[2025-11-05T23:20:44.391428] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.391411] [INFO] Session started
+[2025-11-05T23:20:44.391397] [INFO] Service initialized
+[2025-11-05T23:20:44.391390] [INFO] User logged in
+[2025-11-05T23:20:44.391432] [WARN] Connection retry attempt
+[2025-11-05T23:20:44.391401] [INFO] Cache hit
+[2025-11-05T23:20:44.391416] [WARN] High memory usage detected
+[2025-11-05T23:20:44.391366] [INFO] Request processed successfully
+[2025-11-05T23:20:44.391383] [INFO] Health check passed
+[2025-11-05T23:20:44.391425] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.391452] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.391470] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.391393] [INFO] Transaction completed
+[2025-11-05T23:20:44.391443] [ERROR] Authentication failed
+[2025-11-05T23:20:44.391420] [WARN] Rate limit approaching
+[2025-11-05T23:20:44.391474] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.391386] [INFO] Database query executed
+[2025-11-05T23:20:44.391460] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.391361] [INFO] Session started
+[2025-11-05T23:20:44.391463] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.391338] [INFO] Database query executed
+[2025-11-05T23:20:44.391371] [INFO] Connection established
+[2025-11-05T23:20:44.391379] [INFO] Configuration loaded
+[2025-11-05T23:20:44.391438] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.391456] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.391375] [INFO] Request processed successfully
+[2025-11-05T23:20:44.391447] [ERROR] Authentication failed
+[2025-11-05T23:20:44.391404] [INFO] Connection established
+[2025-11-05T23:20:44.391435] [WARN] Deprecated API usage

@@ -1,0 +1,41 @@
+[2025-11-05T23:20:37.363611] [WARN] Rate limit approaching
+[2025-11-05T23:20:37.363592] [INFO] Session started
+[2025-11-05T23:20:37.363725] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.363641] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.363730] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.363651] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.363583] [INFO] Request processed successfully
+[2025-11-05T23:20:37.363570] [INFO] Configuration loaded
+[2025-11-05T23:20:37.363655] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.363630] [WARN] Rate limit approaching
+[2025-11-05T23:20:37.363531] [INFO] Transaction completed
+[2025-11-05T23:20:37.363600] [INFO] Configuration loaded
+[2025-11-05T23:20:37.363478] [INFO] Health check passed
+[2025-11-05T23:20:37.363715] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.363660] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.363621] [WARN] High memory usage detected
+[2025-11-05T23:20:37.363626] [WARN] Cache miss
+[2025-11-05T23:20:37.363535] [INFO] User logged in
+[2025-11-05T23:20:37.363635] [ERROR] Invalid input data
+[2025-11-05T23:20:37.363521] [INFO] Cache hit
+[2025-11-05T23:20:37.363558] [INFO] Database query executed
+[2025-11-05T23:20:37.363539] [INFO] Service initialized
+[2025-11-05T23:20:37.363553] [INFO] Configuration loaded
+[2025-11-05T23:20:37.363566] [INFO] Configuration loaded
+[2025-11-05T23:20:37.363734] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.363511] [INFO] Transaction completed
+[2025-11-05T23:20:37.363665] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.363516] [INFO] Health check passed
+[2025-11-05T23:20:37.363526] [INFO] Request processed successfully
+[2025-11-05T23:20:37.363505] [INFO] Session started
+[2025-11-05T23:20:37.363605] [INFO] Request processed successfully
+[2025-11-05T23:20:37.363544] [INFO] Request processed successfully
+[2025-11-05T23:20:37.363647] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.363562] [INFO] Transaction completed
+[2025-11-05T23:20:37.363721] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.363617] [WARN] Slow query performance
+[2025-11-05T23:20:37.363596] [INFO] Cache hit
+[2025-11-05T23:20:37.363549] [INFO] Connection established
+[2025-11-05T23:20:37.363574] [INFO] User logged in
+[2025-11-05T23:20:37.363588] [INFO] Health check passed
+[2025-11-05T23:20:37.363579] [INFO] Request processed successfully

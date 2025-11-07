@@ -1,0 +1,37 @@
+[2025-11-05T23:20:25.878255] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.878186] [WARN] Cache miss
+[2025-11-05T23:20:25.878126] [INFO] Service initialized
+[2025-11-05T23:20:25.878163] [INFO] Transaction completed
+[2025-11-05T23:20:25.878171] [INFO] Database query executed
+[2025-11-05T23:20:25.878274] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.878131] [INFO] Connection established
+[2025-11-05T23:20:25.878190] [WARN] High memory usage detected
+[2025-11-05T23:20:25.878250] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.878121] [INFO] Health check passed
+[2025-11-05T23:20:25.878194] [WARN] Queue size growing
+[2025-11-05T23:20:25.878181] [WARN] Rate limit approaching
+[2025-11-05T23:20:25.878217] [ERROR] Memory allocation error
+[2025-11-05T23:20:25.878212] [ERROR] Database connection lost
+[2025-11-05T23:20:25.878260] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.878081] [INFO] User logged in
+[2025-11-05T23:20:25.878154] [INFO] Health check passed
+[2025-11-05T23:20:25.878110] [INFO] Transaction completed
+[2025-11-05T23:20:25.878135] [INFO] Session started
+[2025-11-05T23:20:25.878246] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.878176] [WARN] Queue size growing
+[2025-11-05T23:20:25.878242] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.878223] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.878233] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.878167] [INFO] Database query executed
+[2025-11-05T23:20:25.878265] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.878269] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.878144] [INFO] Service initialized
+[2025-11-05T23:20:25.878149] [INFO] User logged in
+[2025-11-05T23:20:25.878158] [INFO] Session started
+[2025-11-05T23:20:25.878206] [WARN] Resource threshold approaching
+[2025-11-05T23:20:25.878199] [WARN] Resource threshold approaching
+[2025-11-05T23:20:25.878278] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.878116] [INFO] Health check passed
+[2025-11-05T23:20:25.878140] [INFO] Connection established
+[2025-11-05T23:20:25.878238] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.878229] [DEBUG] Variable value: x=42

@@ -1,0 +1,33 @@
+[2025-11-05T23:20:53.030384] [WARN] Slow query performance
+[2025-11-05T23:20:53.030412] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.030363] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.030417] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.030422] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.030295] [INFO] Request processed successfully
+[2025-11-05T23:20:53.030437] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.030346] [INFO] Connection established
+[2025-11-05T23:20:53.030300] [INFO] User logged in
+[2025-11-05T23:20:53.030316] [INFO] Health check passed
+[2025-11-05T23:20:53.030277] [INFO] Connection established
+[2025-11-05T23:20:53.030395] [ERROR] Network timeout
+[2025-11-05T23:20:53.030431] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.030402] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.030358] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.030284] [INFO] Cache hit
+[2025-11-05T23:20:53.030374] [WARN] Queue size growing
+[2025-11-05T23:20:53.030369] [WARN] Timeout warning
+[2025-11-05T23:20:53.030311] [INFO] Configuration loaded
+[2025-11-05T23:20:53.030407] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.030331] [INFO] Transaction completed
+[2025-11-05T23:20:53.030379] [WARN] Cache miss
+[2025-11-05T23:20:53.030426] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.030305] [INFO] Request processed successfully
+[2025-11-05T23:20:53.030352] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.030326] [INFO] Session started
+[2025-11-05T23:20:53.030341] [INFO] Transaction completed
+[2025-11-05T23:20:53.030290] [INFO] Transaction completed
+[2025-11-05T23:20:53.030336] [INFO] Transaction completed
+[2025-11-05T23:20:53.030441] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.030390] [ERROR] Request failed
+[2025-11-05T23:20:53.030250] [INFO] Service initialized
+[2025-11-05T23:20:53.030321] [INFO] Connection established

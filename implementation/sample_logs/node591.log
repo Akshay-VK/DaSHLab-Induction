@@ -1,0 +1,34 @@
+[2025-11-05T23:20:14.976984] [INFO] Configuration loaded
+[2025-11-05T23:20:14.977095] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.977008] [INFO] Health check passed
+[2025-11-05T23:20:14.977004] [INFO] Configuration loaded
+[2025-11-05T23:20:14.977056] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.977083] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.977060] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.976992] [INFO] Request processed successfully
+[2025-11-05T23:20:14.977079] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.977045] [ERROR] Permission denied
+[2025-11-05T23:20:14.977020] [INFO] Request processed successfully
+[2025-11-05T23:20:14.977030] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.977074] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.977025] [INFO] Request processed successfully
+[2025-11-05T23:20:14.977099] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.976977] [INFO] Service initialized
+[2025-11-05T23:20:14.976971] [INFO] Connection established
+[2025-11-05T23:20:14.977012] [INFO] User logged in
+[2025-11-05T23:20:14.976957] [INFO] Database query executed
+[2025-11-05T23:20:14.977035] [WARN] Rate limit approaching
+[2025-11-05T23:20:14.976988] [INFO] Connection established
+[2025-11-05T23:20:14.977091] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.976962] [INFO] Session started
+[2025-11-05T23:20:14.977000] [INFO] Database query executed
+[2025-11-05T23:20:14.977065] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.977040] [WARN] High memory usage detected
+[2025-11-05T23:20:14.976967] [INFO] Cache hit
+[2025-11-05T23:20:14.976996] [INFO] Cache hit
+[2025-11-05T23:20:14.976932] [INFO] Health check passed
+[2025-11-05T23:20:14.977050] [ERROR] Authentication failed
+[2025-11-05T23:20:14.977087] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.976980] [INFO] Service initialized
+[2025-11-05T23:20:14.977070] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.977016] [INFO] Cache hit

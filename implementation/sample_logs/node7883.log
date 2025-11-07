@@ -1,0 +1,32 @@
+[2025-11-05T23:20:44.965067] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.964985] [INFO] Request processed successfully
+[2025-11-05T23:20:44.965042] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.965048] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.964981] [INFO] Session started
+[2025-11-05T23:20:44.965053] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.965016] [WARN] Slow query performance
+[2025-11-05T23:20:44.964977] [INFO] Transaction completed
+[2025-11-05T23:20:44.964968] [INFO] User logged in
+[2025-11-05T23:20:44.964964] [INFO] Request processed successfully
+[2025-11-05T23:20:44.964945] [INFO] Transaction completed
+[2025-11-05T23:20:44.964929] [INFO] Cache hit
+[2025-11-05T23:20:44.964995] [WARN] Slow query performance
+[2025-11-05T23:20:44.964934] [INFO] Service initialized
+[2025-11-05T23:20:44.964959] [INFO] Request processed successfully
+[2025-11-05T23:20:44.965032] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.965006] [WARN] Connection retry attempt
+[2025-11-05T23:20:44.965001] [WARN] High memory usage detected
+[2025-11-05T23:20:44.965010] [WARN] Disk space low
+[2025-11-05T23:20:44.965062] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.965071] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.965026] [ERROR] Network timeout
+[2025-11-05T23:20:44.965037] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.964950] [INFO] Connection established
+[2025-11-05T23:20:44.965020] [WARN] Cache miss
+[2025-11-05T23:20:44.964940] [INFO] Cache hit
+[2025-11-05T23:20:44.964955] [INFO] Service initialized
+[2025-11-05T23:20:44.964896] [INFO] Transaction completed
+[2025-11-05T23:20:44.965058] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.964973] [INFO] Connection established
+[2025-11-05T23:20:44.964990] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.964923] [INFO] User logged in

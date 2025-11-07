@@ -1,0 +1,33 @@
+[2025-11-05T23:20:42.957315] [ERROR] File not found
+[2025-11-05T23:20:42.957363] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.957266] [INFO] Cache hit
+[2025-11-05T23:20:42.957325] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.957330] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.957210] [INFO] Request processed successfully
+[2025-11-05T23:20:42.957347] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.957274] [INFO] Health check passed
+[2025-11-05T23:20:42.957295] [WARN] Queue size growing
+[2025-11-05T23:20:42.957305] [WARN] Queue size growing
+[2025-11-05T23:20:42.957243] [INFO] Session started
+[2025-11-05T23:20:42.957237] [INFO] Service initialized
+[2025-11-05T23:20:42.957356] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.957339] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.957367] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.957259] [INFO] Database query executed
+[2025-11-05T23:20:42.957271] [INFO] Session started
+[2025-11-05T23:20:42.957290] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.957309] [WARN] Deprecated API usage
+[2025-11-05T23:20:42.957281] [INFO] Database query executed
+[2025-11-05T23:20:42.957370] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.957285] [INFO] Connection established
+[2025-11-05T23:20:42.957278] [INFO] Cache hit
+[2025-11-05T23:20:42.957263] [INFO] Database query executed
+[2025-11-05T23:20:42.957320] [ERROR] Request failed
+[2025-11-05T23:20:42.957247] [INFO] Database query executed
+[2025-11-05T23:20:42.957360] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.957251] [INFO] Configuration loaded
+[2025-11-05T23:20:42.957352] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.957255] [INFO] User logged in
+[2025-11-05T23:20:42.957344] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.957335] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.957299] [WARN] Queue size growing

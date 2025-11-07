@@ -1,0 +1,27 @@
+[2025-11-05T23:20:30.076371] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.076328] [WARN] Slow query performance
+[2025-11-05T23:20:30.076275] [INFO] Request processed successfully
+[2025-11-05T23:20:30.076280] [INFO] Database query executed
+[2025-11-05T23:20:30.076265] [INFO] Database query executed
+[2025-11-05T23:20:30.076337] [WARN] Resource threshold approaching
+[2025-11-05T23:20:30.076323] [WARN] Cache miss
+[2025-11-05T23:20:30.076376] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.076348] [ERROR] File not found
+[2025-11-05T23:20:30.076363] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.076358] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.076306] [INFO] Transaction completed
+[2025-11-05T23:20:30.076297] [INFO] Request processed successfully
+[2025-11-05T23:20:30.076343] [ERROR] Authentication failed
+[2025-11-05T23:20:30.076270] [INFO] Transaction completed
+[2025-11-05T23:20:30.076367] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.076380] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.076302] [INFO] Connection established
+[2025-11-05T23:20:30.076314] [INFO] Configuration loaded
+[2025-11-05T23:20:30.076239] [INFO] Request processed successfully
+[2025-11-05T23:20:30.076293] [INFO] Session started
+[2025-11-05T23:20:30.076285] [INFO] Service initialized
+[2025-11-05T23:20:30.076353] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.076333] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.076309] [INFO] Configuration loaded
+[2025-11-05T23:20:30.076317] [INFO] Cache hit
+[2025-11-05T23:20:30.076289] [INFO] Session started

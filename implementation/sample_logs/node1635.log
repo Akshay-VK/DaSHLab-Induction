@@ -1,0 +1,30 @@
+[2025-11-05T23:20:19.482198] [WARN] Rate limit approaching
+[2025-11-05T23:20:19.482120] [INFO] Health check passed
+[2025-11-05T23:20:19.482171] [INFO] Health check passed
+[2025-11-05T23:20:19.482179] [INFO] User logged in
+[2025-11-05T23:20:19.482145] [INFO] Connection established
+[2025-11-05T23:20:19.482236] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.482149] [INFO] Transaction completed
+[2025-11-05T23:20:19.482190] [WARN] Cache miss
+[2025-11-05T23:20:19.482228] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.482204] [ERROR] Authentication failed
+[2025-11-05T23:20:19.482240] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.482219] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.482214] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.482126] [INFO] Cache hit
+[2025-11-05T23:20:19.482094] [INFO] User logged in
+[2025-11-05T23:20:19.482158] [INFO] Cache hit
+[2025-11-05T23:20:19.482249] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.482136] [INFO] Database query executed
+[2025-11-05T23:20:19.482175] [INFO] Session started
+[2025-11-05T23:20:19.482245] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.482209] [ERROR] Memory allocation error
+[2025-11-05T23:20:19.482141] [INFO] Cache hit
+[2025-11-05T23:20:19.482223] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.482232] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.482131] [INFO] Configuration loaded
+[2025-11-05T23:20:19.482194] [WARN] Timeout warning
+[2025-11-05T23:20:19.482184] [WARN] Deprecated API usage
+[2025-11-05T23:20:19.482154] [INFO] Service initialized
+[2025-11-05T23:20:19.482162] [INFO] Transaction completed
+[2025-11-05T23:20:19.482167] [INFO] Service initialized

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:41.486373] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.486378] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.486328] [WARN] Timeout warning
+[2025-11-05T23:20:41.486256] [INFO] Health check passed
+[2025-11-05T23:20:41.486323] [WARN] High memory usage detected
+[2025-11-05T23:20:41.486356] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.486360] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.486369] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.486334] [ERROR] Invalid input data
+[2025-11-05T23:20:41.486266] [INFO] Service initialized
+[2025-11-05T23:20:41.486261] [INFO] User logged in
+[2025-11-05T23:20:41.486304] [INFO] Session started
+[2025-11-05T23:20:41.486275] [INFO] Connection established
+[2025-11-05T23:20:41.486224] [INFO] Configuration loaded
+[2025-11-05T23:20:41.486365] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.486284] [INFO] Transaction completed
+[2025-11-05T23:20:41.486338] [ERROR] File not found
+[2025-11-05T23:20:41.486348] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.486280] [INFO] Database query executed
+[2025-11-05T23:20:41.486300] [INFO] Transaction completed
+[2025-11-05T23:20:41.486250] [INFO] User logged in
+[2025-11-05T23:20:41.486344] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.486292] [INFO] Health check passed
+[2025-11-05T23:20:41.486352] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.486318] [WARN] Cache miss
+[2025-11-05T23:20:41.486296] [INFO] User logged in
+[2025-11-05T23:20:41.486270] [INFO] Cache hit
+[2025-11-05T23:20:41.486308] [INFO] Cache hit
+[2025-11-05T23:20:41.486313] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.486288] [INFO] Transaction completed

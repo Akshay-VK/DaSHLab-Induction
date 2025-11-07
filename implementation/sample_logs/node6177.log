@@ -1,0 +1,29 @@
+[2025-11-05T23:20:38.448943] [INFO] User logged in
+[2025-11-05T23:20:38.449064] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.448960] [INFO] Connection established
+[2025-11-05T23:20:38.449019] [INFO] User logged in
+[2025-11-05T23:20:38.449056] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.449078] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.448977] [INFO] Cache hit
+[2025-11-05T23:20:38.449033] [WARN] Resource threshold approaching
+[2025-11-05T23:20:38.449029] [INFO] Connection established
+[2025-11-05T23:20:38.449022] [INFO] Database query executed
+[2025-11-05T23:20:38.448912] [INFO] Request processed successfully
+[2025-11-05T23:20:38.449043] [ERROR] Network timeout
+[2025-11-05T23:20:38.449086] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.449082] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.448973] [INFO] Health check passed
+[2025-11-05T23:20:38.449038] [WARN] Queue size growing
+[2025-11-05T23:20:38.448965] [INFO] Connection established
+[2025-11-05T23:20:38.449025] [INFO] Transaction completed
+[2025-11-05T23:20:38.448952] [INFO] Transaction completed
+[2025-11-05T23:20:38.449052] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.449060] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.449071] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.448948] [INFO] Transaction completed
+[2025-11-05T23:20:38.449048] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.448956] [INFO] Service initialized
+[2025-11-05T23:20:38.449068] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.448938] [INFO] Database query executed
+[2025-11-05T23:20:38.448969] [INFO] Connection established
+[2025-11-05T23:20:38.449075] [DEBUG] HTTP request headers parsed

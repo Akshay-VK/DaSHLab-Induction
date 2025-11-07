@@ -1,0 +1,30 @@
+[2025-11-05T23:20:26.395719] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.395715] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.395735] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.395675] [INFO] Connection established
+[2025-11-05T23:20:26.395758] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.395689] [INFO] Session started
+[2025-11-05T23:20:26.395697] [WARN] Rate limit approaching
+[2025-11-05T23:20:26.395755] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.395682] [INFO] Database query executed
+[2025-11-05T23:20:26.395725] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.395693] [WARN] Resource threshold approaching
+[2025-11-05T23:20:26.395752] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.395667] [INFO] Session started
+[2025-11-05T23:20:26.395634] [INFO] Session started
+[2025-11-05T23:20:26.395664] [INFO] Database query executed
+[2025-11-05T23:20:26.395729] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.395685] [INFO] User logged in
+[2025-11-05T23:20:26.395742] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.395722] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.395739] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.395708] [ERROR] Service unavailable
+[2025-11-05T23:20:26.395659] [INFO] Request processed successfully
+[2025-11-05T23:20:26.395703] [WARN] Disk space low
+[2025-11-05T23:20:26.395671] [INFO] Cache hit
+[2025-11-05T23:20:26.395745] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.395700] [WARN] Connection retry attempt
+[2025-11-05T23:20:26.395711] [ERROR] Invalid input data
+[2025-11-05T23:20:26.395679] [INFO] Transaction completed
+[2025-11-05T23:20:26.395732] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.395749] [DEBUG] Memory allocation: 2048 bytes

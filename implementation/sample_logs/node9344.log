@@ -1,0 +1,28 @@
+[2025-11-05T23:20:51.141559] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:51.141503] [INFO] Session started
+[2025-11-05T23:20:51.141588] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.141549] [ERROR] Invalid input data
+[2025-11-05T23:20:51.141534] [WARN] Disk space low
+[2025-11-05T23:20:51.141597] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.141520] [INFO] Request processed successfully
+[2025-11-05T23:20:51.141516] [INFO] Service initialized
+[2025-11-05T23:20:51.141512] [INFO] Connection established
+[2025-11-05T23:20:51.141484] [INFO] Transaction completed
+[2025-11-05T23:20:51.141499] [INFO] Request processed successfully
+[2025-11-05T23:20:51.141524] [INFO] Health check passed
+[2025-11-05T23:20:51.141585] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.141539] [WARN] High memory usage detected
+[2025-11-05T23:20:51.141553] [ERROR] Network timeout
+[2025-11-05T23:20:51.141564] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.141508] [INFO] Request processed successfully
+[2025-11-05T23:20:51.141460] [INFO] Database query executed
+[2025-11-05T23:20:51.141576] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.141490] [INFO] User logged in
+[2025-11-05T23:20:51.141572] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.141581] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.141593] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.141567] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.141528] [INFO] Service initialized
+[2025-11-05T23:20:51.141601] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.141543] [WARN] Disk space low
+[2025-11-05T23:20:51.141495] [INFO] Transaction completed

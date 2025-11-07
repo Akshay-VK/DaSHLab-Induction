@@ -1,0 +1,25 @@
+[2025-11-05T23:20:38.498675] [INFO] Session started
+[2025-11-05T23:20:38.498749] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.498736] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.498657] [INFO] Service initialized
+[2025-11-05T23:20:38.498661] [INFO] Transaction completed
+[2025-11-05T23:20:38.498680] [INFO] Database query executed
+[2025-11-05T23:20:38.498744] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.498641] [INFO] Connection established
+[2025-11-05T23:20:38.498693] [INFO] Configuration loaded
+[2025-11-05T23:20:38.498716] [ERROR] Disk read failed
+[2025-11-05T23:20:38.498666] [INFO] Connection established
+[2025-11-05T23:20:38.498698] [INFO] Database query executed
+[2025-11-05T23:20:38.498635] [INFO] Health check passed
+[2025-11-05T23:20:38.498732] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.498704] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.498684] [INFO] Service initialized
+[2025-11-05T23:20:38.498727] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.498652] [INFO] Request processed successfully
+[2025-11-05T23:20:38.498609] [INFO] Transaction completed
+[2025-11-05T23:20:38.498689] [INFO] Transaction completed
+[2025-11-05T23:20:38.498740] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.498647] [INFO] Request processed successfully
+[2025-11-05T23:20:38.498721] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.498710] [ERROR] Disk read failed
+[2025-11-05T23:20:38.498671] [INFO] Service initialized

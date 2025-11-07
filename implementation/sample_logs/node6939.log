@@ -1,0 +1,31 @@
+[2025-11-05T23:20:41.304588] [INFO] Configuration loaded
+[2025-11-05T23:20:41.304533] [INFO] Configuration loaded
+[2025-11-05T23:20:41.304599] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.304500] [INFO] Request processed successfully
+[2025-11-05T23:20:41.304570] [INFO] User logged in
+[2025-11-05T23:20:41.304538] [INFO] Transaction completed
+[2025-11-05T23:20:41.304548] [INFO] User logged in
+[2025-11-05T23:20:41.304574] [INFO] Request processed successfully
+[2025-11-05T23:20:41.304579] [INFO] Health check passed
+[2025-11-05T23:20:41.304603] [WARN] Timeout warning
+[2025-11-05T23:20:41.304560] [INFO] Request processed successfully
+[2025-11-05T23:20:41.304628] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.304526] [INFO] User logged in
+[2025-11-05T23:20:41.304655] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.304593] [WARN] Cache miss
+[2025-11-05T23:20:41.304651] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.304552] [INFO] Request processed successfully
+[2025-11-05T23:20:41.304556] [INFO] Request processed successfully
+[2025-11-05T23:20:41.304583] [INFO] Request processed successfully
+[2025-11-05T23:20:41.304643] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.304647] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.304633] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.304565] [INFO] Transaction completed
+[2025-11-05T23:20:41.304663] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.304543] [INFO] Configuration loaded
+[2025-11-05T23:20:41.304607] [WARN] High memory usage detected
+[2025-11-05T23:20:41.304617] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.304612] [WARN] Disk space low
+[2025-11-05T23:20:41.304659] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.304622] [ERROR] Service unavailable
+[2025-11-05T23:20:41.304638] [DEBUG] Cache key generated

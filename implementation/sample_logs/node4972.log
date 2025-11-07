@@ -1,0 +1,29 @@
+[2025-11-05T23:20:33.515458] [INFO] Configuration loaded
+[2025-11-05T23:20:33.515489] [WARN] Deprecated API usage
+[2025-11-05T23:20:33.515511] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.515493] [WARN] Slow query performance
+[2025-11-05T23:20:33.515474] [INFO] Service initialized
+[2025-11-05T23:20:33.515508] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.515504] [ERROR] File not found
+[2025-11-05T23:20:33.515454] [INFO] Database query executed
+[2025-11-05T23:20:33.515471] [INFO] Request processed successfully
+[2025-11-05T23:20:33.515486] [WARN] Rate limit approaching
+[2025-11-05T23:20:33.515540] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.515536] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.515514] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.515450] [INFO] User logged in
+[2025-11-05T23:20:33.515529] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.515518] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.515532] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.515478] [INFO] Cache hit
+[2025-11-05T23:20:33.515501] [ERROR] Authentication failed
+[2025-11-05T23:20:33.515429] [INFO] Configuration loaded
+[2025-11-05T23:20:33.515464] [INFO] Connection established
+[2025-11-05T23:20:33.515497] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.515461] [INFO] Configuration loaded
+[2025-11-05T23:20:33.515544] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.515468] [INFO] Transaction completed
+[2025-11-05T23:20:33.515521] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.515547] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.515482] [WARN] Cache miss
+[2025-11-05T23:20:33.515525] [DEBUG] Loop iteration: 15

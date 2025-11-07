@@ -1,0 +1,30 @@
+[2025-11-05T23:20:21.282054] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.281978] [INFO] Health check passed
+[2025-11-05T23:20:21.281969] [INFO] Database query executed
+[2025-11-05T23:20:21.281973] [INFO] Service initialized
+[2025-11-05T23:20:21.282023] [WARN] Queue size growing
+[2025-11-05T23:20:21.282059] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.282044] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.282077] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.282073] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.282082] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.282033] [ERROR] File not found
+[2025-11-05T23:20:21.281921] [INFO] Health check passed
+[2025-11-05T23:20:21.282049] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.281948] [INFO] Cache hit
+[2025-11-05T23:20:21.282029] [ERROR] Invalid input data
+[2025-11-05T23:20:21.281986] [INFO] Database query executed
+[2025-11-05T23:20:21.281964] [INFO] Transaction completed
+[2025-11-05T23:20:21.282039] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.281959] [INFO] Service initialized
+[2025-11-05T23:20:21.281990] [INFO] Connection established
+[2025-11-05T23:20:21.282007] [INFO] Connection established
+[2025-11-05T23:20:21.282018] [WARN] Cache miss
+[2025-11-05T23:20:21.281982] [INFO] Database query executed
+[2025-11-05T23:20:21.281995] [INFO] Service initialized
+[2025-11-05T23:20:21.282064] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.282013] [WARN] Queue size growing
+[2025-11-05T23:20:21.281954] [INFO] User logged in
+[2025-11-05T23:20:21.282003] [INFO] Transaction completed
+[2025-11-05T23:20:21.281999] [INFO] Session started
+[2025-11-05T23:20:21.282069] [DEBUG] Variable value: x=42

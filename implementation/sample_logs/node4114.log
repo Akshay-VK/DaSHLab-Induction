@@ -1,0 +1,26 @@
+[2025-11-05T23:20:30.096754] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.096776] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.096676] [INFO] Cache hit
+[2025-11-05T23:20:30.096732] [WARN] Slow query performance
+[2025-11-05T23:20:30.096634] [INFO] Database query executed
+[2025-11-05T23:20:30.096669] [INFO] Connection established
+[2025-11-05T23:20:30.096706] [INFO] Connection established
+[2025-11-05T23:20:30.096691] [INFO] Connection established
+[2025-11-05T23:20:30.096781] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.096749] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.096701] [INFO] User logged in
+[2025-11-05T23:20:30.096726] [INFO] Session started
+[2025-11-05T23:20:30.096718] [INFO] Database query executed
+[2025-11-05T23:20:30.096710] [INFO] Session started
+[2025-11-05T23:20:30.096722] [INFO] User logged in
+[2025-11-05T23:20:30.096762] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.096744] [ERROR] Database connection lost
+[2025-11-05T23:20:30.096758] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.096714] [INFO] Request processed successfully
+[2025-11-05T23:20:30.096738] [ERROR] Network timeout
+[2025-11-05T23:20:30.096695] [INFO] Session started
+[2025-11-05T23:20:30.096681] [INFO] Transaction completed
+[2025-11-05T23:20:30.096772] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.096662] [INFO] Transaction completed
+[2025-11-05T23:20:30.096686] [INFO] Service initialized
+[2025-11-05T23:20:30.096767] [DEBUG] Entering function process_data()

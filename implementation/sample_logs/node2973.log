@@ -1,0 +1,31 @@
+[2025-11-05T23:20:25.243407] [INFO] Cache hit
+[2025-11-05T23:20:25.243496] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.243458] [INFO] Database query executed
+[2025-11-05T23:20:25.243412] [INFO] Health check passed
+[2025-11-05T23:20:25.243500] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.243505] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.243514] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.243363] [INFO] Database query executed
+[2025-11-05T23:20:25.243518] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.243436] [INFO] Transaction completed
+[2025-11-05T23:20:25.243476] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.243464] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.243426] [INFO] Request processed successfully
+[2025-11-05T23:20:25.243402] [INFO] User logged in
+[2025-11-05T23:20:25.243480] [WARN] Cache miss
+[2025-11-05T23:20:25.243431] [INFO] Connection established
+[2025-11-05T23:20:25.243418] [INFO] Session started
+[2025-11-05T23:20:25.243531] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.243449] [INFO] Connection established
+[2025-11-05T23:20:25.243391] [INFO] Session started
+[2025-11-05T23:20:25.243491] [ERROR] Memory allocation error
+[2025-11-05T23:20:25.243527] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.243397] [INFO] User logged in
+[2025-11-05T23:20:25.243454] [INFO] Transaction completed
+[2025-11-05T23:20:25.243422] [INFO] Health check passed
+[2025-11-05T23:20:25.243470] [WARN] Slow query performance
+[2025-11-05T23:20:25.243445] [INFO] Database query executed
+[2025-11-05T23:20:25.243523] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.243509] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.243440] [INFO] User logged in
+[2025-11-05T23:20:25.243486] [ERROR] Database connection lost

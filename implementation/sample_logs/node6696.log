@@ -1,0 +1,31 @@
+[2025-11-05T23:20:40.350445] [INFO] Connection established
+[2025-11-05T23:20:40.350433] [INFO] Database query executed
+[2025-11-05T23:20:40.350529] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.350474] [WARN] High memory usage detected
+[2025-11-05T23:20:40.350425] [INFO] Session started
+[2025-11-05T23:20:40.350512] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.350403] [INFO] Request processed successfully
+[2025-11-05T23:20:40.350492] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.350450] [INFO] Connection established
+[2025-11-05T23:20:40.350417] [INFO] Service initialized
+[2025-11-05T23:20:40.350502] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.350421] [INFO] Service initialized
+[2025-11-05T23:20:40.350437] [INFO] Cache hit
+[2025-11-05T23:20:40.350407] [INFO] Cache hit
+[2025-11-05T23:20:40.350412] [INFO] Transaction completed
+[2025-11-05T23:20:40.350392] [INFO] Transaction completed
+[2025-11-05T23:20:40.350480] [ERROR] Request failed
+[2025-11-05T23:20:40.350398] [INFO] Service initialized
+[2025-11-05T23:20:40.350460] [WARN] High memory usage detected
+[2025-11-05T23:20:40.350363] [INFO] Cache hit
+[2025-11-05T23:20:40.350455] [WARN] Disk space low
+[2025-11-05T23:20:40.350522] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.350470] [WARN] Resource threshold approaching
+[2025-11-05T23:20:40.350441] [INFO] Connection established
+[2025-11-05T23:20:40.350508] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.350496] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.350525] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.350517] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.350429] [INFO] Cache hit
+[2025-11-05T23:20:40.350466] [WARN] Timeout warning
+[2025-11-05T23:20:40.350486] [ERROR] Database connection lost

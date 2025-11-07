@@ -1,0 +1,33 @@
+[2025-11-05T23:20:21.930060] [WARN] High memory usage detected
+[2025-11-05T23:20:21.930085] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.929989] [INFO] Request processed successfully
+[2025-11-05T23:20:21.930080] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.930023] [INFO] Configuration loaded
+[2025-11-05T23:20:21.929945] [INFO] Cache hit
+[2025-11-05T23:20:21.930098] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.929975] [INFO] Request processed successfully
+[2025-11-05T23:20:21.930056] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.930007] [INFO] Cache hit
+[2025-11-05T23:20:21.930047] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.930038] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.929970] [INFO] User logged in
+[2025-11-05T23:20:21.930070] [ERROR] Service unavailable
+[2025-11-05T23:20:21.930089] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.930027] [INFO] User logged in
+[2025-11-05T23:20:21.929998] [INFO] Configuration loaded
+[2025-11-05T23:20:21.930015] [INFO] User logged in
+[2025-11-05T23:20:21.930019] [INFO] Session started
+[2025-11-05T23:20:21.929979] [INFO] Cache hit
+[2025-11-05T23:20:21.930002] [INFO] Connection established
+[2025-11-05T23:20:21.930075] [ERROR] Database connection lost
+[2025-11-05T23:20:21.930103] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.929993] [INFO] Health check passed
+[2025-11-05T23:20:21.930033] [WARN] Queue size growing
+[2025-11-05T23:20:21.929984] [INFO] User logged in
+[2025-11-05T23:20:21.930011] [INFO] Connection established
+[2025-11-05T23:20:21.930094] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.930064] [WARN] Queue size growing
+[2025-11-05T23:20:21.930112] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.930042] [WARN] Deprecated API usage
+[2025-11-05T23:20:21.930052] [WARN] Timeout warning
+[2025-11-05T23:20:21.930108] [DEBUG] Cache key generated

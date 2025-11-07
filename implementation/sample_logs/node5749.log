@@ -1,0 +1,29 @@
+[2025-11-05T23:20:36.314546] [INFO] Configuration loaded
+[2025-11-05T23:20:36.314601] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.314536] [INFO] Session started
+[2025-11-05T23:20:36.314530] [INFO] Transaction completed
+[2025-11-05T23:20:36.314582] [INFO] Database query executed
+[2025-11-05T23:20:36.314610] [ERROR] Database connection lost
+[2025-11-05T23:20:36.314648] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.314541] [INFO] Health check passed
+[2025-11-05T23:20:36.314624] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.314571] [INFO] Database query executed
+[2025-11-05T23:20:36.314620] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.314559] [INFO] Transaction completed
+[2025-11-05T23:20:36.314550] [INFO] Request processed successfully
+[2025-11-05T23:20:36.314633] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.314596] [WARN] Resource threshold approaching
+[2025-11-05T23:20:36.314629] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.314562] [INFO] Service initialized
+[2025-11-05T23:20:36.314554] [INFO] Health check passed
+[2025-11-05T23:20:36.314567] [INFO] Session started
+[2025-11-05T23:20:36.314644] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.314579] [INFO] Request processed successfully
+[2025-11-05T23:20:36.314606] [ERROR] Invalid input data
+[2025-11-05T23:20:36.314586] [INFO] Configuration loaded
+[2025-11-05T23:20:36.314504] [INFO] Configuration loaded
+[2025-11-05T23:20:36.314575] [INFO] Request processed successfully
+[2025-11-05T23:20:36.314591] [WARN] Slow query performance
+[2025-11-05T23:20:36.314615] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.314637] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.314641] [DEBUG] Buffer size: 4096 bytes

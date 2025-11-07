@@ -1,0 +1,28 @@
+[2025-11-05T23:20:15.596820] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.596842] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.596573] [INFO] Session started
+[2025-11-05T23:20:15.596608] [INFO] User logged in
+[2025-11-05T23:20:15.596633] [ERROR] Network timeout
+[2025-11-05T23:20:15.596814] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.596806] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.596638] [ERROR] Database connection lost
+[2025-11-05T23:20:15.596591] [INFO] Health check passed
+[2025-11-05T23:20:15.596562] [INFO] Request processed successfully
+[2025-11-05T23:20:15.596587] [INFO] Cache hit
+[2025-11-05T23:20:15.596577] [INFO] Connection established
+[2025-11-05T23:20:15.596648] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.596837] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.596604] [INFO] User logged in
+[2025-11-05T23:20:15.596582] [INFO] Database query executed
+[2025-11-05T23:20:15.596600] [INFO] Health check passed
+[2025-11-05T23:20:15.596537] [INFO] Request processed successfully
+[2025-11-05T23:20:15.596619] [WARN] Queue size growing
+[2025-11-05T23:20:15.596624] [WARN] Resource threshold approaching
+[2025-11-05T23:20:15.596595] [INFO] Request processed successfully
+[2025-11-05T23:20:15.596568] [INFO] Request processed successfully
+[2025-11-05T23:20:15.596831] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.596614] [WARN] Timeout warning
+[2025-11-05T23:20:15.596652] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.596642] [ERROR] Authentication failed
+[2025-11-05T23:20:15.596826] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.596628] [WARN] Deprecated API usage

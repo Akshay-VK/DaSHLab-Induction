@@ -1,0 +1,33 @@
+[2025-11-05T23:20:21.674299] [INFO] Health check passed
+[2025-11-05T23:20:21.674351] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.674341] [ERROR] Memory allocation error
+[2025-11-05T23:20:21.674295] [INFO] Connection established
+[2025-11-05T23:20:21.674381] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.674319] [WARN] Slow query performance
+[2025-11-05T23:20:21.674254] [INFO] Configuration loaded
+[2025-11-05T23:20:21.674377] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.674372] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.674360] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.674356] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.674282] [INFO] Connection established
+[2025-11-05T23:20:21.674313] [WARN] Deprecated API usage
+[2025-11-05T23:20:21.674278] [INFO] Database query executed
+[2025-11-05T23:20:21.674243] [INFO] Configuration loaded
+[2025-11-05T23:20:21.674323] [WARN] Deprecated API usage
+[2025-11-05T23:20:21.674331] [WARN] Queue size growing
+[2025-11-05T23:20:21.674268] [INFO] Request processed successfully
+[2025-11-05T23:20:21.674236] [INFO] Database query executed
+[2025-11-05T23:20:21.674346] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.674336] [ERROR] Authentication failed
+[2025-11-05T23:20:21.674259] [INFO] Health check passed
+[2025-11-05T23:20:21.674264] [INFO] Request processed successfully
+[2025-11-05T23:20:21.674368] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.674291] [INFO] Configuration loaded
+[2025-11-05T23:20:21.674327] [WARN] Timeout warning
+[2025-11-05T23:20:21.674273] [INFO] Connection established
+[2025-11-05T23:20:21.674307] [INFO] Connection established
+[2025-11-05T23:20:21.674249] [INFO] Transaction completed
+[2025-11-05T23:20:21.674287] [INFO] Request processed successfully
+[2025-11-05T23:20:21.674303] [INFO] Transaction completed
+[2025-11-05T23:20:21.674364] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.674208] [INFO] Transaction completed

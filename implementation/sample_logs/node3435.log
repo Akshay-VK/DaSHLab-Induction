@@ -1,0 +1,28 @@
+[2025-11-05T23:20:27.224123] [INFO] Connection established
+[2025-11-05T23:20:27.224139] [INFO] User logged in
+[2025-11-05T23:20:27.224167] [WARN] Slow query performance
+[2025-11-05T23:20:27.224143] [INFO] User logged in
+[2025-11-05T23:20:27.224119] [INFO] Transaction completed
+[2025-11-05T23:20:27.224068] [INFO] User logged in
+[2025-11-05T23:20:27.224172] [ERROR] Authentication failed
+[2025-11-05T23:20:27.224203] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.224195] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:27.224178] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.224127] [INFO] Cache hit
+[2025-11-05T23:20:27.224211] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.224186] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.224105] [INFO] Request processed successfully
+[2025-11-05T23:20:27.224182] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.224094] [INFO] Configuration loaded
+[2025-11-05T23:20:27.224109] [INFO] Database query executed
+[2025-11-05T23:20:27.224190] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.224158] [WARN] High memory usage detected
+[2025-11-05T23:20:27.224153] [WARN] Rate limit approaching
+[2025-11-05T23:20:27.224162] [WARN] Rate limit approaching
+[2025-11-05T23:20:27.224199] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.224147] [INFO] User logged in
+[2025-11-05T23:20:27.224100] [INFO] Connection established
+[2025-11-05T23:20:27.224131] [INFO] Transaction completed
+[2025-11-05T23:20:27.224207] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.224114] [INFO] Health check passed
+[2025-11-05T23:20:27.224135] [INFO] Session started

@@ -1,0 +1,26 @@
+[2025-11-05T23:20:25.269574] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.269562] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.269535] [INFO] Service initialized
+[2025-11-05T23:20:25.269578] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.269570] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.269531] [INFO] Transaction completed
+[2025-11-05T23:20:25.269506] [INFO] Request processed successfully
+[2025-11-05T23:20:25.269498] [INFO] Connection established
+[2025-11-05T23:20:25.269454] [INFO] Cache hit
+[2025-11-05T23:20:25.269557] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.269527] [INFO] Database query executed
+[2025-11-05T23:20:25.269523] [INFO] Request processed successfully
+[2025-11-05T23:20:25.269587] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.269494] [INFO] Health check passed
+[2025-11-05T23:20:25.269515] [INFO] Configuration loaded
+[2025-11-05T23:20:25.269547] [ERROR] Database connection lost
+[2025-11-05T23:20:25.269490] [INFO] Transaction completed
+[2025-11-05T23:20:25.269519] [INFO] Service initialized
+[2025-11-05T23:20:25.269552] [ERROR] Database connection lost
+[2025-11-05T23:20:25.269510] [INFO] Health check passed
+[2025-11-05T23:20:25.269485] [INFO] Connection established
+[2025-11-05T23:20:25.269502] [INFO] Connection established
+[2025-11-05T23:20:25.269479] [INFO] Request processed successfully
+[2025-11-05T23:20:25.269583] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.269541] [WARN] Slow query performance
+[2025-11-05T23:20:25.269566] [DEBUG] Thread pool size: 8

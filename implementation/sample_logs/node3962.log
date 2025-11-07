@@ -1,0 +1,38 @@
+[2025-11-05T23:20:29.557288] [INFO] Connection established
+[2025-11-05T23:20:29.557329] [WARN] Connection retry attempt
+[2025-11-05T23:20:29.557236] [INFO] Transaction completed
+[2025-11-05T23:20:29.557317] [INFO] Service initialized
+[2025-11-05T23:20:29.557391] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.557405] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.557387] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.557247] [INFO] Cache hit
+[2025-11-05T23:20:29.557383] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.557361] [ERROR] Database connection lost
+[2025-11-05T23:20:29.557410] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.557263] [INFO] Connection established
+[2025-11-05T23:20:29.557258] [INFO] Transaction completed
+[2025-11-05T23:20:29.557253] [INFO] Session started
+[2025-11-05T23:20:29.557372] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.557345] [ERROR] Disk read failed
+[2025-11-05T23:20:29.557283] [INFO] Configuration loaded
+[2025-11-05T23:20:29.557415] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.557293] [INFO] Health check passed
+[2025-11-05T23:20:29.557334] [WARN] Timeout warning
+[2025-11-05T23:20:29.557203] [INFO] Connection established
+[2025-11-05T23:20:29.557311] [INFO] Health check passed
+[2025-11-05T23:20:29.557400] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.557277] [INFO] Cache hit
+[2025-11-05T23:20:29.557268] [INFO] Health check passed
+[2025-11-05T23:20:29.557273] [INFO] Connection established
+[2025-11-05T23:20:29.557241] [INFO] User logged in
+[2025-11-05T23:20:29.557377] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.557301] [INFO] Configuration loaded
+[2025-11-05T23:20:29.557324] [WARN] Cache miss
+[2025-11-05T23:20:29.557297] [INFO] Database query executed
+[2025-11-05T23:20:29.557339] [WARN] Deprecated API usage
+[2025-11-05T23:20:29.557357] [ERROR] Request failed
+[2025-11-05T23:20:29.557367] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.557229] [INFO] Transaction completed
+[2025-11-05T23:20:29.557396] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.557352] [ERROR] Disk read failed
+[2025-11-05T23:20:29.557306] [INFO] Request processed successfully

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:42.713904] [WARN] Timeout warning
+[2025-11-05T23:20:42.713957] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.713960] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.713859] [INFO] Database query executed
+[2025-11-05T23:20:42.713931] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.713935] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.713863] [INFO] Cache hit
+[2025-11-05T23:20:42.713870] [INFO] Database query executed
+[2025-11-05T23:20:42.713943] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.713854] [INFO] Request processed successfully
+[2025-11-05T23:20:42.713924] [ERROR] Invalid input data
+[2025-11-05T23:20:42.713927] [ERROR] File not found
+[2025-11-05T23:20:42.713866] [INFO] Transaction completed
+[2025-11-05T23:20:42.713908] [WARN] Deprecated API usage
+[2025-11-05T23:20:42.713920] [ERROR] File not found
+[2025-11-05T23:20:42.713881] [INFO] Session started
+[2025-11-05T23:20:42.713915] [WARN] High memory usage detected
+[2025-11-05T23:20:42.713950] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.713947] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.713939] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.713885] [INFO] User logged in
+[2025-11-05T23:20:42.713888] [INFO] Session started
+[2025-11-05T23:20:42.713899] [WARN] Cache miss
+[2025-11-05T23:20:42.713963] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.713830] [INFO] Health check passed
+[2025-11-05T23:20:42.713967] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.713911] [WARN] Resource threshold approaching
+[2025-11-05T23:20:42.713891] [INFO] Connection established
+[2025-11-05T23:20:42.713877] [INFO] User logged in
+[2025-11-05T23:20:42.713874] [INFO] User logged in
+[2025-11-05T23:20:42.713895] [INFO] User logged in
+[2025-11-05T23:20:42.713953] [DEBUG] HTTP request headers parsed

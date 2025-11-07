@@ -1,0 +1,30 @@
+[2025-11-05T23:20:29.087992] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.087905] [INFO] Cache hit
+[2025-11-05T23:20:29.087988] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.087979] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.087913] [INFO] Transaction completed
+[2025-11-05T23:20:29.087975] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.087960] [ERROR] Authentication failed
+[2025-11-05T23:20:29.087954] [WARN] Connection retry attempt
+[2025-11-05T23:20:29.087873] [INFO] Configuration loaded
+[2025-11-05T23:20:29.087918] [INFO] Transaction completed
+[2025-11-05T23:20:29.087883] [INFO] User logged in
+[2025-11-05T23:20:29.087946] [WARN] Connection retry attempt
+[2025-11-05T23:20:29.087971] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.087966] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.088000] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.087892] [INFO] Service initialized
+[2025-11-05T23:20:29.087896] [INFO] Database query executed
+[2025-11-05T23:20:29.087930] [INFO] Database query executed
+[2025-11-05T23:20:29.087909] [INFO] Health check passed
+[2025-11-05T23:20:29.087984] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.087846] [INFO] Connection established
+[2025-11-05T23:20:29.087888] [INFO] Transaction completed
+[2025-11-05T23:20:29.087900] [INFO] Health check passed
+[2025-11-05T23:20:29.087950] [WARN] Disk space low
+[2025-11-05T23:20:29.087879] [INFO] Health check passed
+[2025-11-05T23:20:29.087926] [INFO] Service initialized
+[2025-11-05T23:20:29.087936] [WARN] Rate limit approaching
+[2025-11-05T23:20:29.087922] [INFO] Configuration loaded
+[2025-11-05T23:20:29.087941] [WARN] Disk space low
+[2025-11-05T23:20:29.087996] [DEBUG] Thread pool size: 8

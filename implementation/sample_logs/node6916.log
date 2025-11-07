@@ -1,0 +1,35 @@
+[2025-11-05T23:20:41.235754] [INFO] Transaction completed
+[2025-11-05T23:20:41.235842] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.235898] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.235881] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.235820] [WARN] High memory usage detected
+[2025-11-05T23:20:41.235847] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.235816] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.235792] [INFO] Session started
+[2025-11-05T23:20:41.235826] [WARN] Cache miss
+[2025-11-05T23:20:41.235831] [WARN] Slow query performance
+[2025-11-05T23:20:41.235811] [WARN] Queue size growing
+[2025-11-05T23:20:41.235858] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.235729] [INFO] Service initialized
+[2025-11-05T23:20:41.235837] [ERROR] Request failed
+[2025-11-05T23:20:41.235884] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.235764] [INFO] User logged in
+[2025-11-05T23:20:41.235780] [INFO] Session started
+[2025-11-05T23:20:41.235768] [INFO] Request processed successfully
+[2025-11-05T23:20:41.235893] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.235888] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.235862] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.235877] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.235801] [INFO] Connection established
+[2025-11-05T23:20:41.235866] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.235788] [INFO] Cache hit
+[2025-11-05T23:20:41.235784] [INFO] User logged in
+[2025-11-05T23:20:41.235873] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.235870] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.235797] [INFO] Session started
+[2025-11-05T23:20:41.235772] [INFO] Session started
+[2025-11-05T23:20:41.235776] [INFO] Cache hit
+[2025-11-05T23:20:41.235854] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.235806] [INFO] Service initialized
+[2025-11-05T23:20:41.235850] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.235760] [INFO] User logged in

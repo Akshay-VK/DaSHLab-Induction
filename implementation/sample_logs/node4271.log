@@ -1,0 +1,27 @@
+[2025-11-05T23:20:30.716040] [INFO] Transaction completed
+[2025-11-05T23:20:30.716129] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.716126] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.716087] [INFO] Connection established
+[2025-11-05T23:20:30.716116] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.716109] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.716044] [INFO] Database query executed
+[2025-11-05T23:20:30.716092] [WARN] Slow query performance
+[2025-11-05T23:20:30.716102] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.716048] [INFO] Health check passed
+[2025-11-05T23:20:30.716016] [INFO] Configuration loaded
+[2025-11-05T23:20:30.716097] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.716119] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.716071] [INFO] Database query executed
+[2025-11-05T23:20:30.716058] [INFO] Configuration loaded
+[2025-11-05T23:20:30.716061] [INFO] Connection established
+[2025-11-05T23:20:30.716068] [INFO] Connection established
+[2025-11-05T23:20:30.716055] [INFO] Service initialized
+[2025-11-05T23:20:30.716081] [INFO] Database query executed
+[2025-11-05T23:20:30.716074] [INFO] Connection established
+[2025-11-05T23:20:30.716078] [INFO] Connection established
+[2025-11-05T23:20:30.716106] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.716113] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.716084] [INFO] Request processed successfully
+[2025-11-05T23:20:30.716051] [INFO] Transaction completed
+[2025-11-05T23:20:30.716064] [INFO] Database query executed
+[2025-11-05T23:20:30.716122] [DEBUG] Memory allocation: 2048 bytes

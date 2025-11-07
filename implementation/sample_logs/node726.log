@@ -1,0 +1,35 @@
+[2025-11-05T23:20:15.558625] [INFO] User logged in
+[2025-11-05T23:20:15.558680] [INFO] Cache hit
+[2025-11-05T23:20:15.558813] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.558675] [INFO] Connection established
+[2025-11-05T23:20:15.558722] [INFO] Session started
+[2025-11-05T23:20:15.558743] [WARN] Slow query performance
+[2025-11-05T23:20:15.558783] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.558808] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.558709] [INFO] Health check passed
+[2025-11-05T23:20:15.558754] [ERROR] File not found
+[2025-11-05T23:20:15.558693] [INFO] Request processed successfully
+[2025-11-05T23:20:15.558718] [INFO] Cache hit
+[2025-11-05T23:20:15.558697] [INFO] Request processed successfully
+[2025-11-05T23:20:15.558739] [WARN] Deprecated API usage
+[2025-11-05T23:20:15.558778] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.558760] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.558705] [INFO] Cache hit
+[2025-11-05T23:20:15.558791] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.558733] [WARN] Timeout warning
+[2025-11-05T23:20:15.558670] [INFO] Configuration loaded
+[2025-11-05T23:20:15.558795] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.558660] [INFO] Transaction completed
+[2025-11-05T23:20:15.558714] [INFO] Configuration loaded
+[2025-11-05T23:20:15.558684] [INFO] User logged in
+[2025-11-05T23:20:15.558765] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.558727] [INFO] Session started
+[2025-11-05T23:20:15.558774] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.558770] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.558688] [INFO] Configuration loaded
+[2025-11-05T23:20:15.558787] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.558654] [INFO] Database query executed
+[2025-11-05T23:20:15.558749] [ERROR] File not found
+[2025-11-05T23:20:15.558665] [INFO] Service initialized
+[2025-11-05T23:20:15.558802] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.558701] [INFO] Service initialized

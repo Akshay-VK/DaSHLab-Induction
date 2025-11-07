@@ -1,0 +1,30 @@
+[2025-11-05T23:20:35.567798] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.567792] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.567764] [WARN] Rate limit approaching
+[2025-11-05T23:20:35.567785] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.567809] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.567795] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.567731] [INFO] Session started
+[2025-11-05T23:20:35.567741] [INFO] User logged in
+[2025-11-05T23:20:35.567713] [INFO] User logged in
+[2025-11-05T23:20:35.567717] [INFO] Cache hit
+[2025-11-05T23:20:35.567756] [WARN] High memory usage detected
+[2025-11-05T23:20:35.567768] [WARN] Disk space low
+[2025-11-05T23:20:35.567735] [INFO] Cache hit
+[2025-11-05T23:20:35.567777] [ERROR] Permission denied
+[2025-11-05T23:20:35.567781] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.567760] [WARN] Connection retry attempt
+[2025-11-05T23:20:35.567805] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.567721] [INFO] Configuration loaded
+[2025-11-05T23:20:35.567709] [INFO] Connection established
+[2025-11-05T23:20:35.567745] [INFO] User logged in
+[2025-11-05T23:20:35.567788] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.567727] [INFO] Health check passed
+[2025-11-05T23:20:35.567749] [INFO] Session started
+[2025-11-05T23:20:35.567678] [INFO] Configuration loaded
+[2025-11-05T23:20:35.567703] [INFO] Service initialized
+[2025-11-05T23:20:35.567773] [ERROR] Disk read failed
+[2025-11-05T23:20:35.567738] [INFO] Session started
+[2025-11-05T23:20:35.567724] [INFO] Configuration loaded
+[2025-11-05T23:20:35.567752] [INFO] Request processed successfully
+[2025-11-05T23:20:35.567802] [DEBUG] Entering function process_data()

@@ -1,0 +1,23 @@
+[2025-11-05T23:20:41.800299] [INFO] Session started
+[2025-11-05T23:20:41.800353] [WARN] High memory usage detected
+[2025-11-05T23:20:41.800336] [INFO] Session started
+[2025-11-05T23:20:41.800311] [INFO] User logged in
+[2025-11-05T23:20:41.800391] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.800404] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.800272] [INFO] Health check passed
+[2025-11-05T23:20:41.800399] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.800358] [WARN] Disk space low
+[2025-11-05T23:20:41.800322] [INFO] Health check passed
+[2025-11-05T23:20:41.800383] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.800374] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.800326] [INFO] Configuration loaded
+[2025-11-05T23:20:41.800364] [ERROR] Database connection lost
+[2025-11-05T23:20:41.800306] [INFO] Request processed successfully
+[2025-11-05T23:20:41.800387] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.800395] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.800316] [INFO] User logged in
+[2025-11-05T23:20:41.800332] [INFO] Request processed successfully
+[2025-11-05T23:20:41.800369] [ERROR] Authentication failed
+[2025-11-05T23:20:41.800347] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.800342] [WARN] High memory usage detected
+[2025-11-05T23:20:41.800378] [DEBUG] Variable value: x=42

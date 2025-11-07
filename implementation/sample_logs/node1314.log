@@ -1,0 +1,34 @@
+[2025-11-05T23:20:17.945086] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.945004] [INFO] User logged in
+[2025-11-05T23:20:17.945051] [WARN] Cache miss
+[2025-11-05T23:20:17.945098] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.945077] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.945021] [INFO] Health check passed
+[2025-11-05T23:20:17.945094] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.944981] [INFO] Session started
+[2025-11-05T23:20:17.945062] [ERROR] Authentication failed
+[2025-11-05T23:20:17.945034] [INFO] Transaction completed
+[2025-11-05T23:20:17.945117] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.945029] [INFO] Cache hit
+[2025-11-05T23:20:17.944952] [INFO] Connection established
+[2025-11-05T23:20:17.945045] [INFO] Connection established
+[2025-11-05T23:20:17.945013] [INFO] Service initialized
+[2025-11-05T23:20:17.945025] [INFO] Health check passed
+[2025-11-05T23:20:17.944994] [INFO] Service initialized
+[2025-11-05T23:20:17.945113] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.945009] [INFO] Database query executed
+[2025-11-05T23:20:17.945042] [INFO] Transaction completed
+[2025-11-05T23:20:17.944998] [INFO] Connection established
+[2025-11-05T23:20:17.945109] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.945121] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.945067] [ERROR] Network timeout
+[2025-11-05T23:20:17.945057] [WARN] Disk space low
+[2025-11-05T23:20:17.945102] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.945106] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.945081] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.944988] [INFO] Configuration loaded
+[2025-11-05T23:20:17.945090] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.945017] [INFO] Configuration loaded
+[2025-11-05T23:20:17.945038] [INFO] Database query executed
+[2025-11-05T23:20:17.945072] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.945126] [DEBUG] Buffer size: 4096 bytes

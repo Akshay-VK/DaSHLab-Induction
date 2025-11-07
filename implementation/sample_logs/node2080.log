@@ -1,0 +1,33 @@
+[2025-11-05T23:20:21.360527] [ERROR] Authentication failed
+[2025-11-05T23:20:21.360408] [INFO] Session started
+[2025-11-05T23:20:21.360532] [ERROR] Invalid input data
+[2025-11-05T23:20:21.360547] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.360449] [INFO] Session started
+[2025-11-05T23:20:21.360542] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.360473] [INFO] Cache hit
+[2025-11-05T23:20:21.360477] [INFO] Health check passed
+[2025-11-05T23:20:21.360566] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.360482] [INFO] Request processed successfully
+[2025-11-05T23:20:21.360557] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.360468] [INFO] Database query executed
+[2025-11-05T23:20:21.360464] [INFO] Connection established
+[2025-11-05T23:20:21.360443] [INFO] Session started
+[2025-11-05T23:20:21.360573] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.360537] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.360516] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.360577] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.360453] [INFO] User logged in
+[2025-11-05T23:20:21.360436] [INFO] Database query executed
+[2025-11-05T23:20:21.360521] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.360562] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.360459] [INFO] Connection established
+[2025-11-05T23:20:21.360491] [INFO] Configuration loaded
+[2025-11-05T23:20:21.360570] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.360586] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.360505] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.360486] [INFO] Cache hit
+[2025-11-05T23:20:21.360499] [INFO] Health check passed
+[2025-11-05T23:20:21.360511] [WARN] High memory usage detected
+[2025-11-05T23:20:21.360582] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.360552] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.360495] [INFO] Database query executed

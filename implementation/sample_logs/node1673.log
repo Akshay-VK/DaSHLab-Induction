@@ -1,0 +1,33 @@
+[2025-11-05T23:20:19.613495] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.613421] [WARN] Resource threshold approaching
+[2025-11-05T23:20:19.613504] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.613147] [INFO] Session started
+[2025-11-05T23:20:19.613511] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.613398] [INFO] User logged in
+[2025-11-05T23:20:19.613483] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.613478] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.613169] [INFO] User logged in
+[2025-11-05T23:20:19.613393] [INFO] Session started
+[2025-11-05T23:20:19.613115] [INFO] Transaction completed
+[2025-11-05T23:20:19.613152] [INFO] Cache hit
+[2025-11-05T23:20:19.613377] [INFO] Request processed successfully
+[2025-11-05T23:20:19.613408] [INFO] Request processed successfully
+[2025-11-05T23:20:19.613519] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.613515] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.613453] [WARN] Connection retry attempt
+[2025-11-05T23:20:19.613500] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.613461] [WARN] High memory usage detected
+[2025-11-05T23:20:19.613173] [INFO] User logged in
+[2025-11-05T23:20:19.613415] [WARN] Slow query performance
+[2025-11-05T23:20:19.613165] [INFO] Session started
+[2025-11-05T23:20:19.613508] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.613403] [INFO] Service initialized
+[2025-11-05T23:20:19.613522] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.613466] [WARN] Cache miss
+[2025-11-05T23:20:19.613156] [INFO] Request processed successfully
+[2025-11-05T23:20:19.613161] [INFO] Service initialized
+[2025-11-05T23:20:19.613491] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.613387] [INFO] Configuration loaded
+[2025-11-05T23:20:19.613487] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.613472] [ERROR] Network timeout
+[2025-11-05T23:20:19.613141] [INFO] Request processed successfully

@@ -1,0 +1,33 @@
+[2025-11-05T23:20:33.400970] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.400925] [INFO] Configuration loaded
+[2025-11-05T23:20:33.400895] [INFO] Database query executed
+[2025-11-05T23:20:33.400903] [INFO] Cache hit
+[2025-11-05T23:20:33.400872] [INFO] Cache hit
+[2025-11-05T23:20:33.400877] [INFO] Connection established
+[2025-11-05T23:20:33.400961] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.400917] [INFO] Cache hit
+[2025-11-05T23:20:33.400956] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.400979] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.400997] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.400921] [INFO] Request processed successfully
+[2025-11-05T23:20:33.400885] [INFO] Database query executed
+[2025-11-05T23:20:33.400983] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.401001] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.400908] [INFO] Request processed successfully
+[2025-11-05T23:20:33.400931] [WARN] Cache miss
+[2025-11-05T23:20:33.400966] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.400857] [INFO] Session started
+[2025-11-05T23:20:33.401006] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.400975] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.400862] [INFO] Configuration loaded
+[2025-11-05T23:20:33.400988] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.400830] [INFO] Service initialized
+[2025-11-05T23:20:33.400943] [WARN] Timeout warning
+[2025-11-05T23:20:33.400867] [INFO] Transaction completed
+[2025-11-05T23:20:33.400993] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.400912] [INFO] Service initialized
+[2025-11-05T23:20:33.400890] [INFO] Database query executed
+[2025-11-05T23:20:33.400881] [INFO] Connection established
+[2025-11-05T23:20:33.400938] [WARN] Resource threshold approaching
+[2025-11-05T23:20:33.400898] [INFO] Database query executed
+[2025-11-05T23:20:33.400949] [ERROR] Disk read failed

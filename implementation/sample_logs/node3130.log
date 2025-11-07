@@ -1,0 +1,32 @@
+[2025-11-05T23:20:25.879865] [INFO] Health check passed
+[2025-11-05T23:20:25.879915] [WARN] Slow query performance
+[2025-11-05T23:20:25.879937] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.879920] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.879911] [WARN] High memory usage detected
+[2025-11-05T23:20:25.879890] [INFO] Connection established
+[2025-11-05T23:20:25.879926] [ERROR] Database connection lost
+[2025-11-05T23:20:25.879877] [INFO] Connection established
+[2025-11-05T23:20:25.879948] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.879837] [INFO] Transaction completed
+[2025-11-05T23:20:25.879857] [INFO] Transaction completed
+[2025-11-05T23:20:25.879853] [INFO] Configuration loaded
+[2025-11-05T23:20:25.879957] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.879952] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.879831] [INFO] Service initialized
+[2025-11-05T23:20:25.879848] [INFO] Health check passed
+[2025-11-05T23:20:25.879882] [INFO] User logged in
+[2025-11-05T23:20:25.879965] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.879886] [INFO] Session started
+[2025-11-05T23:20:25.879931] [ERROR] Network timeout
+[2025-11-05T23:20:25.879905] [WARN] Resource threshold approaching
+[2025-11-05T23:20:25.879970] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.879899] [INFO] Connection established
+[2025-11-05T23:20:25.879974] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.879861] [INFO] Request processed successfully
+[2025-11-05T23:20:25.879842] [INFO] Request processed successfully
+[2025-11-05T23:20:25.879873] [INFO] User logged in
+[2025-11-05T23:20:25.879869] [INFO] Connection established
+[2025-11-05T23:20:25.879942] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.879894] [INFO] Request processed successfully
+[2025-11-05T23:20:25.879961] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.879804] [INFO] Configuration loaded

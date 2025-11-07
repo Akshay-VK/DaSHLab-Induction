@@ -1,0 +1,31 @@
+[2025-11-05T23:20:42.357241] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.357143] [INFO] Service initialized
+[2025-11-05T23:20:42.357157] [INFO] User logged in
+[2025-11-05T23:20:42.357187] [INFO] Request processed successfully
+[2025-11-05T23:20:42.357195] [INFO] Health check passed
+[2025-11-05T23:20:42.357246] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.357223] [WARN] Disk space low
+[2025-11-05T23:20:42.357111] [INFO] Cache hit
+[2025-11-05T23:20:42.357165] [INFO] Service initialized
+[2025-11-05T23:20:42.357152] [INFO] Service initialized
+[2025-11-05T23:20:42.357257] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.357235] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.357169] [INFO] Transaction completed
+[2025-11-05T23:20:42.357251] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.357229] [ERROR] File not found
+[2025-11-05T23:20:42.357174] [INFO] Session started
+[2025-11-05T23:20:42.357148] [INFO] Database query executed
+[2025-11-05T23:20:42.357205] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.357199] [INFO] Session started
+[2025-11-05T23:20:42.357261] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.357265] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.357183] [INFO] Connection established
+[2025-11-05T23:20:42.357137] [INFO] Transaction completed
+[2025-11-05T23:20:42.357191] [INFO] Transaction completed
+[2025-11-05T23:20:42.357161] [INFO] Session started
+[2025-11-05T23:20:42.357214] [WARN] High memory usage detected
+[2025-11-05T23:20:42.357273] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.357269] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.357178] [INFO] Session started
+[2025-11-05T23:20:42.357219] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.357210] [WARN] Cache miss

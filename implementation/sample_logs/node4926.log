@@ -1,0 +1,31 @@
+[2025-11-05T23:20:33.364888] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.364740] [INFO] Database query executed
+[2025-11-05T23:20:33.364880] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.364896] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.364867] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.364821] [WARN] Rate limit approaching
+[2025-11-05T23:20:33.364876] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.364770] [INFO] Session started
+[2025-11-05T23:20:33.364838] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.364805] [INFO] Service initialized
+[2025-11-05T23:20:33.364857] [ERROR] Permission denied
+[2025-11-05T23:20:33.364884] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.364893] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.364797] [INFO] Database query executed
+[2025-11-05T23:20:33.364815] [WARN] Deprecated API usage
+[2025-11-05T23:20:33.364871] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.364852] [ERROR] Network timeout
+[2025-11-05T23:20:33.364801] [INFO] Transaction completed
+[2025-11-05T23:20:33.364825] [WARN] Deprecated API usage
+[2025-11-05T23:20:33.364779] [INFO] Request processed successfully
+[2025-11-05T23:20:33.364833] [WARN] Deprecated API usage
+[2025-11-05T23:20:33.364829] [WARN] Slow query performance
+[2025-11-05T23:20:33.364784] [INFO] User logged in
+[2025-11-05T23:20:33.364775] [INFO] User logged in
+[2025-11-05T23:20:33.364848] [ERROR] File not found
+[2025-11-05T23:20:33.364810] [INFO] User logged in
+[2025-11-05T23:20:33.364765] [INFO] Transaction completed
+[2025-11-05T23:20:33.364842] [WARN] Timeout warning
+[2025-11-05T23:20:33.364793] [INFO] Transaction completed
+[2025-11-05T23:20:33.364788] [INFO] User logged in
+[2025-11-05T23:20:33.364862] [DEBUG] Variable value: x=42

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:44.048944] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.048857] [INFO] Session started
+[2025-11-05T23:20:44.048953] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.048958] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.048852] [INFO] Service initialized
+[2025-11-05T23:20:44.048862] [INFO] Service initialized
+[2025-11-05T23:20:44.048910] [INFO] Transaction completed
+[2025-11-05T23:20:44.048875] [INFO] Cache hit
+[2025-11-05T23:20:44.048866] [INFO] Configuration loaded
+[2025-11-05T23:20:44.048967] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.048889] [INFO] Transaction completed
+[2025-11-05T23:20:44.048921] [WARN] Disk space low
+[2025-11-05T23:20:44.048971] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.048906] [INFO] Session started
+[2025-11-05T23:20:44.048937] [ERROR] Memory allocation error
+[2025-11-05T23:20:44.048871] [INFO] User logged in
+[2025-11-05T23:20:44.048916] [WARN] Rate limit approaching
+[2025-11-05T23:20:44.048928] [WARN] Disk space low
+[2025-11-05T23:20:44.048979] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.048975] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.048825] [INFO] Configuration loaded
+[2025-11-05T23:20:44.048962] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.048880] [INFO] Transaction completed
+[2025-11-05T23:20:44.048932] [WARN] Timeout warning
+[2025-11-05T23:20:44.048884] [INFO] Health check passed
+[2025-11-05T23:20:44.048949] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.048898] [INFO] Cache hit
+[2025-11-05T23:20:44.048893] [INFO] Cache hit
+[2025-11-05T23:20:44.048902] [INFO] Service initialized

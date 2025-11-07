@@ -1,0 +1,26 @@
+[2025-11-05T23:20:48.452537] [WARN] High memory usage detected
+[2025-11-05T23:20:48.452862] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:48.452519] [INFO] Configuration loaded
+[2025-11-05T23:20:48.452710] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:48.452720] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.452081] [INFO] Session started
+[2025-11-05T23:20:48.452662] [WARN] Rate limit approaching
+[2025-11-05T23:20:48.452724] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.452679] [WARN] Timeout warning
+[2025-11-05T23:20:48.452466] [INFO] Connection established
+[2025-11-05T23:20:48.452874] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:48.452087] [INFO] Transaction completed
+[2025-11-05T23:20:48.452685] [WARN] Rate limit approaching
+[2025-11-05T23:20:48.452698] [ERROR] File not found
+[2025-11-05T23:20:48.452099] [INFO] Cache hit
+[2025-11-05T23:20:48.452106] [INFO] Database query executed
+[2025-11-05T23:20:48.452729] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:48.452527] [INFO] Database query executed
+[2025-11-05T23:20:48.452715] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:48.452705] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.452093] [INFO] User logged in
+[2025-11-05T23:20:48.452443] [INFO] User logged in
+[2025-11-05T23:20:48.452690] [WARN] Connection retry attempt
+[2025-11-05T23:20:48.452736] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.452461] [INFO] Transaction completed
+[2025-11-05T23:20:48.452053] [INFO] Health check passed

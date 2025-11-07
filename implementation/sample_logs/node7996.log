@@ -1,0 +1,35 @@
+[2025-11-05T23:20:45.400031] [INFO] Configuration loaded
+[2025-11-05T23:20:45.400179] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.400091] [WARN] Queue size growing
+[2025-11-05T23:20:45.400174] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.400101] [WARN] Resource threshold approaching
+[2025-11-05T23:20:45.400148] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.400115] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.400132] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.400086] [INFO] Health check passed
+[2025-11-05T23:20:45.400057] [INFO] Service initialized
+[2025-11-05T23:20:45.400166] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.400074] [INFO] Health check passed
+[2025-11-05T23:20:45.400082] [INFO] Configuration loaded
+[2025-11-05T23:20:45.400049] [INFO] User logged in
+[2025-11-05T23:20:45.400037] [INFO] Service initialized
+[2025-11-05T23:20:45.400143] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.400096] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.400041] [INFO] Database query executed
+[2025-11-05T23:20:45.400152] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.400137] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.400053] [INFO] Request processed successfully
+[2025-11-05T23:20:45.400105] [WARN] Cache miss
+[2025-11-05T23:20:45.400008] [INFO] Database query executed
+[2025-11-05T23:20:45.400120] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.400066] [INFO] Session started
+[2025-11-05T23:20:45.400124] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.400162] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.400128] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.400157] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.400110] [ERROR] Memory allocation error
+[2025-11-05T23:20:45.400045] [INFO] Connection established
+[2025-11-05T23:20:45.400078] [INFO] Configuration loaded
+[2025-11-05T23:20:45.400061] [INFO] Cache hit
+[2025-11-05T23:20:45.400070] [INFO] User logged in
+[2025-11-05T23:20:45.400170] [DEBUG] Connection pool status checked

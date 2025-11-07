@@ -1,0 +1,34 @@
+[2025-11-05T23:20:23.920814] [INFO] Health check passed
+[2025-11-05T23:20:23.920840] [WARN] Cache miss
+[2025-11-05T23:20:23.920909] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.920866] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.920845] [WARN] Connection retry attempt
+[2025-11-05T23:20:23.920765] [INFO] Database query executed
+[2025-11-05T23:20:23.920825] [INFO] Health check passed
+[2025-11-05T23:20:23.920879] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.920790] [INFO] Health check passed
+[2025-11-05T23:20:23.920853] [WARN] Timeout warning
+[2025-11-05T23:20:23.920893] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.920899] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:23.920886] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:23.920821] [INFO] Request processed successfully
+[2025-11-05T23:20:23.920889] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.920902] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.920800] [INFO] Database query executed
+[2025-11-05T23:20:23.920875] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.920896] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.920795] [INFO] Session started
+[2025-11-05T23:20:23.920803] [INFO] Request processed successfully
+[2025-11-05T23:20:23.920882] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.920807] [INFO] Request processed successfully
+[2025-11-05T23:20:23.920857] [ERROR] Permission denied
+[2025-11-05T23:20:23.920872] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.920869] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.920828] [INFO] Connection established
+[2025-11-05T23:20:23.920905] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.920818] [INFO] Connection established
+[2025-11-05T23:20:23.920862] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.920835] [INFO] Connection established
+[2025-11-05T23:20:23.920849] [WARN] Rate limit approaching
+[2025-11-05T23:20:23.920811] [INFO] Configuration loaded
+[2025-11-05T23:20:23.920832] [INFO] Health check passed

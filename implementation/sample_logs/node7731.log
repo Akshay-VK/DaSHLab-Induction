@@ -1,0 +1,29 @@
+[2025-11-05T23:20:44.449885] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.449910] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.449668] [INFO] Connection established
+[2025-11-05T23:20:44.449738] [INFO] Request processed successfully
+[2025-11-05T23:20:44.449687] [INFO] Database query executed
+[2025-11-05T23:20:44.449673] [INFO] Request processed successfully
+[2025-11-05T23:20:44.449662] [INFO] Cache hit
+[2025-11-05T23:20:44.449678] [INFO] Configuration loaded
+[2025-11-05T23:20:44.449932] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.449924] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.449904] [ERROR] Memory allocation error
+[2025-11-05T23:20:44.449874] [WARN] Cache miss
+[2025-11-05T23:20:44.449751] [INFO] Configuration loaded
+[2025-11-05T23:20:44.449851] [INFO] Transaction completed
+[2025-11-05T23:20:44.449856] [INFO] Service initialized
+[2025-11-05T23:20:44.449919] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.449895] [ERROR] Disk read failed
+[2025-11-05T23:20:44.449863] [INFO] Connection established
+[2025-11-05T23:20:44.449914] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.449936] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.449880] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.449682] [INFO] Health check passed
+[2025-11-05T23:20:44.449867] [INFO] Database query executed
+[2025-11-05T23:20:44.449745] [INFO] Cache hit
+[2025-11-05T23:20:44.449889] [WARN] Cache miss
+[2025-11-05T23:20:44.449900] [ERROR] Network timeout
+[2025-11-05T23:20:44.449840] [INFO] Configuration loaded
+[2025-11-05T23:20:44.449635] [INFO] Cache hit
+[2025-11-05T23:20:44.449928] [DEBUG] Buffer size: 4096 bytes

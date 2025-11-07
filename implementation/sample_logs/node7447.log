@@ -1,0 +1,31 @@
+[2025-11-05T23:20:43.306033] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.305991] [INFO] Service initialized
+[2025-11-05T23:20:43.305987] [INFO] Configuration loaded
+[2025-11-05T23:20:43.305965] [INFO] Configuration loaded
+[2025-11-05T23:20:43.305957] [INFO] Request processed successfully
+[2025-11-05T23:20:43.306050] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.305944] [INFO] User logged in
+[2025-11-05T23:20:43.306041] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.306060] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.305980] [INFO] Connection established
+[2025-11-05T23:20:43.306053] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.305909] [INFO] Cache hit
+[2025-11-05T23:20:43.306028] [ERROR] Database connection lost
+[2025-11-05T23:20:43.305984] [INFO] Configuration loaded
+[2025-11-05T23:20:43.306064] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.305969] [INFO] Service initialized
+[2025-11-05T23:20:43.305977] [INFO] Service initialized
+[2025-11-05T23:20:43.306013] [WARN] Timeout warning
+[2025-11-05T23:20:43.305995] [INFO] Database query executed
+[2025-11-05T23:20:43.306018] [WARN] High memory usage detected
+[2025-11-05T23:20:43.306057] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.306037] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.306005] [WARN] Cache miss
+[2025-11-05T23:20:43.305962] [INFO] Cache hit
+[2025-11-05T23:20:43.305973] [INFO] Configuration loaded
+[2025-11-05T23:20:43.306046] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.305949] [INFO] Request processed successfully
+[2025-11-05T23:20:43.305953] [INFO] Database query executed
+[2025-11-05T23:20:43.306010] [WARN] Cache miss
+[2025-11-05T23:20:43.306023] [ERROR] Invalid input data
+[2025-11-05T23:20:43.306000] [WARN] High memory usage detected

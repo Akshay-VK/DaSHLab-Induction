@@ -1,0 +1,31 @@
+[2025-11-05T23:20:44.464955] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.464901] [WARN] Disk space low
+[2025-11-05T23:20:44.464912] [WARN] Deprecated API usage
+[2025-11-05T23:20:44.464881] [INFO] Cache hit
+[2025-11-05T23:20:44.464897] [WARN] Cache miss
+[2025-11-05T23:20:44.464968] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.464924] [WARN] Disk space low
+[2025-11-05T23:20:44.464888] [INFO] Request processed successfully
+[2025-11-05T23:20:44.464939] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.464873] [INFO] Cache hit
+[2025-11-05T23:20:44.464818] [INFO] Health check passed
+[2025-11-05T23:20:44.464947] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.464877] [INFO] Health check passed
+[2025-11-05T23:20:44.464884] [INFO] Database query executed
+[2025-11-05T23:20:44.464959] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.464869] [INFO] Session started
+[2025-11-05T23:20:44.464853] [INFO] Health check passed
+[2025-11-05T23:20:44.464916] [WARN] Slow query performance
+[2025-11-05T23:20:44.464943] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.464920] [WARN] High memory usage detected
+[2025-11-05T23:20:44.464929] [ERROR] Database connection lost
+[2025-11-05T23:20:44.464865] [INFO] User logged in
+[2025-11-05T23:20:44.464848] [INFO] User logged in
+[2025-11-05T23:20:44.464951] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.464843] [INFO] Transaction completed
+[2025-11-05T23:20:44.464892] [INFO] Connection established
+[2025-11-05T23:20:44.464935] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.464857] [INFO] User logged in
+[2025-11-05T23:20:44.464906] [WARN] Connection retry attempt
+[2025-11-05T23:20:44.464963] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.464861] [INFO] Configuration loaded

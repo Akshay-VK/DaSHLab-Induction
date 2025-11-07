@@ -1,0 +1,30 @@
+[2025-11-05T23:20:39.850721] [INFO] Session started
+[2025-11-05T23:20:39.850795] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:39.850652] [INFO] Request processed successfully
+[2025-11-05T23:20:39.850744] [INFO] Health check passed
+[2025-11-05T23:20:39.850716] [INFO] Configuration loaded
+[2025-11-05T23:20:39.850701] [INFO] Request processed successfully
+[2025-11-05T23:20:39.850787] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.850706] [INFO] Session started
+[2025-11-05T23:20:39.850730] [INFO] Cache hit
+[2025-11-05T23:20:39.850679] [INFO] Configuration loaded
+[2025-11-05T23:20:39.850754] [WARN] Rate limit approaching
+[2025-11-05T23:20:39.850760] [WARN] High memory usage detected
+[2025-11-05T23:20:39.850805] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.850782] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.850800] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.850725] [INFO] Configuration loaded
+[2025-11-05T23:20:39.850820] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.850791] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.850686] [INFO] Service initialized
+[2025-11-05T23:20:39.850691] [INFO] Service initialized
+[2025-11-05T23:20:39.850696] [INFO] Request processed successfully
+[2025-11-05T23:20:39.850735] [INFO] Service initialized
+[2025-11-05T23:20:39.850740] [INFO] Cache hit
+[2025-11-05T23:20:39.850810] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.850815] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.850749] [INFO] Cache hit
+[2025-11-05T23:20:39.850711] [INFO] Service initialized
+[2025-11-05T23:20:39.850770] [WARN] Cache miss
+[2025-11-05T23:20:39.850765] [WARN] Timeout warning
+[2025-11-05T23:20:39.850776] [ERROR] Request failed

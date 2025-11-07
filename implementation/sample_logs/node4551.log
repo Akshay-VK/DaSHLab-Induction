@@ -1,0 +1,29 @@
+[2025-11-05T23:20:31.864770] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.864728] [ERROR] Database connection lost
+[2025-11-05T23:20:31.864738] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.864712] [INFO] Connection established
+[2025-11-05T23:20:31.864742] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.864624] [INFO] Request processed successfully
+[2025-11-05T23:20:31.864661] [INFO] Connection established
+[2025-11-05T23:20:31.864766] [DEBUG] Cache key generated
+[2025-11-05T23:20:31.864704] [INFO] User logged in
+[2025-11-05T23:20:31.864657] [INFO] Connection established
+[2025-11-05T23:20:31.864670] [INFO] Request processed successfully
+[2025-11-05T23:20:31.864666] [INFO] Cache hit
+[2025-11-05T23:20:31.864774] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.864688] [INFO] User logged in
+[2025-11-05T23:20:31.864723] [ERROR] Memory allocation error
+[2025-11-05T23:20:31.864747] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.864708] [INFO] Session started
+[2025-11-05T23:20:31.864752] [DEBUG] Cache key generated
+[2025-11-05T23:20:31.864683] [INFO] Configuration loaded
+[2025-11-05T23:20:31.864700] [INFO] Service initialized
+[2025-11-05T23:20:31.864757] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.864717] [WARN] Cache miss
+[2025-11-05T23:20:31.864733] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.864696] [INFO] Configuration loaded
+[2025-11-05T23:20:31.864678] [INFO] Session started
+[2025-11-05T23:20:31.864650] [INFO] Service initialized
+[2025-11-05T23:20:31.864762] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.864692] [INFO] Request processed successfully
+[2025-11-05T23:20:31.864674] [INFO] Cache hit

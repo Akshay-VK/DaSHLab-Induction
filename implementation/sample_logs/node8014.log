@@ -1,0 +1,29 @@
+[2025-11-05T23:20:45.522875] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.522781] [INFO] Configuration loaded
+[2025-11-05T23:20:45.522800] [INFO] Service initialized
+[2025-11-05T23:20:45.522846] [ERROR] Invalid input data
+[2025-11-05T23:20:45.522791] [INFO] Session started
+[2025-11-05T23:20:45.522836] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.522787] [INFO] User logged in
+[2025-11-05T23:20:45.522819] [INFO] Connection established
+[2025-11-05T23:20:45.522903] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.522871] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.522774] [INFO] Transaction completed
+[2025-11-05T23:20:45.522809] [INFO] Health check passed
+[2025-11-05T23:20:45.522815] [INFO] Service initialized
+[2025-11-05T23:20:45.522887] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.522895] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.522851] [ERROR] Authentication failed
+[2025-11-05T23:20:45.522861] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.522879] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.522746] [INFO] Configuration loaded
+[2025-11-05T23:20:45.522899] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.522829] [WARN] Deprecated API usage
+[2025-11-05T23:20:45.522823] [INFO] Configuration loaded
+[2025-11-05T23:20:45.522883] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.522804] [INFO] Request processed successfully
+[2025-11-05T23:20:45.522796] [INFO] Cache hit
+[2025-11-05T23:20:45.522841] [WARN] Disk space low
+[2025-11-05T23:20:45.522891] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.522867] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.522855] [ERROR] Request failed

@@ -1,0 +1,33 @@
+[2025-11-05T23:20:31.556640] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.556625] [WARN] Timeout warning
+[2025-11-05T23:20:31.556579] [INFO] Request processed successfully
+[2025-11-05T23:20:31.556649] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.556587] [INFO] Cache hit
+[2025-11-05T23:20:31.556657] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.556665] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.556574] [INFO] Request processed successfully
+[2025-11-05T23:20:31.556672] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.556583] [INFO] Configuration loaded
+[2025-11-05T23:20:31.556616] [WARN] Slow query performance
+[2025-11-05T23:20:31.556591] [INFO] Connection established
+[2025-11-05T23:20:31.556565] [INFO] Service initialized
+[2025-11-05T23:20:31.556684] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.556611] [INFO] Cache hit
+[2025-11-05T23:20:31.556688] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.556559] [INFO] User logged in
+[2025-11-05T23:20:31.556631] [ERROR] Service unavailable
+[2025-11-05T23:20:31.556599] [INFO] Transaction completed
+[2025-11-05T23:20:31.556570] [INFO] Cache hit
+[2025-11-05T23:20:31.556661] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.556621] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.556635] [ERROR] Memory allocation error
+[2025-11-05T23:20:31.556607] [INFO] Service initialized
+[2025-11-05T23:20:31.556645] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.556669] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.556676] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.556680] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.556653] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.556692] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.556603] [INFO] Configuration loaded
+[2025-11-05T23:20:31.556532] [INFO] Request processed successfully
+[2025-11-05T23:20:31.556595] [INFO] Database query executed

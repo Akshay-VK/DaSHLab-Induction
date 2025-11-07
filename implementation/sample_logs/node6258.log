@@ -1,0 +1,33 @@
+[2025-11-05T23:20:38.695672] [ERROR] Authentication failed
+[2025-11-05T23:20:38.695687] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.695581] [INFO] Request processed successfully
+[2025-11-05T23:20:38.695613] [INFO] User logged in
+[2025-11-05T23:20:38.695609] [INFO] Session started
+[2025-11-05T23:20:38.695705] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.695717] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.695595] [INFO] Session started
+[2025-11-05T23:20:38.695651] [WARN] Disk space low
+[2025-11-05T23:20:38.695623] [INFO] Session started
+[2025-11-05T23:20:38.695586] [INFO] Health check passed
+[2025-11-05T23:20:38.695701] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.695628] [INFO] Transaction completed
+[2025-11-05T23:20:38.695692] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.695590] [INFO] Session started
+[2025-11-05T23:20:38.695600] [INFO] Connection established
+[2025-11-05T23:20:38.695709] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.695666] [WARN] Timeout warning
+[2025-11-05T23:20:38.695682] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.695661] [WARN] Timeout warning
+[2025-11-05T23:20:38.695636] [INFO] Database query executed
+[2025-11-05T23:20:38.695575] [INFO] Health check passed
+[2025-11-05T23:20:38.695548] [INFO] Health check passed
+[2025-11-05T23:20:38.695697] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.695656] [WARN] Queue size growing
+[2025-11-05T23:20:38.695618] [INFO] Transaction completed
+[2025-11-05T23:20:38.695646] [WARN] Cache miss
+[2025-11-05T23:20:38.695604] [INFO] Session started
+[2025-11-05T23:20:38.695632] [INFO] Service initialized
+[2025-11-05T23:20:38.695640] [INFO] Connection established
+[2025-11-05T23:20:38.695713] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.695677] [ERROR] Service unavailable
+[2025-11-05T23:20:38.695721] [DEBUG] Thread pool size: 8

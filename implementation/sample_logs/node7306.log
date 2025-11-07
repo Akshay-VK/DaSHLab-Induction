@@ -1,0 +1,29 @@
+[2025-11-05T23:20:42.631893] [WARN] Slow query performance
+[2025-11-05T23:20:42.631947] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.631918] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.631935] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.631849] [INFO] Health check passed
+[2025-11-05T23:20:42.631802] [INFO] Request processed successfully
+[2025-11-05T23:20:42.631862] [INFO] Service initialized
+[2025-11-05T23:20:42.631922] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.631828] [INFO] Transaction completed
+[2025-11-05T23:20:42.631853] [INFO] Request processed successfully
+[2025-11-05T23:20:42.631904] [ERROR] Request failed
+[2025-11-05T23:20:42.631840] [INFO] Request processed successfully
+[2025-11-05T23:20:42.631943] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.631870] [INFO] Cache hit
+[2025-11-05T23:20:42.631879] [INFO] User logged in
+[2025-11-05T23:20:42.631951] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.631889] [WARN] Disk space low
+[2025-11-05T23:20:42.631884] [WARN] Deprecated API usage
+[2025-11-05T23:20:42.631908] [ERROR] Memory allocation error
+[2025-11-05T23:20:42.631931] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.631874] [INFO] Session started
+[2025-11-05T23:20:42.631913] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.631866] [INFO] Configuration loaded
+[2025-11-05T23:20:42.631927] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.631844] [INFO] Health check passed
+[2025-11-05T23:20:42.631835] [INFO] Health check passed
+[2025-11-05T23:20:42.631857] [INFO] Transaction completed
+[2025-11-05T23:20:42.631898] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.631939] [DEBUG] Memory allocation: 2048 bytes

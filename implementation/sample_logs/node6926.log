@@ -1,0 +1,29 @@
+[2025-11-05T23:20:41.281252] [WARN] Timeout warning
+[2025-11-05T23:20:41.281282] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.253402] [INFO] Cache hit
+[2025-11-05T23:20:41.281198] [INFO] Configuration loaded
+[2025-11-05T23:20:41.281180] [INFO] Transaction completed
+[2025-11-05T23:20:41.281296] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.281213] [INFO] Service initialized
+[2025-11-05T23:20:41.281299] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.253385] [INFO] Connection established
+[2025-11-05T23:20:41.281267] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.281193] [INFO] Configuration loaded
+[2025-11-05T23:20:41.281208] [INFO] Request processed successfully
+[2025-11-05T23:20:41.281236] [WARN] Deprecated API usage
+[2025-11-05T23:20:41.281217] [INFO] Connection established
+[2025-11-05T23:20:41.281276] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.281262] [ERROR] Network timeout
+[2025-11-05T23:20:41.281203] [INFO] Configuration loaded
+[2025-11-05T23:20:41.281221] [INFO] Connection established
+[2025-11-05T23:20:41.281272] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.281257] [ERROR] Authentication failed
+[2025-11-05T23:20:41.253397] [INFO] Database query executed
+[2025-11-05T23:20:41.253379] [INFO] Transaction completed
+[2025-11-05T23:20:41.281292] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.281242] [WARN] Queue size growing
+[2025-11-05T23:20:41.253392] [INFO] Cache hit
+[2025-11-05T23:20:41.253352] [INFO] Session started
+[2025-11-05T23:20:41.281247] [WARN] Timeout warning
+[2025-11-05T23:20:41.281226] [INFO] Database query executed
+[2025-11-05T23:20:41.281288] [DEBUG] Thread pool size: 8

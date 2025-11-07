@@ -1,0 +1,36 @@
+[2025-11-05T23:20:16.712897] [INFO] Health check passed
+[2025-11-05T23:20:16.712915] [WARN] Slow query performance
+[2025-11-05T23:20:16.712867] [INFO] Database query executed
+[2025-11-05T23:20:16.712850] [INFO] Database query executed
+[2025-11-05T23:20:16.713003] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.712879] [INFO] Connection established
+[2025-11-05T23:20:16.712921] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.712906] [INFO] Cache hit
+[2025-11-05T23:20:16.712981] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.712892] [INFO] Database query executed
+[2025-11-05T23:20:16.712935] [WARN] Cache miss
+[2025-11-05T23:20:16.712956] [ERROR] Memory allocation error
+[2025-11-05T23:20:16.712985] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.712961] [ERROR] Permission denied
+[2025-11-05T23:20:16.712871] [INFO] Database query executed
+[2025-11-05T23:20:16.712930] [WARN] Slow query performance
+[2025-11-05T23:20:16.712972] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.712884] [INFO] Configuration loaded
+[2025-11-05T23:20:16.712976] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.712967] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.713012] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.712926] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.712862] [INFO] Connection established
+[2025-11-05T23:20:16.712857] [INFO] Service initialized
+[2025-11-05T23:20:16.712945] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.712875] [INFO] Configuration loaded
+[2025-11-05T23:20:16.712910] [INFO] Health check passed
+[2025-11-05T23:20:16.712951] [ERROR] Database connection lost
+[2025-11-05T23:20:16.712994] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.712888] [INFO] Service initialized
+[2025-11-05T23:20:16.712998] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.713008] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.712940] [WARN] Deprecated API usage
+[2025-11-05T23:20:16.712989] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.712822] [INFO] Configuration loaded
+[2025-11-05T23:20:16.712901] [INFO] Cache hit

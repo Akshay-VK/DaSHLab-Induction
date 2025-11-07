@@ -1,0 +1,36 @@
+[2025-11-05T23:20:36.051743] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.051608] [INFO] Session started
+[2025-11-05T23:20:36.051630] [INFO] Configuration loaded
+[2025-11-05T23:20:36.051724] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.051661] [INFO] Connection established
+[2025-11-05T23:20:36.051617] [INFO] Database query executed
+[2025-11-05T23:20:36.051588] [INFO] Configuration loaded
+[2025-11-05T23:20:36.051626] [INFO] Service initialized
+[2025-11-05T23:20:36.051639] [INFO] Configuration loaded
+[2025-11-05T23:20:36.051716] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.051738] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.051711] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.051720] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.051706] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.051622] [INFO] Connection established
+[2025-11-05T23:20:36.051657] [INFO] Connection established
+[2025-11-05T23:20:36.051652] [INFO] Session started
+[2025-11-05T23:20:36.051700] [ERROR] Request failed
+[2025-11-05T23:20:36.051643] [INFO] Database query executed
+[2025-11-05T23:20:36.051648] [INFO] User logged in
+[2025-11-05T23:20:36.051593] [INFO] Request processed successfully
+[2025-11-05T23:20:36.051598] [INFO] Connection established
+[2025-11-05T23:20:36.051613] [INFO] Configuration loaded
+[2025-11-05T23:20:36.051676] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.051635] [INFO] Health check passed
+[2025-11-05T23:20:36.051696] [ERROR] Permission denied
+[2025-11-05T23:20:36.051583] [INFO] Transaction completed
+[2025-11-05T23:20:36.051686] [WARN] Cache miss
+[2025-11-05T23:20:36.051603] [INFO] Connection established
+[2025-11-05T23:20:36.051558] [INFO] Request processed successfully
+[2025-11-05T23:20:36.051681] [WARN] Deprecated API usage
+[2025-11-05T23:20:36.051729] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.051666] [INFO] Health check passed
+[2025-11-05T23:20:36.051670] [INFO] Health check passed
+[2025-11-05T23:20:36.051734] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.051690] [WARN] Deprecated API usage

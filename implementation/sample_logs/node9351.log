@@ -1,0 +1,33 @@
+[2025-11-05T23:20:51.152415] [INFO] Session started
+[2025-11-05T23:20:51.152361] [INFO] Service initialized
+[2025-11-05T23:20:51.152458] [ERROR] Memory allocation error
+[2025-11-05T23:20:51.152477] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.152447] [WARN] Slow query performance
+[2025-11-05T23:20:51.152497] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.152493] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.152407] [INFO] Health check passed
+[2025-11-05T23:20:51.152463] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.152443] [WARN] High memory usage detected
+[2025-11-05T23:20:51.152371] [INFO] Request processed successfully
+[2025-11-05T23:20:51.152426] [WARN] Cache miss
+[2025-11-05T23:20:51.152453] [ERROR] File not found
+[2025-11-05T23:20:51.152403] [INFO] Health check passed
+[2025-11-05T23:20:51.152430] [WARN] Disk space low
+[2025-11-05T23:20:51.152395] [INFO] Request processed successfully
+[2025-11-05T23:20:51.152383] [INFO] Database query executed
+[2025-11-05T23:20:51.152481] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.152375] [INFO] Connection established
+[2025-11-05T23:20:51.152336] [INFO] Connection established
+[2025-11-05T23:20:51.152411] [INFO] Request processed successfully
+[2025-11-05T23:20:51.152434] [WARN] Deprecated API usage
+[2025-11-05T23:20:51.152366] [INFO] Database query executed
+[2025-11-05T23:20:51.152399] [INFO] Request processed successfully
+[2025-11-05T23:20:51.152391] [INFO] User logged in
+[2025-11-05T23:20:51.152438] [WARN] Slow query performance
+[2025-11-05T23:20:51.152379] [INFO] Transaction completed
+[2025-11-05T23:20:51.152489] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.152421] [WARN] Queue size growing
+[2025-11-05T23:20:51.152468] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.152387] [INFO] Request processed successfully
+[2025-11-05T23:20:51.152473] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.152485] [DEBUG] Memory allocation: 2048 bytes

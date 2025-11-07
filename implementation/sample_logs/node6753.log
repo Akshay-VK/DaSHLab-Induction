@@ -1,0 +1,28 @@
+[2025-11-05T23:20:40.591828] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.591811] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.591727] [INFO] Health check passed
+[2025-11-05T23:20:40.591838] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.591820] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.591648] [INFO] Database query executed
+[2025-11-05T23:20:40.591816] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.591767] [INFO] Request processed successfully
+[2025-11-05T23:20:40.591667] [INFO] Request processed successfully
+[2025-11-05T23:20:40.591824] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.591672] [INFO] Request processed successfully
+[2025-11-05T23:20:40.591788] [WARN] Connection retry attempt
+[2025-11-05T23:20:40.591657] [INFO] Configuration loaded
+[2025-11-05T23:20:40.591760] [INFO] Request processed successfully
+[2025-11-05T23:20:40.591595] [INFO] Transaction completed
+[2025-11-05T23:20:40.591723] [INFO] Cache hit
+[2025-11-05T23:20:40.591704] [INFO] Health check passed
+[2025-11-05T23:20:40.591842] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.591712] [INFO] Transaction completed
+[2025-11-05T23:20:40.591833] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.591805] [ERROR] Permission denied
+[2025-11-05T23:20:40.591777] [INFO] Configuration loaded
+[2025-11-05T23:20:40.591800] [ERROR] Authentication failed
+[2025-11-05T23:20:40.591783] [WARN] Queue size growing
+[2025-11-05T23:20:40.591772] [INFO] Transaction completed
+[2025-11-05T23:20:40.591662] [INFO] Cache hit
+[2025-11-05T23:20:40.591718] [INFO] User logged in
+[2025-11-05T23:20:40.591794] [WARN] Slow query performance

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:20.240677] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.240669] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.240568] [INFO] Health check passed
+[2025-11-05T23:20:20.240651] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.240605] [INFO] Configuration loaded
+[2025-11-05T23:20:20.240661] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.240641] [ERROR] Database connection lost
+[2025-11-05T23:20:20.240618] [INFO] Transaction completed
+[2025-11-05T23:20:20.240622] [INFO] Cache hit
+[2025-11-05T23:20:20.240585] [INFO] Service initialized
+[2025-11-05T23:20:20.240572] [INFO] Service initialized
+[2025-11-05T23:20:20.240646] [ERROR] Request failed
+[2025-11-05T23:20:20.240536] [INFO] Request processed successfully
+[2025-11-05T23:20:20.240665] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.240636] [WARN] High memory usage detected
+[2025-11-05T23:20:20.240597] [INFO] Connection established
+[2025-11-05T23:20:20.240656] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.240684] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.240581] [INFO] User logged in
+[2025-11-05T23:20:20.240561] [INFO] Transaction completed
+[2025-11-05T23:20:20.240601] [INFO] User logged in
+[2025-11-05T23:20:20.240614] [INFO] Request processed successfully
+[2025-11-05T23:20:20.240610] [INFO] Cache hit
+[2025-11-05T23:20:20.240680] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.240589] [INFO] Transaction completed
+[2025-11-05T23:20:20.240593] [INFO] Session started
+[2025-11-05T23:20:20.240632] [WARN] Resource threshold approaching
+[2025-11-05T23:20:20.240577] [INFO] Connection established
+[2025-11-05T23:20:20.240627] [WARN] Slow query performance
+[2025-11-05T23:20:20.240673] [DEBUG] Thread pool size: 8

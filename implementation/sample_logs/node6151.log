@@ -1,0 +1,26 @@
+[2025-11-05T23:20:38.329590] [ERROR] Service unavailable
+[2025-11-05T23:20:38.329566] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.329487] [INFO] Connection established
+[2025-11-05T23:20:38.329548] [INFO] Cache hit
+[2025-11-05T23:20:38.329571] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.329584] [WARN] Cache miss
+[2025-11-05T23:20:38.329618] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.329601] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.329556] [INFO] Transaction completed
+[2025-11-05T23:20:38.329609] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.329552] [INFO] Health check passed
+[2025-11-05T23:20:38.329530] [INFO] Health check passed
+[2025-11-05T23:20:38.329544] [INFO] Request processed successfully
+[2025-11-05T23:20:38.329627] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.329595] [ERROR] Request failed
+[2025-11-05T23:20:38.329613] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.329605] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.329535] [INFO] Service initialized
+[2025-11-05T23:20:38.329539] [INFO] Configuration loaded
+[2025-11-05T23:20:38.329622] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.329520] [INFO] Request processed successfully
+[2025-11-05T23:20:38.329560] [INFO] Cache hit
+[2025-11-05T23:20:38.329576] [WARN] Queue size growing
+[2025-11-05T23:20:38.329580] [WARN] Cache miss
+[2025-11-05T23:20:38.329514] [INFO] Health check passed
+[2025-11-05T23:20:38.329525] [INFO] Transaction completed

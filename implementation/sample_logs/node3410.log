@@ -1,0 +1,34 @@
+[2025-11-05T23:20:26.943624] [INFO] Connection established
+[2025-11-05T23:20:26.943735] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.943699] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.943674] [WARN] Disk space low
+[2025-11-05T23:20:26.943722] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.943662] [INFO] Request processed successfully
+[2025-11-05T23:20:26.943708] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.943600] [INFO] Database query executed
+[2025-11-05T23:20:26.943726] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.943745] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.943620] [INFO] Database query executed
+[2025-11-05T23:20:26.943730] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.943684] [WARN] Slow query performance
+[2025-11-05T23:20:26.943713] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.943633] [INFO] Session started
+[2025-11-05T23:20:26.943609] [INFO] Health check passed
+[2025-11-05T23:20:26.943639] [INFO] User logged in
+[2025-11-05T23:20:26.943604] [INFO] Request processed successfully
+[2025-11-05T23:20:26.943667] [INFO] Session started
+[2025-11-05T23:20:26.943648] [INFO] Transaction completed
+[2025-11-05T23:20:26.943740] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.943718] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.943593] [INFO] Configuration loaded
+[2025-11-05T23:20:26.943694] [ERROR] Request failed
+[2025-11-05T23:20:26.943614] [INFO] Cache hit
+[2025-11-05T23:20:26.943628] [INFO] Health check passed
+[2025-11-05T23:20:26.943643] [INFO] Session started
+[2025-11-05T23:20:26.943567] [INFO] Connection established
+[2025-11-05T23:20:26.943653] [INFO] Health check passed
+[2025-11-05T23:20:26.943689] [ERROR] Disk read failed
+[2025-11-05T23:20:26.943657] [INFO] Service initialized
+[2025-11-05T23:20:26.943679] [WARN] Disk space low
+[2025-11-05T23:20:26.943750] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.943704] [DEBUG] Buffer size: 4096 bytes

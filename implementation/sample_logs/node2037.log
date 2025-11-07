@@ -1,0 +1,36 @@
+[2025-11-05T23:20:21.207043] [ERROR] Network timeout
+[2025-11-05T23:20:21.207061] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.207102] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.206992] [INFO] Service initialized
+[2025-11-05T23:20:21.207014] [WARN] Timeout warning
+[2025-11-05T23:20:21.207125] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.206954] [INFO] Transaction completed
+[2025-11-05T23:20:21.207077] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.207092] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.207049] [ERROR] Database connection lost
+[2025-11-05T23:20:21.206976] [INFO] Request processed successfully
+[2025-11-05T23:20:21.207071] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.207130] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.207115] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.206986] [INFO] Connection established
+[2025-11-05T23:20:21.207020] [WARN] Slow query performance
+[2025-11-05T23:20:21.206970] [INFO] Session started
+[2025-11-05T23:20:21.206965] [INFO] Health check passed
+[2025-11-05T23:20:21.207007] [INFO] Transaction completed
+[2025-11-05T23:20:21.207036] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.207111] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.207087] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.206997] [INFO] Transaction completed
+[2025-11-05T23:20:21.207082] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.206981] [INFO] Session started
+[2025-11-05T23:20:21.207066] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.206918] [INFO] Service initialized
+[2025-11-05T23:20:21.207106] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.207055] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.206960] [INFO] Configuration loaded
+[2025-11-05T23:20:21.207002] [INFO] Session started
+[2025-11-05T23:20:21.207031] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.207120] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.207025] [WARN] High memory usage detected
+[2025-11-05T23:20:21.206947] [INFO] Configuration loaded
+[2025-11-05T23:20:21.207097] [DEBUG] Memory allocation: 2048 bytes

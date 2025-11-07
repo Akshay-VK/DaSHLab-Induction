@@ -1,0 +1,37 @@
+[2025-11-05T23:20:51.554808] [ERROR] Permission denied
+[2025-11-05T23:20:51.554763] [INFO] Session started
+[2025-11-05T23:20:51.554770] [INFO] Connection established
+[2025-11-05T23:20:51.554826] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.554823] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.554830] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.554836] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.554839] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.554740] [INFO] Cache hit
+[2025-11-05T23:20:51.554842] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.554851] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.554760] [INFO] Configuration loaded
+[2025-11-05T23:20:51.554845] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.554794] [WARN] Cache miss
+[2025-11-05T23:20:51.554732] [INFO] Transaction completed
+[2025-11-05T23:20:51.554791] [WARN] Connection retry attempt
+[2025-11-05T23:20:51.554803] [WARN] High memory usage detected
+[2025-11-05T23:20:51.554767] [INFO] Configuration loaded
+[2025-11-05T23:20:51.554744] [INFO] Session started
+[2025-11-05T23:20:51.554848] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.554797] [WARN] Disk space low
+[2025-11-05T23:20:51.554773] [INFO] Database query executed
+[2025-11-05T23:20:51.554788] [WARN] Deprecated API usage
+[2025-11-05T23:20:51.554784] [WARN] Deprecated API usage
+[2025-11-05T23:20:51.554816] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.554833] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.554748] [INFO] Request processed successfully
+[2025-11-05T23:20:51.554820] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.554800] [WARN] Rate limit approaching
+[2025-11-05T23:20:51.554736] [INFO] Configuration loaded
+[2025-11-05T23:20:51.554754] [INFO] Health check passed
+[2025-11-05T23:20:51.554708] [INFO] Configuration loaded
+[2025-11-05T23:20:51.554811] [ERROR] File not found
+[2025-11-05T23:20:51.554776] [INFO] Service initialized
+[2025-11-05T23:20:51.554757] [INFO] Transaction completed
+[2025-11-05T23:20:51.554780] [WARN] Connection retry attempt
+[2025-11-05T23:20:51.554751] [INFO] User logged in

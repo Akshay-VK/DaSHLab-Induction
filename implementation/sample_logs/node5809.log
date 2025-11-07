@@ -1,0 +1,30 @@
+[2025-11-05T23:20:36.557822] [INFO] Connection established
+[2025-11-05T23:20:36.557928] [WARN] Timeout warning
+[2025-11-05T23:20:36.557938] [ERROR] Memory allocation error
+[2025-11-05T23:20:36.557949] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.557869] [INFO] Database query executed
+[2025-11-05T23:20:36.557908] [INFO] Cache hit
+[2025-11-05T23:20:36.557879] [INFO] Health check passed
+[2025-11-05T23:20:36.557865] [INFO] Health check passed
+[2025-11-05T23:20:36.557900] [INFO] Database query executed
+[2025-11-05T23:20:36.557957] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.557874] [INFO] Configuration loaded
+[2025-11-05T23:20:36.557914] [WARN] Resource threshold approaching
+[2025-11-05T23:20:36.557855] [INFO] Database query executed
+[2025-11-05T23:20:36.557978] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.557888] [INFO] Configuration loaded
+[2025-11-05T23:20:36.557933] [WARN] High memory usage detected
+[2025-11-05T23:20:36.557962] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.557861] [INFO] Service initialized
+[2025-11-05T23:20:36.557892] [INFO] Request processed successfully
+[2025-11-05T23:20:36.557883] [INFO] User logged in
+[2025-11-05T23:20:36.557966] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.557896] [INFO] Database query executed
+[2025-11-05T23:20:36.557974] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.557954] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.557970] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.557924] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.557904] [INFO] Configuration loaded
+[2025-11-05T23:20:36.557848] [INFO] Transaction completed
+[2025-11-05T23:20:36.557919] [WARN] Queue size growing
+[2025-11-05T23:20:36.557945] [DEBUG] Memory allocation: 2048 bytes

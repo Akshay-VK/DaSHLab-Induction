@@ -1,0 +1,30 @@
+[2025-11-05T23:20:21.268628] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.268645] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.268462] [INFO] Session started
+[2025-11-05T23:20:21.268539] [INFO] Session started
+[2025-11-05T23:20:21.268581] [WARN] Slow query performance
+[2025-11-05T23:20:21.268534] [INFO] Connection established
+[2025-11-05T23:20:21.268576] [WARN] Queue size growing
+[2025-11-05T23:20:21.268623] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.268477] [INFO] Transaction completed
+[2025-11-05T23:20:21.268473] [INFO] Session started
+[2025-11-05T23:20:21.268637] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.268618] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.268592] [WARN] Timeout warning
+[2025-11-05T23:20:21.268527] [INFO] Service initialized
+[2025-11-05T23:20:21.268561] [INFO] Configuration loaded
+[2025-11-05T23:20:21.268548] [INFO] User logged in
+[2025-11-05T23:20:21.268598] [ERROR] Network timeout
+[2025-11-05T23:20:21.268614] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.268543] [INFO] Database query executed
+[2025-11-05T23:20:21.268570] [INFO] Health check passed
+[2025-11-05T23:20:21.268566] [INFO] Database query executed
+[2025-11-05T23:20:21.268641] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.268609] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.268632] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.268586] [WARN] Disk space low
+[2025-11-05T23:20:21.268557] [INFO] Database query executed
+[2025-11-05T23:20:21.268604] [ERROR] Network timeout
+[2025-11-05T23:20:21.268468] [INFO] Service initialized
+[2025-11-05T23:20:21.268436] [INFO] Service initialized
+[2025-11-05T23:20:21.268552] [INFO] Configuration loaded

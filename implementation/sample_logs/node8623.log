@@ -1,0 +1,38 @@
+[2025-11-05T23:20:48.024729] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.024650] [INFO] Health check passed
+[2025-11-05T23:20:48.024647] [INFO] Cache hit
+[2025-11-05T23:20:48.024662] [INFO] Configuration loaded
+[2025-11-05T23:20:48.024666] [INFO] Request processed successfully
+[2025-11-05T23:20:48.024680] [WARN] Rate limit approaching
+[2025-11-05T23:20:48.024656] [INFO] Transaction completed
+[2025-11-05T23:20:48.024669] [INFO] Cache hit
+[2025-11-05T23:20:48.024634] [INFO] Transaction completed
+[2025-11-05T23:20:48.024620] [INFO] Request processed successfully
+[2025-11-05T23:20:48.024630] [INFO] Transaction completed
+[2025-11-05T23:20:48.024708] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.024715] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.024732] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.024689] [WARN] Timeout warning
+[2025-11-05T23:20:48.024612] [INFO] Connection established
+[2025-11-05T23:20:48.024627] [INFO] Service initialized
+[2025-11-05T23:20:48.024653] [INFO] Request processed successfully
+[2025-11-05T23:20:48.024735] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:48.024676] [WARN] Disk space low
+[2025-11-05T23:20:48.024722] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:48.024697] [ERROR] Authentication failed
+[2025-11-05T23:20:48.024640] [INFO] Service initialized
+[2025-11-05T23:20:48.024617] [INFO] Cache hit
+[2025-11-05T23:20:48.024672] [INFO] Connection established
+[2025-11-05T23:20:48.024738] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.024719] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:48.024659] [INFO] Database query executed
+[2025-11-05T23:20:48.024702] [ERROR] Request failed
+[2025-11-05T23:20:48.024712] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.024686] [WARN] Queue size growing
+[2025-11-05T23:20:48.024683] [WARN] Connection retry attempt
+[2025-11-05T23:20:48.024623] [INFO] Database query executed
+[2025-11-05T23:20:48.024643] [INFO] User logged in
+[2025-11-05T23:20:48.024588] [INFO] User logged in
+[2025-11-05T23:20:48.024726] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.024693] [WARN] Slow query performance
+[2025-11-05T23:20:48.024637] [INFO] Transaction completed

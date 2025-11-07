@@ -1,0 +1,29 @@
+[2025-11-05T23:20:39.287425] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.287336] [INFO] User logged in
+[2025-11-05T23:20:39.287430] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.287350] [INFO] Transaction completed
+[2025-11-05T23:20:39.287434] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.287460] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.287388] [INFO] Cache hit
+[2025-11-05T23:20:39.287345] [INFO] Connection established
+[2025-11-05T23:20:39.287382] [INFO] Configuration loaded
+[2025-11-05T23:20:39.287354] [INFO] Database query executed
+[2025-11-05T23:20:39.287303] [INFO] User logged in
+[2025-11-05T23:20:39.287392] [INFO] Transaction completed
+[2025-11-05T23:20:39.287413] [WARN] Disk space low
+[2025-11-05T23:20:39.287409] [WARN] Disk space low
+[2025-11-05T23:20:39.287439] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.287405] [WARN] Deprecated API usage
+[2025-11-05T23:20:39.287363] [INFO] Transaction completed
+[2025-11-05T23:20:39.287330] [INFO] Configuration loaded
+[2025-11-05T23:20:39.287340] [INFO] Configuration loaded
+[2025-11-05T23:20:39.287369] [INFO] Session started
+[2025-11-05T23:20:39.287359] [INFO] Request processed successfully
+[2025-11-05T23:20:39.287448] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.287443] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:39.287456] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.287399] [WARN] High memory usage detected
+[2025-11-05T23:20:39.287377] [INFO] Health check passed
+[2025-11-05T23:20:39.287419] [ERROR] Authentication failed
+[2025-11-05T23:20:39.287374] [INFO] Database query executed
+[2025-11-05T23:20:39.287452] [DEBUG] Buffer size: 4096 bytes

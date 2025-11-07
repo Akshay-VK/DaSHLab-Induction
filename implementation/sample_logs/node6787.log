@@ -1,0 +1,31 @@
+[2025-11-05T23:20:40.762541] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.762487] [INFO] Health check passed
+[2025-11-05T23:20:40.762525] [ERROR] Service unavailable
+[2025-11-05T23:20:40.762564] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.762473] [INFO] Connection established
+[2025-11-05T23:20:40.762576] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.762478] [INFO] User logged in
+[2025-11-05T23:20:40.762483] [INFO] Session started
+[2025-11-05T23:20:40.762498] [WARN] Disk space low
+[2025-11-05T23:20:40.762455] [INFO] Service initialized
+[2025-11-05T23:20:40.762440] [INFO] Cache hit
+[2025-11-05T23:20:40.762445] [INFO] Cache hit
+[2025-11-05T23:20:40.762504] [WARN] Cache miss
+[2025-11-05T23:20:40.762559] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.762450] [INFO] Connection established
+[2025-11-05T23:20:40.762460] [INFO] Session started
+[2025-11-05T23:20:40.762530] [ERROR] Network timeout
+[2025-11-05T23:20:40.762550] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.762468] [INFO] Request processed successfully
+[2025-11-05T23:20:40.762546] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.762514] [WARN] Cache miss
+[2025-11-05T23:20:40.762554] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.762409] [INFO] Database query executed
+[2025-11-05T23:20:40.762509] [WARN] Connection retry attempt
+[2025-11-05T23:20:40.762572] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.762519] [ERROR] Invalid input data
+[2025-11-05T23:20:40.762493] [WARN] Timeout warning
+[2025-11-05T23:20:40.762536] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.762464] [INFO] Service initialized
+[2025-11-05T23:20:40.762568] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.762434] [INFO] Service initialized

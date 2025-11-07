@@ -1,0 +1,29 @@
+[2025-11-05T23:20:47.359486] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.359481] [ERROR] Memory allocation error
+[2025-11-05T23:20:47.359445] [INFO] Connection established
+[2025-11-05T23:20:47.359526] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.359476] [ERROR] Invalid input data
+[2025-11-05T23:20:47.359416] [INFO] Transaction completed
+[2025-11-05T23:20:47.359500] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.359440] [INFO] User logged in
+[2025-11-05T23:20:47.359422] [INFO] Cache hit
+[2025-11-05T23:20:47.359513] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.359449] [INFO] Cache hit
+[2025-11-05T23:20:47.359470] [WARN] Resource threshold approaching
+[2025-11-05T23:20:47.359458] [INFO] Service initialized
+[2025-11-05T23:20:47.359530] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.359428] [INFO] User logged in
+[2025-11-05T23:20:47.359495] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.359394] [INFO] Request processed successfully
+[2025-11-05T23:20:47.359405] [INFO] Connection established
+[2025-11-05T23:20:47.359517] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.359411] [INFO] Service initialized
+[2025-11-05T23:20:47.359508] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.359504] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.359463] [INFO] Connection established
+[2025-11-05T23:20:47.359368] [INFO] Database query executed
+[2025-11-05T23:20:47.359400] [INFO] User logged in
+[2025-11-05T23:20:47.359522] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.359454] [INFO] Health check passed
+[2025-11-05T23:20:47.359491] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.359434] [INFO] Configuration loaded

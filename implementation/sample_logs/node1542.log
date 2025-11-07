@@ -1,0 +1,36 @@
+[2025-11-05T23:20:19.083244] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.083137] [INFO] Health check passed
+[2025-11-05T23:20:19.083248] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.083206] [INFO] Transaction completed
+[2025-11-05T23:20:19.083285] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.083227] [WARN] Connection retry attempt
+[2025-11-05T23:20:19.083182] [INFO] User logged in
+[2025-11-05T23:20:19.083178] [INFO] Cache hit
+[2025-11-05T23:20:19.083266] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.083239] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.083233] [ERROR] Invalid input data
+[2025-11-05T23:20:19.083150] [INFO] Session started
+[2025-11-05T23:20:19.083187] [INFO] Service initialized
+[2025-11-05T23:20:19.083280] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.083261] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.083222] [WARN] Disk space low
+[2025-11-05T23:20:19.083155] [INFO] Connection established
+[2025-11-05T23:20:19.083252] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.083127] [INFO] Health check passed
+[2025-11-05T23:20:19.083174] [INFO] Health check passed
+[2025-11-05T23:20:19.083202] [INFO] Configuration loaded
+[2025-11-05T23:20:19.083270] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.083160] [INFO] Connection established
+[2025-11-05T23:20:19.083146] [INFO] Cache hit
+[2025-11-05T23:20:19.083164] [INFO] Configuration loaded
+[2025-11-05T23:20:19.083093] [INFO] Cache hit
+[2025-11-05T23:20:19.083141] [INFO] Health check passed
+[2025-11-05T23:20:19.083212] [WARN] Slow query performance
+[2025-11-05T23:20:19.083120] [INFO] Connection established
+[2025-11-05T23:20:19.083257] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.083276] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.083197] [INFO] Configuration loaded
+[2025-11-05T23:20:19.083132] [INFO] Health check passed
+[2025-11-05T23:20:19.083191] [INFO] Session started
+[2025-11-05T23:20:19.083218] [WARN] High memory usage detected
+[2025-11-05T23:20:19.083169] [INFO] Session started

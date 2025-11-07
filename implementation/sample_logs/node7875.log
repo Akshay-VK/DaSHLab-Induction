@@ -1,0 +1,27 @@
+[2025-11-05T23:20:44.947769] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.947723] [INFO] Health check passed
+[2025-11-05T23:20:44.947742] [WARN] Queue size growing
+[2025-11-05T23:20:44.947748] [WARN] Connection retry attempt
+[2025-11-05T23:20:44.947649] [INFO] User logged in
+[2025-11-05T23:20:44.947692] [INFO] Database query executed
+[2025-11-05T23:20:44.947753] [WARN] Connection retry attempt
+[2025-11-05T23:20:44.947758] [WARN] Timeout warning
+[2025-11-05T23:20:44.947728] [INFO] User logged in
+[2025-11-05T23:20:44.947702] [INFO] Service initialized
+[2025-11-05T23:20:44.947764] [ERROR] Service unavailable
+[2025-11-05T23:20:44.947736] [INFO] Session started
+[2025-11-05T23:20:44.947677] [INFO] Health check passed
+[2025-11-05T23:20:44.947710] [INFO] Cache hit
+[2025-11-05T23:20:44.947774] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.947688] [INFO] Connection established
+[2025-11-05T23:20:44.947792] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.947715] [INFO] Health check passed
+[2025-11-05T23:20:44.947719] [INFO] Health check passed
+[2025-11-05T23:20:44.947783] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.947706] [INFO] Database query executed
+[2025-11-05T23:20:44.947787] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.947683] [INFO] Request processed successfully
+[2025-11-05T23:20:44.947732] [INFO] User logged in
+[2025-11-05T23:20:44.947797] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.947697] [INFO] Connection established
+[2025-11-05T23:20:44.947778] [DEBUG] Variable value: x=42

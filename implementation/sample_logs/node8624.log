@@ -1,0 +1,30 @@
+[2025-11-05T23:20:48.026301] [WARN] Disk space low
+[2025-11-05T23:20:48.026332] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.026339] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.026270] [INFO] Configuration loaded
+[2025-11-05T23:20:48.026217] [INFO] Cache hit
+[2025-11-05T23:20:48.026249] [INFO] User logged in
+[2025-11-05T23:20:48.026258] [INFO] Cache hit
+[2025-11-05T23:20:48.026276] [INFO] Configuration loaded
+[2025-11-05T23:20:48.026349] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.026320] [ERROR] Request failed
+[2025-11-05T23:20:48.026287] [INFO] Request processed successfully
+[2025-11-05T23:20:48.026324] [ERROR] Request failed
+[2025-11-05T23:20:48.026280] [INFO] User logged in
+[2025-11-05T23:20:48.026254] [INFO] User logged in
+[2025-11-05T23:20:48.026343] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.026297] [INFO] Session started
+[2025-11-05T23:20:48.026336] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:48.026266] [INFO] Configuration loaded
+[2025-11-05T23:20:48.026352] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.026283] [INFO] Session started
+[2025-11-05T23:20:48.026329] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.026315] [WARN] Slow query performance
+[2025-11-05T23:20:48.026290] [INFO] User logged in
+[2025-11-05T23:20:48.026356] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.026311] [WARN] Deprecated API usage
+[2025-11-05T23:20:48.026294] [INFO] Health check passed
+[2025-11-05T23:20:48.026306] [WARN] Resource threshold approaching
+[2025-11-05T23:20:48.026346] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.026262] [INFO] Transaction completed
+[2025-11-05T23:20:48.026273] [INFO] Cache hit

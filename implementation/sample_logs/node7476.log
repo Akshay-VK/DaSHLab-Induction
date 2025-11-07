@@ -1,0 +1,27 @@
+[2025-11-05T23:20:43.414692] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.414604] [INFO] Session started
+[2025-11-05T23:20:43.414639] [WARN] Slow query performance
+[2025-11-05T23:20:43.414684] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.414688] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.414581] [INFO] User logged in
+[2025-11-05T23:20:43.414659] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.414621] [INFO] Health check passed
+[2025-11-05T23:20:43.414679] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.414596] [INFO] Configuration loaded
+[2025-11-05T23:20:43.414663] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.414600] [INFO] User logged in
+[2025-11-05T23:20:43.414617] [INFO] Database query executed
+[2025-11-05T23:20:43.414586] [INFO] Transaction completed
+[2025-11-05T23:20:43.414556] [INFO] Request processed successfully
+[2025-11-05T23:20:43.414654] [ERROR] Disk read failed
+[2025-11-05T23:20:43.414667] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.414609] [INFO] Cache hit
+[2025-11-05T23:20:43.414633] [INFO] Transaction completed
+[2025-11-05T23:20:43.414644] [WARN] Deprecated API usage
+[2025-11-05T23:20:43.414591] [INFO] Cache hit
+[2025-11-05T23:20:43.414671] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.414613] [INFO] Request processed successfully
+[2025-11-05T23:20:43.414629] [INFO] User logged in
+[2025-11-05T23:20:43.414649] [ERROR] Authentication failed
+[2025-11-05T23:20:43.414675] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.414625] [INFO] Transaction completed

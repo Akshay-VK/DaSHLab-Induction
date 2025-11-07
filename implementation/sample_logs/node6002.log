@@ -1,0 +1,32 @@
+[2025-11-05T23:20:37.695473] [INFO] Configuration loaded
+[2025-11-05T23:20:37.695582] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.695464] [INFO] Session started
+[2025-11-05T23:20:37.695468] [INFO] Database query executed
+[2025-11-05T23:20:37.695490] [INFO] Connection established
+[2025-11-05T23:20:37.695458] [INFO] Service initialized
+[2025-11-05T23:20:37.695586] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.695505] [INFO] Session started
+[2025-11-05T23:20:37.695567] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.695433] [INFO] Transaction completed
+[2025-11-05T23:20:37.695559] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.695482] [INFO] Configuration loaded
+[2025-11-05T23:20:37.695536] [WARN] Queue size growing
+[2025-11-05T23:20:37.695522] [WARN] Queue size growing
+[2025-11-05T23:20:37.695571] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.695554] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.695517] [INFO] Service initialized
+[2025-11-05T23:20:37.695494] [INFO] Database query executed
+[2025-11-05T23:20:37.695578] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.695545] [ERROR] Network timeout
+[2025-11-05T23:20:37.695563] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.695540] [WARN] Slow query performance
+[2025-11-05T23:20:37.695532] [WARN] Rate limit approaching
+[2025-11-05T23:20:37.695478] [INFO] Request processed successfully
+[2025-11-05T23:20:37.695549] [ERROR] Invalid input data
+[2025-11-05T23:20:37.695486] [INFO] Database query executed
+[2025-11-05T23:20:37.695574] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.695528] [WARN] Rate limit approaching
+[2025-11-05T23:20:37.695509] [INFO] User logged in
+[2025-11-05T23:20:37.695498] [INFO] Cache hit
+[2025-11-05T23:20:37.695513] [INFO] Connection established
+[2025-11-05T23:20:37.695502] [INFO] Health check passed

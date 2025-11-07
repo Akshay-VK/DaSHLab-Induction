@@ -1,0 +1,29 @@
+[2025-11-05T23:20:22.696169] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.696069] [INFO] Database query executed
+[2025-11-05T23:20:22.696003] [INFO] Transaction completed
+[2025-11-05T23:20:22.696065] [INFO] Request processed successfully
+[2025-11-05T23:20:22.696051] [INFO] Cache hit
+[2025-11-05T23:20:22.696164] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.696150] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.696083] [INFO] Transaction completed
+[2025-11-05T23:20:22.696096] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.696036] [INFO] Request processed successfully
+[2025-11-05T23:20:22.696106] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.696100] [WARN] High memory usage detected
+[2025-11-05T23:20:22.696030] [INFO] Transaction completed
+[2025-11-05T23:20:22.696134] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.696046] [INFO] Cache hit
+[2025-11-05T23:20:22.696060] [INFO] Session started
+[2025-11-05T23:20:22.696056] [INFO] Health check passed
+[2025-11-05T23:20:22.696139] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.696124] [ERROR] Invalid input data
+[2025-11-05T23:20:22.696090] [WARN] Queue size growing
+[2025-11-05T23:20:22.696042] [INFO] User logged in
+[2025-11-05T23:20:22.696144] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.696118] [ERROR] Service unavailable
+[2025-11-05T23:20:22.696073] [INFO] User logged in
+[2025-11-05T23:20:22.696129] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.696078] [INFO] Database query executed
+[2025-11-05T23:20:22.696154] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.696160] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.696113] [ERROR] Disk read failed

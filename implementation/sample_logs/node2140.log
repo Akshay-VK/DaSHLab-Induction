@@ -1,0 +1,28 @@
+[2025-11-05T23:20:21.542438] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.542423] [ERROR] Invalid input data
+[2025-11-05T23:20:21.542443] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.542461] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.542448] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.542375] [INFO] Cache hit
+[2025-11-05T23:20:21.542309] [INFO] User logged in
+[2025-11-05T23:20:21.542402] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.542429] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.542366] [INFO] Database query executed
+[2025-11-05T23:20:21.542370] [INFO] Transaction completed
+[2025-11-05T23:20:21.542452] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.542457] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.542392] [INFO] Service initialized
+[2025-11-05T23:20:21.542434] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.542384] [INFO] Database query executed
+[2025-11-05T23:20:21.542396] [INFO] Cache hit
+[2025-11-05T23:20:21.542347] [INFO] Transaction completed
+[2025-11-05T23:20:21.542352] [INFO] User logged in
+[2025-11-05T23:20:21.542417] [WARN] Timeout warning
+[2025-11-05T23:20:21.542357] [INFO] Transaction completed
+[2025-11-05T23:20:21.542362] [INFO] Database query executed
+[2025-11-05T23:20:21.542342] [INFO] Health check passed
+[2025-11-05T23:20:21.542407] [WARN] Cache miss
+[2025-11-05T23:20:21.542379] [INFO] Request processed successfully
+[2025-11-05T23:20:21.542388] [INFO] Transaction completed
+[2025-11-05T23:20:21.542412] [WARN] Slow query performance
+[2025-11-05T23:20:21.542336] [INFO] Transaction completed

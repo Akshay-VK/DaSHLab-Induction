@@ -1,0 +1,27 @@
+[2025-11-05T23:20:44.751311] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.751279] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.751225] [INFO] Configuration loaded
+[2025-11-05T23:20:44.751256] [WARN] Deprecated API usage
+[2025-11-05T23:20:44.751274] [ERROR] Authentication failed
+[2025-11-05T23:20:44.751284] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.751237] [INFO] Session started
+[2025-11-05T23:20:44.751288] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.751212] [INFO] Request processed successfully
+[2025-11-05T23:20:44.751246] [INFO] Database query executed
+[2025-11-05T23:20:44.751251] [WARN] Slow query performance
+[2025-11-05T23:20:44.751229] [INFO] Connection established
+[2025-11-05T23:20:44.751203] [INFO] Connection established
+[2025-11-05T23:20:44.751216] [INFO] Request processed successfully
+[2025-11-05T23:20:44.751270] [ERROR] Invalid input data
+[2025-11-05T23:20:44.751306] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.751233] [INFO] Connection established
+[2025-11-05T23:20:44.751264] [WARN] Cache miss
+[2025-11-05T23:20:44.751302] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.751298] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.751172] [INFO] Request processed successfully
+[2025-11-05T23:20:44.751197] [INFO] Session started
+[2025-11-05T23:20:44.751241] [INFO] Session started
+[2025-11-05T23:20:44.751294] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.751260] [WARN] Connection retry attempt
+[2025-11-05T23:20:44.751207] [INFO] Connection established
+[2025-11-05T23:20:44.751220] [INFO] Configuration loaded

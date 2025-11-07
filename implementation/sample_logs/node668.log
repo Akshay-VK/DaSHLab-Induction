@@ -1,0 +1,35 @@
+[2025-11-05T23:20:15.306237] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.306241] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.306166] [INFO] Session started
+[2025-11-05T23:20:15.306148] [INFO] Connection established
+[2025-11-05T23:20:15.306113] [INFO] Service initialized
+[2025-11-05T23:20:15.306178] [WARN] Connection retry attempt
+[2025-11-05T23:20:15.306223] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.306183] [WARN] Cache miss
+[2025-11-05T23:20:15.306161] [INFO] Cache hit
+[2025-11-05T23:20:15.306228] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.306212] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.306188] [WARN] High memory usage detected
+[2025-11-05T23:20:15.306101] [INFO] Database query executed
+[2025-11-05T23:20:15.306193] [WARN] Slow query performance
+[2025-11-05T23:20:15.306260] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.306206] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.306133] [INFO] Request processed successfully
+[2025-11-05T23:20:15.306171] [INFO] Session started
+[2025-11-05T23:20:15.306065] [INFO] Configuration loaded
+[2025-11-05T23:20:15.306217] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.306251] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.306094] [INFO] Request processed successfully
+[2025-11-05T23:20:15.306123] [INFO] Transaction completed
+[2025-11-05T23:20:15.306143] [INFO] Configuration loaded
+[2025-11-05T23:20:15.306108] [INFO] Health check passed
+[2025-11-05T23:20:15.306265] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.306200] [ERROR] Disk read failed
+[2025-11-05T23:20:15.306232] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.306118] [INFO] User logged in
+[2025-11-05T23:20:15.306138] [INFO] Service initialized
+[2025-11-05T23:20:15.306246] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.306157] [INFO] Configuration loaded
+[2025-11-05T23:20:15.306129] [INFO] Transaction completed
+[2025-11-05T23:20:15.306152] [INFO] Configuration loaded
+[2025-11-05T23:20:15.306255] [DEBUG] Entering function process_data()

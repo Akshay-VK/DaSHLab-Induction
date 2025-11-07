@@ -1,0 +1,30 @@
+[2025-11-05T23:20:53.344015] [WARN] High memory usage detected
+[2025-11-05T23:20:53.344059] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.344000] [INFO] Connection established
+[2025-11-05T23:20:53.343996] [INFO] Cache hit
+[2025-11-05T23:20:53.343962] [INFO] Service initialized
+[2025-11-05T23:20:53.344026] [ERROR] Database connection lost
+[2025-11-05T23:20:53.343971] [INFO] Service initialized
+[2025-11-05T23:20:53.344030] [ERROR] Request failed
+[2025-11-05T23:20:53.343957] [INFO] Service initialized
+[2025-11-05T23:20:53.344041] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.343992] [INFO] User logged in
+[2025-11-05T23:20:53.344064] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.343980] [INFO] Transaction completed
+[2025-11-05T23:20:53.344046] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.344050] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.344055] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.344011] [WARN] Cache miss
+[2025-11-05T23:20:53.343975] [INFO] Connection established
+[2025-11-05T23:20:53.343929] [INFO] User logged in
+[2025-11-05T23:20:53.343966] [INFO] Configuration loaded
+[2025-11-05T23:20:53.343952] [INFO] Transaction completed
+[2025-11-05T23:20:53.344036] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.343984] [INFO] Health check passed
+[2025-11-05T23:20:53.343988] [INFO] Database query executed
+[2025-11-05T23:20:53.344020] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.343941] [INFO] Cache hit
+[2025-11-05T23:20:53.344006] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.343901] [INFO] Health check passed
+[2025-11-05T23:20:53.343936] [INFO] User logged in
+[2025-11-05T23:20:53.343946] [INFO] Cache hit

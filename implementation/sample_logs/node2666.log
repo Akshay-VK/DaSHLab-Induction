@@ -1,0 +1,35 @@
+[2025-11-05T23:20:23.974220] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.974080] [INFO] Connection established
+[2025-11-05T23:20:23.974085] [INFO] Service initialized
+[2025-11-05T23:20:23.974064] [INFO] Health check passed
+[2025-11-05T23:20:23.974090] [INFO] Configuration loaded
+[2025-11-05T23:20:23.974212] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.974190] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.974075] [INFO] Request processed successfully
+[2025-11-05T23:20:23.974155] [WARN] High memory usage detected
+[2025-11-05T23:20:23.974037] [INFO] Database query executed
+[2025-11-05T23:20:23.974208] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.974181] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.974123] [INFO] Database query executed
+[2025-11-05T23:20:23.974146] [WARN] High memory usage detected
+[2025-11-05T23:20:23.974105] [INFO] Cache hit
+[2025-11-05T23:20:23.974161] [ERROR] File not found
+[2025-11-05T23:20:23.974171] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.974194] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.974177] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.974150] [WARN] Slow query performance
+[2025-11-05T23:20:23.974186] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.974114] [INFO] Connection established
+[2025-11-05T23:20:23.974109] [INFO] Health check passed
+[2025-11-05T23:20:23.974095] [INFO] Service initialized
+[2025-11-05T23:20:23.974099] [INFO] Database query executed
+[2025-11-05T23:20:23.974128] [INFO] Configuration loaded
+[2025-11-05T23:20:23.974215] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.974134] [WARN] Connection retry attempt
+[2025-11-05T23:20:23.974070] [INFO] Request processed successfully
+[2025-11-05T23:20:23.974224] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.974140] [WARN] Slow query performance
+[2025-11-05T23:20:23.974203] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.974198] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.974118] [INFO] User logged in
+[2025-11-05T23:20:23.974166] [ERROR] Request failed

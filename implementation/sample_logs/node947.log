@@ -1,0 +1,29 @@
+[2025-11-05T23:20:16.427789] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.427768] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.427772] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.427681] [INFO] Request processed successfully
+[2025-11-05T23:20:16.427711] [INFO] Health check passed
+[2025-11-05T23:20:16.427753] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.427729] [INFO] Cache hit
+[2025-11-05T23:20:16.427797] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.427749] [WARN] Disk space low
+[2025-11-05T23:20:16.427733] [INFO] Service initialized
+[2025-11-05T23:20:16.427720] [INFO] Transaction completed
+[2025-11-05T23:20:16.427801] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.427725] [INFO] Transaction completed
+[2025-11-05T23:20:16.427716] [INFO] Connection established
+[2025-11-05T23:20:16.427744] [WARN] Disk space low
+[2025-11-05T23:20:16.427676] [INFO] Health check passed
+[2025-11-05T23:20:16.427686] [INFO] Database query executed
+[2025-11-05T23:20:16.427793] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.427702] [INFO] Request processed successfully
+[2025-11-05T23:20:16.427694] [INFO] User logged in
+[2025-11-05T23:20:16.427738] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.427698] [INFO] Cache hit
+[2025-11-05T23:20:16.427649] [INFO] User logged in
+[2025-11-05T23:20:16.427783] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.427759] [ERROR] File not found
+[2025-11-05T23:20:16.427690] [INFO] Connection established
+[2025-11-05T23:20:16.427777] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.427707] [INFO] Transaction completed
+[2025-11-05T23:20:16.427764] [DEBUG] Loop iteration: 15

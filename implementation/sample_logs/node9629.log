@@ -1,0 +1,34 @@
+[2025-11-05T23:20:52.644496] [ERROR] File not found
+[2025-11-05T23:20:52.644501] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.644396] [INFO] Connection established
+[2025-11-05T23:20:52.644515] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.644471] [WARN] Slow query performance
+[2025-11-05T23:20:52.644423] [INFO] Session started
+[2025-11-05T23:20:52.644390] [INFO] User logged in
+[2025-11-05T23:20:52.644506] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.644459] [WARN] Queue size growing
+[2025-11-05T23:20:52.644479] [WARN] Cache miss
+[2025-11-05T23:20:52.644446] [INFO] Health check passed
+[2025-11-05T23:20:52.644544] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.644511] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.644419] [INFO] Configuration loaded
+[2025-11-05T23:20:52.644519] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.644485] [WARN] Queue size growing
+[2025-11-05T23:20:52.644405] [INFO] Transaction completed
+[2025-11-05T23:20:52.644451] [INFO] User logged in
+[2025-11-05T23:20:52.644367] [INFO] Connection established
+[2025-11-05T23:20:52.644475] [WARN] Slow query performance
+[2025-11-05T23:20:52.644437] [INFO] Database query executed
+[2025-11-05T23:20:52.644536] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.644465] [WARN] Slow query performance
+[2025-11-05T23:20:52.644428] [INFO] User logged in
+[2025-11-05T23:20:52.644410] [INFO] Session started
+[2025-11-05T23:20:52.644527] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.644540] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.644442] [INFO] Session started
+[2025-11-05T23:20:52.644400] [INFO] Database query executed
+[2025-11-05T23:20:52.644432] [INFO] Configuration loaded
+[2025-11-05T23:20:52.644523] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.644492] [ERROR] Request failed
+[2025-11-05T23:20:52.644531] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.644415] [INFO] Health check passed

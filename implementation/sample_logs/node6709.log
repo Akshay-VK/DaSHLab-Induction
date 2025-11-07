@@ -1,0 +1,36 @@
+[2025-11-05T23:20:40.495380] [ERROR] Network timeout
+[2025-11-05T23:20:40.495322] [INFO] Service initialized
+[2025-11-05T23:20:40.495439] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.495375] [WARN] Timeout warning
+[2025-11-05T23:20:40.495418] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.495405] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.495424] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.495432] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.495353] [INFO] Request processed successfully
+[2025-11-05T23:20:40.495421] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.495325] [INFO] Database query executed
+[2025-11-05T23:20:40.495318] [INFO] Configuration loaded
+[2025-11-05T23:20:40.495328] [INFO] Request processed successfully
+[2025-11-05T23:20:40.495336] [INFO] Cache hit
+[2025-11-05T23:20:40.495332] [INFO] Cache hit
+[2025-11-05T23:20:40.495314] [INFO] Configuration loaded
+[2025-11-05T23:20:40.495310] [INFO] Service initialized
+[2025-11-05T23:20:40.495350] [INFO] Connection established
+[2025-11-05T23:20:40.495346] [INFO] Connection established
+[2025-11-05T23:20:40.495367] [WARN] Slow query performance
+[2025-11-05T23:20:40.495389] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.495305] [INFO] Connection established
+[2025-11-05T23:20:40.495394] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.495397] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.495428] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.495357] [INFO] Configuration loaded
+[2025-11-05T23:20:40.495339] [INFO] Health check passed
+[2025-11-05T23:20:40.495280] [INFO] Database query executed
+[2025-11-05T23:20:40.495401] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.495362] [WARN] Resource threshold approaching
+[2025-11-05T23:20:40.495409] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.495436] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.495413] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.495371] [WARN] Cache miss
+[2025-11-05T23:20:40.495384] [ERROR] Authentication failed
+[2025-11-05T23:20:40.495343] [INFO] Service initialized

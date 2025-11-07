@@ -1,0 +1,35 @@
+[2025-11-05T23:20:26.544381] [INFO] Health check passed
+[2025-11-05T23:20:26.544396] [INFO] Connection established
+[2025-11-05T23:20:26.544473] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.544385] [INFO] Connection established
+[2025-11-05T23:20:26.544413] [INFO] Database query executed
+[2025-11-05T23:20:26.544464] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.544454] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.544366] [INFO] Request processed successfully
+[2025-11-05T23:20:26.544420] [INFO] Service initialized
+[2025-11-05T23:20:26.544467] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.544457] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.544358] [INFO] Database query executed
+[2025-11-05T23:20:26.544325] [INFO] Cache hit
+[2025-11-05T23:20:26.544477] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.544460] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.544370] [INFO] Database query executed
+[2025-11-05T23:20:26.544362] [INFO] Connection established
+[2025-11-05T23:20:26.544378] [INFO] Connection established
+[2025-11-05T23:20:26.544433] [WARN] Queue size growing
+[2025-11-05T23:20:26.544437] [ERROR] Invalid input data
+[2025-11-05T23:20:26.544424] [WARN] Deprecated API usage
+[2025-11-05T23:20:26.544353] [INFO] Transaction completed
+[2025-11-05T23:20:26.544451] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.544408] [INFO] User logged in
+[2025-11-05T23:20:26.544470] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.544429] [WARN] Queue size growing
+[2025-11-05T23:20:26.544389] [INFO] User logged in
+[2025-11-05T23:20:26.544374] [INFO] Cache hit
+[2025-11-05T23:20:26.544348] [INFO] Request processed successfully
+[2025-11-05T23:20:26.544416] [INFO] Session started
+[2025-11-05T23:20:26.544404] [INFO] Cache hit
+[2025-11-05T23:20:26.544400] [INFO] Service initialized
+[2025-11-05T23:20:26.544393] [INFO] Session started
+[2025-11-05T23:20:26.544445] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.544441] [ERROR] Request failed

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:27.983785] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.983734] [INFO] Connection established
+[2025-11-05T23:20:27.983696] [INFO] Cache hit
+[2025-11-05T23:20:27.983707] [INFO] Cache hit
+[2025-11-05T23:20:27.983713] [INFO] Service initialized
+[2025-11-05T23:20:27.983797] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.983802] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.983769] [WARN] Cache miss
+[2025-11-05T23:20:27.983722] [INFO] Cache hit
+[2025-11-05T23:20:27.983691] [INFO] Connection established
+[2025-11-05T23:20:27.983702] [INFO] Service initialized
+[2025-11-05T23:20:27.983810] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.983793] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.983718] [INFO] Service initialized
+[2025-11-05T23:20:27.983763] [WARN] High memory usage detected
+[2025-11-05T23:20:27.983648] [INFO] Cache hit
+[2025-11-05T23:20:27.983681] [INFO] Transaction completed
+[2025-11-05T23:20:27.983789] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.983806] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.983774] [ERROR] Memory allocation error
+[2025-11-05T23:20:27.983674] [INFO] Connection established
+[2025-11-05T23:20:27.983749] [WARN] Slow query performance
+[2025-11-05T23:20:27.983726] [INFO] User logged in
+[2025-11-05T23:20:27.983730] [INFO] Configuration loaded
+[2025-11-05T23:20:27.983744] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.983758] [WARN] Cache miss
+[2025-11-05T23:20:27.983753] [WARN] Cache miss
+[2025-11-05T23:20:27.983815] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.983686] [INFO] Transaction completed
+[2025-11-05T23:20:27.983738] [INFO] Session started
+[2025-11-05T23:20:27.983780] [DEBUG] Cache key generated

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:42.243541] [INFO] Health check passed
+[2025-11-05T23:20:42.243501] [INFO] Service initialized
+[2025-11-05T23:20:42.243601] [WARN] Slow query performance
+[2025-11-05T23:20:42.243536] [INFO] Health check passed
+[2025-11-05T23:20:42.243571] [INFO] Session started
+[2025-11-05T23:20:42.243623] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.243649] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.243558] [INFO] Connection established
+[2025-11-05T23:20:42.243636] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.243591] [INFO] Request processed successfully
+[2025-11-05T23:20:42.243657] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.243632] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.243545] [INFO] User logged in
+[2025-11-05T23:20:42.243550] [INFO] Health check passed
+[2025-11-05T23:20:42.243554] [INFO] Transaction completed
+[2025-11-05T23:20:42.243563] [INFO] User logged in
+[2025-11-05T23:20:42.243579] [INFO] Database query executed
+[2025-11-05T23:20:42.243645] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.243587] [INFO] User logged in
+[2025-11-05T23:20:42.243575] [INFO] Transaction completed
+[2025-11-05T23:20:42.243567] [INFO] Connection established
+[2025-11-05T23:20:42.243531] [INFO] Session started
+[2025-11-05T23:20:42.243612] [ERROR] Service unavailable
+[2025-11-05T23:20:42.243641] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.243617] [ERROR] File not found
+[2025-11-05T23:20:42.243628] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.243653] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.243607] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.243526] [INFO] Request processed successfully
+[2025-11-05T23:20:42.243596] [INFO] Health check passed
+[2025-11-05T23:20:42.243583] [INFO] Database query executed

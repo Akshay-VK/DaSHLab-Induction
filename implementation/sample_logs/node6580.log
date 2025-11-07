@@ -1,0 +1,29 @@
+[2025-11-05T23:20:39.967258] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.967243] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.967272] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:39.967178] [INFO] Cache hit
+[2025-11-05T23:20:39.967185] [INFO] Service initialized
+[2025-11-05T23:20:39.967265] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.967233] [WARN] High memory usage detected
+[2025-11-05T23:20:39.967189] [INFO] Service initialized
+[2025-11-05T23:20:39.967250] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:39.967220] [WARN] Deprecated API usage
+[2025-11-05T23:20:39.967269] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:39.967204] [INFO] Session started
+[2025-11-05T23:20:39.967182] [INFO] Database query executed
+[2025-11-05T23:20:39.967254] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.967215] [INFO] Connection established
+[2025-11-05T23:20:39.967197] [INFO] Cache hit
+[2025-11-05T23:20:39.967143] [INFO] Session started
+[2025-11-05T23:20:39.967200] [INFO] Session started
+[2025-11-05T23:20:39.967247] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.967262] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.967229] [WARN] Cache miss
+[2025-11-05T23:20:39.967211] [INFO] Session started
+[2025-11-05T23:20:39.967224] [WARN] Disk space low
+[2025-11-05T23:20:39.967171] [INFO] Database query executed
+[2025-11-05T23:20:39.967192] [INFO] Session started
+[2025-11-05T23:20:39.967208] [INFO] Session started
+[2025-11-05T23:20:39.967237] [ERROR] Request failed
+[2025-11-05T23:20:39.967166] [INFO] Cache hit
+[2025-11-05T23:20:39.967175] [INFO] Connection established

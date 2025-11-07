@@ -1,0 +1,36 @@
+[2025-11-05T23:20:25.287208] [WARN] Timeout warning
+[2025-11-05T23:20:25.287242] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.287238] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.287218] [ERROR] Network timeout
+[2025-11-05T23:20:25.287160] [INFO] Session started
+[2025-11-05T23:20:25.287168] [INFO] Transaction completed
+[2025-11-05T23:20:25.287247] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.287129] [INFO] Session started
+[2025-11-05T23:20:25.287234] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.287277] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.287213] [ERROR] Request failed
+[2025-11-05T23:20:25.287138] [INFO] Transaction completed
+[2025-11-05T23:20:25.287204] [WARN] Rate limit approaching
+[2025-11-05T23:20:25.287097] [INFO] Request processed successfully
+[2025-11-05T23:20:25.287228] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.287223] [ERROR] Database connection lost
+[2025-11-05T23:20:25.287251] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.287123] [INFO] Transaction completed
+[2025-11-05T23:20:25.287256] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.287185] [INFO] Request processed successfully
+[2025-11-05T23:20:25.287273] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.287164] [INFO] Service initialized
+[2025-11-05T23:20:25.287195] [WARN] Timeout warning
+[2025-11-05T23:20:25.287269] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.287200] [WARN] Rate limit approaching
+[2025-11-05T23:20:25.287147] [INFO] Request processed successfully
+[2025-11-05T23:20:25.287155] [INFO] Connection established
+[2025-11-05T23:20:25.287264] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.287151] [INFO] Service initialized
+[2025-11-05T23:20:25.287189] [INFO] Connection established
+[2025-11-05T23:20:25.287173] [INFO] Database query executed
+[2025-11-05T23:20:25.287134] [INFO] Cache hit
+[2025-11-05T23:20:25.287181] [INFO] Transaction completed
+[2025-11-05T23:20:25.287260] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.287177] [INFO] Session started
+[2025-11-05T23:20:25.287143] [INFO] Transaction completed

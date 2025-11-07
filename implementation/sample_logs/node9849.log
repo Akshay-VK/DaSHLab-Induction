@@ -1,0 +1,31 @@
+[2025-11-05T23:20:53.415014] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.414932] [INFO] User logged in
+[2025-11-05T23:20:53.415033] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.415029] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.414964] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.415008] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.414884] [INFO] Service initialized
+[2025-11-05T23:20:53.414927] [INFO] Transaction completed
+[2025-11-05T23:20:53.414907] [INFO] Health check passed
+[2025-11-05T23:20:53.414984] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.414896] [INFO] Database query executed
+[2025-11-05T23:20:53.414971] [ERROR] Disk read failed
+[2025-11-05T23:20:53.415003] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.414945] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.415025] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.414940] [INFO] Cache hit
+[2025-11-05T23:20:53.414960] [WARN] Slow query performance
+[2025-11-05T23:20:53.414901] [INFO] Session started
+[2025-11-05T23:20:53.414912] [INFO] Cache hit
+[2025-11-05T23:20:53.414854] [INFO] Health check passed
+[2025-11-05T23:20:53.414998] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.414989] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.414922] [INFO] Cache hit
+[2025-11-05T23:20:53.414956] [WARN] Disk space low
+[2025-11-05T23:20:53.414936] [INFO] Request processed successfully
+[2025-11-05T23:20:53.414994] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.414917] [INFO] User logged in
+[2025-11-05T23:20:53.414890] [INFO] Cache hit
+[2025-11-05T23:20:53.414950] [WARN] High memory usage detected
+[2025-11-05T23:20:53.415019] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.414978] [DEBUG] Timer set: 30 seconds

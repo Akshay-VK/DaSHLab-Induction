@@ -1,0 +1,31 @@
+[2025-11-05T23:20:39.550570] [INFO] Session started
+[2025-11-05T23:20:39.550566] [INFO] Request processed successfully
+[2025-11-05T23:20:39.550530] [INFO] Database query executed
+[2025-11-05T23:20:39.550535] [INFO] Configuration loaded
+[2025-11-05T23:20:39.550610] [ERROR] Memory allocation error
+[2025-11-05T23:20:39.550595] [WARN] Cache miss
+[2025-11-05T23:20:39.550639] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.550526] [INFO] Cache hit
+[2025-11-05T23:20:39.550644] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:39.550549] [INFO] Session started
+[2025-11-05T23:20:39.550516] [INFO] Session started
+[2025-11-05T23:20:39.550521] [INFO] Transaction completed
+[2025-11-05T23:20:39.550615] [ERROR] Authentication failed
+[2025-11-05T23:20:39.550584] [INFO] Database query executed
+[2025-11-05T23:20:39.550604] [WARN] Cache miss
+[2025-11-05T23:20:39.550539] [INFO] Cache hit
+[2025-11-05T23:20:39.550635] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.550621] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.550589] [WARN] Connection retry attempt
+[2025-11-05T23:20:39.550630] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.550504] [INFO] Health check passed
+[2025-11-05T23:20:39.550544] [INFO] Health check passed
+[2025-11-05T23:20:39.550580] [INFO] Request processed successfully
+[2025-11-05T23:20:39.550558] [INFO] Cache hit
+[2025-11-05T23:20:39.550575] [INFO] Connection established
+[2025-11-05T23:20:39.550626] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.550562] [INFO] Connection established
+[2025-11-05T23:20:39.550476] [INFO] Database query executed
+[2025-11-05T23:20:39.550600] [WARN] High memory usage detected
+[2025-11-05T23:20:39.550511] [INFO] Cache hit
+[2025-11-05T23:20:39.550553] [INFO] Service initialized

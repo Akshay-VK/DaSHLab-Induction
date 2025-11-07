@@ -1,0 +1,29 @@
+[2025-11-05T23:20:33.684760] [WARN] Queue size growing
+[2025-11-05T23:20:33.684730] [INFO] Transaction completed
+[2025-11-05T23:20:33.684697] [INFO] Configuration loaded
+[2025-11-05T23:20:33.684756] [WARN] Timeout warning
+[2025-11-05T23:20:33.684721] [INFO] Transaction completed
+[2025-11-05T23:20:33.684765] [WARN] Disk space low
+[2025-11-05T23:20:33.684770] [WARN] Queue size growing
+[2025-11-05T23:20:33.684825] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.684706] [INFO] Configuration loaded
+[2025-11-05T23:20:33.684811] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.684739] [INFO] Cache hit
+[2025-11-05T23:20:33.684734] [INFO] Session started
+[2025-11-05T23:20:33.684788] [WARN] Slow query performance
+[2025-11-05T23:20:33.684820] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.684702] [INFO] Service initialized
+[2025-11-05T23:20:33.684663] [INFO] Connection established
+[2025-11-05T23:20:33.684794] [ERROR] Disk read failed
+[2025-11-05T23:20:33.684750] [WARN] Disk space low
+[2025-11-05T23:20:33.684774] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.684725] [INFO] Cache hit
+[2025-11-05T23:20:33.684816] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.684716] [INFO] Cache hit
+[2025-11-05T23:20:33.684779] [WARN] Timeout warning
+[2025-11-05T23:20:33.684783] [WARN] Slow query performance
+[2025-11-05T23:20:33.684805] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.684743] [INFO] Cache hit
+[2025-11-05T23:20:33.684800] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.684712] [INFO] Session started
+[2025-11-05T23:20:33.684691] [INFO] Service initialized

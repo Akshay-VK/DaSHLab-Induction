@@ -1,0 +1,30 @@
+[2025-11-05T23:20:14.795733] [INFO] Service initialized
+[2025-11-05T23:20:14.795720] [INFO] Connection established
+[2025-11-05T23:20:14.795789] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.795794] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.795817] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.795745] [WARN] Cache miss
+[2025-11-05T23:20:14.795701] [INFO] Request processed successfully
+[2025-11-05T23:20:14.795761] [WARN] Slow query performance
+[2025-11-05T23:20:14.795813] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.795804] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.795773] [ERROR] Request failed
+[2025-11-05T23:20:14.795751] [WARN] Rate limit approaching
+[2025-11-05T23:20:14.795710] [INFO] Request processed successfully
+[2025-11-05T23:20:14.795715] [INFO] Connection established
+[2025-11-05T23:20:14.795808] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.795695] [INFO] Request processed successfully
+[2025-11-05T23:20:14.795785] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.795821] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.795690] [INFO] Cache hit
+[2025-11-05T23:20:14.795651] [INFO] User logged in
+[2025-11-05T23:20:14.795756] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.795740] [INFO] Health check passed
+[2025-11-05T23:20:14.795779] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.795767] [ERROR] Request failed
+[2025-11-05T23:20:14.795706] [INFO] User logged in
+[2025-11-05T23:20:14.795799] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.795679] [INFO] Cache hit
+[2025-11-05T23:20:14.795728] [INFO] Session started
+[2025-11-05T23:20:14.795724] [INFO] Transaction completed
+[2025-11-05T23:20:14.795685] [INFO] Health check passed

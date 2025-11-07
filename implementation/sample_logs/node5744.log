@@ -1,0 +1,28 @@
+[2025-11-05T23:20:36.283764] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.283776] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.283707] [INFO] Health check passed
+[2025-11-05T23:20:36.283732] [WARN] High memory usage detected
+[2025-11-05T23:20:36.283768] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.283665] [INFO] User logged in
+[2025-11-05T23:20:36.283727] [WARN] Queue size growing
+[2025-11-05T23:20:36.283753] [ERROR] Service unavailable
+[2025-11-05T23:20:36.283682] [INFO] Connection established
+[2025-11-05T23:20:36.283692] [INFO] User logged in
+[2025-11-05T23:20:36.283722] [WARN] High memory usage detected
+[2025-11-05T23:20:36.283701] [INFO] Cache hit
+[2025-11-05T23:20:36.283687] [INFO] Cache hit
+[2025-11-05T23:20:36.283741] [WARN] Deprecated API usage
+[2025-11-05T23:20:36.283677] [INFO] Request processed successfully
+[2025-11-05T23:20:36.283795] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.283711] [INFO] Cache hit
+[2025-11-05T23:20:36.283736] [WARN] Cache miss
+[2025-11-05T23:20:36.283790] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:36.283639] [INFO] Service initialized
+[2025-11-05T23:20:36.283672] [INFO] Request processed successfully
+[2025-11-05T23:20:36.283696] [INFO] Configuration loaded
+[2025-11-05T23:20:36.283786] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:36.283772] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.283716] [INFO] Health check passed
+[2025-11-05T23:20:36.283748] [ERROR] Invalid input data
+[2025-11-05T23:20:36.283759] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.283781] [DEBUG] Connection pool status checked

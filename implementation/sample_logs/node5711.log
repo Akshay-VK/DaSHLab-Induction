@@ -1,0 +1,29 @@
+[2025-11-05T23:20:36.217699] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.217614] [INFO] Connection established
+[2025-11-05T23:20:36.217707] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:36.217712] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.217565] [INFO] Request processed successfully
+[2025-11-05T23:20:36.217603] [INFO] Service initialized
+[2025-11-05T23:20:36.217609] [INFO] Transaction completed
+[2025-11-05T23:20:36.217685] [ERROR] Disk read failed
+[2025-11-05T23:20:36.217675] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.217659] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.217644] [INFO] Service initialized
+[2025-11-05T23:20:36.217649] [INFO] Connection established
+[2025-11-05T23:20:36.217636] [INFO] Cache hit
+[2025-11-05T23:20:36.217719] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.217694] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.217621] [INFO] Database query executed
+[2025-11-05T23:20:36.217597] [INFO] Transaction completed
+[2025-11-05T23:20:36.217690] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.217715] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.217726] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.217680] [ERROR] Memory allocation error
+[2025-11-05T23:20:36.217653] [INFO] Request processed successfully
+[2025-11-05T23:20:36.217670] [WARN] Timeout warning
+[2025-11-05T23:20:36.217640] [INFO] Health check passed
+[2025-11-05T23:20:36.217626] [INFO] Cache hit
+[2025-11-05T23:20:36.217631] [INFO] Session started
+[2025-11-05T23:20:36.217703] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.217590] [INFO] Cache hit
+[2025-11-05T23:20:36.217665] [WARN] Resource threshold approaching

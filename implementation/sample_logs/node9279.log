@@ -1,0 +1,31 @@
+[2025-11-05T23:20:50.878735] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.878670] [INFO] Cache hit
+[2025-11-05T23:20:50.878684] [WARN] Disk space low
+[2025-11-05T23:20:50.878718] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:50.878639] [INFO] Connection established
+[2025-11-05T23:20:50.878663] [INFO] Configuration loaded
+[2025-11-05T23:20:50.878647] [INFO] Cache hit
+[2025-11-05T23:20:50.878710] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.878697] [ERROR] Database connection lost
+[2025-11-05T23:20:50.878631] [INFO] Connection established
+[2025-11-05T23:20:50.878705] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.878722] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.878659] [INFO] Connection established
+[2025-11-05T23:20:50.878725] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:50.878714] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.878692] [WARN] Timeout warning
+[2025-11-05T23:20:50.878728] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.878688] [WARN] Resource threshold approaching
+[2025-11-05T23:20:50.878623] [INFO] Connection established
+[2025-11-05T23:20:50.878655] [INFO] Health check passed
+[2025-11-05T23:20:50.878643] [INFO] Configuration loaded
+[2025-11-05T23:20:50.878667] [INFO] Transaction completed
+[2025-11-05T23:20:50.878651] [INFO] Transaction completed
+[2025-11-05T23:20:50.878701] [ERROR] Disk read failed
+[2025-11-05T23:20:50.878732] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.878679] [WARN] Resource threshold approaching
+[2025-11-05T23:20:50.878618] [INFO] Configuration loaded
+[2025-11-05T23:20:50.878627] [INFO] Service initialized
+[2025-11-05T23:20:50.878593] [INFO] Configuration loaded
+[2025-11-05T23:20:50.878674] [INFO] Transaction completed
+[2025-11-05T23:20:50.878635] [INFO] User logged in

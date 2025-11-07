@@ -1,0 +1,32 @@
+[2025-11-05T23:20:37.461148] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.461130] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.461045] [INFO] User logged in
+[2025-11-05T23:20:37.461079] [WARN] Resource threshold approaching
+[2025-11-05T23:20:37.461074] [WARN] Resource threshold approaching
+[2025-11-05T23:20:37.461122] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.461028] [INFO] Request processed successfully
+[2025-11-05T23:20:37.461110] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.461105] [ERROR] Invalid input data
+[2025-11-05T23:20:37.461136] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.461049] [INFO] Session started
+[2025-11-05T23:20:37.460989] [INFO] Cache hit
+[2025-11-05T23:20:37.461041] [INFO] Configuration loaded
+[2025-11-05T23:20:37.461140] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.461126] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.461095] [WARN] Rate limit approaching
+[2025-11-05T23:20:37.461053] [INFO] Session started
+[2025-11-05T23:20:37.461014] [INFO] Cache hit
+[2025-11-05T23:20:37.461116] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.461033] [INFO] Request processed successfully
+[2025-11-05T23:20:37.461091] [WARN] Timeout warning
+[2025-11-05T23:20:37.461083] [WARN] Slow query performance
+[2025-11-05T23:20:37.461101] [ERROR] Permission denied
+[2025-11-05T23:20:37.461065] [INFO] User logged in
+[2025-11-05T23:20:37.461144] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.461057] [INFO] Cache hit
+[2025-11-05T23:20:37.461069] [INFO] Connection established
+[2025-11-05T23:20:37.461087] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.461037] [INFO] Transaction completed
+[2025-11-05T23:20:37.461061] [INFO] Transaction completed
+[2025-11-05T23:20:37.461019] [INFO] Connection established
+[2025-11-05T23:20:37.461024] [INFO] Database query executed

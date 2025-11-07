@@ -1,0 +1,31 @@
+[2025-11-05T23:20:37.856266] [INFO] Connection established
+[2025-11-05T23:20:37.856353] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.856347] [ERROR] Authentication failed
+[2025-11-05T23:20:37.856388] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.856286] [INFO] User logged in
+[2025-11-05T23:20:37.856290] [INFO] User logged in
+[2025-11-05T23:20:37.856366] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.856322] [WARN] High memory usage detected
+[2025-11-05T23:20:37.856384] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.856342] [ERROR] Request failed
+[2025-11-05T23:20:37.856380] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.856295] [INFO] Service initialized
+[2025-11-05T23:20:37.856357] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.856256] [INFO] Cache hit
+[2025-11-05T23:20:37.856307] [INFO] Cache hit
+[2025-11-05T23:20:37.856261] [INFO] Cache hit
+[2025-11-05T23:20:37.856362] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.856230] [INFO] Health check passed
+[2025-11-05T23:20:37.856326] [WARN] Rate limit approaching
+[2025-11-05T23:20:37.856311] [INFO] Cache hit
+[2025-11-05T23:20:37.856299] [INFO] Health check passed
+[2025-11-05T23:20:37.856281] [INFO] Transaction completed
+[2025-11-05T23:20:37.856277] [INFO] Cache hit
+[2025-11-05T23:20:37.856303] [INFO] Health check passed
+[2025-11-05T23:20:37.856336] [WARN] Deprecated API usage
+[2025-11-05T23:20:37.856315] [INFO] Request processed successfully
+[2025-11-05T23:20:37.856371] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.856271] [INFO] Request processed successfully
+[2025-11-05T23:20:37.856375] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.856392] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.856331] [WARN] Cache miss

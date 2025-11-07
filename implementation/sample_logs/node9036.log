@@ -1,0 +1,28 @@
+[2025-11-05T23:20:49.931484] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.931413] [INFO] Session started
+[2025-11-05T23:20:49.931364] [INFO] Database query executed
+[2025-11-05T23:20:49.931409] [INFO] Session started
+[2025-11-05T23:20:49.931401] [INFO] Request processed successfully
+[2025-11-05T23:20:49.931471] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.931467] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:49.931462] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.931426] [INFO] Service initialized
+[2025-11-05T23:20:49.931378] [INFO] Health check passed
+[2025-11-05T23:20:49.931396] [INFO] User logged in
+[2025-11-05T23:20:49.931437] [WARN] Slow query performance
+[2025-11-05T23:20:49.931392] [INFO] Request processed successfully
+[2025-11-05T23:20:49.931388] [INFO] Configuration loaded
+[2025-11-05T23:20:49.931480] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.931405] [INFO] Cache hit
+[2025-11-05T23:20:49.931417] [INFO] Session started
+[2025-11-05T23:20:49.931383] [INFO] Cache hit
+[2025-11-05T23:20:49.931369] [INFO] Configuration loaded
+[2025-11-05T23:20:49.931431] [WARN] Disk space low
+[2025-11-05T23:20:49.931374] [INFO] Transaction completed
+[2025-11-05T23:20:49.931441] [WARN] Cache miss
+[2025-11-05T23:20:49.931457] [ERROR] Disk read failed
+[2025-11-05T23:20:49.931336] [INFO] Connection established
+[2025-11-05T23:20:49.931452] [ERROR] Authentication failed
+[2025-11-05T23:20:49.931421] [INFO] Service initialized
+[2025-11-05T23:20:49.931476] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:49.931446] [WARN] Queue size growing

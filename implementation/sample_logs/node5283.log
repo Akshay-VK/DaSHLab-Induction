@@ -1,0 +1,31 @@
+[2025-11-05T23:20:34.727025] [INFO] Database query executed
+[2025-11-05T23:20:34.727079] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.726941] [INFO] Service initialized
+[2025-11-05T23:20:34.726984] [INFO] Database query executed
+[2025-11-05T23:20:34.726994] [INFO] Database query executed
+[2025-11-05T23:20:34.727035] [WARN] Cache miss
+[2025-11-05T23:20:34.726974] [INFO] Database query executed
+[2025-11-05T23:20:34.727088] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.727097] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.727083] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.727002] [INFO] Database query executed
+[2025-11-05T23:20:34.727016] [INFO] Session started
+[2025-11-05T23:20:34.727011] [INFO] Request processed successfully
+[2025-11-05T23:20:34.726969] [INFO] Configuration loaded
+[2025-11-05T23:20:34.727106] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.726989] [INFO] Database query executed
+[2025-11-05T23:20:34.727055] [WARN] Slow query performance
+[2025-11-05T23:20:34.727007] [INFO] Session started
+[2025-11-05T23:20:34.727062] [ERROR] Request failed
+[2025-11-05T23:20:34.727093] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.727067] [ERROR] Authentication failed
+[2025-11-05T23:20:34.727029] [INFO] Connection established
+[2025-11-05T23:20:34.727110] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.727046] [WARN] Deprecated API usage
+[2025-11-05T23:20:34.727074] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.727101] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.727041] [WARN] Disk space low
+[2025-11-05T23:20:34.726979] [INFO] Connection established
+[2025-11-05T23:20:34.727051] [WARN] Timeout warning
+[2025-11-05T23:20:34.726998] [INFO] Session started
+[2025-11-05T23:20:34.727020] [INFO] Cache hit

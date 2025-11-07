@@ -1,0 +1,27 @@
+[2025-11-05T23:20:42.531992] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.532011] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.531997] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.531983] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.531936] [INFO] Connection established
+[2025-11-05T23:20:42.531927] [INFO] Connection established
+[2025-11-05T23:20:42.531893] [INFO] Service initialized
+[2025-11-05T23:20:42.531914] [INFO] Transaction completed
+[2025-11-05T23:20:42.532015] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.531966] [ERROR] Invalid input data
+[2025-11-05T23:20:42.532006] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.532001] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.531932] [INFO] Request processed successfully
+[2025-11-05T23:20:42.531866] [INFO] Request processed successfully
+[2025-11-05T23:20:42.531953] [INFO] Configuration loaded
+[2025-11-05T23:20:42.531919] [INFO] Cache hit
+[2025-11-05T23:20:42.531959] [WARN] Slow query performance
+[2025-11-05T23:20:42.531923] [INFO] Session started
+[2025-11-05T23:20:42.531949] [INFO] Configuration loaded
+[2025-11-05T23:20:42.531940] [INFO] Session started
+[2025-11-05T23:20:42.531905] [INFO] Cache hit
+[2025-11-05T23:20:42.531944] [INFO] Service initialized
+[2025-11-05T23:20:42.531977] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.531988] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.531972] [ERROR] Request failed
+[2025-11-05T23:20:42.531910] [INFO] Configuration loaded
+[2025-11-05T23:20:42.531899] [INFO] Database query executed

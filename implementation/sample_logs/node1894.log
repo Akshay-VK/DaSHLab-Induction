@@ -1,0 +1,34 @@
+[2025-11-05T23:20:20.509116] [INFO] Session started
+[2025-11-05T23:20:20.509215] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.509223] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.509232] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.509174] [WARN] Timeout warning
+[2025-11-05T23:20:20.509156] [WARN] Queue size growing
+[2025-11-05T23:20:20.509151] [WARN] Cache miss
+[2025-11-05T23:20:20.509137] [INFO] Session started
+[2025-11-05T23:20:20.509193] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.509202] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.509227] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.509133] [INFO] Request processed successfully
+[2025-11-05T23:20:20.509141] [INFO] Database query executed
+[2025-11-05T23:20:20.509125] [INFO] Health check passed
+[2025-11-05T23:20:20.509219] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.509107] [INFO] Health check passed
+[2025-11-05T23:20:20.509120] [INFO] Session started
+[2025-11-05T23:20:20.509198] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.509179] [ERROR] Invalid input data
+[2025-11-05T23:20:20.509093] [INFO] Database query executed
+[2025-11-05T23:20:20.509129] [INFO] Request processed successfully
+[2025-11-05T23:20:20.509189] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.509087] [INFO] Request processed successfully
+[2025-11-05T23:20:20.509211] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.509145] [INFO] Connection established
+[2025-11-05T23:20:20.509165] [WARN] High memory usage detected
+[2025-11-05T23:20:20.509169] [WARN] Timeout warning
+[2025-11-05T23:20:20.509112] [INFO] Configuration loaded
+[2025-11-05T23:20:20.509103] [INFO] User logged in
+[2025-11-05T23:20:20.509207] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.509063] [INFO] User logged in
+[2025-11-05T23:20:20.509161] [WARN] Connection retry attempt
+[2025-11-05T23:20:20.509097] [INFO] Transaction completed
+[2025-11-05T23:20:20.509183] [ERROR] Service unavailable

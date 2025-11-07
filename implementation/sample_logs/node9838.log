@@ -1,0 +1,40 @@
+[2025-11-05T23:20:53.382027] [INFO] Request processed successfully
+[2025-11-05T23:20:53.382136] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.382055] [INFO] Health check passed
+[2025-11-05T23:20:53.382103] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.382071] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.382093] [ERROR] Memory allocation error
+[2025-11-05T23:20:53.382107] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.382089] [ERROR] File not found
+[2025-11-05T23:20:53.382036] [INFO] Request processed successfully
+[2025-11-05T23:20:53.382161] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.382084] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.382045] [INFO] Transaction completed
+[2025-11-05T23:20:53.382124] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.382111] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.382080] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.382128] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.382157] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.382115] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.382120] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.382059] [INFO] Database query executed
+[2025-11-05T23:20:53.382031] [INFO] Cache hit
+[2025-11-05T23:20:53.382050] [INFO] Session started
+[2025-11-05T23:20:53.382132] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.382153] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.382165] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.381998] [INFO] Health check passed
+[2025-11-05T23:20:53.382003] [INFO] Health check passed
+[2025-11-05T23:20:53.382145] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.382150] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.382066] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.382040] [INFO] Configuration loaded
+[2025-11-05T23:20:53.381992] [INFO] User logged in
+[2025-11-05T23:20:53.382076] [WARN] Timeout warning
+[2025-11-05T23:20:53.381965] [INFO] Service initialized
+[2025-11-05T23:20:53.382015] [INFO] Service initialized
+[2025-11-05T23:20:53.382009] [INFO] Session started
+[2025-11-05T23:20:53.382021] [INFO] Connection established
+[2025-11-05T23:20:53.382099] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.382169] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.382140] [DEBUG] Buffer size: 4096 bytes

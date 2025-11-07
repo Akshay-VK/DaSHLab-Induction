@@ -1,0 +1,26 @@
+[2025-11-05T23:20:19.833429] [INFO] Cache hit
+[2025-11-05T23:20:19.833543] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.833511] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.833534] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.833459] [INFO] Cache hit
+[2025-11-05T23:20:19.833487] [INFO] Configuration loaded
+[2025-11-05T23:20:19.833476] [INFO] Session started
+[2025-11-05T23:20:19.833526] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.833480] [INFO] Health check passed
+[2025-11-05T23:20:19.833434] [INFO] Request processed successfully
+[2025-11-05T23:20:19.833505] [ERROR] Memory allocation error
+[2025-11-05T23:20:19.833468] [INFO] Transaction completed
+[2025-11-05T23:20:19.833500] [ERROR] Invalid input data
+[2025-11-05T23:20:19.833530] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.833539] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.833472] [INFO] Request processed successfully
+[2025-11-05T23:20:19.833516] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.833439] [INFO] Service initialized
+[2025-11-05T23:20:19.833463] [INFO] Transaction completed
+[2025-11-05T23:20:19.833484] [INFO] Database query executed
+[2025-11-05T23:20:19.833521] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.833494] [WARN] Rate limit approaching
+[2025-11-05T23:20:19.833444] [INFO] Service initialized
+[2025-11-05T23:20:19.833449] [INFO] Session started
+[2025-11-05T23:20:19.833401] [INFO] Request processed successfully
+[2025-11-05T23:20:19.833454] [INFO] Database query executed

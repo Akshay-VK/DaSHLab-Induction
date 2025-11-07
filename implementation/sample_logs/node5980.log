@@ -1,0 +1,31 @@
+[2025-11-05T23:20:37.563051] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.562931] [INFO] Session started
+[2025-11-05T23:20:37.563057] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.563066] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.562917] [INFO] Transaction completed
+[2025-11-05T23:20:37.562890] [INFO] Configuration loaded
+[2025-11-05T23:20:37.563009] [INFO] Connection established
+[2025-11-05T23:20:37.562936] [INFO] Transaction completed
+[2025-11-05T23:20:37.563030] [WARN] Cache miss
+[2025-11-05T23:20:37.563071] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.562948] [INFO] Database query executed
+[2025-11-05T23:20:37.563075] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.563020] [WARN] Disk space low
+[2025-11-05T23:20:37.562922] [INFO] Request processed successfully
+[2025-11-05T23:20:37.563035] [WARN] Disk space low
+[2025-11-05T23:20:37.562953] [INFO] Configuration loaded
+[2025-11-05T23:20:37.563062] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.562927] [INFO] Service initialized
+[2025-11-05T23:20:37.563094] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.563000] [INFO] Session started
+[2025-11-05T23:20:37.563044] [ERROR] File not found
+[2025-11-05T23:20:37.562944] [INFO] Service initialized
+[2025-11-05T23:20:37.563085] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.563013] [INFO] Cache hit
+[2025-11-05T23:20:37.563039] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.563080] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.562940] [INFO] Request processed successfully
+[2025-11-05T23:20:37.563090] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.563024] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.562961] [INFO] Connection established
+[2025-11-05T23:20:37.562957] [INFO] Service initialized

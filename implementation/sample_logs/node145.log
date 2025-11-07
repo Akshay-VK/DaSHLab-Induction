@@ -1,0 +1,36 @@
+[2025-11-05T23:20:12.385729] [INFO] Transaction completed
+[2025-11-05T23:20:12.385830] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.385817] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:12.385749] [WARN] Slow query performance
+[2025-11-05T23:20:12.385813] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:12.385794] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:12.385771] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.385802] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.385785] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:12.385720] [INFO] Connection established
+[2025-11-05T23:20:12.385691] [INFO] Health check passed
+[2025-11-05T23:20:12.385745] [WARN] Resource threshold approaching
+[2025-11-05T23:20:12.385700] [INFO] Database query executed
+[2025-11-05T23:20:12.385766] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:12.385686] [INFO] Service initialized
+[2025-11-05T23:20:12.385775] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.385695] [INFO] Session started
+[2025-11-05T23:20:12.385807] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.385716] [INFO] User logged in
+[2025-11-05T23:20:12.385790] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:12.385826] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:12.385735] [WARN] Resource threshold approaching
+[2025-11-05T23:20:12.385760] [ERROR] Disk read failed
+[2025-11-05T23:20:12.385740] [WARN] Deprecated API usage
+[2025-11-05T23:20:12.385643] [INFO] Health check passed
+[2025-11-05T23:20:12.385708] [INFO] Database query executed
+[2025-11-05T23:20:12.385798] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.385712] [INFO] User logged in
+[2025-11-05T23:20:12.385755] [ERROR] Invalid input data
+[2025-11-05T23:20:12.385681] [INFO] Health check passed
+[2025-11-05T23:20:12.385780] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:12.385821] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.385670] [INFO] Connection established
+[2025-11-05T23:20:12.385676] [INFO] Database query executed
+[2025-11-05T23:20:12.385704] [INFO] Service initialized
+[2025-11-05T23:20:12.385724] [INFO] Configuration loaded

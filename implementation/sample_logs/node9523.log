@@ -1,0 +1,30 @@
+[2025-11-05T23:20:52.211497] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.211247] [INFO] Service initialized
+[2025-11-05T23:20:52.211224] [INFO] Transaction completed
+[2025-11-05T23:20:52.211511] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.211233] [INFO] Cache hit
+[2025-11-05T23:20:52.211515] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.211479] [WARN] Slow query performance
+[2025-11-05T23:20:52.211293] [INFO] Database query executed
+[2025-11-05T23:20:52.211452] [WARN] Deprecated API usage
+[2025-11-05T23:20:52.211468] [WARN] Disk space low
+[2025-11-05T23:20:52.211519] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.211307] [INFO] Request processed successfully
+[2025-11-05T23:20:52.211523] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.211213] [INFO] Cache hit
+[2025-11-05T23:20:52.211287] [INFO] Connection established
+[2025-11-05T23:20:52.211302] [INFO] Configuration loaded
+[2025-11-05T23:20:52.211242] [INFO] Service initialized
+[2025-11-05T23:20:52.211281] [INFO] Cache hit
+[2025-11-05T23:20:52.211506] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.211486] [ERROR] Request failed
+[2025-11-05T23:20:52.211532] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.211528] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.211297] [INFO] Health check passed
+[2025-11-05T23:20:52.211228] [INFO] Session started
+[2025-11-05T23:20:52.211186] [INFO] Request processed successfully
+[2025-11-05T23:20:52.211491] [ERROR] Invalid input data
+[2025-11-05T23:20:52.211502] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.211237] [INFO] User logged in
+[2025-11-05T23:20:52.211475] [WARN] Deprecated API usage
+[2025-11-05T23:20:52.211219] [INFO] Database query executed

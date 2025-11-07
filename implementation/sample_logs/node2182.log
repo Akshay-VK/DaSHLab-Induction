@@ -1,0 +1,29 @@
+[2025-11-05T23:20:21.715934] [INFO] Cache hit
+[2025-11-05T23:20:21.715929] [INFO] Request processed successfully
+[2025-11-05T23:20:21.716021] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.716055] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.715909] [INFO] Configuration loaded
+[2025-11-05T23:20:21.715924] [INFO] Health check passed
+[2025-11-05T23:20:21.716037] [WARN] Timeout warning
+[2025-11-05T23:20:21.716072] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.716006] [INFO] User logged in
+[2025-11-05T23:20:21.716027] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.715883] [INFO] Database query executed
+[2025-11-05T23:20:21.716043] [ERROR] Request failed
+[2025-11-05T23:20:21.716059] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.716011] [INFO] Configuration loaded
+[2025-11-05T23:20:21.716049] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.715938] [INFO] Service initialized
+[2025-11-05T23:20:21.716032] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.716015] [INFO] Configuration loaded
+[2025-11-05T23:20:21.716067] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.716002] [INFO] User logged in
+[2025-11-05T23:20:21.715915] [INFO] User logged in
+[2025-11-05T23:20:21.715920] [INFO] Health check passed
+[2025-11-05T23:20:21.716063] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.715992] [INFO] User logged in
+[2025-11-05T23:20:21.716084] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.715997] [INFO] User logged in
+[2025-11-05T23:20:21.716076] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.716080] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.715986] [INFO] Connection established

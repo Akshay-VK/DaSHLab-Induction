@@ -1,0 +1,31 @@
+[2025-11-05T23:20:29.604089] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.604111] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.604026] [INFO] Session started
+[2025-11-05T23:20:29.604043] [INFO] Connection established
+[2025-11-05T23:20:29.604049] [WARN] Connection retry attempt
+[2025-11-05T23:20:29.604022] [INFO] Cache hit
+[2025-11-05T23:20:29.604062] [WARN] Connection retry attempt
+[2025-11-05T23:20:29.604068] [ERROR] Database connection lost
+[2025-11-05T23:20:29.604018] [INFO] Connection established
+[2025-11-05T23:20:29.603996] [INFO] Database query executed
+[2025-11-05T23:20:29.604084] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.603990] [INFO] Configuration loaded
+[2025-11-05T23:20:29.604094] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.604102] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.603986] [INFO] Health check passed
+[2025-11-05T23:20:29.603975] [INFO] Database query executed
+[2025-11-05T23:20:29.604098] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.604004] [INFO] Configuration loaded
+[2025-11-05T23:20:29.604000] [INFO] Request processed successfully
+[2025-11-05T23:20:29.604013] [INFO] Configuration loaded
+[2025-11-05T23:20:29.604031] [INFO] User logged in
+[2025-11-05T23:20:29.604035] [INFO] Cache hit
+[2025-11-05T23:20:29.604073] [ERROR] Invalid input data
+[2025-11-05T23:20:29.604058] [WARN] Timeout warning
+[2025-11-05T23:20:29.603949] [INFO] Transaction completed
+[2025-11-05T23:20:29.604039] [INFO] Transaction completed
+[2025-11-05T23:20:29.604079] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.604008] [INFO] Service initialized
+[2025-11-05T23:20:29.603981] [INFO] Cache hit
+[2025-11-05T23:20:29.604106] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.604054] [WARN] Connection retry attempt

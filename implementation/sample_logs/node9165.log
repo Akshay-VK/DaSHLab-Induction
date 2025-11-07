@@ -1,0 +1,33 @@
+[2025-11-05T23:20:50.444163] [WARN] Slow query performance
+[2025-11-05T23:20:50.444101] [INFO] Transaction completed
+[2025-11-05T23:20:50.444105] [INFO] Service initialized
+[2025-11-05T23:20:50.444186] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.444224] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.444208] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.444158] [WARN] Rate limit approaching
+[2025-11-05T23:20:50.444200] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.444192] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.444145] [INFO] Service initialized
+[2025-11-05T23:20:50.444171] [WARN] Connection retry attempt
+[2025-11-05T23:20:50.444072] [INFO] Connection established
+[2025-11-05T23:20:50.444228] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.444137] [INFO] Transaction completed
+[2025-11-05T23:20:50.444125] [INFO] Cache hit
+[2025-11-05T23:20:50.444109] [INFO] User logged in
+[2025-11-05T23:20:50.444149] [INFO] Database query executed
+[2025-11-05T23:20:50.444177] [ERROR] Invalid input data
+[2025-11-05T23:20:50.444141] [INFO] User logged in
+[2025-11-05T23:20:50.444204] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.444118] [INFO] Configuration loaded
+[2025-11-05T23:20:50.444181] [ERROR] Network timeout
+[2025-11-05T23:20:50.444095] [INFO] User logged in
+[2025-11-05T23:20:50.444133] [INFO] Configuration loaded
+[2025-11-05T23:20:50.444216] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.444154] [WARN] Connection retry attempt
+[2025-11-05T23:20:50.444167] [WARN] Disk space low
+[2025-11-05T23:20:50.444196] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.444129] [INFO] Service initialized
+[2025-11-05T23:20:50.444220] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.444114] [INFO] Database query executed
+[2025-11-05T23:20:50.444122] [INFO] Database query executed
+[2025-11-05T23:20:50.444212] [DEBUG] Cache key generated

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:41.774253] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.774237] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.774207] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.774250] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.774261] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.774195] [INFO] Cache hit
+[2025-11-05T23:20:41.774268] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.774257] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.774184] [INFO] User logged in
+[2025-11-05T23:20:41.774173] [INFO] Cache hit
+[2025-11-05T23:20:41.774170] [INFO] Health check passed
+[2025-11-05T23:20:41.774242] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.774264] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.774149] [INFO] Database query executed
+[2025-11-05T23:20:41.774161] [INFO] Session started
+[2025-11-05T23:20:41.774177] [INFO] Connection established
+[2025-11-05T23:20:41.774188] [INFO] Service initialized
+[2025-11-05T23:20:41.774212] [WARN] Resource threshold approaching
+[2025-11-05T23:20:41.774220] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.774246] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.774158] [INFO] Cache hit
+[2025-11-05T23:20:41.774216] [WARN] Cache miss
+[2025-11-05T23:20:41.774191] [INFO] Service initialized
+[2025-11-05T23:20:41.774232] [ERROR] File not found
+[2025-11-05T23:20:41.774124] [INFO] Session started
+[2025-11-05T23:20:41.774198] [INFO] Cache hit
+[2025-11-05T23:20:41.774223] [WARN] Timeout warning
+[2025-11-05T23:20:41.774227] [WARN] Timeout warning
+[2025-11-05T23:20:41.774180] [INFO] Request processed successfully
+[2025-11-05T23:20:41.774154] [INFO] Connection established
+[2025-11-05T23:20:41.774166] [INFO] Service initialized
+[2025-11-05T23:20:41.774203] [WARN] Deprecated API usage

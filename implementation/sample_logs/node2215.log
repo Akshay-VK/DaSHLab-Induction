@@ -1,0 +1,30 @@
+[2025-11-05T23:20:21.846285] [INFO] Database query executed
+[2025-11-05T23:20:21.846378] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.846383] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.846367] [ERROR] Disk read failed
+[2025-11-05T23:20:21.846362] [WARN] Slow query performance
+[2025-11-05T23:20:21.846338] [INFO] Session started
+[2025-11-05T23:20:21.846391] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.846290] [INFO] Database query executed
+[2025-11-05T23:20:21.846387] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.846326] [INFO] Connection established
+[2025-11-05T23:20:21.846322] [INFO] Request processed successfully
+[2025-11-05T23:20:21.846309] [INFO] Session started
+[2025-11-05T23:20:21.846259] [INFO] Connection established
+[2025-11-05T23:20:21.846330] [INFO] Cache hit
+[2025-11-05T23:20:21.846348] [WARN] High memory usage detected
+[2025-11-05T23:20:21.846295] [INFO] Service initialized
+[2025-11-05T23:20:21.846373] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.846414] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.846305] [INFO] User logged in
+[2025-11-05T23:20:21.846401] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.846334] [INFO] Session started
+[2025-11-05T23:20:21.846406] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.846410] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.846343] [INFO] Transaction completed
+[2025-11-05T23:20:21.846353] [WARN] Disk space low
+[2025-11-05T23:20:21.846313] [INFO] Database query executed
+[2025-11-05T23:20:21.846317] [INFO] Cache hit
+[2025-11-05T23:20:21.846358] [WARN] Disk space low
+[2025-11-05T23:20:21.846300] [INFO] Transaction completed
+[2025-11-05T23:20:21.846396] [DEBUG] Loop iteration: 15

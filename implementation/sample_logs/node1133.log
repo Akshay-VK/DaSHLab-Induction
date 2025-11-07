@@ -1,0 +1,37 @@
+[2025-11-05T23:20:17.280905] [WARN] High memory usage detected
+[2025-11-05T23:20:17.280834] [INFO] Cache hit
+[2025-11-05T23:20:17.280966] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.280878] [INFO] Database query executed
+[2025-11-05T23:20:17.280984] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.280861] [INFO] Cache hit
+[2025-11-05T23:20:17.280882] [INFO] Cache hit
+[2025-11-05T23:20:17.280870] [INFO] Database query executed
+[2025-11-05T23:20:17.280927] [ERROR] Memory allocation error
+[2025-11-05T23:20:17.280970] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.280961] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.280932] [ERROR] Invalid input data
+[2025-11-05T23:20:17.280952] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.280913] [WARN] Rate limit approaching
+[2025-11-05T23:20:17.280901] [WARN] Timeout warning
+[2025-11-05T23:20:17.280937] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.280866] [INFO] Request processed successfully
+[2025-11-05T23:20:17.280829] [INFO] Transaction completed
+[2025-11-05T23:20:17.280838] [INFO] Request processed successfully
+[2025-11-05T23:20:17.280948] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.280893] [WARN] Rate limit approaching
+[2025-11-05T23:20:17.280852] [INFO] Connection established
+[2025-11-05T23:20:17.280888] [WARN] High memory usage detected
+[2025-11-05T23:20:17.280824] [INFO] User logged in
+[2025-11-05T23:20:17.280975] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.280897] [WARN] Queue size growing
+[2025-11-05T23:20:17.280843] [INFO] Service initialized
+[2025-11-05T23:20:17.280979] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.280874] [INFO] Configuration loaded
+[2025-11-05T23:20:17.280943] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.280797] [INFO] User logged in
+[2025-11-05T23:20:17.280857] [INFO] Health check passed
+[2025-11-05T23:20:17.280957] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.280917] [WARN] Cache miss
+[2025-11-05T23:20:17.280923] [ERROR] Database connection lost
+[2025-11-05T23:20:17.280909] [WARN] Timeout warning
+[2025-11-05T23:20:17.280848] [INFO] Session started

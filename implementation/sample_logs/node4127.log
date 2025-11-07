@@ -1,0 +1,27 @@
+[2025-11-05T23:20:30.162766] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.162743] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.162657] [INFO] Health check passed
+[2025-11-05T23:20:30.162770] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.162757] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.162678] [INFO] Health check passed
+[2025-11-05T23:20:30.162738] [ERROR] Request failed
+[2025-11-05T23:20:30.162721] [WARN] Resource threshold approaching
+[2025-11-05T23:20:30.162762] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.162726] [WARN] Queue size growing
+[2025-11-05T23:20:30.162716] [WARN] Rate limit approaching
+[2025-11-05T23:20:30.162673] [INFO] Request processed successfully
+[2025-11-05T23:20:30.162695] [INFO] Service initialized
+[2025-11-05T23:20:30.162687] [INFO] Configuration loaded
+[2025-11-05T23:20:30.162700] [INFO] Health check passed
+[2025-11-05T23:20:30.162752] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.162669] [INFO] User logged in
+[2025-11-05T23:20:30.162775] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.162664] [INFO] Health check passed
+[2025-11-05T23:20:30.162732] [ERROR] Network timeout
+[2025-11-05T23:20:30.162691] [INFO] Health check passed
+[2025-11-05T23:20:30.162682] [INFO] Configuration loaded
+[2025-11-05T23:20:30.162780] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.162704] [INFO] Database query executed
+[2025-11-05T23:20:30.162632] [INFO] Connection established
+[2025-11-05T23:20:30.162711] [WARN] Rate limit approaching
+[2025-11-05T23:20:30.162748] [DEBUG] Entering function process_data()

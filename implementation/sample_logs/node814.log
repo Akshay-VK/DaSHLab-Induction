@@ -1,0 +1,36 @@
+[2025-11-05T23:20:15.865063] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.865058] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.865093] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.864966] [INFO] Session started
+[2025-11-05T23:20:15.865053] [ERROR] Network timeout
+[2025-11-05T23:20:15.864953] [INFO] User logged in
+[2025-11-05T23:20:15.865032] [WARN] Queue size growing
+[2025-11-05T23:20:15.865001] [INFO] Database query executed
+[2025-11-05T23:20:15.865027] [INFO] Request processed successfully
+[2025-11-05T23:20:15.865043] [ERROR] Permission denied
+[2025-11-05T23:20:15.865037] [WARN] Slow query performance
+[2025-11-05T23:20:15.864958] [INFO] Configuration loaded
+[2025-11-05T23:20:15.865089] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.864943] [INFO] Session started
+[2025-11-05T23:20:15.864993] [INFO] Connection established
+[2025-11-05T23:20:15.865067] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.864984] [INFO] Session started
+[2025-11-05T23:20:15.864948] [INFO] Transaction completed
+[2025-11-05T23:20:15.864962] [INFO] Service initialized
+[2025-11-05T23:20:15.864988] [INFO] User logged in
+[2025-11-05T23:20:15.864911] [INFO] Cache hit
+[2025-11-05T23:20:15.865072] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.865023] [INFO] User logged in
+[2025-11-05T23:20:15.865077] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.864997] [INFO] Transaction completed
+[2025-11-05T23:20:15.864975] [INFO] Cache hit
+[2025-11-05T23:20:15.865014] [INFO] Session started
+[2025-11-05T23:20:15.865048] [ERROR] Disk read failed
+[2025-11-05T23:20:15.865006] [INFO] Service initialized
+[2025-11-05T23:20:15.865019] [INFO] Request processed successfully
+[2025-11-05T23:20:15.865081] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.865085] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.864979] [INFO] Transaction completed
+[2025-11-05T23:20:15.865010] [INFO] Connection established
+[2025-11-05T23:20:15.864971] [INFO] Service initialized
+[2025-11-05T23:20:15.864937] [INFO] Configuration loaded

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:26.133330] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.133291] [INFO] User logged in
+[2025-11-05T23:20:26.133340] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.133334] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.133294] [INFO] Configuration loaded
+[2025-11-05T23:20:26.133261] [INFO] Service initialized
+[2025-11-05T23:20:26.133269] [INFO] Transaction completed
+[2025-11-05T23:20:26.133224] [INFO] User logged in
+[2025-11-05T23:20:26.133275] [INFO] Cache hit
+[2025-11-05T23:20:26.133247] [INFO] Transaction completed
+[2025-11-05T23:20:26.133318] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.133321] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.133314] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.133282] [INFO] Request processed successfully
+[2025-11-05T23:20:26.133327] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.133279] [INFO] Cache hit
+[2025-11-05T23:20:26.133301] [WARN] Disk space low
+[2025-11-05T23:20:26.133272] [INFO] Configuration loaded
+[2025-11-05T23:20:26.133257] [INFO] Request processed successfully
+[2025-11-05T23:20:26.133288] [INFO] Transaction completed
+[2025-11-05T23:20:26.133324] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.133297] [INFO] Database query executed
+[2025-11-05T23:20:26.133265] [INFO] Session started
+[2025-11-05T23:20:26.133310] [ERROR] Memory allocation error
+[2025-11-05T23:20:26.133285] [INFO] Database query executed
+[2025-11-05T23:20:26.133306] [ERROR] Authentication failed
+[2025-11-05T23:20:26.133337] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.133252] [INFO] Health check passed

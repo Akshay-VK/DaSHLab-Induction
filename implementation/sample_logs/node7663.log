@@ -1,0 +1,28 @@
+[2025-11-05T23:20:44.167545] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.167463] [INFO] Configuration loaded
+[2025-11-05T23:20:44.167505] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.167549] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.167537] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.167541] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.167519] [ERROR] Memory allocation error
+[2025-11-05T23:20:44.167458] [INFO] User logged in
+[2025-11-05T23:20:44.167450] [INFO] Health check passed
+[2025-11-05T23:20:44.167424] [INFO] Database query executed
+[2025-11-05T23:20:44.167557] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.167489] [INFO] Service initialized
+[2025-11-05T23:20:44.167454] [INFO] Database query executed
+[2025-11-05T23:20:44.167529] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.167467] [INFO] Session started
+[2025-11-05T23:20:44.167479] [INFO] Request processed successfully
+[2025-11-05T23:20:44.167553] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.167486] [INFO] User logged in
+[2025-11-05T23:20:44.167524] [ERROR] Authentication failed
+[2025-11-05T23:20:44.167475] [INFO] Session started
+[2025-11-05T23:20:44.167500] [INFO] Connection established
+[2025-11-05T23:20:44.167471] [INFO] Cache hit
+[2025-11-05T23:20:44.167533] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.167482] [INFO] User logged in
+[2025-11-05T23:20:44.167496] [INFO] Service initialized
+[2025-11-05T23:20:44.167509] [WARN] Queue size growing
+[2025-11-05T23:20:44.167493] [INFO] Configuration loaded
+[2025-11-05T23:20:44.167514] [WARN] Deprecated API usage

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:51.056168] [WARN] Timeout warning
+[2025-11-05T23:20:51.056207] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.056041] [INFO] Transaction completed
+[2025-11-05T23:20:51.056078] [INFO] Request processed successfully
+[2025-11-05T23:20:51.056117] [INFO] User logged in
+[2025-11-05T23:20:51.056185] [ERROR] Memory allocation error
+[2025-11-05T23:20:51.056072] [INFO] Session started
+[2025-11-05T23:20:51.056083] [INFO] Request processed successfully
+[2025-11-05T23:20:51.056215] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.056087] [INFO] Request processed successfully
+[2025-11-05T23:20:51.056224] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.056121] [INFO] Service initialized
+[2025-11-05T23:20:51.056104] [INFO] Request processed successfully
+[2025-11-05T23:20:51.056220] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.056100] [INFO] Cache hit
+[2025-11-05T23:20:51.056173] [WARN] Timeout warning
+[2025-11-05T23:20:51.056113] [INFO] Request processed successfully
+[2025-11-05T23:20:51.056108] [INFO] Request processed successfully
+[2025-11-05T23:20:51.056199] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.056230] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.056189] [ERROR] Request failed
+[2025-11-05T23:20:51.056091] [INFO] User logged in
+[2025-11-05T23:20:51.056194] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.056160] [WARN] Timeout warning
+[2025-11-05T23:20:51.056128] [WARN] Deprecated API usage
+[2025-11-05T23:20:51.056180] [ERROR] Request failed
+[2025-11-05T23:20:51.056203] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:51.056096] [INFO] User logged in
+[2025-11-05T23:20:51.056211] [DEBUG] Variable value: x=42

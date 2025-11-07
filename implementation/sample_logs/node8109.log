@@ -1,0 +1,30 @@
+[2025-11-05T23:20:46.050562] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.050532] [WARN] Resource threshold approaching
+[2025-11-05T23:20:46.050486] [INFO] Configuration loaded
+[2025-11-05T23:20:46.050572] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.050522] [WARN] Connection retry attempt
+[2025-11-05T23:20:46.050504] [INFO] Transaction completed
+[2025-11-05T23:20:46.050517] [INFO] Transaction completed
+[2025-11-05T23:20:46.050581] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.050451] [INFO] Configuration loaded
+[2025-11-05T23:20:46.050568] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.050477] [INFO] User logged in
+[2025-11-05T23:20:46.050577] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.050496] [INFO] Configuration loaded
+[2025-11-05T23:20:46.050537] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.050553] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.050482] [INFO] Service initialized
+[2025-11-05T23:20:46.050491] [INFO] Transaction completed
+[2025-11-05T23:20:46.050508] [INFO] Session started
+[2025-11-05T23:20:46.050548] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.050457] [INFO] User logged in
+[2025-11-05T23:20:46.050527] [WARN] High memory usage detected
+[2025-11-05T23:20:46.050426] [INFO] Session started
+[2025-11-05T23:20:46.050467] [INFO] Connection established
+[2025-11-05T23:20:46.050585] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.050473] [INFO] User logged in
+[2025-11-05T23:20:46.050462] [INFO] User logged in
+[2025-11-05T23:20:46.050558] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.050500] [INFO] Request processed successfully
+[2025-11-05T23:20:46.050513] [INFO] Service initialized
+[2025-11-05T23:20:46.050543] [ERROR] Memory allocation error

@@ -1,0 +1,26 @@
+[2025-11-05T23:20:50.690650] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.690655] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.690670] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.690612] [INFO] Configuration loaded
+[2025-11-05T23:20:50.690659] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.690630] [WARN] Cache miss
+[2025-11-05T23:20:50.690576] [INFO] Connection established
+[2025-11-05T23:20:50.690608] [INFO] Session started
+[2025-11-05T23:20:50.690603] [INFO] Health check passed
+[2025-11-05T23:20:50.690545] [INFO] Health check passed
+[2025-11-05T23:20:50.690639] [ERROR] Permission denied
+[2025-11-05T23:20:50.690586] [INFO] Cache hit
+[2025-11-05T23:20:50.690663] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.690667] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.690591] [INFO] Cache hit
+[2025-11-05T23:20:50.690616] [INFO] Service initialized
+[2025-11-05T23:20:50.690674] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.690582] [INFO] User logged in
+[2025-11-05T23:20:50.690599] [INFO] Database query executed
+[2025-11-05T23:20:50.690595] [INFO] Health check passed
+[2025-11-05T23:20:50.690570] [INFO] Health check passed
+[2025-11-05T23:20:50.690634] [WARN] Timeout warning
+[2025-11-05T23:20:50.690646] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:50.690620] [INFO] Transaction completed
+[2025-11-05T23:20:50.690679] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:50.690625] [WARN] Timeout warning

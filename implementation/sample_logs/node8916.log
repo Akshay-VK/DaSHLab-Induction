@@ -1,0 +1,28 @@
+[2025-11-05T23:20:49.427568] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.427581] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.427590] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.427528] [INFO] Request processed successfully
+[2025-11-05T23:20:49.427594] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:49.427563] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.427496] [INFO] Health check passed
+[2025-11-05T23:20:49.427532] [INFO] Session started
+[2025-11-05T23:20:49.427548] [WARN] Rate limit approaching
+[2025-11-05T23:20:49.427500] [INFO] Transaction completed
+[2025-11-05T23:20:49.427576] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.427586] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.427491] [INFO] Database query executed
+[2025-11-05T23:20:49.427572] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.427513] [INFO] Session started
+[2025-11-05T23:20:49.427558] [ERROR] Disk read failed
+[2025-11-05T23:20:49.427487] [INFO] Session started
+[2025-11-05T23:20:49.427476] [INFO] Cache hit
+[2025-11-05T23:20:49.427470] [INFO] Connection established
+[2025-11-05T23:20:49.427504] [INFO] Session started
+[2025-11-05T23:20:49.427445] [INFO] Cache hit
+[2025-11-05T23:20:49.427482] [INFO] Transaction completed
+[2025-11-05T23:20:49.427538] [WARN] Connection retry attempt
+[2025-11-05T23:20:49.427509] [INFO] Request processed successfully
+[2025-11-05T23:20:49.427524] [INFO] Service initialized
+[2025-11-05T23:20:49.427518] [INFO] Service initialized
+[2025-11-05T23:20:49.427553] [WARN] Slow query performance
+[2025-11-05T23:20:49.427543] [WARN] Slow query performance

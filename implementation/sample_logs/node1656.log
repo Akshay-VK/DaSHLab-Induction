@@ -1,0 +1,31 @@
+[2025-11-05T23:20:19.569493] [INFO] Request processed successfully
+[2025-11-05T23:20:19.571268] [ERROR] Memory allocation error
+[2025-11-05T23:20:19.571307] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.571291] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.571238] [INFO] Connection established
+[2025-11-05T23:20:19.571295] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.571203] [INFO] Request processed successfully
+[2025-11-05T23:20:19.571282] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.571242] [INFO] Configuration loaded
+[2025-11-05T23:20:19.569478] [INFO] Configuration loaded
+[2025-11-05T23:20:19.571261] [WARN] Resource threshold approaching
+[2025-11-05T23:20:19.571299] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.571157] [INFO] Connection established
+[2025-11-05T23:20:19.571278] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.569452] [INFO] Database query executed
+[2025-11-05T23:20:19.571273] [ERROR] Invalid input data
+[2025-11-05T23:20:19.571221] [INFO] Request processed successfully
+[2025-11-05T23:20:19.571217] [INFO] Connection established
+[2025-11-05T23:20:19.571256] [WARN] Connection retry attempt
+[2025-11-05T23:20:19.571303] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.571196] [INFO] Service initialized
+[2025-11-05T23:20:19.571246] [INFO] Service initialized
+[2025-11-05T23:20:19.571312] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.571229] [INFO] Session started
+[2025-11-05T23:20:19.571225] [INFO] User logged in
+[2025-11-05T23:20:19.569488] [INFO] Database query executed
+[2025-11-05T23:20:19.571234] [INFO] User logged in
+[2025-11-05T23:20:19.569484] [INFO] Connection established
+[2025-11-05T23:20:19.571287] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.571208] [INFO] Database query executed
+[2025-11-05T23:20:19.571213] [INFO] Database query executed

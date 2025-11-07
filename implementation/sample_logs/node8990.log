@@ -1,0 +1,28 @@
+[2025-11-05T23:20:49.668127] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.668109] [WARN] Cache miss
+[2025-11-05T23:20:49.668135] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.668061] [INFO] Session started
+[2025-11-05T23:20:49.668121] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.668053] [INFO] User logged in
+[2025-11-05T23:20:49.668034] [INFO] Transaction completed
+[2025-11-05T23:20:49.668069] [INFO] Transaction completed
+[2025-11-05T23:20:49.668099] [WARN] Timeout warning
+[2025-11-05T23:20:49.668044] [INFO] Database query executed
+[2025-11-05T23:20:49.668057] [INFO] Connection established
+[2025-11-05T23:20:49.668085] [INFO] User logged in
+[2025-11-05T23:20:49.668089] [INFO] Connection established
+[2025-11-05T23:20:49.668104] [WARN] Rate limit approaching
+[2025-11-05T23:20:49.668081] [INFO] Transaction completed
+[2025-11-05T23:20:49.668131] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.668148] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.668073] [INFO] Cache hit
+[2025-11-05T23:20:49.668048] [INFO] Transaction completed
+[2025-11-05T23:20:49.668152] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.668065] [INFO] Database query executed
+[2025-11-05T23:20:49.668010] [INFO] User logged in
+[2025-11-05T23:20:49.668140] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:49.668115] [ERROR] Permission denied
+[2025-11-05T23:20:49.668077] [INFO] Transaction completed
+[2025-11-05T23:20:49.668039] [INFO] Health check passed
+[2025-11-05T23:20:49.668094] [WARN] Disk space low
+[2025-11-05T23:20:49.668144] [DEBUG] Thread pool size: 8

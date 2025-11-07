@@ -1,0 +1,35 @@
+[2025-11-05T23:20:25.583016] [INFO] Service initialized
+[2025-11-05T23:20:25.583139] [ERROR] Memory allocation error
+[2025-11-05T23:20:25.583096] [INFO] Configuration loaded
+[2025-11-05T23:20:25.583089] [INFO] Health check passed
+[2025-11-05T23:20:25.583162] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.583077] [INFO] Cache hit
+[2025-11-05T23:20:25.583115] [WARN] Queue size growing
+[2025-11-05T23:20:25.583111] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.583085] [INFO] Connection established
+[2025-11-05T23:20:25.583120] [WARN] Slow query performance
+[2025-11-05T23:20:25.583081] [INFO] Database query executed
+[2025-11-05T23:20:25.583059] [INFO] Request processed successfully
+[2025-11-05T23:20:25.583182] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.583174] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.583153] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.583144] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.583134] [ERROR] Permission denied
+[2025-11-05T23:20:25.583046] [INFO] User logged in
+[2025-11-05T23:20:25.583166] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.583100] [INFO] Service initialized
+[2025-11-05T23:20:25.583170] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.583073] [INFO] Session started
+[2025-11-05T23:20:25.583129] [WARN] Deprecated API usage
+[2025-11-05T23:20:25.583055] [INFO] Configuration loaded
+[2025-11-05T23:20:25.583104] [INFO] Connection established
+[2025-11-05T23:20:25.583178] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.583125] [WARN] Deprecated API usage
+[2025-11-05T23:20:25.583186] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.583149] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.583093] [INFO] Service initialized
+[2025-11-05T23:20:25.583040] [INFO] Configuration loaded
+[2025-11-05T23:20:25.583050] [INFO] Health check passed
+[2025-11-05T23:20:25.583158] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.583064] [INFO] Transaction completed
+[2025-11-05T23:20:25.583069] [INFO] Health check passed

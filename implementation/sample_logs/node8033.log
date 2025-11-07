@@ -1,0 +1,31 @@
+[2025-11-05T23:20:45.666497] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.666450] [INFO] User logged in
+[2025-11-05T23:20:45.666423] [INFO] Session started
+[2025-11-05T23:20:45.666475] [WARN] Slow query performance
+[2025-11-05T23:20:45.666400] [INFO] Transaction completed
+[2025-11-05T23:20:45.666453] [INFO] Request processed successfully
+[2025-11-05T23:20:45.666435] [INFO] User logged in
+[2025-11-05T23:20:45.666519] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.666502] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.666439] [INFO] Service initialized
+[2025-11-05T23:20:45.666410] [INFO] Session started
+[2025-11-05T23:20:45.666461] [INFO] Session started
+[2025-11-05T23:20:45.666375] [INFO] Session started
+[2025-11-05T23:20:45.666484] [ERROR] Disk read failed
+[2025-11-05T23:20:45.666465] [INFO] Transaction completed
+[2025-11-05T23:20:45.666431] [INFO] Transaction completed
+[2025-11-05T23:20:45.666470] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.666489] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.666506] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.666405] [INFO] Request processed successfully
+[2025-11-05T23:20:45.666457] [INFO] Connection established
+[2025-11-05T23:20:45.666427] [INFO] Cache hit
+[2025-11-05T23:20:45.666419] [INFO] Configuration loaded
+[2025-11-05T23:20:45.666511] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.666480] [ERROR] Authentication failed
+[2025-11-05T23:20:45.666522] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.666515] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.666446] [INFO] Service initialized
+[2025-11-05T23:20:45.666414] [INFO] Connection established
+[2025-11-05T23:20:45.666442] [INFO] Transaction completed
+[2025-11-05T23:20:45.666494] [DEBUG] Buffer size: 4096 bytes

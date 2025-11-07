@@ -1,0 +1,30 @@
+[2025-11-05T23:20:33.181349] [WARN] High memory usage detected
+[2025-11-05T23:20:33.181389] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.181141] [INFO] Cache hit
+[2025-11-05T23:20:33.181376] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.181310] [INFO] Transaction completed
+[2025-11-05T23:20:33.181320] [INFO] Service initialized
+[2025-11-05T23:20:33.181357] [WARN] Rate limit approaching
+[2025-11-05T23:20:33.181404] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.181392] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.181136] [INFO] Transaction completed
+[2025-11-05T23:20:33.181371] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.181362] [ERROR] Disk read failed
+[2025-11-05T23:20:33.181384] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.181345] [WARN] High memory usage detected
+[2025-11-05T23:20:33.181327] [INFO] Database query executed
+[2025-11-05T23:20:33.181353] [WARN] Slow query performance
+[2025-11-05T23:20:33.181315] [INFO] Database query executed
+[2025-11-05T23:20:33.181334] [INFO] Cache hit
+[2025-11-05T23:20:33.181297] [INFO] Health check passed
+[2025-11-05T23:20:33.181338] [INFO] Service initialized
+[2025-11-05T23:20:33.181396] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.181323] [INFO] Session started
+[2025-11-05T23:20:33.181148] [INFO] Transaction completed
+[2025-11-05T23:20:33.181400] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.181144] [INFO] Cache hit
+[2025-11-05T23:20:33.181131] [INFO] Connection established
+[2025-11-05T23:20:33.181366] [ERROR] Request failed
+[2025-11-05T23:20:33.181380] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.181104] [INFO] Connection established
+[2025-11-05T23:20:33.181331] [INFO] Database query executed

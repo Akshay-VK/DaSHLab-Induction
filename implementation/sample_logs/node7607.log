@@ -1,0 +1,28 @@
+[2025-11-05T23:20:43.983688] [INFO] Health check passed
+[2025-11-05T23:20:43.983757] [WARN] Deprecated API usage
+[2025-11-05T23:20:43.983752] [WARN] Deprecated API usage
+[2025-11-05T23:20:43.983734] [INFO] Database query executed
+[2025-11-05T23:20:43.983781] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.983730] [INFO] Configuration loaded
+[2025-11-05T23:20:43.983706] [INFO] Health check passed
+[2025-11-05T23:20:43.983723] [INFO] Request processed successfully
+[2025-11-05T23:20:43.983799] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.983727] [INFO] Configuration loaded
+[2025-11-05T23:20:43.983664] [INFO] Transaction completed
+[2025-11-05T23:20:43.983777] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.983698] [INFO] Transaction completed
+[2025-11-05T23:20:43.983719] [INFO] User logged in
+[2025-11-05T23:20:43.983748] [WARN] Timeout warning
+[2025-11-05T23:20:43.983715] [INFO] Session started
+[2025-11-05T23:20:43.983772] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.983790] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.983693] [INFO] Service initialized
+[2025-11-05T23:20:43.983795] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.983762] [ERROR] File not found
+[2025-11-05T23:20:43.983739] [WARN] Slow query performance
+[2025-11-05T23:20:43.983744] [WARN] Cache miss
+[2025-11-05T23:20:43.983710] [INFO] Database query executed
+[2025-11-05T23:20:43.983767] [ERROR] Disk read failed
+[2025-11-05T23:20:43.983803] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.983785] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.983702] [INFO] Cache hit

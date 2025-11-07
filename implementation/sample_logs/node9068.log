@@ -1,0 +1,32 @@
+[2025-11-05T23:20:50.011456] [ERROR] Memory allocation error
+[2025-11-05T23:20:50.011415] [INFO] Configuration loaded
+[2025-11-05T23:20:50.011426] [WARN] Deprecated API usage
+[2025-11-05T23:20:50.011395] [INFO] Configuration loaded
+[2025-11-05T23:20:50.011135] [INFO] User logged in
+[2025-11-05T23:20:50.011476] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.011466] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.011472] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.011484] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.011480] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.011177] [INFO] Service initialized
+[2025-11-05T23:20:50.011252] [INFO] Connection established
+[2025-11-05T23:20:50.011460] [ERROR] Network timeout
+[2025-11-05T23:20:50.011168] [INFO] Database query executed
+[2025-11-05T23:20:50.011236] [INFO] Cache hit
+[2025-11-05T23:20:50.011488] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.011240] [INFO] Health check passed
+[2025-11-05T23:20:50.011437] [WARN] Cache miss
+[2025-11-05T23:20:50.011232] [INFO] Database query executed
+[2025-11-05T23:20:50.011432] [WARN] Cache miss
+[2025-11-05T23:20:50.011419] [INFO] Configuration loaded
+[2025-11-05T23:20:50.011218] [INFO] Database query executed
+[2025-11-05T23:20:50.011409] [INFO] User logged in
+[2025-11-05T23:20:50.011172] [INFO] Session started
+[2025-11-05T23:20:50.011226] [INFO] User logged in
+[2025-11-05T23:20:50.011247] [INFO] Service initialized
+[2025-11-05T23:20:50.011186] [INFO] Transaction completed
+[2025-11-05T23:20:50.011445] [WARN] Deprecated API usage
+[2025-11-05T23:20:50.011441] [WARN] Connection retry attempt
+[2025-11-05T23:20:50.011162] [INFO] Connection established
+[2025-11-05T23:20:50.011450] [WARN] Queue size growing
+[2025-11-05T23:20:50.011182] [INFO] Session started

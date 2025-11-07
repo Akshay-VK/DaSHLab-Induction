@@ -1,0 +1,34 @@
+[2025-11-05T23:20:16.252510] [INFO] Health check passed
+[2025-11-05T23:20:16.252583] [WARN] Slow query performance
+[2025-11-05T23:20:16.252579] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.252597] [ERROR] Disk read failed
+[2025-11-05T23:20:16.252552] [INFO] Database query executed
+[2025-11-05T23:20:16.252611] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.252523] [INFO] Configuration loaded
+[2025-11-05T23:20:16.252570] [WARN] Disk space low
+[2025-11-05T23:20:16.252536] [INFO] Session started
+[2025-11-05T23:20:16.252540] [INFO] Connection established
+[2025-11-05T23:20:16.252622] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.252548] [INFO] Cache hit
+[2025-11-05T23:20:16.252470] [INFO] Transaction completed
+[2025-11-05T23:20:16.252592] [WARN] Deprecated API usage
+[2025-11-05T23:20:16.252617] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.252603] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.252544] [INFO] Service initialized
+[2025-11-05T23:20:16.252588] [WARN] Queue size growing
+[2025-11-05T23:20:16.252514] [INFO] User logged in
+[2025-11-05T23:20:16.252532] [INFO] Session started
+[2025-11-05T23:20:16.252560] [INFO] Health check passed
+[2025-11-05T23:20:16.252630] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.252527] [INFO] User logged in
+[2025-11-05T23:20:16.252607] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.252501] [INFO] User logged in
+[2025-11-05T23:20:16.252626] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.252634] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.252518] [INFO] Cache hit
+[2025-11-05T23:20:16.252556] [INFO] Transaction completed
+[2025-11-05T23:20:16.252639] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.252495] [INFO] Request processed successfully
+[2025-11-05T23:20:16.252565] [INFO] Request processed successfully
+[2025-11-05T23:20:16.252506] [INFO] Connection established
+[2025-11-05T23:20:16.252575] [WARN] Queue size growing

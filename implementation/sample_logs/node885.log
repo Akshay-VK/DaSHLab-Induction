@@ -1,0 +1,27 @@
+[2025-11-05T23:20:16.232938] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.232909] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.232813] [INFO] Database query executed
+[2025-11-05T23:20:16.232904] [WARN] Rate limit approaching
+[2025-11-05T23:20:16.232852] [INFO] Session started
+[2025-11-05T23:20:16.232863] [INFO] Connection established
+[2025-11-05T23:20:16.232885] [INFO] Database query executed
+[2025-11-05T23:20:16.232959] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.232915] [ERROR] Memory allocation error
+[2025-11-05T23:20:16.232942] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.232840] [INFO] Cache hit
+[2025-11-05T23:20:16.232881] [INFO] Cache hit
+[2025-11-05T23:20:16.232950] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.232858] [INFO] Session started
+[2025-11-05T23:20:16.232872] [INFO] Service initialized
+[2025-11-05T23:20:16.232900] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.232929] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.232895] [WARN] Cache miss
+[2025-11-05T23:20:16.232919] [ERROR] Authentication failed
+[2025-11-05T23:20:16.232925] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.232889] [INFO] User logged in
+[2025-11-05T23:20:16.232955] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.232946] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.232933] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.232867] [INFO] Transaction completed
+[2025-11-05T23:20:16.232846] [INFO] Database query executed
+[2025-11-05T23:20:16.232877] [INFO] Session started

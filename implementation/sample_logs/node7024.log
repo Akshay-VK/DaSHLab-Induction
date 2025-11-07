@@ -1,0 +1,31 @@
+[2025-11-05T23:20:41.648132] [WARN] High memory usage detected
+[2025-11-05T23:20:41.648108] [INFO] Request processed successfully
+[2025-11-05T23:20:41.648071] [INFO] User logged in
+[2025-11-05T23:20:41.648158] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.648055] [INFO] Request processed successfully
+[2025-11-05T23:20:41.648112] [INFO] Connection established
+[2025-11-05T23:20:41.648064] [INFO] Session started
+[2025-11-05T23:20:41.648079] [INFO] Service initialized
+[2025-11-05T23:20:41.648025] [INFO] Transaction completed
+[2025-11-05T23:20:41.648049] [INFO] Configuration loaded
+[2025-11-05T23:20:41.648129] [WARN] Deprecated API usage
+[2025-11-05T23:20:41.648097] [INFO] User logged in
+[2025-11-05T23:20:41.648154] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.648104] [INFO] Session started
+[2025-11-05T23:20:41.648121] [WARN] Disk space low
+[2025-11-05T23:20:41.648067] [INFO] Service initialized
+[2025-11-05T23:20:41.648125] [WARN] Queue size growing
+[2025-11-05T23:20:41.648093] [INFO] Session started
+[2025-11-05T23:20:41.648100] [INFO] Session started
+[2025-11-05T23:20:41.648059] [INFO] Connection established
+[2025-11-05T23:20:41.648117] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.648089] [INFO] Configuration loaded
+[2025-11-05T23:20:41.648165] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.648082] [INFO] Health check passed
+[2025-11-05T23:20:41.648161] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.648086] [INFO] Service initialized
+[2025-11-05T23:20:41.648151] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.648143] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.648075] [INFO] Cache hit
+[2025-11-05T23:20:41.648138] [ERROR] Database connection lost
+[2025-11-05T23:20:41.648147] [DEBUG] Timer set: 30 seconds

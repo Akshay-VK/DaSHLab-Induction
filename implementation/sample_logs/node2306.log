@@ -1,0 +1,37 @@
+[2025-11-05T23:20:22.191583] [INFO] Cache hit
+[2025-11-05T23:20:22.191638] [WARN] Cache miss
+[2025-11-05T23:20:22.191687] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.191648] [ERROR] Database connection lost
+[2025-11-05T23:20:22.191625] [WARN] Disk space low
+[2025-11-05T23:20:22.191604] [INFO] Health check passed
+[2025-11-05T23:20:22.191564] [INFO] Service initialized
+[2025-11-05T23:20:22.191520] [INFO] Database query executed
+[2025-11-05T23:20:22.191683] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.191548] [INFO] Cache hit
+[2025-11-05T23:20:22.191588] [INFO] Service initialized
+[2025-11-05T23:20:22.191574] [INFO] Configuration loaded
+[2025-11-05T23:20:22.191659] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.191608] [INFO] User logged in
+[2025-11-05T23:20:22.191654] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.191678] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.191579] [INFO] Request processed successfully
+[2025-11-05T23:20:22.191696] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.191618] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.191669] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.191596] [INFO] Health check passed
+[2025-11-05T23:20:22.191714] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.191592] [INFO] Service initialized
+[2025-11-05T23:20:22.191643] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.191692] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.191560] [INFO] Database query executed
+[2025-11-05T23:20:22.191613] [INFO] Request processed successfully
+[2025-11-05T23:20:22.191630] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.191701] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.191634] [WARN] High memory usage detected
+[2025-11-05T23:20:22.191665] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.191569] [INFO] Transaction completed
+[2025-11-05T23:20:22.191674] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.191554] [INFO] Session started
+[2025-11-05T23:20:22.191705] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.191600] [INFO] Configuration loaded
+[2025-11-05T23:20:22.191710] [DEBUG] Timer set: 30 seconds

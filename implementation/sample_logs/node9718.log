@@ -1,0 +1,27 @@
+[2025-11-05T23:20:52.981267] [INFO] Connection established
+[2025-11-05T23:20:52.981243] [INFO] Configuration loaded
+[2025-11-05T23:20:52.981292] [WARN] High memory usage detected
+[2025-11-05T23:20:52.981317] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.981331] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.981248] [INFO] Cache hit
+[2025-11-05T23:20:52.981341] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.981309] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.981255] [INFO] Request processed successfully
+[2025-11-05T23:20:52.981271] [INFO] Cache hit
+[2025-11-05T23:20:52.981298] [ERROR] Memory allocation error
+[2025-11-05T23:20:52.981336] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.981301] [ERROR] Memory allocation error
+[2025-11-05T23:20:52.981252] [INFO] Service initialized
+[2025-11-05T23:20:52.981305] [ERROR] Network timeout
+[2025-11-05T23:20:52.981263] [INFO] Service initialized
+[2025-11-05T23:20:52.981328] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.981212] [INFO] Connection established
+[2025-11-05T23:20:52.981259] [INFO] Session started
+[2025-11-05T23:20:52.981321] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.981278] [INFO] Health check passed
+[2025-11-05T23:20:52.981282] [INFO] Request processed successfully
+[2025-11-05T23:20:52.981237] [INFO] Transaction completed
+[2025-11-05T23:20:52.981325] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.981274] [INFO] Request processed successfully
+[2025-11-05T23:20:52.981286] [INFO] Database query executed
+[2025-11-05T23:20:52.981313] [DEBUG] Connection pool status checked

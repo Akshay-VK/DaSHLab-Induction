@@ -1,0 +1,27 @@
+[2025-11-05T23:20:40.493834] [INFO] Service initialized
+[2025-11-05T23:20:40.493873] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.493807] [INFO] User logged in
+[2025-11-05T23:20:40.493869] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.493797] [INFO] Database query executed
+[2025-11-05T23:20:40.493841] [INFO] User logged in
+[2025-11-05T23:20:40.493819] [INFO] Health check passed
+[2025-11-05T23:20:40.493848] [INFO] Database query executed
+[2025-11-05T23:20:40.493772] [INFO] Health check passed
+[2025-11-05T23:20:40.493816] [INFO] Health check passed
+[2025-11-05T23:20:40.493853] [WARN] Resource threshold approaching
+[2025-11-05T23:20:40.493823] [INFO] Configuration loaded
+[2025-11-05T23:20:40.493830] [INFO] Request processed successfully
+[2025-11-05T23:20:40.493859] [ERROR] Memory allocation error
+[2025-11-05T23:20:40.493877] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.493881] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.493845] [INFO] Request processed successfully
+[2025-11-05T23:20:40.493884] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.493811] [INFO] Configuration loaded
+[2025-11-05T23:20:40.493895] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.493803] [INFO] Connection established
+[2025-11-05T23:20:40.493888] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.493899] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.493838] [INFO] Session started
+[2025-11-05T23:20:40.493864] [ERROR] Authentication failed
+[2025-11-05T23:20:40.493826] [INFO] User logged in
+[2025-11-05T23:20:40.493891] [DEBUG] HTTP request headers parsed

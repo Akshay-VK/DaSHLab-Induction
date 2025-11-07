@@ -1,0 +1,35 @@
+[2025-11-05T23:20:39.697707] [INFO] Cache hit
+[2025-11-05T23:20:39.697798] [INFO] Health check passed
+[2025-11-05T23:20:39.697842] [ERROR] Permission denied
+[2025-11-05T23:20:39.697780] [INFO] Database query executed
+[2025-11-05T23:20:39.697741] [INFO] Database query executed
+[2025-11-05T23:20:39.697735] [INFO] Request processed successfully
+[2025-11-05T23:20:39.697793] [INFO] User logged in
+[2025-11-05T23:20:39.697818] [WARN] Rate limit approaching
+[2025-11-05T23:20:39.697837] [ERROR] Request failed
+[2025-11-05T23:20:39.697771] [INFO] Transaction completed
+[2025-11-05T23:20:39.697873] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.697752] [INFO] Cache hit
+[2025-11-05T23:20:39.697877] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.697868] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.697766] [INFO] Cache hit
+[2025-11-05T23:20:39.697827] [WARN] Rate limit approaching
+[2025-11-05T23:20:39.697776] [INFO] User logged in
+[2025-11-05T23:20:39.697808] [WARN] Rate limit approaching
+[2025-11-05T23:20:39.697762] [INFO] Cache hit
+[2025-11-05T23:20:39.697891] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:39.697882] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.697747] [INFO] Cache hit
+[2025-11-05T23:20:39.697863] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.697847] [ERROR] Database connection lost
+[2025-11-05T23:20:39.697858] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.697822] [WARN] Queue size growing
+[2025-11-05T23:20:39.697803] [WARN] Resource threshold approaching
+[2025-11-05T23:20:39.697886] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.697895] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.697813] [WARN] Deprecated API usage
+[2025-11-05T23:20:39.697785] [INFO] Connection established
+[2025-11-05T23:20:39.697831] [WARN] Queue size growing
+[2025-11-05T23:20:39.697853] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.697789] [INFO] Cache hit
+[2025-11-05T23:20:39.697757] [INFO] Service initialized

@@ -1,0 +1,38 @@
+[2025-11-05T23:20:49.999029] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.998963] [INFO] Transaction completed
+[2025-11-05T23:20:49.999101] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.998867] [INFO] Database query executed
+[2025-11-05T23:20:49.998959] [INFO] Request processed successfully
+[2025-11-05T23:20:49.998946] [INFO] Session started
+[2025-11-05T23:20:49.999007] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:49.998955] [INFO] Connection established
+[2025-11-05T23:20:49.998901] [INFO] Configuration loaded
+[2025-11-05T23:20:49.998906] [INFO] Health check passed
+[2025-11-05T23:20:49.999092] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.999012] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.998924] [INFO] Cache hit
+[2025-11-05T23:20:49.998938] [INFO] Session started
+[2025-11-05T23:20:49.999017] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.998916] [INFO] User logged in
+[2025-11-05T23:20:49.999105] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:49.998894] [INFO] Service initialized
+[2025-11-05T23:20:49.998990] [WARN] Disk space low
+[2025-11-05T23:20:49.999002] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.999110] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.999038] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.998950] [INFO] Database query executed
+[2025-11-05T23:20:49.998996] [ERROR] Disk read failed
+[2025-11-05T23:20:49.998928] [INFO] User logged in
+[2025-11-05T23:20:49.998933] [INFO] Service initialized
+[2025-11-05T23:20:49.998969] [INFO] Cache hit
+[2025-11-05T23:20:49.998980] [WARN] Rate limit approaching
+[2025-11-05T23:20:49.998942] [INFO] Database query executed
+[2025-11-05T23:20:49.999025] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.999085] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.999096] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.998985] [WARN] Slow query performance
+[2025-11-05T23:20:49.998920] [INFO] User logged in
+[2025-11-05T23:20:49.999034] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.998911] [INFO] User logged in
+[2025-11-05T23:20:49.998975] [WARN] Resource threshold approaching
+[2025-11-05T23:20:49.999021] [DEBUG] HTTP request headers parsed

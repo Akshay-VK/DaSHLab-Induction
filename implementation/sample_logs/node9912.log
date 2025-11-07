@@ -1,0 +1,31 @@
+[2025-11-05T23:20:53.624980] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.624984] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.624989] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.624947] [WARN] Queue size growing
+[2025-11-05T23:20:53.624873] [INFO] Request processed successfully
+[2025-11-05T23:20:53.624965] [ERROR] Memory allocation error
+[2025-11-05T23:20:53.624887] [INFO] Health check passed
+[2025-11-05T23:20:53.624903] [INFO] Session started
+[2025-11-05T23:20:53.624912] [INFO] Transaction completed
+[2025-11-05T23:20:53.624843] [INFO] Database query executed
+[2025-11-05T23:20:53.624939] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.624929] [WARN] Cache miss
+[2025-11-05T23:20:53.624934] [WARN] Cache miss
+[2025-11-05T23:20:53.624916] [INFO] Database query executed
+[2025-11-05T23:20:53.624878] [INFO] Request processed successfully
+[2025-11-05T23:20:53.624956] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.624908] [INFO] Connection established
+[2025-11-05T23:20:53.624952] [WARN] High memory usage detected
+[2025-11-05T23:20:53.624882] [INFO] Session started
+[2025-11-05T23:20:53.624998] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.624943] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.624924] [INFO] Transaction completed
+[2025-11-05T23:20:53.624919] [INFO] Database query executed
+[2025-11-05T23:20:53.624970] [ERROR] Database connection lost
+[2025-11-05T23:20:53.624899] [INFO] Transaction completed
+[2025-11-05T23:20:53.624975] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.624867] [INFO] Transaction completed
+[2025-11-05T23:20:53.624960] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.624993] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.624895] [INFO] Connection established
+[2025-11-05T23:20:53.624891] [INFO] Connection established

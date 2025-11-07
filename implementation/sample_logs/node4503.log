@@ -1,0 +1,29 @@
+[2025-11-05T23:20:31.618395] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.618315] [INFO] Transaction completed
+[2025-11-05T23:20:31.618331] [INFO] Database query executed
+[2025-11-05T23:20:31.618361] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.618374] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.618272] [INFO] Cache hit
+[2025-11-05T23:20:31.618391] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.618352] [ERROR] Network timeout
+[2025-11-05T23:20:31.618323] [INFO] Request processed successfully
+[2025-11-05T23:20:31.618366] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.618306] [INFO] Cache hit
+[2025-11-05T23:20:31.618378] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.618356] [ERROR] File not found
+[2025-11-05T23:20:31.618298] [INFO] Request processed successfully
+[2025-11-05T23:20:31.618294] [INFO] Service initialized
+[2025-11-05T23:20:31.618386] [DEBUG] Cache key generated
+[2025-11-05T23:20:31.618289] [INFO] Connection established
+[2025-11-05T23:20:31.618284] [INFO] Session started
+[2025-11-05T23:20:31.618370] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.618327] [INFO] Transaction completed
+[2025-11-05T23:20:31.618302] [INFO] Health check passed
+[2025-11-05T23:20:31.618382] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.618336] [WARN] Timeout warning
+[2025-11-05T23:20:31.618342] [ERROR] Network timeout
+[2025-11-05T23:20:31.618347] [ERROR] Request failed
+[2025-11-05T23:20:31.618311] [INFO] User logged in
+[2025-11-05T23:20:31.618245] [INFO] Health check passed
+[2025-11-05T23:20:31.618278] [INFO] Session started
+[2025-11-05T23:20:31.618319] [INFO] Health check passed

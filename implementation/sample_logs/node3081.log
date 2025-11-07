@@ -1,0 +1,27 @@
+[2025-11-05T23:20:25.681255] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.681173] [INFO] Service initialized
+[2025-11-05T23:20:25.681206] [INFO] Health check passed
+[2025-11-05T23:20:25.681182] [INFO] Request processed successfully
+[2025-11-05T23:20:25.681278] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.681288] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.681211] [INFO] Session started
+[2025-11-05T23:20:25.681168] [INFO] Configuration loaded
+[2025-11-05T23:20:25.681221] [INFO] Request processed successfully
+[2025-11-05T23:20:25.681178] [INFO] Service initialized
+[2025-11-05T23:20:25.681234] [WARN] Rate limit approaching
+[2025-11-05T23:20:25.681129] [INFO] Cache hit
+[2025-11-05T23:20:25.681250] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.681201] [INFO] Connection established
+[2025-11-05T23:20:25.681196] [INFO] Session started
+[2025-11-05T23:20:25.681162] [INFO] Health check passed
+[2025-11-05T23:20:25.681242] [ERROR] Memory allocation error
+[2025-11-05T23:20:25.681155] [INFO] Health check passed
+[2025-11-05T23:20:25.681227] [WARN] Cache miss
+[2025-11-05T23:20:25.681273] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.681186] [INFO] Session started
+[2025-11-05T23:20:25.681190] [INFO] Cache hit
+[2025-11-05T23:20:25.681217] [INFO] Database query executed
+[2025-11-05T23:20:25.681268] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.681263] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.681283] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.681259] [DEBUG] Cache key generated

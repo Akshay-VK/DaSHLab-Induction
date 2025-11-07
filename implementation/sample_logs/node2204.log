@@ -1,0 +1,33 @@
+[2025-11-05T23:20:21.818790] [WARN] Cache miss
+[2025-11-05T23:20:21.818739] [INFO] Cache hit
+[2025-11-05T23:20:21.818784] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.818842] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.818863] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.818744] [INFO] Service initialized
+[2025-11-05T23:20:21.818748] [INFO] Database query executed
+[2025-11-05T23:20:21.818761] [INFO] Database query executed
+[2025-11-05T23:20:21.818690] [INFO] Service initialized
+[2025-11-05T23:20:21.818752] [INFO] Cache hit
+[2025-11-05T23:20:21.818854] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.818813] [ERROR] Service unavailable
+[2025-11-05T23:20:21.818828] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.818818] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.818774] [INFO] Service initialized
+[2025-11-05T23:20:21.818833] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.818809] [ERROR] Authentication failed
+[2025-11-05T23:20:21.818850] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.818779] [INFO] User logged in
+[2025-11-05T23:20:21.818846] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.818723] [INFO] Configuration loaded
+[2025-11-05T23:20:21.818770] [INFO] Health check passed
+[2025-11-05T23:20:21.818803] [WARN] High memory usage detected
+[2025-11-05T23:20:21.818823] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.818838] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.818718] [INFO] Cache hit
+[2025-11-05T23:20:21.818757] [INFO] User logged in
+[2025-11-05T23:20:21.818732] [INFO] User logged in
+[2025-11-05T23:20:21.818728] [INFO] Transaction completed
+[2025-11-05T23:20:21.818765] [INFO] Transaction completed
+[2025-11-05T23:20:21.818859] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.818795] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.818799] [WARN] Cache miss

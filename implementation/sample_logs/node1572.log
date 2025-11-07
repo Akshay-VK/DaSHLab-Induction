@@ -1,0 +1,44 @@
+[2025-11-05T23:20:19.197516] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.197443] [WARN] Connection retry attempt
+[2025-11-05T23:20:19.197473] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.197482] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.197310] [INFO] Service initialized
+[2025-11-05T23:20:19.197391] [INFO] Session started
+[2025-11-05T23:20:19.197401] [INFO] Connection established
+[2025-11-05T23:20:19.197533] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.197512] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.197368] [INFO] Transaction completed
+[2025-11-05T23:20:19.197363] [INFO] Request processed successfully
+[2025-11-05T23:20:19.197387] [INFO] Transaction completed
+[2025-11-05T23:20:19.197284] [INFO] Configuration loaded
+[2025-11-05T23:20:19.197537] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.197372] [INFO] Service initialized
+[2025-11-05T23:20:19.197454] [ERROR] Memory allocation error
+[2025-11-05T23:20:19.197477] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.197424] [WARN] Rate limit approaching
+[2025-11-05T23:20:19.197438] [WARN] Cache miss
+[2025-11-05T23:20:19.197358] [INFO] Database query executed
+[2025-11-05T23:20:19.197434] [WARN] Connection retry attempt
+[2025-11-05T23:20:19.197377] [INFO] Connection established
+[2025-11-05T23:20:19.197419] [WARN] High memory usage detected
+[2025-11-05T23:20:19.197520] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.197405] [INFO] User logged in
+[2025-11-05T23:20:19.197494] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.197429] [WARN] Connection retry attempt
+[2025-11-05T23:20:19.197503] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.197486] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.197528] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.197499] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.197412] [WARN] Slow query performance
+[2025-11-05T23:20:19.197490] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.197395] [INFO] User logged in
+[2025-11-05T23:20:19.197541] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.197463] [ERROR] Network timeout
+[2025-11-05T23:20:19.197524] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.197458] [ERROR] Memory allocation error
+[2025-11-05T23:20:19.197381] [INFO] User logged in
+[2025-11-05T23:20:19.197345] [INFO] Connection established
+[2025-11-05T23:20:19.197353] [INFO] Service initialized
+[2025-11-05T23:20:19.197449] [ERROR] Permission denied
+[2025-11-05T23:20:19.197507] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.197468] [DEBUG] Memory allocation: 2048 bytes

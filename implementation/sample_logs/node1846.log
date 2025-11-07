@@ -1,0 +1,33 @@
+[2025-11-05T23:20:20.247501] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.247531] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.247526] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.247522] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.246614] [INFO] Session started
+[2025-11-05T23:20:20.246566] [INFO] Cache hit
+[2025-11-05T23:20:20.247439] [ERROR] Network timeout
+[2025-11-05T23:20:20.246589] [INFO] Connection established
+[2025-11-05T23:20:20.247084] [WARN] Timeout warning
+[2025-11-05T23:20:20.247517] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.246555] [INFO] Database query executed
+[2025-11-05T23:20:20.246576] [INFO] Connection established
+[2025-11-05T23:20:20.246602] [INFO] Database query executed
+[2025-11-05T23:20:20.246619] [INFO] Cache hit
+[2025-11-05T23:20:20.246598] [INFO] Database query executed
+[2025-11-05T23:20:20.246581] [INFO] Health check passed
+[2025-11-05T23:20:20.246636] [WARN] Resource threshold approaching
+[2025-11-05T23:20:20.246561] [INFO] Service initialized
+[2025-11-05T23:20:20.246626] [WARN] Rate limit approaching
+[2025-11-05T23:20:20.247449] [ERROR] Authentication failed
+[2025-11-05T23:20:20.247535] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.247508] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.247493] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.246594] [INFO] Database query executed
+[2025-11-05T23:20:20.247455] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.247513] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.246610] [INFO] Connection established
+[2025-11-05T23:20:20.246631] [WARN] Resource threshold approaching
+[2025-11-05T23:20:20.246606] [INFO] Session started
+[2025-11-05T23:20:20.246585] [INFO] User logged in
+[2025-11-05T23:20:20.247539] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.246528] [INFO] Configuration loaded
+[2025-11-05T23:20:20.246571] [INFO] User logged in

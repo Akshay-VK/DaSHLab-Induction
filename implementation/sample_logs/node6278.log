@@ -1,0 +1,30 @@
+[2025-11-05T23:20:38.747492] [INFO] Connection established
+[2025-11-05T23:20:38.747600] [WARN] Cache miss
+[2025-11-05T23:20:38.747566] [INFO] Connection established
+[2025-11-05T23:20:38.747534] [INFO] Session started
+[2025-11-05T23:20:38.747529] [INFO] Session started
+[2025-11-05T23:20:38.747574] [INFO] Cache hit
+[2025-11-05T23:20:38.747645] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.747656] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.747579] [INFO] Request processed successfully
+[2025-11-05T23:20:38.747570] [INFO] Request processed successfully
+[2025-11-05T23:20:38.747585] [WARN] Queue size growing
+[2025-11-05T23:20:38.747524] [INFO] Health check passed
+[2025-11-05T23:20:38.747650] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.747605] [ERROR] Memory allocation error
+[2025-11-05T23:20:38.747631] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.747557] [INFO] Configuration loaded
+[2025-11-05T23:20:38.747641] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.747561] [INFO] User logged in
+[2025-11-05T23:20:38.747611] [ERROR] Permission denied
+[2025-11-05T23:20:38.747636] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.747519] [INFO] Database query executed
+[2025-11-05T23:20:38.747552] [INFO] Service initialized
+[2025-11-05T23:20:38.747627] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.747548] [INFO] Request processed successfully
+[2025-11-05T23:20:38.747623] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.747595] [WARN] High memory usage detected
+[2025-11-05T23:20:38.747544] [INFO] Session started
+[2025-11-05T23:20:38.747540] [INFO] Transaction completed
+[2025-11-05T23:20:38.747590] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.747618] [DEBUG] Loop iteration: 15

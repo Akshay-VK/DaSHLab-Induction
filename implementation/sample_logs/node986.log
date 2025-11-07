@@ -1,0 +1,36 @@
+[2025-11-05T23:20:16.602348] [ERROR] Request failed
+[2025-11-05T23:20:16.602302] [INFO] Session started
+[2025-11-05T23:20:16.602319] [WARN] Rate limit approaching
+[2025-11-05T23:20:16.602268] [INFO] Database query executed
+[2025-11-05T23:20:16.602333] [WARN] Slow query performance
+[2025-11-05T23:20:16.602411] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.602286] [INFO] Request processed successfully
+[2025-11-05T23:20:16.602388] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.602367] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.602353] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.602384] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.602396] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.602337] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.602343] [ERROR] Memory allocation error
+[2025-11-05T23:20:16.602282] [INFO] User logged in
+[2025-11-05T23:20:16.602272] [INFO] Session started
+[2025-11-05T23:20:16.602299] [INFO] User logged in
+[2025-11-05T23:20:16.602392] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.602380] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.602230] [INFO] Connection established
+[2025-11-05T23:20:16.602406] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.602306] [INFO] Connection established
+[2025-11-05T23:20:16.602357] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.602290] [INFO] Service initialized
+[2025-11-05T23:20:16.602324] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.602402] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.602263] [INFO] Request processed successfully
+[2025-11-05T23:20:16.602314] [INFO] Cache hit
+[2025-11-05T23:20:16.602310] [INFO] User logged in
+[2025-11-05T23:20:16.602295] [INFO] Health check passed
+[2025-11-05T23:20:16.602329] [WARN] Rate limit approaching
+[2025-11-05T23:20:16.602257] [INFO] Configuration loaded
+[2025-11-05T23:20:16.602375] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.602277] [INFO] Database query executed
+[2025-11-05T23:20:16.602371] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.602362] [DEBUG] Connection pool status checked

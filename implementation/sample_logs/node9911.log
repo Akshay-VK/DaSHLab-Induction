@@ -1,0 +1,33 @@
+[2025-11-05T23:20:53.623481] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.623403] [INFO] Transaction completed
+[2025-11-05T23:20:53.623490] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.623372] [INFO] Health check passed
+[2025-11-05T23:20:53.623395] [INFO] Request processed successfully
+[2025-11-05T23:20:53.623456] [WARN] Cache miss
+[2025-11-05T23:20:53.623412] [INFO] User logged in
+[2025-11-05T23:20:53.623460] [WARN] Slow query performance
+[2025-11-05T23:20:53.623497] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.623506] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.623391] [INFO] Service initialized
+[2025-11-05T23:20:53.623429] [INFO] User logged in
+[2025-11-05T23:20:53.623399] [INFO] User logged in
+[2025-11-05T23:20:53.623408] [INFO] Connection established
+[2025-11-05T23:20:53.623485] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.623382] [INFO] Session started
+[2025-11-05T23:20:53.623466] [ERROR] Network timeout
+[2025-11-05T23:20:53.623475] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.623448] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.623439] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.623444] [WARN] Disk space low
+[2025-11-05T23:20:53.623510] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.623345] [INFO] Configuration loaded
+[2025-11-05T23:20:53.623452] [WARN] Timeout warning
+[2025-11-05T23:20:53.623377] [INFO] Health check passed
+[2025-11-05T23:20:53.623501] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.623425] [INFO] Request processed successfully
+[2025-11-05T23:20:53.623470] [ERROR] Disk read failed
+[2025-11-05T23:20:53.623421] [INFO] Health check passed
+[2025-11-05T23:20:53.623386] [INFO] Configuration loaded
+[2025-11-05T23:20:53.623435] [WARN] Slow query performance
+[2025-11-05T23:20:53.623416] [INFO] Cache hit
+[2025-11-05T23:20:53.623493] [DEBUG] Variable value: x=42

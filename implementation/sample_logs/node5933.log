@@ -1,0 +1,32 @@
+[2025-11-05T23:20:37.422079] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.422252] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.422073] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.422518] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.422004] [INFO] Session started
+[2025-11-05T23:20:37.422013] [INFO] Connection established
+[2025-11-05T23:20:37.422245] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.422009] [INFO] Health check passed
+[2025-11-05T23:20:37.421983] [INFO] Request processed successfully
+[2025-11-05T23:20:37.422083] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.422038] [INFO] Connection established
+[2025-11-05T23:20:37.421957] [INFO] User logged in
+[2025-11-05T23:20:37.422063] [ERROR] Disk read failed
+[2025-11-05T23:20:37.422047] [WARN] Timeout warning
+[2025-11-05T23:20:37.422025] [INFO] Cache hit
+[2025-11-05T23:20:37.422017] [INFO] Health check passed
+[2025-11-05T23:20:37.422021] [INFO] Database query executed
+[2025-11-05T23:20:37.422068] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.422538] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.422058] [ERROR] File not found
+[2025-11-05T23:20:37.422484] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.421995] [INFO] Transaction completed
+[2025-11-05T23:20:37.422030] [INFO] Cache hit
+[2025-11-05T23:20:37.422052] [WARN] Timeout warning
+[2025-11-05T23:20:37.422527] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.422602] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.422043] [WARN] Queue size growing
+[2025-11-05T23:20:37.422233] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.421989] [INFO] Service initialized
+[2025-11-05T23:20:37.422533] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.421999] [INFO] Transaction completed
+[2025-11-05T23:20:37.422034] [INFO] Service initialized

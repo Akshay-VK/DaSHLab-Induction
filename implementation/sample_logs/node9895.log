@@ -1,0 +1,29 @@
+[2025-11-05T23:20:53.594385] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.594419] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.594438] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.594408] [ERROR] Disk read failed
+[2025-11-05T23:20:53.594367] [INFO] Configuration loaded
+[2025-11-05T23:20:53.594403] [WARN] Disk space low
+[2025-11-05T23:20:53.594429] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.594348] [INFO] Connection established
+[2025-11-05T23:20:53.594442] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.594455] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.594327] [INFO] Service initialized
+[2025-11-05T23:20:53.594451] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.594390] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.594424] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.594433] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.594399] [WARN] Disk space low
+[2025-11-05T23:20:53.594343] [INFO] Transaction completed
+[2025-11-05T23:20:53.594376] [INFO] Session started
+[2025-11-05T23:20:53.594380] [INFO] Database query executed
+[2025-11-05T23:20:53.594371] [INFO] Connection established
+[2025-11-05T23:20:53.594414] [ERROR] Network timeout
+[2025-11-05T23:20:53.594333] [INFO] Request processed successfully
+[2025-11-05T23:20:53.594446] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.594353] [INFO] Session started
+[2025-11-05T23:20:53.594339] [INFO] Configuration loaded
+[2025-11-05T23:20:53.594301] [INFO] Service initialized
+[2025-11-05T23:20:53.594357] [INFO] Request processed successfully
+[2025-11-05T23:20:53.594394] [WARN] Timeout warning
+[2025-11-05T23:20:53.594362] [INFO] Configuration loaded

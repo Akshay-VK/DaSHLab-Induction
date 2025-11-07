@@ -1,0 +1,28 @@
+[2025-11-05T23:20:53.285914] [WARN] Queue size growing
+[2025-11-05T23:20:53.285896] [INFO] Cache hit
+[2025-11-05T23:20:53.285956] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.285866] [INFO] User logged in
+[2025-11-05T23:20:53.285901] [INFO] Transaction completed
+[2025-11-05T23:20:53.285938] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.285883] [INFO] Database query executed
+[2025-11-05T23:20:53.285948] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.285844] [INFO] Configuration loaded
+[2025-11-05T23:20:53.285839] [INFO] Connection established
+[2025-11-05T23:20:53.285815] [INFO] Cache hit
+[2025-11-05T23:20:53.285923] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.285862] [INFO] Service initialized
+[2025-11-05T23:20:53.285874] [INFO] Transaction completed
+[2025-11-05T23:20:53.285943] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.285853] [INFO] User logged in
+[2025-11-05T23:20:53.285933] [ERROR] Memory allocation error
+[2025-11-05T23:20:53.285952] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.285961] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.285892] [INFO] Database query executed
+[2025-11-05T23:20:53.285878] [INFO] Configuration loaded
+[2025-11-05T23:20:53.285888] [INFO] Session started
+[2025-11-05T23:20:53.285870] [INFO] Request processed successfully
+[2025-11-05T23:20:53.285849] [INFO] Session started
+[2025-11-05T23:20:53.285907] [WARN] Queue size growing
+[2025-11-05T23:20:53.285858] [INFO] Cache hit
+[2025-11-05T23:20:53.285918] [WARN] Queue size growing
+[2025-11-05T23:20:53.285928] [ERROR] Disk read failed

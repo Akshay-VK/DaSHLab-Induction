@@ -1,0 +1,28 @@
+[2025-11-05T23:20:17.823454] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.823420] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.823376] [INFO] User logged in
+[2025-11-05T23:20:17.823409] [ERROR] Service unavailable
+[2025-11-05T23:20:17.823337] [INFO] Health check passed
+[2025-11-05T23:20:17.823357] [INFO] Request processed successfully
+[2025-11-05T23:20:17.823404] [WARN] Slow query performance
+[2025-11-05T23:20:17.823310] [INFO] Request processed successfully
+[2025-11-05T23:20:17.823371] [INFO] Health check passed
+[2025-11-05T23:20:17.823450] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.823441] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.823458] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.823385] [INFO] User logged in
+[2025-11-05T23:20:17.823433] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.823425] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.823390] [WARN] Rate limit approaching
+[2025-11-05T23:20:17.823343] [INFO] Request processed successfully
+[2025-11-05T23:20:17.823446] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.823348] [INFO] Connection established
+[2025-11-05T23:20:17.823396] [WARN] Queue size growing
+[2025-11-05T23:20:17.823414] [ERROR] Memory allocation error
+[2025-11-05T23:20:17.823381] [INFO] Database query executed
+[2025-11-05T23:20:17.823365] [INFO] Transaction completed
+[2025-11-05T23:20:17.823400] [WARN] Deprecated API usage
+[2025-11-05T23:20:17.823429] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.823437] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.823353] [INFO] Service initialized
+[2025-11-05T23:20:17.823361] [INFO] Health check passed

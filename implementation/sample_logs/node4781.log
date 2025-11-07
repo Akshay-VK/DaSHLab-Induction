@@ -1,0 +1,35 @@
+[2025-11-05T23:20:32.829190] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.829141] [INFO] Database query executed
+[2025-11-05T23:20:32.829148] [INFO] User logged in
+[2025-11-05T23:20:32.829124] [INFO] Database query executed
+[2025-11-05T23:20:32.829102] [INFO] Database query executed
+[2025-11-05T23:20:32.829201] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.829134] [INFO] Health check passed
+[2025-11-05T23:20:32.829144] [INFO] Cache hit
+[2025-11-05T23:20:32.829117] [INFO] Health check passed
+[2025-11-05T23:20:32.829153] [WARN] Rate limit approaching
+[2025-11-05T23:20:32.829110] [INFO] Transaction completed
+[2025-11-05T23:20:32.829131] [INFO] User logged in
+[2025-11-05T23:20:32.829128] [INFO] Configuration loaded
+[2025-11-05T23:20:32.829204] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:32.829197] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.829214] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:32.829120] [INFO] Connection established
+[2025-11-05T23:20:32.829219] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.829177] [ERROR] Invalid input data
+[2025-11-05T23:20:32.829072] [INFO] Transaction completed
+[2025-11-05T23:20:32.829223] [DEBUG] Cache key generated
+[2025-11-05T23:20:32.829106] [INFO] User logged in
+[2025-11-05T23:20:32.829165] [WARN] Resource threshold approaching
+[2025-11-05T23:20:32.829211] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:32.829172] [WARN] Queue size growing
+[2025-11-05T23:20:32.829193] [DEBUG] Cache key generated
+[2025-11-05T23:20:32.829138] [INFO] Request processed successfully
+[2025-11-05T23:20:32.829157] [WARN] High memory usage detected
+[2025-11-05T23:20:32.829182] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.829207] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:32.829168] [WARN] Rate limit approaching
+[2025-11-05T23:20:32.829186] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.829161] [WARN] Connection retry attempt
+[2025-11-05T23:20:32.829113] [INFO] User logged in
+[2025-11-05T23:20:32.829097] [INFO] Health check passed

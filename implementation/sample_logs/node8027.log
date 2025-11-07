@@ -1,0 +1,32 @@
+[2025-11-05T23:20:45.559395] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.559391] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.559301] [INFO] Transaction completed
+[2025-11-05T23:20:45.559282] [INFO] Cache hit
+[2025-11-05T23:20:45.559347] [INFO] Configuration loaded
+[2025-11-05T23:20:45.559318] [INFO] Database query executed
+[2025-11-05T23:20:45.559296] [INFO] Health check passed
+[2025-11-05T23:20:45.559287] [INFO] Cache hit
+[2025-11-05T23:20:45.559403] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.559330] [INFO] Database query executed
+[2025-11-05T23:20:45.559292] [INFO] Health check passed
+[2025-11-05T23:20:45.559353] [WARN] Rate limit approaching
+[2025-11-05T23:20:45.559305] [INFO] Database query executed
+[2025-11-05T23:20:45.559362] [WARN] Cache miss
+[2025-11-05T23:20:45.559387] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.559381] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.559277] [INFO] Connection established
+[2025-11-05T23:20:45.559407] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.559343] [INFO] Cache hit
+[2025-11-05T23:20:45.559399] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.559366] [WARN] Rate limit approaching
+[2025-11-05T23:20:45.559411] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.559334] [INFO] User logged in
+[2025-11-05T23:20:45.559339] [INFO] Request processed successfully
+[2025-11-05T23:20:45.559358] [WARN] Rate limit approaching
+[2025-11-05T23:20:45.559371] [ERROR] Memory allocation error
+[2025-11-05T23:20:45.559253] [INFO] Connection established
+[2025-11-05T23:20:45.559309] [INFO] Health check passed
+[2025-11-05T23:20:45.559326] [INFO] Cache hit
+[2025-11-05T23:20:45.559314] [INFO] Request processed successfully
+[2025-11-05T23:20:45.559376] [ERROR] Database connection lost
+[2025-11-05T23:20:45.559322] [INFO] Database query executed

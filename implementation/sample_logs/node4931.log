@@ -1,0 +1,31 @@
+[2025-11-05T23:20:33.381183] [INFO] Session started
+[2025-11-05T23:20:33.381303] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.381225] [INFO] Cache hit
+[2025-11-05T23:20:33.381229] [INFO] Transaction completed
+[2025-11-05T23:20:33.381278] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.381216] [INFO] User logged in
+[2025-11-05T23:20:33.381282] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.381212] [INFO] Session started
+[2025-11-05T23:20:33.381299] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.381234] [WARN] Deprecated API usage
+[2025-11-05T23:20:33.381268] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.381307] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.381141] [INFO] Session started
+[2025-11-05T23:20:33.381196] [INFO] Service initialized
+[2025-11-05T23:20:33.381168] [INFO] Health check passed
+[2025-11-05T23:20:33.381221] [INFO] Connection established
+[2025-11-05T23:20:33.381206] [INFO] Transaction completed
+[2025-11-05T23:20:33.381250] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.381291] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.381295] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.381245] [WARN] Cache miss
+[2025-11-05T23:20:33.381239] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.381256] [ERROR] Database connection lost
+[2025-11-05T23:20:33.381273] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.381174] [INFO] Configuration loaded
+[2025-11-05T23:20:33.381192] [INFO] Service initialized
+[2025-11-05T23:20:33.381200] [INFO] Transaction completed
+[2025-11-05T23:20:33.381187] [INFO] Connection established
+[2025-11-05T23:20:33.381178] [INFO] Database query executed
+[2025-11-05T23:20:33.381287] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.381262] [DEBUG] Loop iteration: 15

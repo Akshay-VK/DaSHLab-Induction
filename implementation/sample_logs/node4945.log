@@ -1,0 +1,29 @@
+[2025-11-05T23:20:33.409513] [INFO] Connection established
+[2025-11-05T23:20:33.409576] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.409522] [INFO] Configuration loaded
+[2025-11-05T23:20:33.409597] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.409589] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.409529] [INFO] Service initialized
+[2025-11-05T23:20:33.409538] [INFO] Service initialized
+[2025-11-05T23:20:33.409501] [INFO] Connection established
+[2025-11-05T23:20:33.409496] [INFO] Database query executed
+[2025-11-05T23:20:33.409556] [WARN] Resource threshold approaching
+[2025-11-05T23:20:33.409509] [INFO] Service initialized
+[2025-11-05T23:20:33.409491] [INFO] Cache hit
+[2025-11-05T23:20:33.409602] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.409542] [INFO] Request processed successfully
+[2025-11-05T23:20:33.409560] [WARN] Disk space low
+[2025-11-05T23:20:33.409585] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.409571] [ERROR] Memory allocation error
+[2025-11-05T23:20:33.409593] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.409552] [WARN] Disk space low
+[2025-11-05T23:20:33.409525] [INFO] Health check passed
+[2025-11-05T23:20:33.409517] [INFO] Request processed successfully
+[2025-11-05T23:20:33.409462] [INFO] Health check passed
+[2025-11-05T23:20:33.409486] [INFO] Health check passed
+[2025-11-05T23:20:33.409505] [INFO] Request processed successfully
+[2025-11-05T23:20:33.409581] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.409566] [ERROR] Authentication failed
+[2025-11-05T23:20:33.409534] [INFO] Session started
+[2025-11-05T23:20:33.409606] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.409547] [WARN] High memory usage detected

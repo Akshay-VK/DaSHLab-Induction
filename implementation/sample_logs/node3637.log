@@ -1,0 +1,31 @@
+[2025-11-05T23:20:28.286049] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.285940] [INFO] Configuration loaded
+[2025-11-05T23:20:28.285963] [INFO] Request processed successfully
+[2025-11-05T23:20:28.285977] [INFO] Cache hit
+[2025-11-05T23:20:28.285929] [INFO] Request processed successfully
+[2025-11-05T23:20:28.285997] [WARN] Slow query performance
+[2025-11-05T23:20:28.286059] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.286054] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.285958] [INFO] Cache hit
+[2025-11-05T23:20:28.285902] [INFO] Transaction completed
+[2025-11-05T23:20:28.286011] [WARN] Connection retry attempt
+[2025-11-05T23:20:28.285982] [INFO] Session started
+[2025-11-05T23:20:28.285935] [INFO] Database query executed
+[2025-11-05T23:20:28.285972] [INFO] Health check passed
+[2025-11-05T23:20:28.286007] [WARN] Rate limit approaching
+[2025-11-05T23:20:28.285954] [INFO] Database query executed
+[2025-11-05T23:20:28.286018] [ERROR] Permission denied
+[2025-11-05T23:20:28.286023] [ERROR] Disk read failed
+[2025-11-05T23:20:28.285944] [INFO] Session started
+[2025-11-05T23:20:28.286034] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.286072] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.285990] [INFO] Cache hit
+[2025-11-05T23:20:28.286063] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.286039] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.285949] [INFO] Session started
+[2025-11-05T23:20:28.286002] [WARN] Deprecated API usage
+[2025-11-05T23:20:28.285967] [INFO] Service initialized
+[2025-11-05T23:20:28.286044] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.285986] [INFO] User logged in
+[2025-11-05T23:20:28.286028] [ERROR] Memory allocation error
+[2025-11-05T23:20:28.286067] [DEBUG] Variable value: x=42

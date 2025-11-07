@@ -1,0 +1,31 @@
+[2025-11-05T23:20:46.766678] [WARN] Deprecated API usage
+[2025-11-05T23:20:46.766663] [INFO] Request processed successfully
+[2025-11-05T23:20:46.766712] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.766659] [INFO] Health check passed
+[2025-11-05T23:20:46.766614] [INFO] Health check passed
+[2025-11-05T23:20:46.766705] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.766620] [INFO] User logged in
+[2025-11-05T23:20:46.766731] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.766691] [ERROR] Authentication failed
+[2025-11-05T23:20:46.766629] [INFO] Service initialized
+[2025-11-05T23:20:46.766641] [INFO] Request processed successfully
+[2025-11-05T23:20:46.766649] [INFO] Service initialized
+[2025-11-05T23:20:46.766652] [INFO] User logged in
+[2025-11-05T23:20:46.766625] [INFO] Request processed successfully
+[2025-11-05T23:20:46.766672] [WARN] Cache miss
+[2025-11-05T23:20:46.766637] [INFO] Connection established
+[2025-11-05T23:20:46.766634] [INFO] Database query executed
+[2025-11-05T23:20:46.766656] [INFO] User logged in
+[2025-11-05T23:20:46.766682] [WARN] Resource threshold approaching
+[2025-11-05T23:20:46.766709] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.766589] [INFO] Session started
+[2025-11-05T23:20:46.766734] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.766667] [INFO] Transaction completed
+[2025-11-05T23:20:46.766717] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.766720] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.766696] [ERROR] Database connection lost
+[2025-11-05T23:20:46.766727] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.766700] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.766686] [WARN] Resource threshold approaching
+[2025-11-05T23:20:46.766645] [INFO] Service initialized
+[2025-11-05T23:20:46.766724] [DEBUG] Thread pool size: 8

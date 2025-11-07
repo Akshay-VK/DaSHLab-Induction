@@ -1,0 +1,30 @@
+[2025-11-05T23:20:31.860996] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.861015] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.861019] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.860973] [WARN] Connection retry attempt
+[2025-11-05T23:20:31.860894] [INFO] Database query executed
+[2025-11-05T23:20:31.860907] [INFO] Cache hit
+[2025-11-05T23:20:31.860925] [INFO] Transaction completed
+[2025-11-05T23:20:31.860963] [WARN] High memory usage detected
+[2025-11-05T23:20:31.860868] [INFO] Configuration loaded
+[2025-11-05T23:20:31.861001] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.860945] [INFO] Configuration loaded
+[2025-11-05T23:20:31.860982] [ERROR] Memory allocation error
+[2025-11-05T23:20:31.860957] [INFO] Health check passed
+[2025-11-05T23:20:31.860929] [INFO] Session started
+[2025-11-05T23:20:31.860902] [INFO] Transaction completed
+[2025-11-05T23:20:31.860912] [INFO] Health check passed
+[2025-11-05T23:20:31.860992] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.860934] [INFO] Session started
+[2025-11-05T23:20:31.861010] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.860953] [INFO] User logged in
+[2025-11-05T23:20:31.861028] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.860986] [ERROR] Network timeout
+[2025-11-05T23:20:31.860949] [INFO] Connection established
+[2025-11-05T23:20:31.861024] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.860916] [INFO] Transaction completed
+[2025-11-05T23:20:31.860920] [INFO] Database query executed
+[2025-11-05T23:20:31.860939] [INFO] Connection established
+[2025-11-05T23:20:31.860977] [WARN] Disk space low
+[2025-11-05T23:20:31.861005] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.860968] [WARN] Disk space low

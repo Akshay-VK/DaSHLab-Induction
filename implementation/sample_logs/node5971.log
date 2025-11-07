@@ -1,0 +1,34 @@
+[2025-11-05T23:20:37.543316] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.543197] [INFO] Session started
+[2025-11-05T23:20:37.543320] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.543223] [INFO] Configuration loaded
+[2025-11-05T23:20:37.543214] [INFO] Configuration loaded
+[2025-11-05T23:20:37.543231] [INFO] Service initialized
+[2025-11-05T23:20:37.543266] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.543257] [WARN] Resource threshold approaching
+[2025-11-05T23:20:37.543275] [ERROR] Memory allocation error
+[2025-11-05T23:20:37.543289] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.543219] [INFO] User logged in
+[2025-11-05T23:20:37.543324] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.543309] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.543227] [INFO] Request processed successfully
+[2025-11-05T23:20:37.543297] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.543160] [INFO] Session started
+[2025-11-05T23:20:37.543262] [WARN] High memory usage detected
+[2025-11-05T23:20:37.543186] [INFO] Database query executed
+[2025-11-05T23:20:37.543328] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.543207] [INFO] Session started
+[2025-11-05T23:20:37.543305] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.543301] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.543243] [INFO] Request processed successfully
+[2025-11-05T23:20:37.543313] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.543203] [INFO] Health check passed
+[2025-11-05T23:20:37.543252] [WARN] Timeout warning
+[2025-11-05T23:20:37.543293] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.543192] [INFO] Transaction completed
+[2025-11-05T23:20:37.543279] [ERROR] File not found
+[2025-11-05T23:20:37.543240] [INFO] Connection established
+[2025-11-05T23:20:37.543247] [INFO] Request processed successfully
+[2025-11-05T23:20:37.543236] [INFO] Health check passed
+[2025-11-05T23:20:37.543284] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.543271] [ERROR] Authentication failed

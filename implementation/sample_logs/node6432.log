@@ -1,0 +1,29 @@
+[2025-11-05T23:20:39.436160] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.436048] [INFO] Connection established
+[2025-11-05T23:20:39.436078] [INFO] User logged in
+[2025-11-05T23:20:39.436168] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.436135] [WARN] Disk space low
+[2025-11-05T23:20:39.436096] [INFO] Cache hit
+[2025-11-05T23:20:39.436171] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.436073] [INFO] Cache hit
+[2025-11-05T23:20:39.436100] [INFO] Database query executed
+[2025-11-05T23:20:39.436104] [INFO] Cache hit
+[2025-11-05T23:20:39.436180] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.436122] [INFO] Configuration loaded
+[2025-11-05T23:20:39.436153] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.436164] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.436111] [INFO] Transaction completed
+[2025-11-05T23:20:39.436118] [INFO] Cache hit
+[2025-11-05T23:20:39.436144] [ERROR] Authentication failed
+[2025-11-05T23:20:39.436126] [WARN] Slow query performance
+[2025-11-05T23:20:39.436175] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.436149] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.436082] [INFO] User logged in
+[2025-11-05T23:20:39.436093] [INFO] Service initialized
+[2025-11-05T23:20:39.436089] [INFO] Session started
+[2025-11-05T23:20:39.436085] [INFO] Connection established
+[2025-11-05T23:20:39.436115] [INFO] Database query executed
+[2025-11-05T23:20:39.436157] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:39.436107] [INFO] Cache hit
+[2025-11-05T23:20:39.436140] [ERROR] Service unavailable
+[2025-11-05T23:20:39.436131] [WARN] Cache miss

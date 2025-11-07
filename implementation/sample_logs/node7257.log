@@ -1,0 +1,32 @@
+[2025-11-05T23:20:42.471425] [WARN] Disk space low
+[2025-11-05T23:20:42.471449] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.471365] [INFO] Database query executed
+[2025-11-05T23:20:42.471356] [INFO] Request processed successfully
+[2025-11-05T23:20:42.471405] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.471361] [INFO] Connection established
+[2025-11-05T23:20:42.471378] [INFO] Database query executed
+[2025-11-05T23:20:42.471347] [INFO] Configuration loaded
+[2025-11-05T23:20:42.471373] [INFO] User logged in
+[2025-11-05T23:20:42.471386] [INFO] Cache hit
+[2025-11-05T23:20:42.471429] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.471399] [INFO] Configuration loaded
+[2025-11-05T23:20:42.471458] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.471369] [INFO] Session started
+[2025-11-05T23:20:42.471792] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.471306] [INFO] Service initialized
+[2025-11-05T23:20:42.471444] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.471440] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.471453] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.471382] [INFO] Connection established
+[2025-11-05T23:20:42.471434] [ERROR] Network timeout
+[2025-11-05T23:20:42.471395] [INFO] User logged in
+[2025-11-05T23:20:42.471391] [INFO] Connection established
+[2025-11-05T23:20:42.471410] [WARN] Deprecated API usage
+[2025-11-05T23:20:42.471352] [INFO] Service initialized
+[2025-11-05T23:20:42.471777] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.471420] [WARN] Queue size growing
+[2025-11-05T23:20:42.471788] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.471415] [WARN] High memory usage detected
+[2025-11-05T23:20:42.471801] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.471341] [INFO] Cache hit
+[2025-11-05T23:20:42.471796] [DEBUG] Variable value: x=42

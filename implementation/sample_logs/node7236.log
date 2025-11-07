@@ -1,0 +1,30 @@
+[2025-11-05T23:20:42.416937] [ERROR] Invalid input data
+[2025-11-05T23:20:42.416985] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.416980] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.416855] [INFO] Request processed successfully
+[2025-11-05T23:20:42.416897] [INFO] Session started
+[2025-11-05T23:20:42.416893] [INFO] Connection established
+[2025-11-05T23:20:42.416901] [INFO] User logged in
+[2025-11-05T23:20:42.416823] [INFO] Health check passed
+[2025-11-05T23:20:42.416849] [INFO] Service initialized
+[2025-11-05T23:20:42.416948] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.416972] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.416910] [INFO] Health check passed
+[2025-11-05T23:20:42.416916] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.416921] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.416942] [ERROR] Authentication failed
+[2025-11-05T23:20:42.416976] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.416926] [WARN] High memory usage detected
+[2025-11-05T23:20:42.416953] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.416878] [INFO] Cache hit
+[2025-11-05T23:20:42.416860] [INFO] Session started
+[2025-11-05T23:20:42.416968] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.416888] [INFO] Request processed successfully
+[2025-11-05T23:20:42.416931] [WARN] Queue size growing
+[2025-11-05T23:20:42.416869] [INFO] User logged in
+[2025-11-05T23:20:42.416883] [INFO] Session started
+[2025-11-05T23:20:42.416963] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.416865] [INFO] Request processed successfully
+[2025-11-05T23:20:42.416958] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.416906] [INFO] Service initialized
+[2025-11-05T23:20:42.416874] [INFO] Request processed successfully

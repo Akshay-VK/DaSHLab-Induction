@@ -1,0 +1,29 @@
+[2025-11-05T23:20:24.675352] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.675248] [INFO] Configuration loaded
+[2025-11-05T23:20:24.675257] [INFO] User logged in
+[2025-11-05T23:20:24.675262] [INFO] Health check passed
+[2025-11-05T23:20:24.675331] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.675370] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.675236] [INFO] Connection established
+[2025-11-05T23:20:24.675342] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.675266] [INFO] User logged in
+[2025-11-05T23:20:24.675252] [INFO] Service initialized
+[2025-11-05T23:20:24.675289] [INFO] User logged in
+[2025-11-05T23:20:24.675361] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.675284] [INFO] User logged in
+[2025-11-05T23:20:24.675319] [WARN] Deprecated API usage
+[2025-11-05T23:20:24.675293] [INFO] Cache hit
+[2025-11-05T23:20:24.675365] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.675309] [WARN] Cache miss
+[2025-11-05T23:20:24.675304] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.675275] [INFO] Session started
+[2025-11-05T23:20:24.675242] [INFO] Configuration loaded
+[2025-11-05T23:20:24.675337] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.675211] [INFO] Transaction completed
+[2025-11-05T23:20:24.675271] [INFO] Connection established
+[2025-11-05T23:20:24.675356] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.675347] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.675280] [INFO] User logged in
+[2025-11-05T23:20:24.675314] [WARN] Slow query performance
+[2025-11-05T23:20:24.675298] [INFO] Request processed successfully
+[2025-11-05T23:20:24.675325] [ERROR] Permission denied

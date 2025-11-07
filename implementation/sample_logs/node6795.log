@@ -1,0 +1,26 @@
+[2025-11-05T23:20:40.778520] [WARN] High memory usage detected
+[2025-11-05T23:20:40.778466] [INFO] Connection established
+[2025-11-05T23:20:40.778570] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.778480] [INFO] Configuration loaded
+[2025-11-05T23:20:40.778493] [INFO] Health check passed
+[2025-11-05T23:20:40.778510] [INFO] Database query executed
+[2025-11-05T23:20:40.778515] [INFO] User logged in
+[2025-11-05T23:20:40.778532] [ERROR] Invalid input data
+[2025-11-05T23:20:40.778565] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.778537] [ERROR] Database connection lost
+[2025-11-05T23:20:40.778542] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.778455] [INFO] Request processed successfully
+[2025-11-05T23:20:40.778475] [INFO] Session started
+[2025-11-05T23:20:40.778556] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.778471] [INFO] Cache hit
+[2025-11-05T23:20:40.778561] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.778489] [INFO] Health check passed
+[2025-11-05T23:20:40.778547] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.778484] [INFO] Transaction completed
+[2025-11-05T23:20:40.778552] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.778506] [INFO] User logged in
+[2025-11-05T23:20:40.778502] [INFO] Request processed successfully
+[2025-11-05T23:20:40.778461] [INFO] Session started
+[2025-11-05T23:20:40.778497] [INFO] Session started
+[2025-11-05T23:20:40.778428] [INFO] Transaction completed
+[2025-11-05T23:20:40.778526] [WARN] Queue size growing

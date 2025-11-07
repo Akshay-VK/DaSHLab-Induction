@@ -1,0 +1,31 @@
+[2025-11-05T23:20:29.744944] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.744896] [WARN] Queue size growing
+[2025-11-05T23:20:29.744922] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.744855] [INFO] Service initialized
+[2025-11-05T23:20:29.744903] [ERROR] Service unavailable
+[2025-11-05T23:20:29.744819] [INFO] Connection established
+[2025-11-05T23:20:29.744850] [INFO] Connection established
+[2025-11-05T23:20:29.744914] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.744928] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.744917] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.744829] [INFO] User logged in
+[2025-11-05T23:20:29.744940] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.744932] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.744871] [INFO] Configuration loaded
+[2025-11-05T23:20:29.744909] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.744879] [INFO] User logged in
+[2025-11-05T23:20:29.744834] [INFO] Service initialized
+[2025-11-05T23:20:29.744936] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.744883] [INFO] Transaction completed
+[2025-11-05T23:20:29.744887] [INFO] User logged in
+[2025-11-05T23:20:29.744838] [INFO] User logged in
+[2025-11-05T23:20:29.744846] [INFO] Health check passed
+[2025-11-05T23:20:29.744858] [INFO] Request processed successfully
+[2025-11-05T23:20:29.744867] [INFO] Database query executed
+[2025-11-05T23:20:29.744891] [INFO] Service initialized
+[2025-11-05T23:20:29.744842] [INFO] Health check passed
+[2025-11-05T23:20:29.744824] [INFO] Transaction completed
+[2025-11-05T23:20:29.744948] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.744875] [INFO] User logged in
+[2025-11-05T23:20:29.744863] [INFO] Health check passed
+[2025-11-05T23:20:29.744794] [INFO] Session started

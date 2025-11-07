@@ -1,0 +1,27 @@
+[2025-11-05T23:20:48.542412] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.542316] [INFO] Cache hit
+[2025-11-05T23:20:48.542362] [INFO] Connection established
+[2025-11-05T23:20:48.542342] [INFO] Database query executed
+[2025-11-05T23:20:48.542352] [INFO] Database query executed
+[2025-11-05T23:20:48.542301] [INFO] Health check passed
+[2025-11-05T23:20:48.542294] [INFO] Cache hit
+[2025-11-05T23:20:48.542369] [WARN] Queue size growing
+[2025-11-05T23:20:48.542306] [INFO] Database query executed
+[2025-11-05T23:20:48.542425] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:48.542374] [WARN] Disk space low
+[2025-11-05T23:20:48.542421] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.542384] [WARN] Slow query performance
+[2025-11-05T23:20:48.542407] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.542390] [ERROR] Service unavailable
+[2025-11-05T23:20:48.542402] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:48.542347] [INFO] Connection established
+[2025-11-05T23:20:48.542326] [INFO] Request processed successfully
+[2025-11-05T23:20:48.542356] [INFO] Transaction completed
+[2025-11-05T23:20:48.542416] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.542331] [INFO] Database query executed
+[2025-11-05T23:20:48.542379] [WARN] Cache miss
+[2025-11-05T23:20:48.542336] [INFO] Request processed successfully
+[2025-11-05T23:20:48.542321] [INFO] Connection established
+[2025-11-05T23:20:48.542397] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.542311] [INFO] Transaction completed
+[2025-11-05T23:20:48.542269] [INFO] Service initialized

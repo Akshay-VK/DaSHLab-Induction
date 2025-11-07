@@ -1,0 +1,32 @@
+[2025-11-05T23:20:14.585848] [INFO] Transaction completed
+[2025-11-05T23:20:14.585887] [WARN] Timeout warning
+[2025-11-05T23:20:14.585818] [INFO] User logged in
+[2025-11-05T23:20:14.585930] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.585867] [WARN] Timeout warning
+[2025-11-05T23:20:14.585882] [WARN] Queue size growing
+[2025-11-05T23:20:14.585917] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.585844] [INFO] Transaction completed
+[2025-11-05T23:20:14.585905] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.585840] [INFO] Transaction completed
+[2025-11-05T23:20:14.585911] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.585852] [INFO] Cache hit
+[2025-11-05T23:20:14.585935] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.585939] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.585873] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.585794] [INFO] Service initialized
+[2025-11-05T23:20:14.585943] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.585857] [INFO] Request processed successfully
+[2025-11-05T23:20:14.585926] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.585828] [INFO] Connection established
+[2025-11-05T23:20:14.585836] [INFO] Request processed successfully
+[2025-11-05T23:20:14.585730] [INFO] Request processed successfully
+[2025-11-05T23:20:14.585861] [INFO] Transaction completed
+[2025-11-05T23:20:14.585894] [ERROR] Authentication failed
+[2025-11-05T23:20:14.585899] [ERROR] Disk read failed
+[2025-11-05T23:20:14.585812] [INFO] Session started
+[2025-11-05T23:20:14.585823] [INFO] Health check passed
+[2025-11-05T23:20:14.585807] [INFO] Cache hit
+[2025-11-05T23:20:14.585832] [INFO] Service initialized
+[2025-11-05T23:20:14.585802] [INFO] Connection established
+[2025-11-05T23:20:14.585878] [WARN] High memory usage detected
+[2025-11-05T23:20:14.585921] [DEBUG] Cache key generated

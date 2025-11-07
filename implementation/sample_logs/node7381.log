@@ -1,0 +1,33 @@
+[2025-11-05T23:20:42.931961] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.931903] [WARN] Deprecated API usage
+[2025-11-05T23:20:42.931897] [WARN] Timeout warning
+[2025-11-05T23:20:42.931856] [INFO] Health check passed
+[2025-11-05T23:20:42.931948] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.931973] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.931965] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.931842] [INFO] Cache hit
+[2025-11-05T23:20:42.931940] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.931883] [INFO] Cache hit
+[2025-11-05T23:20:42.931865] [INFO] Health check passed
+[2025-11-05T23:20:42.931922] [ERROR] Disk read failed
+[2025-11-05T23:20:42.931957] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.931912] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.931969] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.931927] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.931836] [INFO] Database query executed
+[2025-11-05T23:20:42.931875] [INFO] User logged in
+[2025-11-05T23:20:42.931944] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.931953] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.931851] [INFO] Request processed successfully
+[2025-11-05T23:20:42.931908] [WARN] Queue size growing
+[2025-11-05T23:20:42.931936] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.931871] [INFO] Service initialized
+[2025-11-05T23:20:42.931879] [INFO] User logged in
+[2025-11-05T23:20:42.931891] [INFO] Configuration loaded
+[2025-11-05T23:20:42.931932] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.931806] [INFO] Transaction completed
+[2025-11-05T23:20:42.931917] [ERROR] Request failed
+[2025-11-05T23:20:42.931830] [INFO] User logged in
+[2025-11-05T23:20:42.931847] [INFO] Cache hit
+[2025-11-05T23:20:42.931861] [INFO] Database query executed
+[2025-11-05T23:20:42.931887] [INFO] Health check passed

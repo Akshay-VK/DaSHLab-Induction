@@ -1,0 +1,36 @@
+[2025-11-05T23:20:19.383910] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.383826] [INFO] Connection established
+[2025-11-05T23:20:19.383938] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.383905] [ERROR] Service unavailable
+[2025-11-05T23:20:19.383956] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.383947] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.383921] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.383845] [INFO] Service initialized
+[2025-11-05T23:20:19.383890] [WARN] Timeout warning
+[2025-11-05T23:20:19.383802] [INFO] Request processed successfully
+[2025-11-05T23:20:19.383876] [WARN] Queue size growing
+[2025-11-05T23:20:19.383861] [INFO] Configuration loaded
+[2025-11-05T23:20:19.383872] [WARN] Cache miss
+[2025-11-05T23:20:19.383934] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.383812] [INFO] Connection established
+[2025-11-05T23:20:19.383808] [INFO] User logged in
+[2025-11-05T23:20:19.383899] [WARN] Cache miss
+[2025-11-05T23:20:19.383929] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.383857] [INFO] Cache hit
+[2025-11-05T23:20:19.383854] [INFO] Request processed successfully
+[2025-11-05T23:20:19.383885] [WARN] Timeout warning
+[2025-11-05T23:20:19.383835] [INFO] Session started
+[2025-11-05T23:20:19.383960] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.383894] [WARN] Queue size growing
+[2025-11-05T23:20:19.383841] [INFO] Configuration loaded
+[2025-11-05T23:20:19.383867] [WARN] Cache miss
+[2025-11-05T23:20:19.383881] [WARN] High memory usage detected
+[2025-11-05T23:20:19.383775] [INFO] Request processed successfully
+[2025-11-05T23:20:19.383916] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.383849] [INFO] Configuration loaded
+[2025-11-05T23:20:19.383952] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.383831] [INFO] Connection established
+[2025-11-05T23:20:19.383817] [INFO] Service initialized
+[2025-11-05T23:20:19.383942] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.383925] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.383822] [INFO] Request processed successfully

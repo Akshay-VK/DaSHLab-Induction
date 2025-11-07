@@ -1,0 +1,30 @@
+[2025-11-05T23:20:52.993804] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.993820] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.993816] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.993746] [INFO] Session started
+[2025-11-05T23:20:52.993812] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.993733] [INFO] User logged in
+[2025-11-05T23:20:52.993707] [INFO] Connection established
+[2025-11-05T23:20:52.993751] [WARN] High memory usage detected
+[2025-11-05T23:20:52.993764] [WARN] Queue size growing
+[2025-11-05T23:20:52.993729] [INFO] Database query executed
+[2025-11-05T23:20:52.993717] [INFO] Configuration loaded
+[2025-11-05T23:20:52.993782] [ERROR] Invalid input data
+[2025-11-05T23:20:52.993725] [INFO] Cache hit
+[2025-11-05T23:20:52.993712] [INFO] User logged in
+[2025-11-05T23:20:52.993741] [INFO] Configuration loaded
+[2025-11-05T23:20:52.993792] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.993787] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.993796] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.993808] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.993760] [WARN] Queue size growing
+[2025-11-05T23:20:52.993773] [ERROR] Authentication failed
+[2025-11-05T23:20:52.993756] [WARN] Deprecated API usage
+[2025-11-05T23:20:52.993721] [INFO] Configuration loaded
+[2025-11-05T23:20:52.993702] [INFO] User logged in
+[2025-11-05T23:20:52.993672] [INFO] Connection established
+[2025-11-05T23:20:52.993778] [ERROR] Permission denied
+[2025-11-05T23:20:52.993768] [WARN] High memory usage detected
+[2025-11-05T23:20:52.993737] [INFO] Request processed successfully
+[2025-11-05T23:20:52.993800] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.993697] [INFO] Service initialized

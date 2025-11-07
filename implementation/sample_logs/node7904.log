@@ -1,0 +1,31 @@
+[2025-11-05T23:20:45.039321] [INFO] Health check passed
+[2025-11-05T23:20:45.039427] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.039423] [WARN] High memory usage detected
+[2025-11-05T23:20:45.039446] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.039419] [WARN] High memory usage detected
+[2025-11-05T23:20:45.039409] [WARN] Disk space low
+[2025-11-05T23:20:45.039441] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.039380] [INFO] Connection established
+[2025-11-05T23:20:45.039404] [INFO] User logged in
+[2025-11-05T23:20:45.039466] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.039473] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.039392] [INFO] Service initialized
+[2025-11-05T23:20:45.039462] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.039384] [INFO] Cache hit
+[2025-11-05T23:20:45.039348] [INFO] Request processed successfully
+[2025-11-05T23:20:45.039372] [INFO] Service initialized
+[2025-11-05T23:20:45.039436] [ERROR] Network timeout
+[2025-11-05T23:20:45.039354] [INFO] Transaction completed
+[2025-11-05T23:20:45.039400] [INFO] Cache hit
+[2025-11-05T23:20:45.039450] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.039454] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.039458] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.039388] [INFO] User logged in
+[2025-11-05T23:20:45.039363] [INFO] Connection established
+[2025-11-05T23:20:45.039368] [INFO] Request processed successfully
+[2025-11-05T23:20:45.039396] [INFO] Session started
+[2025-11-05T23:20:45.039470] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.039432] [ERROR] Disk read failed
+[2025-11-05T23:20:45.039359] [INFO] User logged in
+[2025-11-05T23:20:45.039414] [WARN] Timeout warning
+[2025-11-05T23:20:45.039376] [INFO] Connection established

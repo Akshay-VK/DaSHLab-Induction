@@ -1,0 +1,27 @@
+[2025-11-05T23:20:18.435878] [DEBUG] Cache key generated
+[2025-11-05T23:20:18.435861] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.435867] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:18.435782] [INFO] Session started
+[2025-11-05T23:20:18.435750] [INFO] Cache hit
+[2025-11-05T23:20:18.435833] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:18.435826] [ERROR] Database connection lost
+[2025-11-05T23:20:18.435800] [INFO] Service initialized
+[2025-11-05T23:20:18.435776] [INFO] User logged in
+[2025-11-05T23:20:18.435856] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:18.435758] [INFO] Session started
+[2025-11-05T23:20:18.435788] [INFO] Cache hit
+[2025-11-05T23:20:18.435845] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.435883] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.435764] [INFO] Service initialized
+[2025-11-05T23:20:18.435676] [INFO] Session started
+[2025-11-05T23:20:18.435812] [WARN] Disk space low
+[2025-11-05T23:20:18.435709] [INFO] Cache hit
+[2025-11-05T23:20:18.435702] [INFO] User logged in
+[2025-11-05T23:20:18.435851] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.435820] [ERROR] Permission denied
+[2025-11-05T23:20:18.435889] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.435805] [INFO] Configuration loaded
+[2025-11-05T23:20:18.435770] [INFO] Service initialized
+[2025-11-05T23:20:18.435840] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:18.435872] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.435794] [INFO] Transaction completed

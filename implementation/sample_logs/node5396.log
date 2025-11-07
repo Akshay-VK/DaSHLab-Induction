@@ -1,0 +1,29 @@
+[2025-11-05T23:20:35.067864] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.067818] [WARN] High memory usage detected
+[2025-11-05T23:20:35.067800] [INFO] Request processed successfully
+[2025-11-05T23:20:35.067803] [INFO] Database query executed
+[2025-11-05T23:20:35.067809] [WARN] High memory usage detected
+[2025-11-05T23:20:35.067837] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.067857] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.067746] [INFO] Session started
+[2025-11-05T23:20:35.067852] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.067827] [ERROR] Database connection lost
+[2025-11-05T23:20:35.067848] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.067777] [INFO] Database query executed
+[2025-11-05T23:20:35.067796] [INFO] Database query executed
+[2025-11-05T23:20:35.067765] [INFO] User logged in
+[2025-11-05T23:20:35.067861] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.067813] [WARN] Rate limit approaching
+[2025-11-05T23:20:35.067782] [INFO] Health check passed
+[2025-11-05T23:20:35.067845] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.067832] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.067722] [INFO] Configuration loaded
+[2025-11-05T23:20:35.067769] [INFO] Session started
+[2025-11-05T23:20:35.067841] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.067773] [INFO] User logged in
+[2025-11-05T23:20:35.067760] [INFO] Database query executed
+[2025-11-05T23:20:35.067786] [INFO] Database query executed
+[2025-11-05T23:20:35.067822] [WARN] High memory usage detected
+[2025-11-05T23:20:35.067756] [INFO] Transaction completed
+[2025-11-05T23:20:35.067752] [INFO] Request processed successfully
+[2025-11-05T23:20:35.067791] [INFO] Configuration loaded

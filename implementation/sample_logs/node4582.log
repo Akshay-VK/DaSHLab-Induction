@@ -1,0 +1,38 @@
+[2025-11-05T23:20:31.958728] [WARN] Slow query performance
+[2025-11-05T23:20:31.958756] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.958732] [WARN] Connection retry attempt
+[2025-11-05T23:20:31.958621] [INFO] Service initialized
+[2025-11-05T23:20:31.958781] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.958642] [INFO] Health check passed
+[2025-11-05T23:20:31.958700] [INFO] Request processed successfully
+[2025-11-05T23:20:31.958715] [WARN] Slow query performance
+[2025-11-05T23:20:31.958751] [ERROR] Network timeout
+[2025-11-05T23:20:31.958627] [INFO] Service initialized
+[2025-11-05T23:20:31.958685] [INFO] User logged in
+[2025-11-05T23:20:31.958672] [INFO] Service initialized
+[2025-11-05T23:20:31.958632] [INFO] Request processed successfully
+[2025-11-05T23:20:31.958737] [WARN] Disk space low
+[2025-11-05T23:20:31.958772] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.958681] [INFO] Cache hit
+[2025-11-05T23:20:31.958652] [INFO] Session started
+[2025-11-05T23:20:31.958724] [WARN] Cache miss
+[2025-11-05T23:20:31.958767] [DEBUG] Cache key generated
+[2025-11-05T23:20:31.958595] [INFO] Connection established
+[2025-11-05T23:20:31.958719] [WARN] Cache miss
+[2025-11-05T23:20:31.958689] [INFO] Configuration loaded
+[2025-11-05T23:20:31.958695] [INFO] Request processed successfully
+[2025-11-05T23:20:31.958705] [INFO] Health check passed
+[2025-11-05T23:20:31.958647] [INFO] Service initialized
+[2025-11-05T23:20:31.958710] [WARN] High memory usage detected
+[2025-11-05T23:20:31.958789] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.958762] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.958676] [INFO] Configuration loaded
+[2025-11-05T23:20:31.958656] [INFO] Database query executed
+[2025-11-05T23:20:31.958785] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.958777] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.958662] [INFO] Session started
+[2025-11-05T23:20:31.958636] [INFO] Request processed successfully
+[2025-11-05T23:20:31.958746] [ERROR] Authentication failed
+[2025-11-05T23:20:31.958741] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.958793] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.958667] [INFO] Session started

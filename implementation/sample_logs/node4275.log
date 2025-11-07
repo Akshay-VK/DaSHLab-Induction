@@ -1,0 +1,33 @@
+[2025-11-05T23:20:30.724006] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.723874] [INFO] Service initialized
+[2025-11-05T23:20:30.723911] [INFO] Transaction completed
+[2025-11-05T23:20:30.724009] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.723978] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.723999] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.723902] [INFO] Configuration loaded
+[2025-11-05T23:20:30.723926] [INFO] Database query executed
+[2025-11-05T23:20:30.723950] [INFO] Transaction completed
+[2025-11-05T23:20:30.723989] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.723919] [INFO] Session started
+[2025-11-05T23:20:30.723946] [INFO] Health check passed
+[2025-11-05T23:20:30.723922] [INFO] Health check passed
+[2025-11-05T23:20:30.723996] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.724003] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.723953] [INFO] Connection established
+[2025-11-05T23:20:30.723915] [INFO] Transaction completed
+[2025-11-05T23:20:30.723943] [INFO] Request processed successfully
+[2025-11-05T23:20:30.723940] [INFO] Configuration loaded
+[2025-11-05T23:20:30.723898] [INFO] Cache hit
+[2025-11-05T23:20:30.723985] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.723966] [WARN] Cache miss
+[2025-11-05T23:20:30.723974] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.723969] [WARN] Disk space low
+[2025-11-05T23:20:30.723993] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.723958] [WARN] Rate limit approaching
+[2025-11-05T23:20:30.723935] [INFO] Session started
+[2025-11-05T23:20:30.723982] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.723907] [INFO] Configuration loaded
+[2025-11-05T23:20:30.724012] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.723931] [INFO] Connection established
+[2025-11-05T23:20:30.724015] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.723962] [WARN] Deprecated API usage

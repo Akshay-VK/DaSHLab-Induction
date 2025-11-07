@@ -1,0 +1,29 @@
+[2025-11-05T23:20:33.925563] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.925478] [INFO] Connection established
+[2025-11-05T23:20:33.925417] [INFO] Health check passed
+[2025-11-05T23:20:33.925508] [WARN] Slow query performance
+[2025-11-05T23:20:33.925541] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.925469] [INFO] Session started
+[2025-11-05T23:20:33.925550] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.925451] [INFO] Service initialized
+[2025-11-05T23:20:33.925535] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.925520] [ERROR] File not found
+[2025-11-05T23:20:33.925460] [INFO] Configuration loaded
+[2025-11-05T23:20:33.925456] [INFO] Connection established
+[2025-11-05T23:20:33.925473] [INFO] Cache hit
+[2025-11-05T23:20:33.925446] [INFO] Transaction completed
+[2025-11-05T23:20:33.925441] [INFO] User logged in
+[2025-11-05T23:20:33.925525] [ERROR] Memory allocation error
+[2025-11-05T23:20:33.925465] [INFO] Request processed successfully
+[2025-11-05T23:20:33.925559] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.925530] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.925490] [WARN] Disk space low
+[2025-11-05T23:20:33.925566] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.925504] [WARN] High memory usage detected
+[2025-11-05T23:20:33.925495] [WARN] Timeout warning
+[2025-11-05T23:20:33.925513] [WARN] Timeout warning
+[2025-11-05T23:20:33.925499] [WARN] Cache miss
+[2025-11-05T23:20:33.925546] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.925554] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.925485] [INFO] Health check passed
+[2025-11-05T23:20:33.925482] [INFO] Request processed successfully

@@ -1,0 +1,36 @@
+[2025-11-05T23:20:45.162475] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.162375] [INFO] Connection established
+[2025-11-05T23:20:45.162343] [INFO] Health check passed
+[2025-11-05T23:20:45.162379] [INFO] Transaction completed
+[2025-11-05T23:20:45.162361] [INFO] Configuration loaded
+[2025-11-05T23:20:45.162352] [INFO] Configuration loaded
+[2025-11-05T23:20:45.162318] [INFO] Configuration loaded
+[2025-11-05T23:20:45.162423] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.162284] [INFO] Connection established
+[2025-11-05T23:20:45.162444] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.162407] [ERROR] Service unavailable
+[2025-11-05T23:20:45.162396] [WARN] Deprecated API usage
+[2025-11-05T23:20:45.162347] [INFO] User logged in
+[2025-11-05T23:20:45.162401] [WARN] Cache miss
+[2025-11-05T23:20:45.162333] [INFO] Cache hit
+[2025-11-05T23:20:45.162312] [INFO] Request processed successfully
+[2025-11-05T23:20:45.162471] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.162323] [INFO] Configuration loaded
+[2025-11-05T23:20:45.162338] [INFO] Request processed successfully
+[2025-11-05T23:20:45.162370] [INFO] Transaction completed
+[2025-11-05T23:20:45.162440] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.162436] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.162462] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.162458] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.162418] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.162385] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.162413] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.162392] [WARN] Deprecated API usage
+[2025-11-05T23:20:45.162328] [INFO] Service initialized
+[2025-11-05T23:20:45.162466] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.162427] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.162453] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.162432] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.162357] [INFO] Service initialized
+[2025-11-05T23:20:45.162365] [INFO] Configuration loaded
+[2025-11-05T23:20:45.162449] [DEBUG] Loop iteration: 15

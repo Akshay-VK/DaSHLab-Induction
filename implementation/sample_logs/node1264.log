@@ -1,0 +1,31 @@
+[2025-11-05T23:20:17.778468] [INFO] User logged in
+[2025-11-05T23:20:17.778441] [INFO] Session started
+[2025-11-05T23:20:17.778446] [INFO] Database query executed
+[2025-11-05T23:20:17.778542] [ERROR] Memory allocation error
+[2025-11-05T23:20:17.778562] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.778451] [INFO] Transaction completed
+[2025-11-05T23:20:17.778597] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.778431] [INFO] Configuration loaded
+[2025-11-05T23:20:17.778459] [INFO] Request processed successfully
+[2025-11-05T23:20:17.778567] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.778383] [INFO] Connection established
+[2025-11-05T23:20:17.778496] [WARN] Disk space low
+[2025-11-05T23:20:17.778592] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.778426] [INFO] Request processed successfully
+[2025-11-05T23:20:17.778455] [INFO] Transaction completed
+[2025-11-05T23:20:17.778436] [INFO] Health check passed
+[2025-11-05T23:20:17.778488] [WARN] Disk space low
+[2025-11-05T23:20:17.778492] [WARN] Queue size growing
+[2025-11-05T23:20:17.778473] [INFO] Database query executed
+[2025-11-05T23:20:17.778479] [WARN] Cache miss
+[2025-11-05T23:20:17.778410] [INFO] Database query executed
+[2025-11-05T23:20:17.778416] [INFO] Transaction completed
+[2025-11-05T23:20:17.778484] [WARN] Queue size growing
+[2025-11-05T23:20:17.778578] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.778421] [INFO] Connection established
+[2025-11-05T23:20:17.778588] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.778557] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.778464] [INFO] Transaction completed
+[2025-11-05T23:20:17.778551] [ERROR] Network timeout
+[2025-11-05T23:20:17.778573] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.778583] [DEBUG] Thread pool size: 8

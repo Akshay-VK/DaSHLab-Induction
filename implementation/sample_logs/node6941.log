@@ -1,0 +1,36 @@
+[2025-11-05T23:20:41.308629] [INFO] Cache hit
+[2025-11-05T23:20:41.308625] [INFO] Health check passed
+[2025-11-05T23:20:41.308616] [INFO] Request processed successfully
+[2025-11-05T23:20:41.308674] [INFO] Session started
+[2025-11-05T23:20:41.308638] [INFO] Session started
+[2025-11-05T23:20:41.308670] [INFO] Session started
+[2025-11-05T23:20:41.308732] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.308621] [INFO] Session started
+[2025-11-05T23:20:41.308665] [INFO] Database query executed
+[2025-11-05T23:20:41.308654] [INFO] Database query executed
+[2025-11-05T23:20:41.308715] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.308633] [INFO] Request processed successfully
+[2025-11-05T23:20:41.308646] [INFO] Database query executed
+[2025-11-05T23:20:41.308695] [WARN] Slow query performance
+[2025-11-05T23:20:41.308599] [INFO] Health check passed
+[2025-11-05T23:20:41.308661] [INFO] Transaction completed
+[2025-11-05T23:20:41.308686] [WARN] Disk space low
+[2025-11-05T23:20:41.308749] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.308710] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.308728] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.308745] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.308642] [INFO] User logged in
+[2025-11-05T23:20:41.308704] [ERROR] File not found
+[2025-11-05T23:20:41.308681] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.308691] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.308720] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.308650] [INFO] Connection established
+[2025-11-05T23:20:41.308699] [WARN] Slow query performance
+[2025-11-05T23:20:41.308657] [INFO] Connection established
+[2025-11-05T23:20:41.308605] [INFO] Transaction completed
+[2025-11-05T23:20:41.308737] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.308741] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.308573] [INFO] Service initialized
+[2025-11-05T23:20:41.308724] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.308611] [INFO] Session started
+[2025-11-05T23:20:41.308754] [DEBUG] Variable value: x=42

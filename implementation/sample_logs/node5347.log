@@ -1,0 +1,28 @@
+[2025-11-05T23:20:34.902570] [INFO] Connection established
+[2025-11-05T23:20:34.902639] [WARN] Queue size growing
+[2025-11-05T23:20:34.902655] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.902626] [WARN] Timeout warning
+[2025-11-05T23:20:34.902685] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.902668] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.902664] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.902650] [ERROR] Memory allocation error
+[2025-11-05T23:20:34.902616] [WARN] Deprecated API usage
+[2025-11-05T23:20:34.902645] [ERROR] Request failed
+[2025-11-05T23:20:34.902660] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.902630] [WARN] Resource threshold approaching
+[2025-11-05T23:20:34.902599] [INFO] Transaction completed
+[2025-11-05T23:20:34.902672] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.902676] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.902563] [INFO] Cache hit
+[2025-11-05T23:20:34.902680] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.902590] [INFO] Cache hit
+[2025-11-05T23:20:34.902603] [INFO] Database query executed
+[2025-11-05T23:20:34.902581] [INFO] Cache hit
+[2025-11-05T23:20:34.902621] [WARN] Timeout warning
+[2025-11-05T23:20:34.902594] [INFO] Cache hit
+[2025-11-05T23:20:34.902611] [INFO] Cache hit
+[2025-11-05T23:20:34.902607] [INFO] Cache hit
+[2025-11-05T23:20:34.902634] [WARN] Resource threshold approaching
+[2025-11-05T23:20:34.902537] [INFO] Database query executed
+[2025-11-05T23:20:34.902576] [INFO] Transaction completed
+[2025-11-05T23:20:34.902586] [INFO] Cache hit

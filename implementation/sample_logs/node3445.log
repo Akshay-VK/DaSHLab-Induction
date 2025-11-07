@@ -1,0 +1,31 @@
+[2025-11-05T23:20:27.249135] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.249152] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.249070] [INFO] Transaction completed
+[2025-11-05T23:20:27.249066] [INFO] Configuration loaded
+[2025-11-05T23:20:27.249074] [INFO] Cache hit
+[2025-11-05T23:20:27.249032] [INFO] Service initialized
+[2025-11-05T23:20:27.249045] [INFO] Health check passed
+[2025-11-05T23:20:27.249078] [INFO] Database query executed
+[2025-11-05T23:20:27.249157] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.249096] [WARN] Cache miss
+[2025-11-05T23:20:27.249114] [WARN] Cache miss
+[2025-11-05T23:20:27.249026] [INFO] Request processed successfully
+[2025-11-05T23:20:27.249053] [INFO] Database query executed
+[2025-11-05T23:20:27.249086] [INFO] Session started
+[2025-11-05T23:20:27.249124] [ERROR] Service unavailable
+[2025-11-05T23:20:27.249090] [INFO] Session started
+[2025-11-05T23:20:27.249040] [INFO] Transaction completed
+[2025-11-05T23:20:27.249119] [ERROR] Request failed
+[2025-11-05T23:20:27.249148] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.249062] [INFO] Session started
+[2025-11-05T23:20:27.249000] [INFO] Service initialized
+[2025-11-05T23:20:27.249129] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.249110] [WARN] High memory usage detected
+[2025-11-05T23:20:27.249139] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.249143] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.249102] [WARN] High memory usage detected
+[2025-11-05T23:20:27.249057] [INFO] Connection established
+[2025-11-05T23:20:27.249106] [WARN] Queue size growing
+[2025-11-05T23:20:27.249036] [INFO] User logged in
+[2025-11-05T23:20:27.249082] [INFO] Session started
+[2025-11-05T23:20:27.249049] [INFO] Session started

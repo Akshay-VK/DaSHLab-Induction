@@ -1,0 +1,27 @@
+[2025-11-05T23:20:34.262240] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.262157] [INFO] Transaction completed
+[2025-11-05T23:20:34.262223] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.262208] [ERROR] Service unavailable
+[2025-11-05T23:20:34.262245] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.262227] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.262170] [INFO] Database query executed
+[2025-11-05T23:20:34.262236] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.262147] [INFO] Transaction completed
+[2025-11-05T23:20:34.262249] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.262137] [INFO] Configuration loaded
+[2025-11-05T23:20:34.262184] [INFO] Configuration loaded
+[2025-11-05T23:20:34.262143] [INFO] Configuration loaded
+[2025-11-05T23:20:34.262107] [INFO] User logged in
+[2025-11-05T23:20:34.262175] [INFO] Cache hit
+[2025-11-05T23:20:34.262232] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.262188] [INFO] Request processed successfully
+[2025-11-05T23:20:34.262192] [INFO] Session started
+[2025-11-05T23:20:34.262253] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.262196] [INFO] Database query executed
+[2025-11-05T23:20:34.262218] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.262213] [ERROR] Authentication failed
+[2025-11-05T23:20:34.262162] [INFO] Service initialized
+[2025-11-05T23:20:34.262202] [WARN] High memory usage detected
+[2025-11-05T23:20:34.262166] [INFO] User logged in
+[2025-11-05T23:20:34.262179] [INFO] Configuration loaded
+[2025-11-05T23:20:34.262152] [INFO] Cache hit

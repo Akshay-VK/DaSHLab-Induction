@@ -1,0 +1,33 @@
+[2025-11-05T23:20:46.067848] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.067747] [INFO] User logged in
+[2025-11-05T23:20:46.067757] [INFO] Transaction completed
+[2025-11-05T23:20:46.067783] [INFO] User logged in
+[2025-11-05T23:20:46.067866] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.067874] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.067814] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.067795] [INFO] Health check passed
+[2025-11-05T23:20:46.067870] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.067800] [WARN] Queue size growing
+[2025-11-05T23:20:46.067766] [INFO] User logged in
+[2025-11-05T23:20:46.067827] [WARN] Timeout warning
+[2025-11-05T23:20:46.067770] [INFO] Request processed successfully
+[2025-11-05T23:20:46.067712] [INFO] Database query executed
+[2025-11-05T23:20:46.067810] [WARN] Deprecated API usage
+[2025-11-05T23:20:46.067805] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.067775] [INFO] Cache hit
+[2025-11-05T23:20:46.067852] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.067837] [ERROR] Memory allocation error
+[2025-11-05T23:20:46.067787] [INFO] Request processed successfully
+[2025-11-05T23:20:46.067861] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.067822] [WARN] Connection retry attempt
+[2025-11-05T23:20:46.067762] [INFO] Configuration loaded
+[2025-11-05T23:20:46.067832] [ERROR] Invalid input data
+[2025-11-05T23:20:46.067857] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.067818] [WARN] High memory usage detected
+[2025-11-05T23:20:46.067878] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.067843] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.067779] [INFO] Request processed successfully
+[2025-11-05T23:20:46.067791] [INFO] Configuration loaded
+[2025-11-05T23:20:46.067752] [INFO] Service initialized
+[2025-11-05T23:20:46.067737] [INFO] Cache hit
+[2025-11-05T23:20:46.067742] [INFO] Database query executed

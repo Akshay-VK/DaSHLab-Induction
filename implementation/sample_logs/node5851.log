@@ -1,0 +1,32 @@
+[2025-11-05T23:20:36.793719] [INFO] Connection established
+[2025-11-05T23:20:36.793811] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.793788] [ERROR] Disk read failed
+[2025-11-05T23:20:36.793699] [INFO] Request processed successfully
+[2025-11-05T23:20:36.793800] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.793740] [INFO] Connection established
+[2025-11-05T23:20:36.793749] [INFO] Session started
+[2025-11-05T23:20:36.793794] [ERROR] Network timeout
+[2025-11-05T23:20:36.793777] [WARN] Resource threshold approaching
+[2025-11-05T23:20:36.793724] [INFO] Configuration loaded
+[2025-11-05T23:20:36.793708] [INFO] Request processed successfully
+[2025-11-05T23:20:36.793655] [INFO] Service initialized
+[2025-11-05T23:20:36.793819] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.793823] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.793835] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.793729] [INFO] Cache hit
+[2025-11-05T23:20:36.793683] [INFO] Service initialized
+[2025-11-05T23:20:36.793745] [INFO] Session started
+[2025-11-05T23:20:36.793713] [INFO] Database query executed
+[2025-11-05T23:20:36.793815] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.793688] [INFO] Configuration loaded
+[2025-11-05T23:20:36.793693] [INFO] Session started
+[2025-11-05T23:20:36.793762] [WARN] Slow query performance
+[2025-11-05T23:20:36.793773] [WARN] Timeout warning
+[2025-11-05T23:20:36.793827] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.793703] [INFO] Connection established
+[2025-11-05T23:20:36.793755] [INFO] Connection established
+[2025-11-05T23:20:36.793768] [WARN] Timeout warning
+[2025-11-05T23:20:36.793735] [INFO] Connection established
+[2025-11-05T23:20:36.793831] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.793806] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.793782] [WARN] Resource threshold approaching

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:13.326882] [INFO] Health check passed
+[2025-11-05T23:20:13.326921] [INFO] Database query executed
+[2025-11-05T23:20:13.326925] [INFO] Cache hit
+[2025-11-05T23:20:13.326900] [INFO] User logged in
+[2025-11-05T23:20:13.326959] [ERROR] Disk read failed
+[2025-11-05T23:20:13.326982] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.326849] [INFO] Database query executed
+[2025-11-05T23:20:13.326934] [INFO] User logged in
+[2025-11-05T23:20:13.326930] [INFO] Service initialized
+[2025-11-05T23:20:13.326973] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:13.326954] [ERROR] Memory allocation error
+[2025-11-05T23:20:13.326939] [WARN] Slow query performance
+[2025-11-05T23:20:13.326978] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.326944] [WARN] Slow query performance
+[2025-11-05T23:20:13.326969] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:13.326991] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:13.326949] [WARN] Slow query performance
+[2025-11-05T23:20:13.326904] [INFO] Database query executed
+[2025-11-05T23:20:13.326891] [INFO] Cache hit
+[2025-11-05T23:20:13.326913] [INFO] Transaction completed
+[2025-11-05T23:20:13.326908] [INFO] Session started
+[2025-11-05T23:20:13.326917] [INFO] Configuration loaded
+[2025-11-05T23:20:13.326887] [INFO] Transaction completed
+[2025-11-05T23:20:13.326987] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:13.326876] [INFO] Session started
+[2025-11-05T23:20:13.327003] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.326999] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:13.326964] [ERROR] Network timeout
+[2025-11-05T23:20:13.327007] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:13.326896] [INFO] Transaction completed
+[2025-11-05T23:20:13.327011] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:13.326995] [DEBUG] HTTP request headers parsed

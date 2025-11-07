@@ -1,0 +1,33 @@
+[2025-11-05T23:20:49.876480] [INFO] Transaction completed
+[2025-11-05T23:20:49.876536] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.876428] [INFO] Session started
+[2025-11-05T23:20:49.876567] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.876457] [INFO] Database query executed
+[2025-11-05T23:20:49.876467] [INFO] Connection established
+[2025-11-05T23:20:49.876575] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.876439] [INFO] User logged in
+[2025-11-05T23:20:49.876485] [INFO] User logged in
+[2025-11-05T23:20:49.876563] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.876554] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.876503] [WARN] High memory usage detected
+[2025-11-05T23:20:49.876540] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.876452] [INFO] Database query executed
+[2025-11-05T23:20:49.876558] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.876512] [WARN] Rate limit approaching
+[2025-11-05T23:20:49.876492] [WARN] High memory usage detected
+[2025-11-05T23:20:49.876549] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.876471] [INFO] Health check passed
+[2025-11-05T23:20:49.876475] [INFO] Connection established
+[2025-11-05T23:20:49.876508] [WARN] High memory usage detected
+[2025-11-05T23:20:49.876571] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.876462] [INFO] Session started
+[2025-11-05T23:20:49.876526] [ERROR] Authentication failed
+[2025-11-05T23:20:49.876394] [INFO] Database query executed
+[2025-11-05T23:20:49.876516] [WARN] Timeout warning
+[2025-11-05T23:20:49.876498] [WARN] Queue size growing
+[2025-11-05T23:20:49.876532] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.876545] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.876446] [INFO] Health check passed
+[2025-11-05T23:20:49.876420] [INFO] Health check passed
+[2025-11-05T23:20:49.876434] [INFO] Request processed successfully
+[2025-11-05T23:20:49.876522] [ERROR] Authentication failed

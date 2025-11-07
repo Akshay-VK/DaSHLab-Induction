@@ -1,0 +1,32 @@
+[2025-11-05T23:20:34.125195] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.125190] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.125105] [INFO] User logged in
+[2025-11-05T23:20:34.125087] [INFO] Cache hit
+[2025-11-05T23:20:34.125141] [INFO] Cache hit
+[2025-11-05T23:20:34.125154] [INFO] Cache hit
+[2025-11-05T23:20:34.125136] [INFO] User logged in
+[2025-11-05T23:20:34.125050] [INFO] User logged in
+[2025-11-05T23:20:34.125165] [WARN] Resource threshold approaching
+[2025-11-05T23:20:34.125219] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.125118] [INFO] Database query executed
+[2025-11-05T23:20:34.125128] [INFO] Cache hit
+[2025-11-05T23:20:34.125114] [INFO] Database query executed
+[2025-11-05T23:20:34.125208] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.125176] [ERROR] Memory allocation error
+[2025-11-05T23:20:34.125082] [INFO] Request processed successfully
+[2025-11-05T23:20:34.125145] [INFO] Configuration loaded
+[2025-11-05T23:20:34.125092] [INFO] Configuration loaded
+[2025-11-05T23:20:34.125132] [INFO] Service initialized
+[2025-11-05T23:20:34.125101] [INFO] Health check passed
+[2025-11-05T23:20:34.125204] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.125212] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.125200] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.125076] [INFO] Configuration loaded
+[2025-11-05T23:20:34.125109] [INFO] Cache hit
+[2025-11-05T23:20:34.125150] [INFO] Database query executed
+[2025-11-05T23:20:34.125160] [WARN] Connection retry attempt
+[2025-11-05T23:20:34.125181] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.125123] [INFO] Configuration loaded
+[2025-11-05T23:20:34.125096] [INFO] Cache hit
+[2025-11-05T23:20:34.125171] [ERROR] Disk read failed
+[2025-11-05T23:20:34.125186] [DEBUG] Buffer size: 4096 bytes

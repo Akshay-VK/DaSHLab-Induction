@@ -1,0 +1,31 @@
+[2025-11-05T23:20:53.282870] [WARN] Queue size growing
+[2025-11-05T23:20:53.282817] [INFO] Health check passed
+[2025-11-05T23:20:53.282897] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.282920] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.282892] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.282866] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.282848] [INFO] Database query executed
+[2025-11-05T23:20:53.282852] [INFO] Transaction completed
+[2025-11-05T23:20:53.282901] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.282934] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.282861] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.282835] [INFO] Transaction completed
+[2025-11-05T23:20:53.282812] [INFO] Service initialized
+[2025-11-05T23:20:53.282806] [INFO] Connection established
+[2025-11-05T23:20:53.282881] [WARN] High memory usage detected
+[2025-11-05T23:20:53.282938] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.282856] [INFO] Service initialized
+[2025-11-05T23:20:53.282876] [WARN] Cache miss
+[2025-11-05T23:20:53.282907] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.282928] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.282916] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.282773] [INFO] User logged in
+[2025-11-05T23:20:53.282924] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.282840] [INFO] Session started
+[2025-11-05T23:20:53.282826] [INFO] Cache hit
+[2025-11-05T23:20:53.282830] [INFO] User logged in
+[2025-11-05T23:20:53.282844] [INFO] Session started
+[2025-11-05T23:20:53.282911] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.282799] [INFO] Cache hit
+[2025-11-05T23:20:53.282822] [INFO] Database query executed
+[2025-11-05T23:20:53.282886] [ERROR] Disk read failed

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:27.725591] [INFO] Request processed successfully
+[2025-11-05T23:20:27.725659] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.725599] [INFO] User logged in
+[2025-11-05T23:20:27.725562] [INFO] Connection established
+[2025-11-05T23:20:27.725532] [INFO] Connection established
+[2025-11-05T23:20:27.725638] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.725643] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.725647] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.725622] [WARN] Deprecated API usage
+[2025-11-05T23:20:27.725614] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.725566] [INFO] Connection established
+[2025-11-05T23:20:27.725603] [INFO] Health check passed
+[2025-11-05T23:20:27.725651] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.725609] [WARN] Rate limit approaching
+[2025-11-05T23:20:27.725553] [INFO] Session started
+[2025-11-05T23:20:27.725574] [INFO] Cache hit
+[2025-11-05T23:20:27.725587] [INFO] User logged in
+[2025-11-05T23:20:27.725618] [WARN] High memory usage detected
+[2025-11-05T23:20:27.725633] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.725538] [INFO] Connection established
+[2025-11-05T23:20:27.725595] [INFO] Configuration loaded
+[2025-11-05T23:20:27.725582] [INFO] Request processed successfully
+[2025-11-05T23:20:27.725557] [INFO] Database query executed
+[2025-11-05T23:20:27.725543] [INFO] Configuration loaded
+[2025-11-05T23:20:27.725663] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.725548] [INFO] Cache hit
+[2025-11-05T23:20:27.725655] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:27.725570] [INFO] Session started
+[2025-11-05T23:20:27.725505] [INFO] Health check passed
+[2025-11-05T23:20:27.725627] [ERROR] Authentication failed
+[2025-11-05T23:20:27.725578] [INFO] Cache hit

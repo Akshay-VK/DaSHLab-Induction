@@ -1,0 +1,31 @@
+[2025-11-05T23:20:17.659222] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.659205] [WARN] Deprecated API usage
+[2025-11-05T23:20:17.659241] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.659232] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.659256] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.659131] [INFO] Cache hit
+[2025-11-05T23:20:17.659144] [INFO] Service initialized
+[2025-11-05T23:20:17.659186] [WARN] Rate limit approaching
+[2025-11-05T23:20:17.659165] [INFO] Request processed successfully
+[2025-11-05T23:20:17.659127] [INFO] Connection established
+[2025-11-05T23:20:17.659216] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.659122] [INFO] Cache hit
+[2025-11-05T23:20:17.659251] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.659191] [WARN] High memory usage detected
+[2025-11-05T23:20:17.659139] [INFO] Request processed successfully
+[2025-11-05T23:20:17.659200] [WARN] Cache miss
+[2025-11-05T23:20:17.659161] [INFO] Connection established
+[2025-11-05T23:20:17.659153] [INFO] User logged in
+[2025-11-05T23:20:17.659091] [INFO] Session started
+[2025-11-05T23:20:17.659157] [INFO] User logged in
+[2025-11-05T23:20:17.659116] [INFO] Service initialized
+[2025-11-05T23:20:17.659180] [INFO] User logged in
+[2025-11-05T23:20:17.659196] [WARN] Rate limit approaching
+[2025-11-05T23:20:17.659135] [INFO] Session started
+[2025-11-05T23:20:17.659170] [INFO] Configuration loaded
+[2025-11-05T23:20:17.659175] [INFO] Session started
+[2025-11-05T23:20:17.659226] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.659236] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.659246] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.659210] [ERROR] Request failed
+[2025-11-05T23:20:17.659148] [INFO] User logged in

@@ -1,0 +1,23 @@
+[2025-11-05T23:20:52.889618] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.889584] [WARN] Timeout warning
+[2025-11-05T23:20:52.889622] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.889095] [INFO] Session started
+[2025-11-05T23:20:52.889600] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.889496] [INFO] Session started
+[2025-11-05T23:20:52.889627] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.889595] [ERROR] Invalid input data
+[2025-11-05T23:20:52.889552] [INFO] Health check passed
+[2025-11-05T23:20:52.889614] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.889605] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.889502] [INFO] User logged in
+[2025-11-05T23:20:52.889631] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.889507] [INFO] Database query executed
+[2025-11-05T23:20:52.889513] [INFO] Configuration loaded
+[2025-11-05T23:20:52.889574] [WARN] High memory usage detected
+[2025-11-05T23:20:52.889517] [INFO] Transaction completed
+[2025-11-05T23:20:52.889590] [ERROR] Network timeout
+[2025-11-05T23:20:52.889609] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.889482] [INFO] Service initialized
+[2025-11-05T23:20:52.889564] [INFO] Request processed successfully
+[2025-11-05T23:20:52.889579] [WARN] Queue size growing
+[2025-11-05T23:20:52.889560] [INFO] Health check passed

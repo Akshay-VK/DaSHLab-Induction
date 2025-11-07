@@ -1,0 +1,26 @@
+[2025-11-05T23:20:33.465852] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.465858] [ERROR] Database connection lost
+[2025-11-05T23:20:33.465886] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.465881] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.465801] [INFO] Database query executed
+[2025-11-05T23:20:33.465846] [INFO] Configuration loaded
+[2025-11-05T23:20:33.465810] [INFO] Transaction completed
+[2025-11-05T23:20:33.465891] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.465828] [INFO] Session started
+[2025-11-05T23:20:33.465909] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.465789] [INFO] Configuration loaded
+[2025-11-05T23:20:33.465805] [INFO] User logged in
+[2025-11-05T23:20:33.465900] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.465904] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.465837] [INFO] Service initialized
+[2025-11-05T23:20:33.465833] [INFO] Request processed successfully
+[2025-11-05T23:20:33.465842] [INFO] User logged in
+[2025-11-05T23:20:33.465761] [INFO] Connection established
+[2025-11-05T23:20:33.465819] [INFO] Request processed successfully
+[2025-11-05T23:20:33.465896] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.465815] [INFO] Health check passed
+[2025-11-05T23:20:33.465870] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.465824] [INFO] Connection established
+[2025-11-05T23:20:33.465796] [INFO] User logged in
+[2025-11-05T23:20:33.465864] [ERROR] Disk read failed
+[2025-11-05T23:20:33.465876] [DEBUG] HTTP request headers parsed

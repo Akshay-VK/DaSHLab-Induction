@@ -1,0 +1,25 @@
+[2025-11-05T23:20:46.279261] [INFO] Cache hit
+[2025-11-05T23:20:46.279302] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.279248] [INFO] Database query executed
+[2025-11-05T23:20:46.279234] [INFO] User logged in
+[2025-11-05T23:20:46.279653] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.279239] [INFO] User logged in
+[2025-11-05T23:20:46.279243] [INFO] Health check passed
+[2025-11-05T23:20:46.279275] [INFO] Database query executed
+[2025-11-05T23:20:46.279663] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.279648] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.279668] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.279252] [INFO] Request processed successfully
+[2025-11-05T23:20:46.279611] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.279289] [WARN] Disk space low
+[2025-11-05T23:20:46.279203] [INFO] Request processed successfully
+[2025-11-05T23:20:46.279658] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.279296] [ERROR] Permission denied
+[2025-11-05T23:20:46.279266] [INFO] Database query executed
+[2025-11-05T23:20:46.279279] [INFO] Database query executed
+[2025-11-05T23:20:46.279270] [INFO] Service initialized
+[2025-11-05T23:20:46.279256] [INFO] Database query executed
+[2025-11-05T23:20:46.279637] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.279228] [INFO] User logged in
+[2025-11-05T23:20:46.279283] [INFO] Database query executed
+[2025-11-05T23:20:46.279643] [DEBUG] Thread pool size: 8

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:39.235196] [WARN] High memory usage detected
+[2025-11-05T23:20:39.235166] [INFO] Database query executed
+[2025-11-05T23:20:39.235200] [WARN] High memory usage detected
+[2025-11-05T23:20:39.235250] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:39.235247] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.235242] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.235158] [INFO] Configuration loaded
+[2025-11-05T23:20:39.235239] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.235135] [INFO] Service initialized
+[2025-11-05T23:20:39.235254] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:39.235231] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.235153] [INFO] Transaction completed
+[2025-11-05T23:20:39.235204] [WARN] Rate limit approaching
+[2025-11-05T23:20:39.235174] [INFO] Request processed successfully
+[2025-11-05T23:20:39.235223] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.235235] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.235144] [INFO] Configuration loaded
+[2025-11-05T23:20:39.235191] [WARN] Deprecated API usage
+[2025-11-05T23:20:39.235219] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:39.235170] [INFO] Transaction completed
+[2025-11-05T23:20:39.235130] [INFO] Configuration loaded
+[2025-11-05T23:20:39.235106] [INFO] Cache hit
+[2025-11-05T23:20:39.235186] [INFO] Transaction completed
+[2025-11-05T23:20:39.235178] [INFO] Database query executed
+[2025-11-05T23:20:39.235214] [ERROR] Network timeout
+[2025-11-05T23:20:39.235140] [INFO] Service initialized
+[2025-11-05T23:20:39.235209] [ERROR] Disk read failed
+[2025-11-05T23:20:39.235162] [INFO] User logged in
+[2025-11-05T23:20:39.235149] [INFO] Configuration loaded
+[2025-11-05T23:20:39.235182] [INFO] Request processed successfully
+[2025-11-05T23:20:39.235227] [DEBUG] Thread pool size: 8

@@ -1,0 +1,25 @@
+[2025-11-05T23:20:30.890150] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.890112] [WARN] Slow query performance
+[2025-11-05T23:20:30.890081] [INFO] Database query executed
+[2025-11-05T23:20:30.890129] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.890116] [WARN] Queue size growing
+[2025-11-05T23:20:30.890073] [INFO] Request processed successfully
+[2025-11-05T23:20:30.890102] [INFO] User logged in
+[2025-11-05T23:20:30.890036] [INFO] Service initialized
+[2025-11-05T23:20:30.890124] [ERROR] Request failed
+[2025-11-05T23:20:30.890093] [INFO] User logged in
+[2025-11-05T23:20:30.890135] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.890154] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.890119] [WARN] Slow query performance
+[2025-11-05T23:20:30.890098] [INFO] Database query executed
+[2025-11-05T23:20:30.890142] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.890158] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.890139] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.890162] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.890090] [INFO] Configuration loaded
+[2025-11-05T23:20:30.890146] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.890107] [WARN] Queue size growing
+[2025-11-05T23:20:30.890077] [INFO] Cache hit
+[2025-11-05T23:20:30.890068] [INFO] Transaction completed
+[2025-11-05T23:20:30.890063] [INFO] Health check passed
+[2025-11-05T23:20:30.890085] [INFO] Configuration loaded

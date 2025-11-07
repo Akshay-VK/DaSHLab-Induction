@@ -1,0 +1,29 @@
+[2025-11-05T23:20:27.848369] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.848282] [INFO] Session started
+[2025-11-05T23:20:27.848377] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.848332] [INFO] Health check passed
+[2025-11-05T23:20:27.848320] [INFO] Database query executed
+[2025-11-05T23:20:27.848381] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.848373] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.848389] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.848340] [WARN] Queue size growing
+[2025-11-05T23:20:27.848328] [INFO] Configuration loaded
+[2025-11-05T23:20:27.848300] [INFO] Request processed successfully
+[2025-11-05T23:20:27.848324] [INFO] Configuration loaded
+[2025-11-05T23:20:27.848257] [INFO] Request processed successfully
+[2025-11-05T23:20:27.848311] [INFO] Health check passed
+[2025-11-05T23:20:27.848345] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.848296] [INFO] Cache hit
+[2025-11-05T23:20:27.848335] [INFO] Database query executed
+[2025-11-05T23:20:27.848292] [INFO] Database query executed
+[2025-11-05T23:20:27.848359] [ERROR] Network timeout
+[2025-11-05T23:20:27.848385] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.848397] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.848393] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.848304] [INFO] Health check passed
+[2025-11-05T23:20:27.848287] [INFO] Cache hit
+[2025-11-05T23:20:27.848308] [INFO] Cache hit
+[2025-11-05T23:20:27.848350] [WARN] Disk space low
+[2025-11-05T23:20:27.848316] [INFO] Connection established
+[2025-11-05T23:20:27.848354] [WARN] Slow query performance
+[2025-11-05T23:20:27.848365] [DEBUG] Loop iteration: 15

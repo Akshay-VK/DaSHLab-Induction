@@ -1,0 +1,29 @@
+[2025-11-05T23:20:11.710897] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.710891] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:11.710827] [INFO] Cache hit
+[2025-11-05T23:20:11.710907] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.710910] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.710790] [INFO] Service initialized
+[2025-11-05T23:20:11.710894] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:11.710850] [INFO] Database query executed
+[2025-11-05T23:20:11.710879] [ERROR] Authentication failed
+[2025-11-05T23:20:11.710843] [INFO] Configuration loaded
+[2025-11-05T23:20:11.710904] [DEBUG] Cache key generated
+[2025-11-05T23:20:11.710872] [WARN] Resource threshold approaching
+[2025-11-05T23:20:11.710840] [INFO] Session started
+[2025-11-05T23:20:11.710853] [INFO] Configuration loaded
+[2025-11-05T23:20:11.710815] [INFO] Request processed successfully
+[2025-11-05T23:20:11.710901] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.710887] [DEBUG] Cache key generated
+[2025-11-05T23:20:11.710856] [INFO] Health check passed
+[2025-11-05T23:20:11.710868] [WARN] Slow query performance
+[2025-11-05T23:20:11.710830] [INFO] Configuration loaded
+[2025-11-05T23:20:11.710823] [INFO] Transaction completed
+[2025-11-05T23:20:11.710819] [INFO] Configuration loaded
+[2025-11-05T23:20:11.710876] [ERROR] File not found
+[2025-11-05T23:20:11.710847] [INFO] Health check passed
+[2025-11-05T23:20:11.710861] [WARN] Slow query performance
+[2025-11-05T23:20:11.710837] [INFO] Service initialized
+[2025-11-05T23:20:11.710883] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.710834] [INFO] Request processed successfully
+[2025-11-05T23:20:11.710865] [WARN] Connection retry attempt

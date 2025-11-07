@@ -1,0 +1,34 @@
+[2025-11-05T23:20:17.725877] [INFO] Request processed successfully
+[2025-11-05T23:20:17.725858] [INFO] Session started
+[2025-11-05T23:20:17.725950] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.725829] [INFO] Database query executed
+[2025-11-05T23:20:17.725959] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.725844] [INFO] Cache hit
+[2025-11-05T23:20:17.725920] [WARN] Timeout warning
+[2025-11-05T23:20:17.725972] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.725794] [INFO] Connection established
+[2025-11-05T23:20:17.725896] [WARN] Timeout warning
+[2025-11-05T23:20:17.725925] [WARN] Cache miss
+[2025-11-05T23:20:17.725885] [INFO] Request processed successfully
+[2025-11-05T23:20:17.725905] [WARN] Disk space low
+[2025-11-05T23:20:17.725834] [INFO] User logged in
+[2025-11-05T23:20:17.725854] [INFO] Connection established
+[2025-11-05T23:20:17.725849] [INFO] Session started
+[2025-11-05T23:20:17.725890] [WARN] Deprecated API usage
+[2025-11-05T23:20:17.725910] [WARN] Slow query performance
+[2025-11-05T23:20:17.725977] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.725934] [ERROR] Network timeout
+[2025-11-05T23:20:17.725945] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.725915] [WARN] Cache miss
+[2025-11-05T23:20:17.725955] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.725968] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.725863] [INFO] Configuration loaded
+[2025-11-05T23:20:17.725901] [WARN] High memory usage detected
+[2025-11-05T23:20:17.725939] [ERROR] Authentication failed
+[2025-11-05T23:20:17.725839] [INFO] Request processed successfully
+[2025-11-05T23:20:17.725868] [INFO] Transaction completed
+[2025-11-05T23:20:17.725964] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.725873] [INFO] Request processed successfully
+[2025-11-05T23:20:17.725823] [INFO] Connection established
+[2025-11-05T23:20:17.725881] [INFO] Transaction completed
+[2025-11-05T23:20:17.725929] [WARN] Queue size growing

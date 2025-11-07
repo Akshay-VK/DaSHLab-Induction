@@ -1,0 +1,38 @@
+[2025-11-05T23:20:50.118833] [WARN] Rate limit approaching
+[2025-11-05T23:20:50.118824] [WARN] Timeout warning
+[2025-11-05T23:20:50.118869] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.118856] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.118753] [INFO] User logged in
+[2025-11-05T23:20:50.118828] [WARN] Queue size growing
+[2025-11-05T23:20:50.118762] [INFO] Health check passed
+[2025-11-05T23:20:50.118812] [WARN] High memory usage detected
+[2025-11-05T23:20:50.118851] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.118877] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.118873] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.118890] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.118886] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.118798] [INFO] Service initialized
+[2025-11-05T23:20:50.118758] [INFO] Health check passed
+[2025-11-05T23:20:50.118776] [INFO] Request processed successfully
+[2025-11-05T23:20:50.118744] [INFO] Database query executed
+[2025-11-05T23:20:50.118860] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.118793] [INFO] Service initialized
+[2025-11-05T23:20:50.118900] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.118865] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.118789] [INFO] Request processed successfully
+[2025-11-05T23:20:50.118818] [WARN] Cache miss
+[2025-11-05T23:20:50.118767] [INFO] Transaction completed
+[2025-11-05T23:20:50.118739] [INFO] Transaction completed
+[2025-11-05T23:20:50.118895] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:50.118839] [ERROR] Invalid input data
+[2025-11-05T23:20:50.118785] [INFO] Connection established
+[2025-11-05T23:20:50.118771] [INFO] User logged in
+[2025-11-05T23:20:50.118844] [ERROR] Network timeout
+[2025-11-05T23:20:50.118882] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.118734] [INFO] Request processed successfully
+[2025-11-05T23:20:50.118701] [INFO] Connection established
+[2025-11-05T23:20:50.118749] [INFO] Request processed successfully
+[2025-11-05T23:20:50.118806] [INFO] Service initialized
+[2025-11-05T23:20:50.118780] [INFO] Session started
+[2025-11-05T23:20:50.118728] [INFO] Request processed successfully
+[2025-11-05T23:20:50.118802] [INFO] Configuration loaded

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:19.079837] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.079703] [INFO] User logged in
+[2025-11-05T23:20:19.079698] [INFO] Configuration loaded
+[2025-11-05T23:20:19.079735] [WARN] Slow query performance
+[2025-11-05T23:20:19.079810] [WARN] Deprecated API usage
+[2025-11-05T23:20:19.079717] [INFO] Health check passed
+[2025-11-05T23:20:19.079827] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.079685] [INFO] Connection established
+[2025-11-05T23:20:19.079805] [WARN] Rate limit approaching
+[2025-11-05T23:20:19.079675] [INFO] Connection established
+[2025-11-05T23:20:19.079707] [INFO] User logged in
+[2025-11-05T23:20:19.079849] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.079740] [WARN] High memory usage detected
+[2025-11-05T23:20:19.079690] [INFO] Cache hit
+[2025-11-05T23:20:19.079694] [INFO] Request processed successfully
+[2025-11-05T23:20:19.079647] [INFO] Database query executed
+[2025-11-05T23:20:19.079799] [WARN] Timeout warning
+[2025-11-05T23:20:19.079794] [WARN] Queue size growing
+[2025-11-05T23:20:19.079745] [WARN] Connection retry attempt
+[2025-11-05T23:20:19.079845] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.079726] [INFO] Health check passed
+[2025-11-05T23:20:19.079722] [INFO] Database query executed
+[2025-11-05T23:20:19.079730] [INFO] Cache hit
+[2025-11-05T23:20:19.079821] [ERROR] Network timeout
+[2025-11-05T23:20:19.079841] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.079831] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.079681] [INFO] Request processed successfully
+[2025-11-05T23:20:19.079816] [ERROR] Permission denied
+[2025-11-05T23:20:19.079712] [INFO] Database query executed

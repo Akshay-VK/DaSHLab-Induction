@@ -1,0 +1,27 @@
+[2025-11-05T23:20:43.110195] [WARN] High memory usage detected
+[2025-11-05T23:20:43.110138] [INFO] Configuration loaded
+[2025-11-05T23:20:43.110165] [INFO] Database query executed
+[2025-11-05T23:20:43.110146] [INFO] Health check passed
+[2025-11-05T23:20:43.110213] [ERROR] Service unavailable
+[2025-11-05T23:20:43.110204] [WARN] Timeout warning
+[2025-11-05T23:20:43.110209] [ERROR] Service unavailable
+[2025-11-05T23:20:43.110150] [INFO] Service initialized
+[2025-11-05T23:20:43.110232] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.110177] [INFO] Configuration loaded
+[2025-11-05T23:20:43.110239] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.110162] [INFO] Cache hit
+[2025-11-05T23:20:43.110224] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.110173] [INFO] Database query executed
+[2025-11-05T23:20:43.110115] [INFO] Service initialized
+[2025-11-05T23:20:43.110154] [INFO] Database query executed
+[2025-11-05T23:20:43.110142] [INFO] Configuration loaded
+[2025-11-05T23:20:43.110219] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.110187] [INFO] Transaction completed
+[2025-11-05T23:20:43.110235] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.110169] [INFO] Cache hit
+[2025-11-05T23:20:43.110228] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.110191] [WARN] Rate limit approaching
+[2025-11-05T23:20:43.110180] [INFO] Service initialized
+[2025-11-05T23:20:43.110184] [INFO] Connection established
+[2025-11-05T23:20:43.110200] [WARN] Slow query performance
+[2025-11-05T23:20:43.110158] [INFO] Request processed successfully

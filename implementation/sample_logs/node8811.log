@@ -1,0 +1,32 @@
+[2025-11-05T23:20:49.014965] [INFO] Service initialized
+[2025-11-05T23:20:49.014933] [INFO] Transaction completed
+[2025-11-05T23:20:49.015009] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.014918] [INFO] Cache hit
+[2025-11-05T23:20:49.014987] [WARN] Timeout warning
+[2025-11-05T23:20:49.014923] [INFO] User logged in
+[2025-11-05T23:20:49.014992] [WARN] Cache miss
+[2025-11-05T23:20:49.014928] [INFO] Session started
+[2025-11-05T23:20:49.014970] [INFO] User logged in
+[2025-11-05T23:20:49.014956] [INFO] Request processed successfully
+[2025-11-05T23:20:49.014998] [ERROR] Authentication failed
+[2025-11-05T23:20:49.015044] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.014912] [INFO] Health check passed
+[2025-11-05T23:20:49.015031] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.014947] [INFO] User logged in
+[2025-11-05T23:20:49.015040] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:49.015004] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.014938] [INFO] Database query executed
+[2025-11-05T23:20:49.015014] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.015052] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.015035] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.014906] [INFO] Cache hit
+[2025-11-05T23:20:49.015022] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.014976] [WARN] Rate limit approaching
+[2025-11-05T23:20:49.014878] [INFO] Connection established
+[2025-11-05T23:20:49.015048] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.014960] [INFO] Session started
+[2025-11-05T23:20:49.014952] [INFO] Request processed successfully
+[2025-11-05T23:20:49.015018] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.014981] [WARN] Timeout warning
+[2025-11-05T23:20:49.015027] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.014942] [INFO] Session started

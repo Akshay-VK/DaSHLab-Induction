@@ -1,0 +1,33 @@
+[2025-11-05T23:20:42.530475] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.530488] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.530410] [INFO] User logged in
+[2025-11-05T23:20:42.530462] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.530438] [WARN] Timeout warning
+[2025-11-05T23:20:42.530452] [ERROR] Invalid input data
+[2025-11-05T23:20:42.530471] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.530457] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.530381] [INFO] User logged in
+[2025-11-05T23:20:42.530394] [INFO] Service initialized
+[2025-11-05T23:20:42.530324] [INFO] Request processed successfully
+[2025-11-05T23:20:42.530352] [INFO] Connection established
+[2025-11-05T23:20:42.530479] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.530442] [WARN] Timeout warning
+[2025-11-05T23:20:42.530372] [INFO] Service initialized
+[2025-11-05T23:20:42.530419] [INFO] Request processed successfully
+[2025-11-05T23:20:42.530492] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.530389] [INFO] Health check passed
+[2025-11-05T23:20:42.530358] [INFO] User logged in
+[2025-11-05T23:20:42.530466] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.530368] [INFO] Transaction completed
+[2025-11-05T23:20:42.530363] [INFO] Session started
+[2025-11-05T23:20:42.530484] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.530434] [WARN] Timeout warning
+[2025-11-05T23:20:42.530385] [INFO] Cache hit
+[2025-11-05T23:20:42.530377] [INFO] Database query executed
+[2025-11-05T23:20:42.530423] [INFO] Transaction completed
+[2025-11-05T23:20:42.530415] [INFO] Session started
+[2025-11-05T23:20:42.530398] [INFO] Configuration loaded
+[2025-11-05T23:20:42.530402] [INFO] Cache hit
+[2025-11-05T23:20:42.530448] [ERROR] Service unavailable
+[2025-11-05T23:20:42.530406] [INFO] Transaction completed
+[2025-11-05T23:20:42.530429] [WARN] Connection retry attempt

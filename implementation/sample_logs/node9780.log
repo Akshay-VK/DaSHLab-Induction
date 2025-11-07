@@ -1,0 +1,30 @@
+[2025-11-05T23:20:53.215030] [WARN] Queue size growing
+[2025-11-05T23:20:53.215008] [INFO] Health check passed
+[2025-11-05T23:20:53.215091] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.215075] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.215079] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.215088] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.215017] [INFO] Service initialized
+[2025-11-05T23:20:53.215062] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.214994] [INFO] Database query executed
+[2025-11-05T23:20:53.214981] [INFO] Database query executed
+[2025-11-05T23:20:53.215013] [INFO] Cache hit
+[2025-11-05T23:20:53.214962] [INFO] Cache hit
+[2025-11-05T23:20:53.214967] [INFO] Cache hit
+[2025-11-05T23:20:53.215039] [WARN] Disk space low
+[2025-11-05T23:20:53.215026] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.214989] [INFO] Request processed successfully
+[2025-11-05T23:20:53.214985] [INFO] Transaction completed
+[2025-11-05T23:20:53.214972] [INFO] Transaction completed
+[2025-11-05T23:20:53.215070] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.215057] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.215083] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.215066] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.214999] [INFO] Request processed successfully
+[2025-11-05T23:20:53.215051] [ERROR] Service unavailable
+[2025-11-05T23:20:53.215021] [INFO] Health check passed
+[2025-11-05T23:20:53.215003] [INFO] Database query executed
+[2025-11-05T23:20:53.215035] [WARN] Disk space low
+[2025-11-05T23:20:53.215045] [ERROR] Network timeout
+[2025-11-05T23:20:53.214977] [INFO] Service initialized
+[2025-11-05T23:20:53.214936] [INFO] Cache hit

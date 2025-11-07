@@ -1,0 +1,31 @@
+[2025-11-05T23:20:22.763120] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.763079] [WARN] High memory usage detected
+[2025-11-05T23:20:22.762971] [INFO] Health check passed
+[2025-11-05T23:20:22.763045] [INFO] Connection established
+[2025-11-05T23:20:22.762997] [INFO] Database query executed
+[2025-11-05T23:20:22.763049] [INFO] Connection established
+[2025-11-05T23:20:22.763087] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.763040] [INFO] User logged in
+[2025-11-05T23:20:22.763006] [INFO] Request processed successfully
+[2025-11-05T23:20:22.763015] [INFO] Transaction completed
+[2025-11-05T23:20:22.763002] [INFO] Service initialized
+[2025-11-05T23:20:22.763096] [WARN] Disk space low
+[2025-11-05T23:20:22.763060] [INFO] Connection established
+[2025-11-05T23:20:22.763102] [ERROR] Network timeout
+[2025-11-05T23:20:22.763020] [INFO] Transaction completed
+[2025-11-05T23:20:22.763053] [INFO] Request processed successfully
+[2025-11-05T23:20:22.763032] [INFO] User logged in
+[2025-11-05T23:20:22.763107] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.763028] [INFO] Request processed successfully
+[2025-11-05T23:20:22.763036] [INFO] Service initialized
+[2025-11-05T23:20:22.763011] [INFO] Session started
+[2025-11-05T23:20:22.763084] [WARN] Queue size growing
+[2025-11-05T23:20:22.763124] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.763116] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.763112] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.763070] [WARN] Queue size growing
+[2025-11-05T23:20:22.763056] [INFO] Cache hit
+[2025-11-05T23:20:22.763024] [INFO] Health check passed
+[2025-11-05T23:20:22.763092] [WARN] Timeout warning
+[2025-11-05T23:20:22.763065] [INFO] Database query executed
+[2025-11-05T23:20:22.763075] [WARN] Connection retry attempt

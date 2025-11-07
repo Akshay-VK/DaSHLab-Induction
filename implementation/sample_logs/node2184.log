@@ -1,0 +1,33 @@
+[2025-11-05T23:20:21.752281] [WARN] Timeout warning
+[2025-11-05T23:20:21.752301] [WARN] Queue size growing
+[2025-11-05T23:20:21.752229] [INFO] Transaction completed
+[2025-11-05T23:20:21.752259] [INFO] Service initialized
+[2025-11-05T23:20:21.752241] [INFO] Transaction completed
+[2025-11-05T23:20:21.752252] [INFO] Cache hit
+[2025-11-05T23:20:21.752248] [INFO] User logged in
+[2025-11-05T23:20:21.752293] [WARN] Queue size growing
+[2025-11-05T23:20:21.752237] [INFO] Database query executed
+[2025-11-05T23:20:21.752343] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.752264] [INFO] Database query executed
+[2025-11-05T23:20:21.752333] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.752286] [WARN] Cache miss
+[2025-11-05T23:20:21.752310] [ERROR] Request failed
+[2025-11-05T23:20:21.752225] [INFO] User logged in
+[2025-11-05T23:20:21.752255] [INFO] Connection established
+[2025-11-05T23:20:21.752314] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.752271] [INFO] Configuration loaded
+[2025-11-05T23:20:21.752338] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.752322] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.752220] [INFO] Health check passed
+[2025-11-05T23:20:21.752195] [INFO] Health check passed
+[2025-11-05T23:20:21.752244] [INFO] Cache hit
+[2025-11-05T23:20:21.752290] [WARN] Slow query performance
+[2025-11-05T23:20:21.752267] [INFO] Service initialized
+[2025-11-05T23:20:21.752276] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.752319] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.752326] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.752330] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.752347] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.752298] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.752233] [INFO] Request processed successfully
+[2025-11-05T23:20:21.752306] [ERROR] Authentication failed

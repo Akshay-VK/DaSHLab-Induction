@@ -1,0 +1,27 @@
+[2025-11-05T23:20:35.954235] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.954167] [INFO] User logged in
+[2025-11-05T23:20:35.954252] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.954153] [INFO] Session started
+[2025-11-05T23:20:35.954200] [WARN] Queue size growing
+[2025-11-05T23:20:35.954190] [WARN] Connection retry attempt
+[2025-11-05T23:20:35.954225] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.954175] [INFO] Database query executed
+[2025-11-05T23:20:35.954185] [INFO] Transaction completed
+[2025-11-05T23:20:35.954162] [INFO] Transaction completed
+[2025-11-05T23:20:35.954244] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.954171] [INFO] Transaction completed
+[2025-11-05T23:20:35.954214] [ERROR] Memory allocation error
+[2025-11-05T23:20:35.954204] [WARN] High memory usage detected
+[2025-11-05T23:20:35.954148] [INFO] Configuration loaded
+[2025-11-05T23:20:35.954230] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.954261] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.954142] [INFO] Configuration loaded
+[2025-11-05T23:20:35.954220] [ERROR] Invalid input data
+[2025-11-05T23:20:35.954248] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.954115] [INFO] Request processed successfully
+[2025-11-05T23:20:35.954240] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.954209] [WARN] Resource threshold approaching
+[2025-11-05T23:20:35.954158] [INFO] Request processed successfully
+[2025-11-05T23:20:35.954257] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.954195] [WARN] Connection retry attempt
+[2025-11-05T23:20:35.954180] [INFO] Connection established

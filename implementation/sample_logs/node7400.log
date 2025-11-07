@@ -1,0 +1,31 @@
+[2025-11-05T23:20:42.982462] [WARN] Queue size growing
+[2025-11-05T23:20:42.982505] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.982509] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.982477] [ERROR] Service unavailable
+[2025-11-05T23:20:42.982467] [WARN] High memory usage detected
+[2025-11-05T23:20:42.982486] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.982497] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.982425] [INFO] User logged in
+[2025-11-05T23:20:42.982417] [INFO] Session started
+[2025-11-05T23:20:42.982383] [INFO] Health check passed
+[2025-11-05T23:20:42.982429] [INFO] User logged in
+[2025-11-05T23:20:42.982472] [ERROR] Invalid input data
+[2025-11-05T23:20:42.982454] [INFO] Connection established
+[2025-11-05T23:20:42.982493] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.982447] [INFO] Health check passed
+[2025-11-05T23:20:42.982450] [INFO] Database query executed
+[2025-11-05T23:20:42.982458] [INFO] Database query executed
+[2025-11-05T23:20:42.982490] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.982407] [INFO] Connection established
+[2025-11-05T23:20:42.982440] [INFO] Cache hit
+[2025-11-05T23:20:42.982515] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.982413] [INFO] Database query executed
+[2025-11-05T23:20:42.982512] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.982519] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.982522] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.982482] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.982501] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.982436] [INFO] Transaction completed
+[2025-11-05T23:20:42.982444] [INFO] User logged in
+[2025-11-05T23:20:42.982433] [INFO] Service initialized
+[2025-11-05T23:20:42.982422] [INFO] Connection established

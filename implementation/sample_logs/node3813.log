@@ -1,0 +1,32 @@
+[2025-11-05T23:20:28.910278] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.910245] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.910184] [INFO] Request processed successfully
+[2025-11-05T23:20:28.910196] [INFO] Service initialized
+[2025-11-05T23:20:28.910261] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.910167] [INFO] Cache hit
+[2025-11-05T23:20:28.910188] [INFO] Health check passed
+[2025-11-05T23:20:28.910206] [WARN] Slow query performance
+[2025-11-05T23:20:28.910269] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.910163] [INFO] Request processed successfully
+[2025-11-05T23:20:28.910212] [WARN] Deprecated API usage
+[2025-11-05T23:20:28.910216] [WARN] Timeout warning
+[2025-11-05T23:20:28.910176] [INFO] Database query executed
+[2025-11-05T23:20:28.910154] [INFO] User logged in
+[2025-11-05T23:20:28.910274] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.910113] [INFO] Cache hit
+[2025-11-05T23:20:28.910221] [WARN] Queue size growing
+[2025-11-05T23:20:28.910232] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.910252] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.910193] [INFO] Cache hit
+[2025-11-05T23:20:28.910226] [ERROR] Permission denied
+[2025-11-05T23:20:28.910138] [INFO] User logged in
+[2025-11-05T23:20:28.910241] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.910201] [INFO] Service initialized
+[2025-11-05T23:20:28.910180] [INFO] Request processed successfully
+[2025-11-05T23:20:28.910159] [INFO] Cache hit
+[2025-11-05T23:20:28.910144] [INFO] Transaction completed
+[2025-11-05T23:20:28.910150] [INFO] User logged in
+[2025-11-05T23:20:28.910257] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.910236] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.910172] [INFO] Session started
+[2025-11-05T23:20:28.910265] [DEBUG] Variable value: x=42

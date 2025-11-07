@@ -1,0 +1,25 @@
+[2025-11-05T23:20:52.308592] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.308564] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.308499] [INFO] Configuration loaded
+[2025-11-05T23:20:52.308560] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.308514] [INFO] User logged in
+[2025-11-05T23:20:52.308569] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.308453] [INFO] Configuration loaded
+[2025-11-05T23:20:52.308528] [INFO] Database query executed
+[2025-11-05T23:20:52.308478] [INFO] Health check passed
+[2025-11-05T23:20:52.308587] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.308519] [INFO] Cache hit
+[2025-11-05T23:20:52.308538] [WARN] Rate limit approaching
+[2025-11-05T23:20:52.308523] [INFO] Database query executed
+[2025-11-05T23:20:52.308578] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.308549] [ERROR] Database connection lost
+[2025-11-05T23:20:52.308495] [INFO] Health check passed
+[2025-11-05T23:20:52.308532] [INFO] Connection established
+[2025-11-05T23:20:52.308544] [ERROR] Authentication failed
+[2025-11-05T23:20:52.308504] [INFO] Transaction completed
+[2025-11-05T23:20:52.308485] [INFO] Service initialized
+[2025-11-05T23:20:52.308490] [INFO] Request processed successfully
+[2025-11-05T23:20:52.308555] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.308582] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.308574] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.308508] [INFO] Service initialized

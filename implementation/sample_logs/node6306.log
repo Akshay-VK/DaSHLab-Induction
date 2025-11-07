@@ -1,0 +1,28 @@
+[2025-11-05T23:20:38.884697] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.884647] [INFO] Connection established
+[2025-11-05T23:20:38.884675] [ERROR] File not found
+[2025-11-05T23:20:38.884565] [INFO] Session started
+[2025-11-05T23:20:38.884690] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.884631] [INFO] Health check passed
+[2025-11-05T23:20:38.884681] [ERROR] Service unavailable
+[2025-11-05T23:20:38.884640] [INFO] Session started
+[2025-11-05T23:20:38.884652] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.884610] [INFO] Session started
+[2025-11-05T23:20:38.884619] [INFO] Health check passed
+[2025-11-05T23:20:38.884605] [INFO] Request processed successfully
+[2025-11-05T23:20:38.884656] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.884627] [INFO] Transaction completed
+[2025-11-05T23:20:38.884596] [INFO] Health check passed
+[2025-11-05T23:20:38.884693] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.884622] [INFO] User logged in
+[2025-11-05T23:20:38.884665] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.884644] [INFO] Health check passed
+[2025-11-05T23:20:38.884704] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.884614] [INFO] Database query executed
+[2025-11-05T23:20:38.884590] [INFO] Connection established
+[2025-11-05T23:20:38.884601] [INFO] Connection established
+[2025-11-05T23:20:38.884701] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.884636] [INFO] Transaction completed
+[2025-11-05T23:20:38.884660] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.884686] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.884670] [ERROR] Permission denied

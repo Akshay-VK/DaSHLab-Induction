@@ -1,0 +1,27 @@
+[2025-11-05T23:20:48.269346] [ERROR] File not found
+[2025-11-05T23:20:48.269333] [INFO] Configuration loaded
+[2025-11-05T23:20:48.269367] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.269359] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:48.269317] [INFO] Database query executed
+[2025-11-05T23:20:48.269336] [INFO] Health check passed
+[2025-11-05T23:20:48.269384] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.269307] [INFO] Transaction completed
+[2025-11-05T23:20:48.269300] [INFO] Cache hit
+[2025-11-05T23:20:48.269370] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:48.269341] [WARN] Queue size growing
+[2025-11-05T23:20:48.269291] [INFO] Health check passed
+[2025-11-05T23:20:48.269303] [INFO] Configuration loaded
+[2025-11-05T23:20:48.269311] [INFO] Health check passed
+[2025-11-05T23:20:48.269320] [INFO] Cache hit
+[2025-11-05T23:20:48.269380] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.269330] [INFO] Transaction completed
+[2025-11-05T23:20:48.269377] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:48.269267] [INFO] Transaction completed
+[2025-11-05T23:20:48.269374] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.269323] [INFO] Database query executed
+[2025-11-05T23:20:48.269355] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.269296] [INFO] Database query executed
+[2025-11-05T23:20:48.269327] [INFO] Database query executed
+[2025-11-05T23:20:48.269350] [ERROR] Service unavailable
+[2025-11-05T23:20:48.269363] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.269314] [INFO] Transaction completed

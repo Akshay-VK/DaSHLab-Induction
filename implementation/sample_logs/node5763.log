@@ -1,0 +1,31 @@
+[2025-11-05T23:20:36.342197] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.342142] [INFO] Service initialized
+[2025-11-05T23:20:36.342129] [INFO] Connection established
+[2025-11-05T23:20:36.342088] [INFO] Request processed successfully
+[2025-11-05T23:20:36.342177] [ERROR] Permission denied
+[2025-11-05T23:20:36.342160] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.342166] [WARN] Disk space low
+[2025-11-05T23:20:36.342215] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.342154] [INFO] Cache hit
+[2025-11-05T23:20:36.342224] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.342104] [INFO] Health check passed
+[2025-11-05T23:20:36.342134] [INFO] Database query executed
+[2025-11-05T23:20:36.342094] [INFO] Transaction completed
+[2025-11-05T23:20:36.342110] [INFO] Service initialized
+[2025-11-05T23:20:36.342220] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.342146] [INFO] Service initialized
+[2025-11-05T23:20:36.342082] [INFO] Transaction completed
+[2025-11-05T23:20:36.342055] [INFO] Request processed successfully
+[2025-11-05T23:20:36.342188] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.342182] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.342201] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.342150] [INFO] Database query executed
+[2025-11-05T23:20:36.342119] [INFO] Transaction completed
+[2025-11-05T23:20:36.342211] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.342124] [INFO] Session started
+[2025-11-05T23:20:36.342206] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.342099] [INFO] Transaction completed
+[2025-11-05T23:20:36.342172] [ERROR] Authentication failed
+[2025-11-05T23:20:36.342115] [INFO] Cache hit
+[2025-11-05T23:20:36.342192] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.342138] [INFO] Transaction completed

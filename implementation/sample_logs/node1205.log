@@ -1,0 +1,33 @@
+[2025-11-05T23:20:17.515539] [WARN] Cache miss
+[2025-11-05T23:20:17.515531] [WARN] Connection retry attempt
+[2025-11-05T23:20:17.515558] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.515547] [ERROR] Database connection lost
+[2025-11-05T23:20:17.515574] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.515527] [INFO] Health check passed
+[2025-11-05T23:20:17.515568] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.515581] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.515501] [INFO] Configuration loaded
+[2025-11-05T23:20:17.515459] [INFO] Session started
+[2025-11-05T23:20:17.515578] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.515551] [ERROR] Authentication failed
+[2025-11-05T23:20:17.515487] [INFO] Database query executed
+[2025-11-05T23:20:17.515497] [INFO] Configuration loaded
+[2025-11-05T23:20:17.515592] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.515584] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.515571] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.515514] [INFO] Database query executed
+[2025-11-05T23:20:17.515511] [INFO] Configuration loaded
+[2025-11-05T23:20:17.515521] [INFO] Transaction completed
+[2025-11-05T23:20:17.515524] [INFO] User logged in
+[2025-11-05T23:20:17.515543] [WARN] Deprecated API usage
+[2025-11-05T23:20:17.515433] [INFO] Request processed successfully
+[2025-11-05T23:20:17.515535] [WARN] High memory usage detected
+[2025-11-05T23:20:17.515493] [INFO] Cache hit
+[2025-11-05T23:20:17.515517] [INFO] Health check passed
+[2025-11-05T23:20:17.515508] [INFO] Cache hit
+[2025-11-05T23:20:17.515554] [ERROR] Network timeout
+[2025-11-05T23:20:17.515595] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.515505] [INFO] User logged in
+[2025-11-05T23:20:17.515564] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.515561] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.515588] [DEBUG] Entering function process_data()

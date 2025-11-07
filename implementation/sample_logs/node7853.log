@@ -1,0 +1,29 @@
+[2025-11-05T23:20:44.881176] [INFO] Request processed successfully
+[2025-11-05T23:20:44.881183] [INFO] Connection established
+[2025-11-05T23:20:44.881214] [INFO] Transaction completed
+[2025-11-05T23:20:44.881278] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.881274] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.881218] [INFO] Configuration loaded
+[2025-11-05T23:20:44.881301] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.881241] [WARN] High memory usage detected
+[2025-11-05T23:20:44.881291] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.881246] [WARN] Cache miss
+[2025-11-05T23:20:44.881287] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.881268] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.881151] [INFO] Configuration loaded
+[2025-11-05T23:20:44.881206] [INFO] Request processed successfully
+[2025-11-05T23:20:44.881188] [INFO] Transaction completed
+[2025-11-05T23:20:44.881305] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.881197] [INFO] Service initialized
+[2025-11-05T23:20:44.881230] [WARN] Cache miss
+[2025-11-05T23:20:44.881252] [ERROR] Request failed
+[2025-11-05T23:20:44.881283] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.881224] [INFO] Transaction completed
+[2025-11-05T23:20:44.881237] [WARN] Slow query performance
+[2025-11-05T23:20:44.881309] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.881202] [INFO] Service initialized
+[2025-11-05T23:20:44.881295] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.881258] [ERROR] File not found
+[2025-11-05T23:20:44.881192] [INFO] Database query executed
+[2025-11-05T23:20:44.881263] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.881210] [INFO] Service initialized

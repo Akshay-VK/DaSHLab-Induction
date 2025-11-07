@@ -1,0 +1,31 @@
+[2025-11-05T23:20:19.918399] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.918372] [WARN] Cache miss
+[2025-11-05T23:20:19.918409] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.918343] [INFO] Request processed successfully
+[2025-11-05T23:20:19.918318] [INFO] User logged in
+[2025-11-05T23:20:19.918352] [INFO] Database query executed
+[2025-11-05T23:20:19.918361] [INFO] Service initialized
+[2025-11-05T23:20:19.918395] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.918339] [INFO] Configuration loaded
+[2025-11-05T23:20:19.918404] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.918335] [INFO] Cache hit
+[2025-11-05T23:20:19.918413] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.918379] [ERROR] Permission denied
+[2025-11-05T23:20:19.918313] [INFO] Transaction completed
+[2025-11-05T23:20:19.918390] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.918322] [INFO] Cache hit
+[2025-11-05T23:20:19.918327] [INFO] Service initialized
+[2025-11-05T23:20:19.918302] [INFO] Database query executed
+[2025-11-05T23:20:19.918274] [INFO] Request processed successfully
+[2025-11-05T23:20:19.918426] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.918308] [INFO] Session started
+[2025-11-05T23:20:19.918331] [INFO] Connection established
+[2025-11-05T23:20:19.918439] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.918435] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.918356] [INFO] User logged in
+[2025-11-05T23:20:19.918422] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.918347] [INFO] Session started
+[2025-11-05T23:20:19.918431] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.918367] [WARN] Disk space low
+[2025-11-05T23:20:19.918418] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.918384] [ERROR] Service unavailable

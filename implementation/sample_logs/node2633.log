@@ -1,0 +1,29 @@
+[2025-11-05T23:20:23.783475] [WARN] Cache miss
+[2025-11-05T23:20:23.783479] [WARN] High memory usage detected
+[2025-11-05T23:20:23.783506] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.783457] [INFO] Cache hit
+[2025-11-05T23:20:23.783421] [INFO] Configuration loaded
+[2025-11-05T23:20:23.783425] [INFO] Connection established
+[2025-11-05T23:20:23.783461] [INFO] Request processed successfully
+[2025-11-05T23:20:23.783441] [INFO] Connection established
+[2025-11-05T23:20:23.783498] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.783526] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.783465] [INFO] Database query executed
+[2025-11-05T23:20:23.783522] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.783518] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.783433] [INFO] Request processed successfully
+[2025-11-05T23:20:23.783502] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.783453] [INFO] Transaction completed
+[2025-11-05T23:20:23.783429] [INFO] Request processed successfully
+[2025-11-05T23:20:23.783416] [INFO] Transaction completed
+[2025-11-05T23:20:23.783386] [INFO] Transaction completed
+[2025-11-05T23:20:23.783445] [INFO] Request processed successfully
+[2025-11-05T23:20:23.783483] [WARN] Timeout warning
+[2025-11-05T23:20:23.783449] [INFO] Database query executed
+[2025-11-05T23:20:23.783488] [ERROR] Invalid input data
+[2025-11-05T23:20:23.783514] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.783411] [INFO] Request processed successfully
+[2025-11-05T23:20:23.783494] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.783437] [INFO] Request processed successfully
+[2025-11-05T23:20:23.783470] [WARN] Cache miss
+[2025-11-05T23:20:23.783510] [DEBUG] HTTP request headers parsed

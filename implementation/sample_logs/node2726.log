@@ -1,0 +1,25 @@
+[2025-11-05T23:20:24.211093] [INFO] Cache hit
+[2025-11-05T23:20:24.211168] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.211087] [INFO] Request processed successfully
+[2025-11-05T23:20:24.211122] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.211140] [ERROR] File not found
+[2025-11-05T23:20:24.211117] [WARN] Rate limit approaching
+[2025-11-05T23:20:24.211126] [WARN] Slow query performance
+[2025-11-05T23:20:24.211102] [INFO] User logged in
+[2025-11-05T23:20:24.211176] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.211172] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.211185] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.211194] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.211163] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.211181] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.211190] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.211146] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.211150] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.211107] [INFO] Request processed successfully
+[2025-11-05T23:20:24.211097] [INFO] Connection established
+[2025-11-05T23:20:24.211112] [INFO] Request processed successfully
+[2025-11-05T23:20:24.211135] [WARN] High memory usage detected
+[2025-11-05T23:20:24.211131] [WARN] Resource threshold approaching
+[2025-11-05T23:20:24.211159] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.211061] [INFO] Session started
+[2025-11-05T23:20:24.211155] [DEBUG] Loop iteration: 15

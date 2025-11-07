@@ -1,0 +1,31 @@
+[2025-11-05T23:20:14.563465] [WARN] Deprecated API usage
+[2025-11-05T23:20:14.563461] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.563487] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.563427] [INFO] User logged in
+[2025-11-05T23:20:14.563502] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.563506] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.563441] [INFO] Cache hit
+[2025-11-05T23:20:14.563521] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.563538] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.563533] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.563423] [INFO] Configuration loaded
+[2025-11-05T23:20:14.563369] [INFO] Configuration loaded
+[2025-11-05T23:20:14.563493] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.563417] [INFO] Database query executed
+[2025-11-05T23:20:14.563457] [WARN] Cache miss
+[2025-11-05T23:20:14.563407] [INFO] Database query executed
+[2025-11-05T23:20:14.563470] [WARN] High memory usage detected
+[2025-11-05T23:20:14.563437] [INFO] Request processed successfully
+[2025-11-05T23:20:14.563497] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.563516] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.563482] [ERROR] Request failed
+[2025-11-05T23:20:14.563529] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.563525] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.563451] [WARN] Cache miss
+[2025-11-05T23:20:14.563446] [INFO] Request processed successfully
+[2025-11-05T23:20:14.563413] [INFO] Health check passed
+[2025-11-05T23:20:14.563432] [INFO] Health check passed
+[2025-11-05T23:20:14.563511] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.563476] [ERROR] Database connection lost
+[2025-11-05T23:20:14.563396] [INFO] Configuration loaded
+[2025-11-05T23:20:14.563402] [INFO] Session started

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:30.459216] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.459225] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.459152] [INFO] User logged in
+[2025-11-05T23:20:30.459100] [INFO] Cache hit
+[2025-11-05T23:20:30.459238] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.459147] [INFO] Transaction completed
+[2025-11-05T23:20:30.459202] [ERROR] Authentication failed
+[2025-11-05T23:20:30.459136] [INFO] User logged in
+[2025-11-05T23:20:30.459185] [INFO] Database query executed
+[2025-11-05T23:20:30.459141] [INFO] Session started
+[2025-11-05T23:20:30.459242] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.459221] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.459169] [INFO] Request processed successfully
+[2025-11-05T23:20:30.459250] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.459196] [WARN] High memory usage detected
+[2025-11-05T23:20:30.459191] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.459177] [INFO] Session started
+[2025-11-05T23:20:30.459246] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.459165] [INFO] Cache hit
+[2025-11-05T23:20:30.459131] [INFO] Health check passed
+[2025-11-05T23:20:30.459161] [INFO] Database query executed
+[2025-11-05T23:20:30.459181] [INFO] User logged in
+[2025-11-05T23:20:30.459230] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.459173] [INFO] Connection established
+[2025-11-05T23:20:30.459157] [INFO] Transaction completed
+[2025-11-05T23:20:30.459125] [INFO] Request processed successfully
+[2025-11-05T23:20:30.459234] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.459207] [ERROR] Request failed
+[2025-11-05T23:20:30.459211] [ERROR] Disk read failed

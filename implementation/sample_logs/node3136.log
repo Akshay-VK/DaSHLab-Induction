@@ -1,0 +1,30 @@
+[2025-11-05T23:20:25.893063] [WARN] High memory usage detected
+[2025-11-05T23:20:25.892996] [INFO] Database query executed
+[2025-11-05T23:20:25.893054] [WARN] Slow query performance
+[2025-11-05T23:20:25.893099] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.892985] [INFO] Cache hit
+[2025-11-05T23:20:25.893103] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.893069] [ERROR] Invalid input data
+[2025-11-05T23:20:25.893019] [INFO] Cache hit
+[2025-11-05T23:20:25.893010] [INFO] Cache hit
+[2025-11-05T23:20:25.893059] [WARN] Rate limit approaching
+[2025-11-05T23:20:25.893079] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.893089] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.893094] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.893108] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.893073] [ERROR] Disk read failed
+[2025-11-05T23:20:25.893006] [INFO] Configuration loaded
+[2025-11-05T23:20:25.893001] [INFO] Health check passed
+[2025-11-05T23:20:25.893084] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.892991] [INFO] Configuration loaded
+[2025-11-05T23:20:25.893048] [WARN] High memory usage detected
+[2025-11-05T23:20:25.893117] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.893033] [INFO] Connection established
+[2025-11-05T23:20:25.893042] [INFO] Cache hit
+[2025-11-05T23:20:25.893014] [INFO] Request processed successfully
+[2025-11-05T23:20:25.893113] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.892979] [INFO] User logged in
+[2025-11-05T23:20:25.892952] [INFO] Transaction completed
+[2025-11-05T23:20:25.893024] [INFO] Session started
+[2025-11-05T23:20:25.893038] [INFO] User logged in
+[2025-11-05T23:20:25.893028] [INFO] Health check passed

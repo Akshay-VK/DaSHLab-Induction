@@ -1,0 +1,27 @@
+[2025-11-05T23:20:40.101590] [INFO] User logged in
+[2025-11-05T23:20:40.101685] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.101676] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.101599] [INFO] Health check passed
+[2025-11-05T23:20:40.101622] [INFO] Service initialized
+[2025-11-05T23:20:40.101702] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.101698] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.101655] [ERROR] Permission denied
+[2025-11-05T23:20:40.101672] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.101630] [INFO] Connection established
+[2025-11-05T23:20:40.101613] [INFO] Session started
+[2025-11-05T23:20:40.101681] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.101635] [INFO] Connection established
+[2025-11-05T23:20:40.101689] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.101585] [INFO] Cache hit
+[2025-11-05T23:20:40.101661] [ERROR] Service unavailable
+[2025-11-05T23:20:40.101604] [INFO] User logged in
+[2025-11-05T23:20:40.101617] [INFO] User logged in
+[2025-11-05T23:20:40.101626] [INFO] Service initialized
+[2025-11-05T23:20:40.101561] [INFO] Transaction completed
+[2025-11-05T23:20:40.101693] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.101649] [WARN] Connection retry attempt
+[2025-11-05T23:20:40.101640] [INFO] Session started
+[2025-11-05T23:20:40.101608] [INFO] Transaction completed
+[2025-11-05T23:20:40.101667] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.101644] [INFO] Service initialized
+[2025-11-05T23:20:40.101594] [INFO] Transaction completed

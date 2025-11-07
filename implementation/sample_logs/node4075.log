@@ -1,0 +1,29 @@
+[2025-11-05T23:20:29.950725] [INFO] User logged in
+[2025-11-05T23:20:29.950760] [INFO] Configuration loaded
+[2025-11-05T23:20:29.950816] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.950836] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.950768] [INFO] Cache hit
+[2025-11-05T23:20:29.950827] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.950807] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.950751] [INFO] Transaction completed
+[2025-11-05T23:20:29.950796] [ERROR] Authentication failed
+[2025-11-05T23:20:29.950743] [INFO] Configuration loaded
+[2025-11-05T23:20:29.950831] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.950735] [INFO] Session started
+[2025-11-05T23:20:29.950739] [INFO] Request processed successfully
+[2025-11-05T23:20:29.950786] [WARN] Resource threshold approaching
+[2025-11-05T23:20:29.950765] [INFO] User logged in
+[2025-11-05T23:20:29.950780] [INFO] User logged in
+[2025-11-05T23:20:29.950801] [ERROR] Network timeout
+[2025-11-05T23:20:29.950756] [INFO] Database query executed
+[2025-11-05T23:20:29.950691] [INFO] Session started
+[2025-11-05T23:20:29.950840] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.950811] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.950730] [INFO] Request processed successfully
+[2025-11-05T23:20:29.950791] [WARN] Queue size growing
+[2025-11-05T23:20:29.950824] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.950719] [INFO] Cache hit
+[2025-11-05T23:20:29.950820] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.950747] [INFO] Configuration loaded
+[2025-11-05T23:20:29.950776] [INFO] Session started
+[2025-11-05T23:20:29.950772] [INFO] Service initialized

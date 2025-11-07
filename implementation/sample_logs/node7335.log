@@ -1,0 +1,29 @@
+[2025-11-05T23:20:42.719717] [ERROR] Database connection lost
+[2025-11-05T23:20:42.719683] [INFO] User logged in
+[2025-11-05T23:20:42.719760] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.719737] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.719752] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.719741] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.719712] [ERROR] File not found
+[2025-11-05T23:20:42.719748] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.719663] [INFO] Service initialized
+[2025-11-05T23:20:42.719671] [INFO] Transaction completed
+[2025-11-05T23:20:42.719697] [INFO] Session started
+[2025-11-05T23:20:42.719649] [INFO] Request processed successfully
+[2025-11-05T23:20:42.719702] [WARN] Cache miss
+[2025-11-05T23:20:42.719667] [INFO] Connection established
+[2025-11-05T23:20:42.719679] [INFO] Connection established
+[2025-11-05T23:20:42.719726] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.719690] [INFO] Service initialized
+[2025-11-05T23:20:42.719655] [INFO] Cache hit
+[2025-11-05T23:20:42.719686] [INFO] Request processed successfully
+[2025-11-05T23:20:42.719707] [WARN] Queue size growing
+[2025-11-05T23:20:42.719733] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.719756] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.719659] [INFO] Service initialized
+[2025-11-05T23:20:42.719729] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.719675] [INFO] Session started
+[2025-11-05T23:20:42.719722] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.719694] [INFO] Health check passed
+[2025-11-05T23:20:42.719625] [INFO] Configuration loaded
+[2025-11-05T23:20:42.719745] [DEBUG] Buffer size: 4096 bytes

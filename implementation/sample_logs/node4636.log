@@ -1,0 +1,33 @@
+[2025-11-05T23:20:32.177052] [INFO] Cache hit
+[2025-11-05T23:20:32.177066] [INFO] Health check passed
+[2025-11-05T23:20:32.177125] [WARN] Queue size growing
+[2025-11-05T23:20:32.177130] [WARN] Rate limit approaching
+[2025-11-05T23:20:32.177094] [INFO] Cache hit
+[2025-11-05T23:20:32.177167] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.177047] [INFO] Transaction completed
+[2025-11-05T23:20:32.177074] [INFO] Request processed successfully
+[2025-11-05T23:20:32.177057] [INFO] Request processed successfully
+[2025-11-05T23:20:32.177112] [WARN] Queue size growing
+[2025-11-05T23:20:32.177121] [WARN] Deprecated API usage
+[2025-11-05T23:20:32.177061] [INFO] Request processed successfully
+[2025-11-05T23:20:32.177144] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.177116] [WARN] Slow query performance
+[2025-11-05T23:20:32.177097] [INFO] User logged in
+[2025-11-05T23:20:32.177105] [INFO] Session started
+[2025-11-05T23:20:32.177042] [INFO] Session started
+[2025-11-05T23:20:32.177153] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:32.177078] [INFO] User logged in
+[2025-11-05T23:20:32.177171] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.177090] [INFO] Transaction completed
+[2025-11-05T23:20:32.177175] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.177135] [ERROR] Disk read failed
+[2025-11-05T23:20:32.177139] [ERROR] Database connection lost
+[2025-11-05T23:20:32.177157] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:32.177070] [INFO] Health check passed
+[2025-11-05T23:20:32.177086] [INFO] User logged in
+[2025-11-05T23:20:32.177016] [INFO] Session started
+[2025-11-05T23:20:32.177102] [INFO] Database query executed
+[2025-11-05T23:20:32.177082] [INFO] Request processed successfully
+[2025-11-05T23:20:32.177163] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:32.177179] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.177149] [DEBUG] HTTP request headers parsed

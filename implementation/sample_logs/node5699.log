@@ -1,0 +1,34 @@
+[2025-11-05T23:20:36.144133] [INFO] Configuration loaded
+[2025-11-05T23:20:36.144105] [INFO] User logged in
+[2025-11-05T23:20:36.144227] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.144080] [INFO] Health check passed
+[2025-11-05T23:20:36.144239] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.144170] [INFO] User logged in
+[2025-11-05T23:20:36.144138] [INFO] Database query executed
+[2025-11-05T23:20:36.144194] [WARN] High memory usage detected
+[2025-11-05T23:20:36.144142] [INFO] Cache hit
+[2025-11-05T23:20:36.144199] [ERROR] Disk read failed
+[2025-11-05T23:20:36.144223] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.144235] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.144124] [INFO] Connection established
+[2025-11-05T23:20:36.144158] [INFO] Cache hit
+[2025-11-05T23:20:36.144129] [INFO] Database query executed
+[2025-11-05T23:20:36.144154] [INFO] Service initialized
+[2025-11-05T23:20:36.144209] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.144243] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:36.144110] [INFO] Health check passed
+[2025-11-05T23:20:36.144115] [INFO] User logged in
+[2025-11-05T23:20:36.144181] [WARN] Deprecated API usage
+[2025-11-05T23:20:36.144146] [INFO] Transaction completed
+[2025-11-05T23:20:36.144189] [WARN] Slow query performance
+[2025-11-05T23:20:36.144119] [INFO] User logged in
+[2025-11-05T23:20:36.144176] [WARN] Disk space low
+[2025-11-05T23:20:36.144185] [WARN] Disk space low
+[2025-11-05T23:20:36.144214] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.144231] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.144150] [INFO] Session started
+[2025-11-05T23:20:36.144162] [INFO] Service initialized
+[2025-11-05T23:20:36.144166] [INFO] Session started
+[2025-11-05T23:20:36.144218] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.144247] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.144204] [ERROR] Request failed

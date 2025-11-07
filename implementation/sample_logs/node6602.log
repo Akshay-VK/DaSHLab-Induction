@@ -1,0 +1,34 @@
+[2025-11-05T23:20:40.033249] [INFO] Service initialized
+[2025-11-05T23:20:40.033299] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.033283] [WARN] High memory usage detected
+[2025-11-05T23:20:40.033338] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.033376] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.033367] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.033351] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.033311] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.033195] [INFO] Database query executed
+[2025-11-05T23:20:40.033342] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.033254] [INFO] Health check passed
+[2025-11-05T23:20:40.033234] [INFO] Transaction completed
+[2025-11-05T23:20:40.033326] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.033259] [INFO] Database query executed
+[2025-11-05T23:20:40.033363] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.033316] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.033244] [INFO] Service initialized
+[2025-11-05T23:20:40.033267] [INFO] Transaction completed
+[2025-11-05T23:20:40.033320] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.033293] [ERROR] Request failed
+[2025-11-05T23:20:40.033371] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.033287] [WARN] High memory usage detected
+[2025-11-05T23:20:40.033278] [WARN] Cache miss
+[2025-11-05T23:20:40.033355] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.033263] [INFO] User logged in
+[2025-11-05T23:20:40.033272] [INFO] Cache hit
+[2025-11-05T23:20:40.033330] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.033359] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.033229] [INFO] Health check passed
+[2025-11-05T23:20:40.033346] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.033304] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.033221] [INFO] Configuration loaded
+[2025-11-05T23:20:40.033334] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.033239] [INFO] Database query executed

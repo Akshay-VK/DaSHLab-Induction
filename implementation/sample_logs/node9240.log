@@ -1,0 +1,29 @@
+[2025-11-05T23:20:50.667483] [ERROR] Memory allocation error
+[2025-11-05T23:20:50.667383] [INFO] Transaction completed
+[2025-11-05T23:20:50.667447] [INFO] Request processed successfully
+[2025-11-05T23:20:50.667504] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.667487] [ERROR] Disk read failed
+[2025-11-05T23:20:50.667509] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:50.667414] [INFO] Service initialized
+[2025-11-05T23:20:50.667521] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.667408] [INFO] Request processed successfully
+[2025-11-05T23:20:50.667525] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.667513] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.667455] [INFO] User logged in
+[2025-11-05T23:20:50.667533] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.667428] [INFO] Health check passed
+[2025-11-05T23:20:50.667419] [INFO] Transaction completed
+[2025-11-05T23:20:50.667464] [INFO] Session started
+[2025-11-05T23:20:50.667423] [INFO] Cache hit
+[2025-11-05T23:20:50.667492] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.667437] [INFO] Health check passed
+[2025-11-05T23:20:50.667497] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.667441] [INFO] Connection established
+[2025-11-05T23:20:50.667471] [WARN] Slow query performance
+[2025-11-05T23:20:50.667517] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.667451] [INFO] Request processed successfully
+[2025-11-05T23:20:50.667501] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.667529] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.667460] [INFO] Request processed successfully
+[2025-11-05T23:20:50.667477] [WARN] Connection retry attempt
+[2025-11-05T23:20:50.667433] [INFO] User logged in

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:15.219368] [INFO] Cache hit
+[2025-11-05T23:20:15.219338] [INFO] Connection established
+[2025-11-05T23:20:15.220286] [ERROR] Permission denied
+[2025-11-05T23:20:15.220291] [ERROR] Memory allocation error
+[2025-11-05T23:20:15.219391] [INFO] Connection established
+[2025-11-05T23:20:15.219395] [INFO] Cache hit
+[2025-11-05T23:20:15.219387] [INFO] Health check passed
+[2025-11-05T23:20:15.220321] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.220317] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.220297] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.219362] [INFO] Cache hit
+[2025-11-05T23:20:15.219383] [INFO] User logged in
+[2025-11-05T23:20:15.219404] [INFO] Cache hit
+[2025-11-05T23:20:15.219399] [INFO] Service initialized
+[2025-11-05T23:20:15.219378] [INFO] Transaction completed
+[2025-11-05T23:20:15.220258] [WARN] Disk space low
+[2025-11-05T23:20:15.220312] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.219412] [INFO] Request processed successfully
+[2025-11-05T23:20:15.220214] [WARN] Slow query performance
+[2025-11-05T23:20:15.219418] [WARN] High memory usage detected
+[2025-11-05T23:20:15.220265] [WARN] High memory usage detected
+[2025-11-05T23:20:15.219373] [INFO] Health check passed
+[2025-11-05T23:20:15.219408] [INFO] Configuration loaded
+[2025-11-05T23:20:15.220271] [WARN] Slow query performance
+[2025-11-05T23:20:15.220307] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.220275] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.220325] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.220302] [DEBUG] Memory allocation: 2048 bytes

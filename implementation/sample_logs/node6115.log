@@ -1,0 +1,29 @@
+[2025-11-05T23:20:38.184769] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.184694] [INFO] Transaction completed
+[2025-11-05T23:20:38.184676] [INFO] Transaction completed
+[2025-11-05T23:20:38.184740] [WARN] Slow query performance
+[2025-11-05T23:20:38.184783] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.184730] [INFO] Health check passed
+[2025-11-05T23:20:38.184710] [INFO] Service initialized
+[2025-11-05T23:20:38.184715] [INFO] Cache hit
+[2025-11-05T23:20:38.184751] [ERROR] Request failed
+[2025-11-05T23:20:38.184685] [INFO] Connection established
+[2025-11-05T23:20:38.184746] [ERROR] Network timeout
+[2025-11-05T23:20:38.184645] [INFO] Configuration loaded
+[2025-11-05T23:20:38.184689] [INFO] Health check passed
+[2025-11-05T23:20:38.184760] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.184723] [INFO] Health check passed
+[2025-11-05T23:20:38.184756] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.184719] [INFO] Database query executed
+[2025-11-05T23:20:38.184778] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.184702] [INFO] Database query executed
+[2025-11-05T23:20:38.184787] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.184773] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.184790] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.184726] [INFO] Connection established
+[2025-11-05T23:20:38.184681] [INFO] Transaction completed
+[2025-11-05T23:20:38.184765] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.184734] [INFO] Session started
+[2025-11-05T23:20:38.184707] [INFO] Transaction completed
+[2025-11-05T23:20:38.184698] [INFO] Cache hit
+[2025-11-05T23:20:38.184670] [INFO] Health check passed

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:29.412573] [INFO] Configuration loaded
+[2025-11-05T23:20:29.412647] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.412609] [INFO] Database query executed
+[2025-11-05T23:20:29.412658] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.412577] [INFO] Request processed successfully
+[2025-11-05T23:20:29.412637] [WARN] Slow query performance
+[2025-11-05T23:20:29.412674] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.412598] [INFO] Service initialized
+[2025-11-05T23:20:29.412669] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.412678] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.412666] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.412594] [INFO] User logged in
+[2025-11-05T23:20:29.412633] [WARN] High memory usage detected
+[2025-11-05T23:20:29.412605] [INFO] User logged in
+[2025-11-05T23:20:29.412651] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.412539] [INFO] Session started
+[2025-11-05T23:20:29.412602] [INFO] Configuration loaded
+[2025-11-05T23:20:29.412662] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:29.412655] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.412619] [INFO] Service initialized
+[2025-11-05T23:20:29.412641] [ERROR] Invalid input data
+[2025-11-05T23:20:29.412564] [INFO] Health check passed
+[2025-11-05T23:20:29.412585] [INFO] Service initialized
+[2025-11-05T23:20:29.412613] [INFO] Health check passed
+[2025-11-05T23:20:29.412581] [INFO] Connection established
+[2025-11-05T23:20:29.412589] [INFO] Transaction completed
+[2025-11-05T23:20:29.412616] [INFO] Transaction completed
+[2025-11-05T23:20:29.412629] [WARN] Timeout warning
+[2025-11-05T23:20:29.412624] [WARN] Cache miss
+[2025-11-05T23:20:29.412569] [INFO] Service initialized

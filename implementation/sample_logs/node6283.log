@@ -1,0 +1,29 @@
+[2025-11-05T23:20:38.755835] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.755736] [INFO] Connection established
+[2025-11-05T23:20:38.755814] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.755826] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.755794] [ERROR] Disk read failed
+[2025-11-05T23:20:38.755685] [INFO] Transaction completed
+[2025-11-05T23:20:38.755818] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.755831] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.755785] [WARN] Slow query performance
+[2025-11-05T23:20:38.755727] [INFO] Connection established
+[2025-11-05T23:20:38.755822] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.755757] [INFO] Transaction completed
+[2025-11-05T23:20:38.755809] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.755775] [WARN] Rate limit approaching
+[2025-11-05T23:20:38.755744] [INFO] Transaction completed
+[2025-11-05T23:20:38.755731] [INFO] Session started
+[2025-11-05T23:20:38.755762] [INFO] Session started
+[2025-11-05T23:20:38.755711] [INFO] Connection established
+[2025-11-05T23:20:38.755804] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.755740] [INFO] Database query executed
+[2025-11-05T23:20:38.755766] [INFO] Database query executed
+[2025-11-05T23:20:38.755800] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.755722] [INFO] Service initialized
+[2025-11-05T23:20:38.755717] [INFO] Service initialized
+[2025-11-05T23:20:38.755770] [INFO] Configuration loaded
+[2025-11-05T23:20:38.755753] [INFO] Database query executed
+[2025-11-05T23:20:38.755749] [INFO] Request processed successfully
+[2025-11-05T23:20:38.755789] [WARN] High memory usage detected
+[2025-11-05T23:20:38.755780] [WARN] Slow query performance

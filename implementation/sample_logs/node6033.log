@@ -1,0 +1,32 @@
+[2025-11-05T23:20:37.850125] [INFO] Transaction completed
+[2025-11-05T23:20:37.850148] [WARN] Resource threshold approaching
+[2025-11-05T23:20:37.850176] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.850205] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.850190] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.850155] [WARN] High memory usage detected
+[2025-11-05T23:20:37.850183] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.850139] [INFO] User logged in
+[2025-11-05T23:20:37.850128] [INFO] Health check passed
+[2025-11-05T23:20:37.850164] [ERROR] Disk read failed
+[2025-11-05T23:20:37.850113] [INFO] Health check passed
+[2025-11-05T23:20:37.850121] [INFO] Service initialized
+[2025-11-05T23:20:37.850216] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.850171] [ERROR] Request failed
+[2025-11-05T23:20:37.850201] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.850179] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.850187] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.850168] [ERROR] Service unavailable
+[2025-11-05T23:20:37.850208] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.850144] [WARN] Resource threshold approaching
+[2025-11-05T23:20:37.850160] [ERROR] Network timeout
+[2025-11-05T23:20:37.850117] [INFO] Configuration loaded
+[2025-11-05T23:20:37.850109] [INFO] Cache hit
+[2025-11-05T23:20:37.850198] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.850135] [INFO] Connection established
+[2025-11-05T23:20:37.850105] [INFO] User logged in
+[2025-11-05T23:20:37.850078] [INFO] Session started
+[2025-11-05T23:20:37.850132] [INFO] Service initialized
+[2025-11-05T23:20:37.850152] [WARN] Queue size growing
+[2025-11-05T23:20:37.850212] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.850101] [INFO] User logged in
+[2025-11-05T23:20:37.850194] [DEBUG] Cache key generated

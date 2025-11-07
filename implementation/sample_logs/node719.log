@@ -1,0 +1,34 @@
+[2025-11-05T23:20:15.544161] [INFO] Session started
+[2025-11-05T23:20:15.544174] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.544136] [INFO] Request processed successfully
+[2025-11-05T23:20:15.544183] [ERROR] Disk read failed
+[2025-11-05T23:20:15.544109] [INFO] Session started
+[2025-11-05T23:20:15.544125] [INFO] Request processed successfully
+[2025-11-05T23:20:15.544213] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.544157] [INFO] User logged in
+[2025-11-05T23:20:15.544066] [INFO] Transaction completed
+[2025-11-05T23:20:15.544165] [INFO] Configuration loaded
+[2025-11-05T23:20:15.544114] [INFO] Configuration loaded
+[2025-11-05T23:20:15.544101] [INFO] Database query executed
+[2025-11-05T23:20:15.544096] [INFO] Cache hit
+[2025-11-05T23:20:15.544202] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.544193] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.544133] [INFO] Service initialized
+[2025-11-05T23:20:15.544216] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.544129] [INFO] Connection established
+[2025-11-05T23:20:15.544118] [INFO] Transaction completed
+[2025-11-05T23:20:15.544178] [WARN] Cache miss
+[2025-11-05T23:20:15.544224] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.544170] [WARN] Cache miss
+[2025-11-05T23:20:15.544146] [INFO] Service initialized
+[2025-11-05T23:20:15.544105] [INFO] Cache hit
+[2025-11-05T23:20:15.544198] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.544150] [INFO] Database query executed
+[2025-11-05T23:20:15.544153] [INFO] Configuration loaded
+[2025-11-05T23:20:15.544209] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.544140] [INFO] Connection established
+[2025-11-05T23:20:15.544220] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.544091] [INFO] Cache hit
+[2025-11-05T23:20:15.544206] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.544121] [INFO] Transaction completed
+[2025-11-05T23:20:15.544187] [ERROR] Memory allocation error

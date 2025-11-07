@@ -1,0 +1,29 @@
+[2025-11-05T23:20:33.439419] [INFO] Session started
+[2025-11-05T23:20:33.439876] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.439360] [INFO] Service initialized
+[2025-11-05T23:20:33.439379] [INFO] Database query executed
+[2025-11-05T23:20:33.439334] [INFO] Session started
+[2025-11-05T23:20:33.439921] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.439375] [INFO] Session started
+[2025-11-05T23:20:33.439365] [INFO] Session started
+[2025-11-05T23:20:33.439910] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.439587] [ERROR] File not found
+[2025-11-05T23:20:33.439604] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.439387] [INFO] Transaction completed
+[2025-11-05T23:20:33.439370] [INFO] User logged in
+[2025-11-05T23:20:33.439405] [INFO] Transaction completed
+[2025-11-05T23:20:33.439383] [INFO] Request processed successfully
+[2025-11-05T23:20:33.439580] [WARN] Queue size growing
+[2025-11-05T23:20:33.439870] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.439593] [ERROR] Network timeout
+[2025-11-05T23:20:33.439598] [ERROR] Database connection lost
+[2025-11-05T23:20:33.439862] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.439400] [INFO] User logged in
+[2025-11-05T23:20:33.439609] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.439396] [INFO] Health check passed
+[2025-11-05T23:20:33.439917] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.439414] [INFO] Connection established
+[2025-11-05T23:20:33.439565] [WARN] Cache miss
+[2025-11-05T23:20:33.439409] [INFO] Transaction completed
+[2025-11-05T23:20:33.439391] [INFO] Session started
+[2025-11-05T23:20:33.439926] [DEBUG] Memory allocation: 2048 bytes

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:22.690957] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.690948] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.690825] [INFO] Transaction completed
+[2025-11-05T23:20:22.690868] [INFO] Service initialized
+[2025-11-05T23:20:22.690952] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.690873] [INFO] Request processed successfully
+[2025-11-05T23:20:22.690981] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.690967] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.690886] [INFO] Connection established
+[2025-11-05T23:20:22.690963] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.690894] [INFO] Database query executed
+[2025-11-05T23:20:22.690922] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.690943] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.690853] [INFO] Request processed successfully
+[2025-11-05T23:20:22.690933] [ERROR] Memory allocation error
+[2025-11-05T23:20:22.690927] [WARN] Resource threshold approaching
+[2025-11-05T23:20:22.690890] [INFO] Session started
+[2025-11-05T23:20:22.690859] [INFO] Database query executed
+[2025-11-05T23:20:22.690977] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.690899] [INFO] Connection established
+[2025-11-05T23:20:22.690911] [INFO] Session started
+[2025-11-05T23:20:22.690877] [INFO] Connection established
+[2025-11-05T23:20:22.690973] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.690938] [ERROR] Request failed
+[2025-11-05T23:20:22.690881] [INFO] Session started
+[2025-11-05T23:20:22.690903] [INFO] Database query executed
+[2025-11-05T23:20:22.690917] [WARN] Resource threshold approaching
+[2025-11-05T23:20:22.690907] [INFO] User logged in
+[2025-11-05T23:20:22.690864] [INFO] Service initialized

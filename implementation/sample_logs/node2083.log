@@ -1,0 +1,37 @@
+[2025-11-05T23:20:21.377731] [INFO] Session started
+[2025-11-05T23:20:21.377652] [INFO] Connection established
+[2025-11-05T23:20:21.377669] [INFO] Session started
+[2025-11-05T23:20:21.377789] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.377802] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.377779] [ERROR] Authentication failed
+[2025-11-05T23:20:21.377830] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.377643] [INFO] User logged in
+[2025-11-05T23:20:21.377824] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.377605] [INFO] Service initialized
+[2025-11-05T23:20:21.377798] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.377806] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.377718] [INFO] Service initialized
+[2025-11-05T23:20:21.377763] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.377664] [INFO] Database query executed
+[2025-11-05T23:20:21.377816] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.377660] [INFO] Database query executed
+[2025-11-05T23:20:21.377774] [ERROR] Memory allocation error
+[2025-11-05T23:20:21.377727] [INFO] Request processed successfully
+[2025-11-05T23:20:21.377722] [INFO] Session started
+[2025-11-05T23:20:21.377811] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.377631] [INFO] Request processed successfully
+[2025-11-05T23:20:21.377735] [INFO] Health check passed
+[2025-11-05T23:20:21.377755] [WARN] Queue size growing
+[2025-11-05T23:20:21.377656] [INFO] Service initialized
+[2025-11-05T23:20:21.377637] [INFO] Health check passed
+[2025-11-05T23:20:21.377793] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.377820] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.377784] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.377746] [WARN] Disk space low
+[2025-11-05T23:20:21.377673] [INFO] Cache hit
+[2025-11-05T23:20:21.377769] [ERROR] Network timeout
+[2025-11-05T23:20:21.377751] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.377712] [INFO] Connection established
+[2025-11-05T23:20:21.377741] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.377758] [WARN] High memory usage detected
+[2025-11-05T23:20:21.377647] [INFO] Service initialized

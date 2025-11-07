@@ -1,0 +1,25 @@
+[2025-11-05T23:20:47.615215] [ERROR] Invalid input data
+[2025-11-05T23:20:47.615188] [INFO] Configuration loaded
+[2025-11-05T23:20:47.615227] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.615203] [INFO] Connection established
+[2025-11-05T23:20:47.615179] [INFO] Health check passed
+[2025-11-05T23:20:47.615220] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.615230] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.615186] [INFO] Connection established
+[2025-11-05T23:20:47.615211] [WARN] Cache miss
+[2025-11-05T23:20:47.615197] [INFO] Service initialized
+[2025-11-05T23:20:47.615162] [INFO] Cache hit
+[2025-11-05T23:20:47.615223] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.615200] [INFO] Health check passed
+[2025-11-05T23:20:47.615169] [INFO] Transaction completed
+[2025-11-05T23:20:47.615233] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:47.615135] [INFO] Session started
+[2025-11-05T23:20:47.615182] [INFO] User logged in
+[2025-11-05T23:20:47.615173] [INFO] Database query executed
+[2025-11-05T23:20:47.615176] [INFO] Connection established
+[2025-11-05T23:20:47.615158] [INFO] Connection established
+[2025-11-05T23:20:47.615194] [INFO] Health check passed
+[2025-11-05T23:20:47.615191] [INFO] Health check passed
+[2025-11-05T23:20:47.615207] [WARN] Slow query performance
+[2025-11-05T23:20:47.615166] [INFO] Health check passed
+[2025-11-05T23:20:47.615236] [DEBUG] Thread pool size: 8

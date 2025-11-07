@@ -1,0 +1,30 @@
+[2025-11-05T23:20:35.352659] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.352556] [INFO] Request processed successfully
+[2025-11-05T23:20:35.352630] [WARN] Timeout warning
+[2025-11-05T23:20:35.352601] [INFO] Transaction completed
+[2025-11-05T23:20:35.352561] [INFO] Transaction completed
+[2025-11-05T23:20:35.352615] [WARN] Disk space low
+[2025-11-05T23:20:35.352645] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.352571] [INFO] Service initialized
+[2025-11-05T23:20:35.352566] [INFO] Connection established
+[2025-11-05T23:20:35.352650] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.352597] [INFO] Transaction completed
+[2025-11-05T23:20:35.352620] [WARN] Queue size growing
+[2025-11-05T23:20:35.352610] [INFO] Configuration loaded
+[2025-11-05T23:20:35.352522] [INFO] Service initialized
+[2025-11-05T23:20:35.352593] [INFO] Transaction completed
+[2025-11-05T23:20:35.352549] [INFO] Cache hit
+[2025-11-05T23:20:35.352635] [ERROR] File not found
+[2025-11-05T23:20:35.352575] [INFO] Session started
+[2025-11-05T23:20:35.352584] [INFO] Health check passed
+[2025-11-05T23:20:35.352674] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.352580] [INFO] Connection established
+[2025-11-05T23:20:35.352682] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.352678] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.352625] [WARN] Cache miss
+[2025-11-05T23:20:35.352664] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.352655] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.352669] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.352606] [INFO] Health check passed
+[2025-11-05T23:20:35.352589] [INFO] Cache hit
+[2025-11-05T23:20:35.352640] [ERROR] Authentication failed

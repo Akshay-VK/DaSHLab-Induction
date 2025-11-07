@@ -1,0 +1,32 @@
+[2025-11-05T23:20:37.498561] [ERROR] Authentication failed
+[2025-11-05T23:20:37.498506] [INFO] User logged in
+[2025-11-05T23:20:37.498510] [INFO] Service initialized
+[2025-11-05T23:20:37.498502] [INFO] Configuration loaded
+[2025-11-05T23:20:37.498542] [WARN] Rate limit approaching
+[2025-11-05T23:20:37.498498] [INFO] Request processed successfully
+[2025-11-05T23:20:37.498600] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.498567] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.498536] [INFO] Cache hit
+[2025-11-05T23:20:37.498551] [WARN] Slow query performance
+[2025-11-05T23:20:37.498616] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.498452] [INFO] Connection established
+[2025-11-05T23:20:37.498604] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.498528] [INFO] Health check passed
+[2025-11-05T23:20:37.498484] [INFO] Transaction completed
+[2025-11-05T23:20:37.498515] [INFO] Service initialized
+[2025-11-05T23:20:37.498612] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.498609] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.498596] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.498547] [WARN] Slow query performance
+[2025-11-05T23:20:37.498532] [INFO] Database query executed
+[2025-11-05T23:20:37.498590] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.498581] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.498577] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.498519] [INFO] Database query executed
+[2025-11-05T23:20:37.498489] [INFO] Database query executed
+[2025-11-05T23:20:37.498524] [INFO] Cache hit
+[2025-11-05T23:20:37.498585] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.498572] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.498479] [INFO] Transaction completed
+[2025-11-05T23:20:37.498493] [INFO] User logged in
+[2025-11-05T23:20:37.498555] [WARN] Timeout warning

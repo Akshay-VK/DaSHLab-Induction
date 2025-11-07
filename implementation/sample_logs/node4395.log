@@ -1,0 +1,34 @@
+[2025-11-05T23:20:31.256922] [WARN] Cache miss
+[2025-11-05T23:20:31.256863] [INFO] Session started
+[2025-11-05T23:20:31.256948] [WARN] Slow query performance
+[2025-11-05T23:20:31.256872] [INFO] Connection established
+[2025-11-05T23:20:31.256906] [INFO] Configuration loaded
+[2025-11-05T23:20:31.256885] [INFO] User logged in
+[2025-11-05T23:20:31.256970] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.256940] [WARN] High memory usage detected
+[2025-11-05T23:20:31.256975] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.256894] [INFO] Session started
+[2025-11-05T23:20:31.256858] [INFO] Database query executed
+[2025-11-05T23:20:31.256991] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.256915] [INFO] Health check passed
+[2025-11-05T23:20:31.256877] [INFO] Configuration loaded
+[2025-11-05T23:20:31.256953] [ERROR] Permission denied
+[2025-11-05T23:20:31.256889] [INFO] Database query executed
+[2025-11-05T23:20:31.256902] [INFO] Database query executed
+[2025-11-05T23:20:31.256978] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.256848] [INFO] Request processed successfully
+[2025-11-05T23:20:31.256868] [INFO] Configuration loaded
+[2025-11-05T23:20:31.256983] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.256822] [INFO] Database query executed
+[2025-11-05T23:20:31.256898] [INFO] Service initialized
+[2025-11-05T23:20:31.256909] [INFO] Session started
+[2025-11-05T23:20:31.256927] [WARN] Connection retry attempt
+[2025-11-05T23:20:31.256881] [INFO] User logged in
+[2025-11-05T23:20:31.256995] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.256931] [WARN] Timeout warning
+[2025-11-05T23:20:31.256936] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.256959] [ERROR] Authentication failed
+[2025-11-05T23:20:31.256944] [WARN] High memory usage detected
+[2025-11-05T23:20:31.256853] [INFO] Connection established
+[2025-11-05T23:20:31.256964] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:31.256987] [DEBUG] Cache key generated

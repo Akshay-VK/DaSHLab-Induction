@@ -1,0 +1,25 @@
+[2025-11-05T23:20:22.784493] [INFO] Configuration loaded
+[2025-11-05T23:20:22.784569] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.784534] [WARN] Slow query performance
+[2025-11-05T23:20:22.784498] [INFO] Configuration loaded
+[2025-11-05T23:20:22.784543] [WARN] Cache miss
+[2025-11-05T23:20:22.784573] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.784560] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.784519] [INFO] Cache hit
+[2025-11-05T23:20:22.784481] [INFO] Request processed successfully
+[2025-11-05T23:20:22.784487] [INFO] Transaction completed
+[2025-11-05T23:20:22.784555] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.784515] [INFO] Transaction completed
+[2025-11-05T23:20:22.784590] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.784581] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.784455] [INFO] Transaction completed
+[2025-11-05T23:20:22.784565] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.784523] [INFO] Connection established
+[2025-11-05T23:20:22.784549] [ERROR] File not found
+[2025-11-05T23:20:22.784539] [WARN] Timeout warning
+[2025-11-05T23:20:22.784506] [INFO] Request processed successfully
+[2025-11-05T23:20:22.784502] [INFO] Health check passed
+[2025-11-05T23:20:22.784586] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.784577] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.784511] [INFO] Session started
+[2025-11-05T23:20:22.784529] [WARN] Timeout warning

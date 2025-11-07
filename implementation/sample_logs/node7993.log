@@ -1,0 +1,28 @@
+[2025-11-05T23:20:45.394723] [INFO] Session started
+[2025-11-05T23:20:45.394760] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.394772] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.394727] [INFO] User logged in
+[2025-11-05T23:20:45.394793] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.394780] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.394679] [INFO] Session started
+[2025-11-05T23:20:45.394694] [INFO] Cache hit
+[2025-11-05T23:20:45.394785] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.394711] [INFO] Transaction completed
+[2025-11-05T23:20:45.394789] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.394735] [INFO] Configuration loaded
+[2025-11-05T23:20:45.394719] [INFO] User logged in
+[2025-11-05T23:20:45.394715] [INFO] Cache hit
+[2025-11-05T23:20:45.394768] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.394743] [WARN] Timeout warning
+[2025-11-05T23:20:45.394764] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.394776] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.394689] [INFO] User logged in
+[2025-11-05T23:20:45.394750] [ERROR] Memory allocation error
+[2025-11-05T23:20:45.394738] [INFO] Transaction completed
+[2025-11-05T23:20:45.394702] [INFO] Health check passed
+[2025-11-05T23:20:45.394684] [INFO] User logged in
+[2025-11-05T23:20:45.394698] [INFO] Cache hit
+[2025-11-05T23:20:45.394731] [INFO] User logged in
+[2025-11-05T23:20:45.394754] [ERROR] Request failed
+[2025-11-05T23:20:45.394707] [INFO] Transaction completed
+[2025-11-05T23:20:45.394655] [INFO] Connection established

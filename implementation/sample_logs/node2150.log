@@ -1,0 +1,34 @@
+[2025-11-05T23:20:21.567843] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.567847] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.567720] [INFO] Service initialized
+[2025-11-05T23:20:21.567852] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.567768] [INFO] Configuration loaded
+[2025-11-05T23:20:21.567715] [INFO] Configuration loaded
+[2025-11-05T23:20:21.567865] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.567804] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.567682] [INFO] Service initialized
+[2025-11-05T23:20:21.567742] [INFO] Transaction completed
+[2025-11-05T23:20:21.567729] [INFO] User logged in
+[2025-11-05T23:20:21.567725] [INFO] Health check passed
+[2025-11-05T23:20:21.567764] [INFO] Service initialized
+[2025-11-05T23:20:21.567747] [INFO] Cache hit
+[2025-11-05T23:20:21.567820] [ERROR] Network timeout
+[2025-11-05T23:20:21.567777] [INFO] Service initialized
+[2025-11-05T23:20:21.567787] [INFO] Service initialized
+[2025-11-05T23:20:21.567709] [INFO] Cache hit
+[2025-11-05T23:20:21.567751] [INFO] Request processed successfully
+[2025-11-05T23:20:21.567756] [INFO] Configuration loaded
+[2025-11-05T23:20:21.567809] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.567815] [ERROR] Request failed
+[2025-11-05T23:20:21.567760] [INFO] Health check passed
+[2025-11-05T23:20:21.567733] [INFO] Service initialized
+[2025-11-05T23:20:21.567860] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.567856] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.567839] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.567828] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.567793] [WARN] Cache miss
+[2025-11-05T23:20:21.567783] [INFO] Transaction completed
+[2025-11-05T23:20:21.567799] [WARN] Deprecated API usage
+[2025-11-05T23:20:21.567834] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.567773] [INFO] Database query executed
+[2025-11-05T23:20:21.567738] [INFO] Database query executed

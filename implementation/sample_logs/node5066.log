@@ -1,0 +1,30 @@
+[2025-11-05T23:20:33.815953] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.815889] [INFO] Service initialized
+[2025-11-05T23:20:33.815918] [ERROR] Authentication failed
+[2025-11-05T23:20:33.815904] [WARN] Disk space low
+[2025-11-05T23:20:33.815909] [ERROR] Disk read failed
+[2025-11-05T23:20:33.815877] [INFO] User logged in
+[2025-11-05T23:20:33.815949] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.815923] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.815927] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.815840] [INFO] User logged in
+[2025-11-05T23:20:33.815936] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.815894] [WARN] Deprecated API usage
+[2025-11-05T23:20:33.815844] [INFO] Session started
+[2025-11-05T23:20:33.815957] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.815873] [INFO] Request processed successfully
+[2025-11-05T23:20:33.815810] [INFO] Request processed successfully
+[2025-11-05T23:20:33.815940] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.815848] [INFO] Health check passed
+[2025-11-05T23:20:33.815869] [INFO] Session started
+[2025-11-05T23:20:33.815835] [INFO] Transaction completed
+[2025-11-05T23:20:33.815885] [INFO] Cache hit
+[2025-11-05T23:20:33.815853] [INFO] Service initialized
+[2025-11-05T23:20:33.815931] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.815865] [INFO] Connection established
+[2025-11-05T23:20:33.815945] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.815899] [WARN] Queue size growing
+[2025-11-05T23:20:33.815857] [INFO] Request processed successfully
+[2025-11-05T23:20:33.815881] [INFO] Database query executed
+[2025-11-05T23:20:33.815861] [INFO] Database query executed
+[2025-11-05T23:20:33.815913] [ERROR] Authentication failed

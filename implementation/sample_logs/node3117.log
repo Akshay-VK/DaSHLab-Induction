@@ -1,0 +1,32 @@
+[2025-11-05T23:20:25.815069] [WARN] High memory usage detected
+[2025-11-05T23:20:25.815124] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.815050] [INFO] Service initialized
+[2025-11-05T23:20:25.815137] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.815084] [WARN] Deprecated API usage
+[2025-11-05T23:20:25.815075] [WARN] Cache miss
+[2025-11-05T23:20:25.815000] [INFO] Service initialized
+[2025-11-05T23:20:25.815141] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.815041] [INFO] Health check passed
+[2025-11-05T23:20:25.815015] [INFO] Transaction completed
+[2025-11-05T23:20:25.815079] [WARN] Slow query performance
+[2025-11-05T23:20:25.815020] [INFO] Health check passed
+[2025-11-05T23:20:25.815089] [ERROR] Request failed
+[2025-11-05T23:20:25.815006] [INFO] Request processed successfully
+[2025-11-05T23:20:25.815132] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.815010] [INFO] Service initialized
+[2025-11-05T23:20:25.815046] [INFO] Service initialized
+[2025-11-05T23:20:25.815105] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.815033] [INFO] Session started
+[2025-11-05T23:20:25.815094] [ERROR] Invalid input data
+[2025-11-05T23:20:25.815114] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.815100] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.815128] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.815058] [INFO] Session started
+[2025-11-05T23:20:25.815109] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.815054] [INFO] Service initialized
+[2025-11-05T23:20:25.815063] [INFO] Database query executed
+[2025-11-05T23:20:25.815028] [INFO] User logged in
+[2025-11-05T23:20:25.815037] [INFO] Transaction completed
+[2025-11-05T23:20:25.815024] [INFO] Transaction completed
+[2025-11-05T23:20:25.814974] [INFO] Health check passed
+[2025-11-05T23:20:25.815119] [DEBUG] Timer set: 30 seconds

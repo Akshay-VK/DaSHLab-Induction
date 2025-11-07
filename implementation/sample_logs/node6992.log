@@ -1,0 +1,36 @@
+[2025-11-05T23:20:41.479658] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.479574] [INFO] Session started
+[2025-11-05T23:20:41.479614] [WARN] High memory usage detected
+[2025-11-05T23:20:41.479566] [INFO] Service initialized
+[2025-11-05T23:20:41.479671] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.479643] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.479526] [INFO] Service initialized
+[2025-11-05T23:20:41.479639] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.479662] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.479653] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.479570] [INFO] User logged in
+[2025-11-05T23:20:41.479624] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.479587] [INFO] Transaction completed
+[2025-11-05T23:20:41.479583] [INFO] Transaction completed
+[2025-11-05T23:20:41.479558] [INFO] Database query executed
+[2025-11-05T23:20:41.479666] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.479550] [INFO] Health check passed
+[2025-11-05T23:20:41.479536] [INFO] Transaction completed
+[2025-11-05T23:20:41.479635] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.479532] [INFO] Database query executed
+[2025-11-05T23:20:41.479675] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.479546] [INFO] Request processed successfully
+[2025-11-05T23:20:41.479541] [INFO] User logged in
+[2025-11-05T23:20:41.479601] [WARN] Resource threshold approaching
+[2025-11-05T23:20:41.479680] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.479578] [INFO] Transaction completed
+[2025-11-05T23:20:41.479597] [WARN] Resource threshold approaching
+[2025-11-05T23:20:41.479619] [ERROR] Invalid input data
+[2025-11-05T23:20:41.479592] [WARN] Cache miss
+[2025-11-05T23:20:41.479629] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.479502] [INFO] Service initialized
+[2025-11-05T23:20:41.479554] [INFO] Database query executed
+[2025-11-05T23:20:41.479562] [INFO] Service initialized
+[2025-11-05T23:20:41.479610] [WARN] Slow query performance
+[2025-11-05T23:20:41.479647] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.479605] [WARN] Queue size growing

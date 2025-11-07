@@ -1,0 +1,28 @@
+[2025-11-05T23:20:29.976969] [WARN] Cache miss
+[2025-11-05T23:20:29.976952] [INFO] Connection established
+[2025-11-05T23:20:29.976917] [INFO] Configuration loaded
+[2025-11-05T23:20:29.976948] [INFO] Cache hit
+[2025-11-05T23:20:29.977003] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.977007] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.977011] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.976908] [INFO] Transaction completed
+[2025-11-05T23:20:29.976939] [INFO] Request processed successfully
+[2025-11-05T23:20:29.976960] [INFO] Health check passed
+[2025-11-05T23:20:29.976930] [INFO] Connection established
+[2025-11-05T23:20:29.976913] [INFO] Health check passed
+[2025-11-05T23:20:29.976944] [INFO] Request processed successfully
+[2025-11-05T23:20:29.976994] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:29.976935] [INFO] User logged in
+[2025-11-05T23:20:29.976903] [INFO] Service initialized
+[2025-11-05T23:20:29.976956] [INFO] Request processed successfully
+[2025-11-05T23:20:29.977019] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.976986] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.976965] [WARN] Timeout warning
+[2025-11-05T23:20:29.976877] [INFO] Request processed successfully
+[2025-11-05T23:20:29.976998] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:29.976980] [ERROR] Database connection lost
+[2025-11-05T23:20:29.977015] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.976926] [INFO] Connection established
+[2025-11-05T23:20:29.976921] [INFO] Database query executed
+[2025-11-05T23:20:29.976974] [WARN] Queue size growing
+[2025-11-05T23:20:29.976990] [DEBUG] Loop iteration: 15

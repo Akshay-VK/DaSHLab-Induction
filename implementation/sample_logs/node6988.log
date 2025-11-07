@@ -1,0 +1,31 @@
+[2025-11-05T23:20:41.472937] [INFO] Connection established
+[2025-11-05T23:20:41.472931] [INFO] Transaction completed
+[2025-11-05T23:20:41.473036] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.472563] [INFO] Transaction completed
+[2025-11-05T23:20:41.473048] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.472925] [INFO] Service initialized
+[2025-11-05T23:20:41.472846] [INFO] Request processed successfully
+[2025-11-05T23:20:41.473074] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.472982] [INFO] Request processed successfully
+[2025-11-05T23:20:41.473024] [WARN] Cache miss
+[2025-11-05T23:20:41.472908] [INFO] Health check passed
+[2025-11-05T23:20:41.472547] [INFO] Service initialized
+[2025-11-05T23:20:41.472914] [INFO] Service initialized
+[2025-11-05T23:20:41.473019] [WARN] Cache miss
+[2025-11-05T23:20:41.472947] [INFO] Cache hit
+[2025-11-05T23:20:41.473060] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.473029] [WARN] Slow query performance
+[2025-11-05T23:20:41.473043] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.472368] [INFO] Health check passed
+[2025-11-05T23:20:41.472942] [INFO] Database query executed
+[2025-11-05T23:20:41.472891] [INFO] Cache hit
+[2025-11-05T23:20:41.472919] [INFO] Database query executed
+[2025-11-05T23:20:41.473069] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.473000] [INFO] Health check passed
+[2025-11-05T23:20:41.472902] [INFO] Request processed successfully
+[2025-11-05T23:20:41.473064] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.472993] [INFO] Connection established
+[2025-11-05T23:20:41.473054] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.473078] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.473012] [WARN] Cache miss
+[2025-11-05T23:20:41.473083] [DEBUG] Thread pool size: 8

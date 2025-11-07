@@ -1,0 +1,27 @@
+[2025-11-05T23:20:22.027902] [ERROR] Invalid input data
+[2025-11-05T23:20:22.027799] [INFO] User logged in
+[2025-11-05T23:20:22.027916] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.027872] [INFO] Configuration loaded
+[2025-11-05T23:20:22.027938] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.027934] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.027823] [INFO] Database query executed
+[2025-11-05T23:20:22.027834] [INFO] Request processed successfully
+[2025-11-05T23:20:22.027908] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.027887] [WARN] High memory usage detected
+[2025-11-05T23:20:22.027912] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.027929] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.027829] [INFO] Request processed successfully
+[2025-11-05T23:20:22.027859] [INFO] Health check passed
+[2025-11-05T23:20:22.027842] [INFO] Health check passed
+[2025-11-05T23:20:22.027920] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.027838] [INFO] Health check passed
+[2025-11-05T23:20:22.027868] [INFO] User logged in
+[2025-11-05T23:20:22.027896] [WARN] Queue size growing
+[2025-11-05T23:20:22.027850] [INFO] Cache hit
+[2025-11-05T23:20:22.027846] [INFO] Cache hit
+[2025-11-05T23:20:22.027883] [WARN] Cache miss
+[2025-11-05T23:20:22.027864] [INFO] Database query executed
+[2025-11-05T23:20:22.027892] [WARN] Disk space low
+[2025-11-05T23:20:22.027855] [INFO] Connection established
+[2025-11-05T23:20:22.027878] [WARN] Disk space low
+[2025-11-05T23:20:22.027924] [DEBUG] Loop iteration: 15

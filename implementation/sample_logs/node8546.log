@@ -1,0 +1,29 @@
+[2025-11-05T23:20:47.818699] [INFO] Database query executed
+[2025-11-05T23:20:47.818767] [INFO] Connection established
+[2025-11-05T23:20:47.818779] [WARN] Slow query performance
+[2025-11-05T23:20:47.818782] [WARN] Rate limit approaching
+[2025-11-05T23:20:47.818813] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.818794] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.818764] [INFO] Configuration loaded
+[2025-11-05T23:20:47.818735] [INFO] Database query executed
+[2025-11-05T23:20:47.818752] [INFO] Service initialized
+[2025-11-05T23:20:47.818798] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.818810] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.818732] [INFO] Health check passed
+[2025-11-05T23:20:47.818739] [INFO] Request processed successfully
+[2025-11-05T23:20:47.818723] [INFO] Configuration loaded
+[2025-11-05T23:20:47.818772] [WARN] Connection retry attempt
+[2025-11-05T23:20:47.818791] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.818742] [INFO] Health check passed
+[2025-11-05T23:20:47.818787] [ERROR] Authentication failed
+[2025-11-05T23:20:47.818755] [INFO] Configuration loaded
+[2025-11-05T23:20:47.818745] [INFO] Session started
+[2025-11-05T23:20:47.818808] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.818758] [INFO] Session started
+[2025-11-05T23:20:47.818804] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:47.818801] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.818748] [INFO] Database query executed
+[2025-11-05T23:20:47.818816] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.818776] [WARN] High memory usage detected
+[2025-11-05T23:20:47.818729] [INFO] Service initialized
+[2025-11-05T23:20:47.818761] [INFO] Configuration loaded

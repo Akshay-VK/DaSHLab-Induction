@@ -1,0 +1,29 @@
+[2025-11-05T23:20:35.360305] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.360309] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.360275] [WARN] Slow query performance
+[2025-11-05T23:20:35.360250] [INFO] User logged in
+[2025-11-05T23:20:35.360314] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.360207] [INFO] Session started
+[2025-11-05T23:20:35.360300] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.360280] [WARN] Slow query performance
+[2025-11-05T23:20:35.360221] [INFO] Request processed successfully
+[2025-11-05T23:20:35.360285] [ERROR] Database connection lost
+[2025-11-05T23:20:35.360258] [INFO] Request processed successfully
+[2025-11-05T23:20:35.360230] [INFO] Health check passed
+[2025-11-05T23:20:35.360246] [INFO] Request processed successfully
+[2025-11-05T23:20:35.360225] [INFO] Service initialized
+[2025-11-05T23:20:35.360318] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.360270] [WARN] High memory usage detected
+[2025-11-05T23:20:35.360212] [INFO] User logged in
+[2025-11-05T23:20:35.360265] [WARN] Cache miss
+[2025-11-05T23:20:35.360238] [INFO] Cache hit
+[2025-11-05T23:20:35.360190] [INFO] Connection established
+[2025-11-05T23:20:35.360203] [INFO] Session started
+[2025-11-05T23:20:35.360254] [INFO] Session started
+[2025-11-05T23:20:35.360233] [INFO] Configuration loaded
+[2025-11-05T23:20:35.360162] [INFO] Database query executed
+[2025-11-05T23:20:35.360291] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.360295] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.360242] [INFO] Transaction completed
+[2025-11-05T23:20:35.360216] [INFO] Transaction completed
+[2025-11-05T23:20:35.360198] [INFO] Connection established

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:38.652046] [INFO] Service initialized
+[2025-11-05T23:20:38.652037] [INFO] Configuration loaded
+[2025-11-05T23:20:38.652067] [INFO] Connection established
+[2025-11-05T23:20:38.652130] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.652090] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.652118] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.652122] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.652142] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.652079] [INFO] Connection established
+[2025-11-05T23:20:38.652055] [INFO] Database query executed
+[2025-11-05T23:20:38.652114] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.652022] [INFO] Session started
+[2025-11-05T23:20:38.652101] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.652059] [INFO] Session started
+[2025-11-05T23:20:38.652075] [INFO] User logged in
+[2025-11-05T23:20:38.652071] [INFO] Service initialized
+[2025-11-05T23:20:38.652139] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.652042] [INFO] Database query executed
+[2025-11-05T23:20:38.652110] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.652063] [INFO] Health check passed
+[2025-11-05T23:20:38.652134] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.652028] [INFO] Database query executed
+[2025-11-05T23:20:38.652126] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.652147] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.652095] [ERROR] Authentication failed
+[2025-11-05T23:20:38.652085] [WARN] High memory usage detected
+[2025-11-05T23:20:38.652106] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.652050] [INFO] Session started
+[2025-11-05T23:20:38.652032] [INFO] Session started
+[2025-11-05T23:20:38.651999] [INFO] User logged in

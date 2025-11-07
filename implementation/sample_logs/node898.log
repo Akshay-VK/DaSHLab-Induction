@@ -1,0 +1,30 @@
+[2025-11-05T23:20:16.289897] [INFO] Service initialized
+[2025-11-05T23:20:16.289910] [INFO] Health check passed
+[2025-11-05T23:20:16.290001] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.289997] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.289975] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.289902] [INFO] Session started
+[2025-11-05T23:20:16.289873] [INFO] Transaction completed
+[2025-11-05T23:20:16.289919] [INFO] Configuration loaded
+[2025-11-05T23:20:16.289928] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.289964] [ERROR] Request failed
+[2025-11-05T23:20:16.289884] [INFO] Configuration loaded
+[2025-11-05T23:20:16.289906] [INFO] Cache hit
+[2025-11-05T23:20:16.289950] [WARN] High memory usage detected
+[2025-11-05T23:20:16.289954] [WARN] Timeout warning
+[2025-11-05T23:20:16.289893] [INFO] Database query executed
+[2025-11-05T23:20:16.289946] [WARN] Disk space low
+[2025-11-05T23:20:16.289988] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.289958] [WARN] Timeout warning
+[2025-11-05T23:20:16.289941] [WARN] Rate limit approaching
+[2025-11-05T23:20:16.289992] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.289937] [WARN] Rate limit approaching
+[2025-11-05T23:20:16.289984] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.289970] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.289979] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.289922] [INFO] Cache hit
+[2025-11-05T23:20:16.289847] [INFO] Configuration loaded
+[2025-11-05T23:20:16.289914] [INFO] Cache hit
+[2025-11-05T23:20:16.289888] [INFO] Session started
+[2025-11-05T23:20:16.289878] [INFO] Connection established
+[2025-11-05T23:20:16.289933] [WARN] Resource threshold approaching

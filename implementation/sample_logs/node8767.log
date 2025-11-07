@@ -1,0 +1,31 @@
+[2025-11-05T23:20:48.627779] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:48.627694] [INFO] Cache hit
+[2025-11-05T23:20:48.627752] [WARN] Cache miss
+[2025-11-05T23:20:48.627720] [INFO] Transaction completed
+[2025-11-05T23:20:48.627739] [INFO] Configuration loaded
+[2025-11-05T23:20:48.627790] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.627688] [INFO] Transaction completed
+[2025-11-05T23:20:48.627775] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:48.627742] [INFO] Session started
+[2025-11-05T23:20:48.627732] [INFO] User logged in
+[2025-11-05T23:20:48.627735] [INFO] Session started
+[2025-11-05T23:20:48.627755] [WARN] Disk space low
+[2025-11-05T23:20:48.627728] [INFO] Configuration loaded
+[2025-11-05T23:20:48.627709] [INFO] Connection established
+[2025-11-05T23:20:48.627786] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.627664] [INFO] Health check passed
+[2025-11-05T23:20:48.627747] [WARN] Resource threshold approaching
+[2025-11-05T23:20:48.627713] [INFO] Health check passed
+[2025-11-05T23:20:48.627800] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.627701] [INFO] User logged in
+[2025-11-05T23:20:48.627724] [INFO] Transaction completed
+[2025-11-05T23:20:48.627698] [INFO] Connection established
+[2025-11-05T23:20:48.627705] [INFO] Cache hit
+[2025-11-05T23:20:48.627771] [ERROR] Memory allocation error
+[2025-11-05T23:20:48.627759] [WARN] Queue size growing
+[2025-11-05T23:20:48.627793] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.627763] [WARN] Slow query performance
+[2025-11-05T23:20:48.627783] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:48.627716] [INFO] Configuration loaded
+[2025-11-05T23:20:48.627797] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.627767] [ERROR] Authentication failed

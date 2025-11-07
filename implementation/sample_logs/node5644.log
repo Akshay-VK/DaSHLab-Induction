@@ -1,0 +1,24 @@
+[2025-11-05T23:20:35.994902] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.994875] [INFO] User logged in
+[2025-11-05T23:20:35.994827] [INFO] Service initialized
+[2025-11-05T23:20:35.994924] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.994862] [INFO] Transaction completed
+[2025-11-05T23:20:35.994858] [INFO] Transaction completed
+[2025-11-05T23:20:35.994850] [INFO] Database query executed
+[2025-11-05T23:20:35.994889] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.994842] [INFO] Session started
+[2025-11-05T23:20:35.994911] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.994867] [INFO] Service initialized
+[2025-11-05T23:20:35.994832] [INFO] User logged in
+[2025-11-05T23:20:35.994846] [INFO] Health check passed
+[2025-11-05T23:20:35.994871] [INFO] Configuration loaded
+[2025-11-05T23:20:35.994821] [INFO] Cache hit
+[2025-11-05T23:20:35.994854] [INFO] Request processed successfully
+[2025-11-05T23:20:35.994837] [INFO] User logged in
+[2025-11-05T23:20:35.994896] [ERROR] Request failed
+[2025-11-05T23:20:35.994907] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.994884] [WARN] Rate limit approaching
+[2025-11-05T23:20:35.994879] [INFO] Session started
+[2025-11-05T23:20:35.994795] [INFO] Cache hit
+[2025-11-05T23:20:35.994916] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.994920] [DEBUG] Cache key generated

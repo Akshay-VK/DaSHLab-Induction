@@ -1,0 +1,28 @@
+[2025-11-05T23:20:35.630177] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.630090] [INFO] Health check passed
+[2025-11-05T23:20:35.630166] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.630181] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.630080] [INFO] Health check passed
+[2025-11-05T23:20:35.630114] [INFO] Service initialized
+[2025-11-05T23:20:35.630057] [INFO] Connection established
+[2025-11-05T23:20:35.630122] [INFO] Database query executed
+[2025-11-05T23:20:35.630126] [INFO] Request processed successfully
+[2025-11-05T23:20:35.630162] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.630094] [INFO] Health check passed
+[2025-11-05T23:20:35.630173] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.630135] [WARN] Cache miss
+[2025-11-05T23:20:35.630098] [INFO] User logged in
+[2025-11-05T23:20:35.630139] [WARN] Queue size growing
+[2025-11-05T23:20:35.630153] [ERROR] Permission denied
+[2025-11-05T23:20:35.630131] [WARN] Disk space low
+[2025-11-05T23:20:35.630086] [INFO] Connection established
+[2025-11-05T23:20:35.630143] [WARN] Cache miss
+[2025-11-05T23:20:35.630188] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.630148] [ERROR] Invalid input data
+[2025-11-05T23:20:35.630157] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.630185] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.630106] [INFO] Request processed successfully
+[2025-11-05T23:20:35.630102] [INFO] Connection established
+[2025-11-05T23:20:35.630110] [INFO] Request processed successfully
+[2025-11-05T23:20:35.630170] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.630118] [INFO] Configuration loaded

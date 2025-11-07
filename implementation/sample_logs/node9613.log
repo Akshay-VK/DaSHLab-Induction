@@ -1,0 +1,29 @@
+[2025-11-05T23:20:52.614710] [INFO] Configuration loaded
+[2025-11-05T23:20:52.614705] [INFO] Configuration loaded
+[2025-11-05T23:20:52.614680] [INFO] User logged in
+[2025-11-05T23:20:52.614631] [INFO] Health check passed
+[2025-11-05T23:20:52.614729] [WARN] Deprecated API usage
+[2025-11-05T23:20:52.614701] [INFO] Transaction completed
+[2025-11-05T23:20:52.614656] [INFO] Cache hit
+[2025-11-05T23:20:52.614737] [WARN] High memory usage detected
+[2025-11-05T23:20:52.614770] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.614762] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.614689] [INFO] User logged in
+[2025-11-05T23:20:52.614778] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.614676] [INFO] Transaction completed
+[2025-11-05T23:20:52.614714] [INFO] Request processed successfully
+[2025-11-05T23:20:52.614671] [INFO] Database query executed
+[2025-11-05T23:20:52.614667] [INFO] Cache hit
+[2025-11-05T23:20:52.614753] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.614685] [INFO] Health check passed
+[2025-11-05T23:20:52.614766] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.614774] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.614662] [INFO] Request processed successfully
+[2025-11-05T23:20:52.614748] [ERROR] Database connection lost
+[2025-11-05T23:20:52.614693] [INFO] Health check passed
+[2025-11-05T23:20:52.614719] [WARN] Slow query performance
+[2025-11-05T23:20:52.614743] [ERROR] Authentication failed
+[2025-11-05T23:20:52.614757] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.614697] [INFO] Database query executed
+[2025-11-05T23:20:52.614724] [WARN] Resource threshold approaching
+[2025-11-05T23:20:52.614733] [WARN] High memory usage detected

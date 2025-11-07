@@ -1,0 +1,25 @@
+[2025-11-05T23:20:39.132851] [INFO] Cache hit
+[2025-11-05T23:20:39.132896] [INFO] Health check passed
+[2025-11-05T23:20:39.132825] [INFO] User logged in
+[2025-11-05T23:20:39.132867] [INFO] User logged in
+[2025-11-05T23:20:39.132862] [INFO] Transaction completed
+[2025-11-05T23:20:39.132953] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.132877] [INFO] Configuration loaded
+[2025-11-05T23:20:39.132964] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.132901] [INFO] Health check passed
+[2025-11-05T23:20:39.132910] [INFO] Database query executed
+[2025-11-05T23:20:39.132939] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.132906] [INFO] Configuration loaded
+[2025-11-05T23:20:39.132872] [INFO] Session started
+[2025-11-05T23:20:39.132920] [WARN] Resource threshold approaching
+[2025-11-05T23:20:39.132958] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.132926] [ERROR] Memory allocation error
+[2025-11-05T23:20:39.132968] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.132914] [INFO] Cache hit
+[2025-11-05T23:20:39.132891] [INFO] Cache hit
+[2025-11-05T23:20:39.132857] [INFO] Session started
+[2025-11-05T23:20:39.132882] [INFO] Health check passed
+[2025-11-05T23:20:39.132949] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.132886] [INFO] Database query executed
+[2025-11-05T23:20:39.132944] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.132932] [ERROR] Database connection lost

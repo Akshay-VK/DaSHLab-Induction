@@ -1,0 +1,33 @@
+[2025-11-05T23:20:22.526668] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.526562] [INFO] Request processed successfully
+[2025-11-05T23:20:22.526592] [INFO] User logged in
+[2025-11-05T23:20:22.526579] [INFO] Session started
+[2025-11-05T23:20:22.526663] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.526600] [INFO] Request processed successfully
+[2025-11-05T23:20:22.526680] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.526637] [WARN] Resource threshold approaching
+[2025-11-05T23:20:22.526611] [INFO] Database query executed
+[2025-11-05T23:20:22.526672] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.526583] [INFO] Configuration loaded
+[2025-11-05T23:20:22.526684] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.526572] [INFO] Request processed successfully
+[2025-11-05T23:20:22.526676] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.526615] [INFO] Request processed successfully
+[2025-11-05T23:20:22.526587] [INFO] Database query executed
+[2025-11-05T23:20:22.526620] [WARN] Queue size growing
+[2025-11-05T23:20:22.526687] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.526535] [INFO] Session started
+[2025-11-05T23:20:22.526630] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.526659] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.526608] [INFO] Database query executed
+[2025-11-05T23:20:22.526633] [WARN] Resource threshold approaching
+[2025-11-05T23:20:22.526567] [INFO] Service initialized
+[2025-11-05T23:20:22.526691] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.526604] [INFO] Cache hit
+[2025-11-05T23:20:22.526625] [WARN] Slow query performance
+[2025-11-05T23:20:22.526646] [ERROR] Disk read failed
+[2025-11-05T23:20:22.526641] [WARN] Resource threshold approaching
+[2025-11-05T23:20:22.526651] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.526576] [INFO] Cache hit
+[2025-11-05T23:20:22.526655] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.526596] [INFO] Database query executed

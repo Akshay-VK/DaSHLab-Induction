@@ -1,0 +1,33 @@
+[2025-11-05T23:20:52.627951] [WARN] Timeout warning
+[2025-11-05T23:20:52.627903] [INFO] Request processed successfully
+[2025-11-05T23:20:52.627899] [INFO] Health check passed
+[2025-11-05T23:20:52.627987] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.627864] [INFO] Configuration loaded
+[2025-11-05T23:20:52.627894] [INFO] Health check passed
+[2025-11-05T23:20:52.627943] [WARN] High memory usage detected
+[2025-11-05T23:20:52.627999] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.627995] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.627947] [WARN] Rate limit approaching
+[2025-11-05T23:20:52.627912] [INFO] Service initialized
+[2025-11-05T23:20:52.627991] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.627889] [INFO] Transaction completed
+[2025-11-05T23:20:52.627970] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.627974] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.627881] [INFO] Database query executed
+[2025-11-05T23:20:52.627983] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.627854] [INFO] Health check passed
+[2025-11-05T23:20:52.627868] [INFO] Transaction completed
+[2025-11-05T23:20:52.627931] [WARN] High memory usage detected
+[2025-11-05T23:20:52.627859] [INFO] User logged in
+[2025-11-05T23:20:52.627908] [INFO] Configuration loaded
+[2025-11-05T23:20:52.627965] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.627872] [INFO] Session started
+[2025-11-05T23:20:52.627939] [WARN] Rate limit approaching
+[2025-11-05T23:20:52.627919] [WARN] Resource threshold approaching
+[2025-11-05T23:20:52.627885] [INFO] Configuration loaded
+[2025-11-05T23:20:52.627877] [INFO] Database query executed
+[2025-11-05T23:20:52.627925] [WARN] Deprecated API usage
+[2025-11-05T23:20:52.627935] [WARN] Resource threshold approaching
+[2025-11-05T23:20:52.627979] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.627831] [INFO] Service initialized
+[2025-11-05T23:20:52.627957] [ERROR] Network timeout

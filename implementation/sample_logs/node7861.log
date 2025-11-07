@@ -1,0 +1,29 @@
+[2025-11-05T23:20:44.902913] [WARN] High memory usage detected
+[2025-11-05T23:20:44.902936] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.902949] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.902897] [INFO] Request processed successfully
+[2025-11-05T23:20:44.902857] [INFO] Transaction completed
+[2025-11-05T23:20:44.902849] [INFO] Health check passed
+[2025-11-05T23:20:44.902839] [INFO] Cache hit
+[2025-11-05T23:20:44.902901] [INFO] Cache hit
+[2025-11-05T23:20:44.902866] [INFO] Transaction completed
+[2025-11-05T23:20:44.902834] [INFO] Request processed successfully
+[2025-11-05T23:20:44.902874] [INFO] Database query executed
+[2025-11-05T23:20:44.902870] [INFO] Health check passed
+[2025-11-05T23:20:44.902893] [INFO] Health check passed
+[2025-11-05T23:20:44.902881] [INFO] User logged in
+[2025-11-05T23:20:44.902958] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.902844] [INFO] Request processed successfully
+[2025-11-05T23:20:44.902941] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.902889] [INFO] Health check passed
+[2025-11-05T23:20:44.902810] [INFO] Transaction completed
+[2025-11-05T23:20:44.902885] [INFO] Connection established
+[2025-11-05T23:20:44.902953] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.902921] [WARN] Slow query performance
+[2025-11-05T23:20:44.902926] [ERROR] Database connection lost
+[2025-11-05T23:20:44.902945] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.902931] [ERROR] Network timeout
+[2025-11-05T23:20:44.902908] [WARN] High memory usage detected
+[2025-11-05T23:20:44.902853] [INFO] User logged in
+[2025-11-05T23:20:44.902917] [WARN] Slow query performance
+[2025-11-05T23:20:44.902861] [INFO] Database query executed

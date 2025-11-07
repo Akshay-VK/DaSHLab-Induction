@@ -1,0 +1,28 @@
+[2025-11-05T23:20:44.845283] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.845170] [INFO] Cache hit
+[2025-11-05T23:20:44.845217] [INFO] Database query executed
+[2025-11-05T23:20:44.845142] [INFO] Configuration loaded
+[2025-11-05T23:20:44.845222] [INFO] Cache hit
+[2025-11-05T23:20:44.845230] [INFO] User logged in
+[2025-11-05T23:20:44.845180] [INFO] User logged in
+[2025-11-05T23:20:44.845213] [INFO] Health check passed
+[2025-11-05T23:20:44.845292] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.845226] [INFO] Request processed successfully
+[2025-11-05T23:20:44.845236] [WARN] Connection retry attempt
+[2025-11-05T23:20:44.845199] [INFO] Request processed successfully
+[2025-11-05T23:20:44.845190] [INFO] Request processed successfully
+[2025-11-05T23:20:44.845258] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.845185] [INFO] Database query executed
+[2025-11-05T23:20:44.845208] [INFO] Cache hit
+[2025-11-05T23:20:44.845253] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.845288] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.845279] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.845194] [INFO] Configuration loaded
+[2025-11-05T23:20:44.845247] [ERROR] Network timeout
+[2025-11-05T23:20:44.845262] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.845266] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.845271] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.845203] [INFO] User logged in
+[2025-11-05T23:20:44.845175] [INFO] Service initialized
+[2025-11-05T23:20:44.845275] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.845241] [WARN] Slow query performance

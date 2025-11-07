@@ -1,0 +1,30 @@
+[2025-11-05T23:20:41.345226] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.345096] [INFO] User logged in
+[2025-11-05T23:20:41.345192] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.345245] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.345169] [INFO] Cache hit
+[2025-11-05T23:20:41.345235] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.345258] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.345220] [ERROR] Database connection lost
+[2025-11-05T23:20:41.345231] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.345145] [INFO] Cache hit
+[2025-11-05T23:20:41.345139] [INFO] Request processed successfully
+[2025-11-05T23:20:41.345149] [INFO] User logged in
+[2025-11-05T23:20:41.345186] [INFO] Health check passed
+[2025-11-05T23:20:41.345123] [INFO] Session started
+[2025-11-05T23:20:41.345154] [INFO] User logged in
+[2025-11-05T23:20:41.345173] [INFO] Service initialized
+[2025-11-05T23:20:41.345208] [WARN] Timeout warning
+[2025-11-05T23:20:41.345250] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.345197] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.345134] [INFO] Configuration loaded
+[2025-11-05T23:20:41.345164] [INFO] Health check passed
+[2025-11-05T23:20:41.345182] [INFO] Configuration loaded
+[2025-11-05T23:20:41.345214] [ERROR] Disk read failed
+[2025-11-05T23:20:41.345240] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.345254] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.345263] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.345129] [INFO] Transaction completed
+[2025-11-05T23:20:41.345159] [INFO] Configuration loaded
+[2025-11-05T23:20:41.345202] [WARN] Disk space low
+[2025-11-05T23:20:41.345178] [INFO] Health check passed

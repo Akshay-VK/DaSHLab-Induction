@@ -1,0 +1,34 @@
+[2025-11-05T23:20:16.717002] [ERROR] Memory allocation error
+[2025-11-05T23:20:16.716955] [INFO] Configuration loaded
+[2025-11-05T23:20:16.716990] [WARN] High memory usage detected
+[2025-11-05T23:20:16.716890] [INFO] User logged in
+[2025-11-05T23:20:16.717016] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.717051] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.717008] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.716977] [WARN] Deprecated API usage
+[2025-11-05T23:20:16.717037] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.716921] [INFO] Cache hit
+[2025-11-05T23:20:16.716951] [INFO] Configuration loaded
+[2025-11-05T23:20:16.716926] [INFO] Configuration loaded
+[2025-11-05T23:20:16.717012] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.717029] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.716997] [ERROR] Permission denied
+[2025-11-05T23:20:16.716942] [INFO] Transaction completed
+[2025-11-05T23:20:16.717060] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.716963] [INFO] Request processed successfully
+[2025-11-05T23:20:16.716938] [INFO] Request processed successfully
+[2025-11-05T23:20:16.716986] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.717046] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.716934] [INFO] Request processed successfully
+[2025-11-05T23:20:16.716930] [INFO] Session started
+[2025-11-05T23:20:16.716947] [INFO] Request processed successfully
+[2025-11-05T23:20:16.717025] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.716915] [INFO] Configuration loaded
+[2025-11-05T23:20:16.717055] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.716971] [INFO] Connection established
+[2025-11-05T23:20:16.716967] [INFO] User logged in
+[2025-11-05T23:20:16.717041] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.716959] [INFO] Service initialized
+[2025-11-05T23:20:16.717033] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.717021] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.716982] [WARN] Timeout warning

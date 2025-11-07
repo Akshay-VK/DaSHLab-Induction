@@ -1,0 +1,31 @@
+[2025-11-05T23:20:21.039882] [INFO] User logged in
+[2025-11-05T23:20:21.039936] [ERROR] Memory allocation error
+[2025-11-05T23:20:21.039860] [INFO] Service initialized
+[2025-11-05T23:20:21.039846] [INFO] Database query executed
+[2025-11-05T23:20:21.039930] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.039903] [INFO] Service initialized
+[2025-11-05T23:20:21.039890] [INFO] Service initialized
+[2025-11-05T23:20:21.039856] [INFO] Session started
+[2025-11-05T23:20:21.039972] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.039951] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.039946] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.039908] [WARN] Cache miss
+[2025-11-05T23:20:21.039851] [INFO] Database query executed
+[2025-11-05T23:20:21.039899] [INFO] Connection established
+[2025-11-05T23:20:21.039963] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.039840] [INFO] Transaction completed
+[2025-11-05T23:20:21.039968] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.039895] [INFO] Transaction completed
+[2025-11-05T23:20:21.039914] [WARN] Queue size growing
+[2025-11-05T23:20:21.039941] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.039918] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.039959] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.039873] [INFO] Transaction completed
+[2025-11-05T23:20:21.039878] [INFO] User logged in
+[2025-11-05T23:20:21.039814] [INFO] Transaction completed
+[2025-11-05T23:20:21.039955] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.039922] [WARN] Queue size growing
+[2025-11-05T23:20:21.039926] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.039886] [INFO] Configuration loaded
+[2025-11-05T23:20:21.039869] [INFO] Session started
+[2025-11-05T23:20:21.039865] [INFO] Health check passed

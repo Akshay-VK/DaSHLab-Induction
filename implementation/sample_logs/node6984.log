@@ -1,0 +1,36 @@
+[2025-11-05T23:20:41.463392] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.463357] [WARN] Timeout warning
+[2025-11-05T23:20:41.463411] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.463284] [INFO] Transaction completed
+[2025-11-05T23:20:41.463353] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.463334] [INFO] Service initialized
+[2025-11-05T23:20:41.463315] [INFO] Service initialized
+[2025-11-05T23:20:41.463344] [WARN] High memory usage detected
+[2025-11-05T23:20:41.463416] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.463395] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.463349] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.463322] [INFO] Cache hit
+[2025-11-05T23:20:41.463388] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.463306] [INFO] Database query executed
+[2025-11-05T23:20:41.463370] [ERROR] Authentication failed
+[2025-11-05T23:20:41.463403] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.463424] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.463292] [INFO] Database query executed
+[2025-11-05T23:20:41.463407] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.463384] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.463374] [ERROR] Request failed
+[2025-11-05T23:20:41.463252] [INFO] Health check passed
+[2025-11-05T23:20:41.463399] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.463366] [ERROR] Permission denied
+[2025-11-05T23:20:41.463330] [INFO] Service initialized
+[2025-11-05T23:20:41.463420] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.463288] [INFO] Session started
+[2025-11-05T23:20:41.463319] [INFO] Database query executed
+[2025-11-05T23:20:41.463326] [INFO] Configuration loaded
+[2025-11-05T23:20:41.463339] [WARN] Timeout warning
+[2025-11-05T23:20:41.463362] [ERROR] Database connection lost
+[2025-11-05T23:20:41.463302] [INFO] Health check passed
+[2025-11-05T23:20:41.463310] [INFO] Connection established
+[2025-11-05T23:20:41.463297] [INFO] Configuration loaded
+[2025-11-05T23:20:41.463278] [INFO] Session started
+[2025-11-05T23:20:41.463379] [DEBUG] Entering function process_data()

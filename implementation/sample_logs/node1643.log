@@ -1,0 +1,27 @@
+[2025-11-05T23:20:19.501770] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.501753] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.501745] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.501774] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.501699] [INFO] Configuration loaded
+[2025-11-05T23:20:19.501761] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.501730] [ERROR] Disk read failed
+[2025-11-05T23:20:19.501667] [INFO] Database query executed
+[2025-11-05T23:20:19.501677] [INFO] Transaction completed
+[2025-11-05T23:20:19.501695] [INFO] Service initialized
+[2025-11-05T23:20:19.501715] [WARN] Cache miss
+[2025-11-05T23:20:19.501690] [INFO] Transaction completed
+[2025-11-05T23:20:19.501629] [INFO] Transaction completed
+[2025-11-05T23:20:19.501736] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.501765] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.501704] [INFO] Cache hit
+[2025-11-05T23:20:19.501686] [INFO] User logged in
+[2025-11-05T23:20:19.501741] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.501749] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.501662] [INFO] Database query executed
+[2025-11-05T23:20:19.501757] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.501682] [INFO] User logged in
+[2025-11-05T23:20:19.501725] [ERROR] Authentication failed
+[2025-11-05T23:20:19.501709] [INFO] Database query executed
+[2025-11-05T23:20:19.501656] [INFO] Health check passed
+[2025-11-05T23:20:19.501672] [INFO] Request processed successfully
+[2025-11-05T23:20:19.501720] [WARN] Disk space low

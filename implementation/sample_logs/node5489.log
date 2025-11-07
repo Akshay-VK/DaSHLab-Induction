@@ -1,0 +1,25 @@
+[2025-11-05T23:20:35.378706] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.378610] [INFO] Session started
+[2025-11-05T23:20:35.378684] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.378638] [INFO] Session started
+[2025-11-05T23:20:35.378678] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.378715] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.378711] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.378673] [ERROR] Permission denied
+[2025-11-05T23:20:35.378688] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.378577] [INFO] User logged in
+[2025-11-05T23:20:35.378633] [INFO] Session started
+[2025-11-05T23:20:35.378647] [INFO] Health check passed
+[2025-11-05T23:20:35.378693] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.378604] [INFO] Connection established
+[2025-11-05T23:20:35.378662] [WARN] Queue size growing
+[2025-11-05T23:20:35.378656] [INFO] Database query executed
+[2025-11-05T23:20:35.378668] [ERROR] Database connection lost
+[2025-11-05T23:20:35.378629] [INFO] User logged in
+[2025-11-05T23:20:35.378651] [INFO] Configuration loaded
+[2025-11-05T23:20:35.378702] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.378697] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.378620] [INFO] Database query executed
+[2025-11-05T23:20:35.378625] [INFO] Request processed successfully
+[2025-11-05T23:20:35.378643] [INFO] Database query executed
+[2025-11-05T23:20:35.378615] [INFO] Request processed successfully

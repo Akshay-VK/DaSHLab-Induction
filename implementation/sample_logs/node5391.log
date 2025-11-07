@@ -1,0 +1,32 @@
+[2025-11-05T23:20:35.045292] [INFO] Configuration loaded
+[2025-11-05T23:20:35.045298] [INFO] Health check passed
+[2025-11-05T23:20:35.045326] [INFO] Service initialized
+[2025-11-05T23:20:35.045389] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.045315] [INFO] Transaction completed
+[2025-11-05T23:20:35.045305] [INFO] User logged in
+[2025-11-05T23:20:35.045339] [WARN] Resource threshold approaching
+[2025-11-05T23:20:35.045383] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.045310] [INFO] Health check passed
+[2025-11-05T23:20:35.045275] [INFO] Session started
+[2025-11-05T23:20:35.045357] [WARN] Slow query performance
+[2025-11-05T23:20:35.045262] [INFO] User logged in
+[2025-11-05T23:20:35.045424] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.045418] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.045396] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.045219] [INFO] Health check passed
+[2025-11-05T23:20:35.045369] [ERROR] Request failed
+[2025-11-05T23:20:35.045363] [ERROR] File not found
+[2025-11-05T23:20:35.045377] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.045255] [INFO] User logged in
+[2025-11-05T23:20:35.045402] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.045334] [WARN] Cache miss
+[2025-11-05T23:20:35.045429] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.045413] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.045352] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.045287] [INFO] Configuration loaded
+[2025-11-05T23:20:35.045247] [INFO] User logged in
+[2025-11-05T23:20:35.045320] [INFO] Request processed successfully
+[2025-11-05T23:20:35.045269] [INFO] Session started
+[2025-11-05T23:20:35.045280] [INFO] Database query executed
+[2025-11-05T23:20:35.045408] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.045346] [WARN] High memory usage detected

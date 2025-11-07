@@ -1,0 +1,32 @@
+[2025-11-05T23:20:24.899346] [INFO] Connection established
+[2025-11-05T23:20:24.899438] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.899372] [WARN] Cache miss
+[2025-11-05T23:20:24.899423] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.899410] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.899337] [INFO] Transaction completed
+[2025-11-05T23:20:24.899442] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.899354] [INFO] Transaction completed
+[2025-11-05T23:20:24.899358] [INFO] Database query executed
+[2025-11-05T23:20:24.899321] [INFO] Request processed successfully
+[2025-11-05T23:20:24.899366] [INFO] User logged in
+[2025-11-05T23:20:24.899327] [INFO] Transaction completed
+[2025-11-05T23:20:24.899427] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.899350] [INFO] Service initialized
+[2025-11-05T23:20:24.899431] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.899401] [ERROR] Network timeout
+[2025-11-05T23:20:24.899391] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.899274] [INFO] User logged in
+[2025-11-05T23:20:24.899341] [INFO] Transaction completed
+[2025-11-05T23:20:24.899419] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.899362] [INFO] Request processed successfully
+[2025-11-05T23:20:24.899310] [INFO] Connection established
+[2025-11-05T23:20:24.899405] [ERROR] File not found
+[2025-11-05T23:20:24.899386] [WARN] Queue size growing
+[2025-11-05T23:20:24.899382] [WARN] High memory usage detected
+[2025-11-05T23:20:24.899415] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.899396] [ERROR] Memory allocation error
+[2025-11-05T23:20:24.899332] [INFO] Configuration loaded
+[2025-11-05T23:20:24.899304] [INFO] Service initialized
+[2025-11-05T23:20:24.899434] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.899316] [INFO] Connection established
+[2025-11-05T23:20:24.899377] [WARN] Queue size growing

@@ -1,0 +1,27 @@
+[2025-11-05T23:20:35.941358] [WARN] Timeout warning
+[2025-11-05T23:20:35.941403] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.941411] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.941334] [INFO] Session started
+[2025-11-05T23:20:35.941371] [WARN] Timeout warning
+[2025-11-05T23:20:35.941421] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.941330] [INFO] Configuration loaded
+[2025-11-05T23:20:35.941374] [WARN] Connection retry attempt
+[2025-11-05T23:20:35.941353] [WARN] Slow query performance
+[2025-11-05T23:20:35.941325] [INFO] Session started
+[2025-11-05T23:20:35.941343] [INFO] User logged in
+[2025-11-05T23:20:35.941362] [WARN] Slow query performance
+[2025-11-05T23:20:35.941399] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.941319] [INFO] Database query executed
+[2025-11-05T23:20:35.941427] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.941384] [ERROR] Memory allocation error
+[2025-11-05T23:20:35.941314] [INFO] Request processed successfully
+[2025-11-05T23:20:35.941407] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.941416] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.941378] [WARN] High memory usage detected
+[2025-11-05T23:20:35.941283] [INFO] Session started
+[2025-11-05T23:20:35.941347] [INFO] Cache hit
+[2025-11-05T23:20:35.941390] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.941308] [INFO] Connection established
+[2025-11-05T23:20:35.941339] [INFO] Session started
+[2025-11-05T23:20:35.941366] [WARN] Cache miss
+[2025-11-05T23:20:35.941394] [DEBUG] Memory allocation: 2048 bytes

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:46.047143] [INFO] Database query executed
+[2025-11-05T23:20:46.047215] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.047164] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.047131] [INFO] Health check passed
+[2025-11-05T23:20:46.047219] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.047135] [INFO] User logged in
+[2025-11-05T23:20:46.047187] [ERROR] Service unavailable
+[2025-11-05T23:20:46.047178] [WARN] Cache miss
+[2025-11-05T23:20:46.047095] [INFO] Transaction completed
+[2025-11-05T23:20:46.047150] [INFO] Cache hit
+[2025-11-05T23:20:46.047206] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.047169] [WARN] Timeout warning
+[2025-11-05T23:20:46.047197] [ERROR] Database connection lost
+[2025-11-05T23:20:46.047120] [INFO] User logged in
+[2025-11-05T23:20:46.047155] [INFO] Health check passed
+[2025-11-05T23:20:46.047210] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.047159] [INFO] Request processed successfully
+[2025-11-05T23:20:46.047173] [WARN] High memory usage detected
+[2025-11-05T23:20:46.047182] [WARN] Timeout warning
+[2025-11-05T23:20:46.047241] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.047192] [ERROR] Disk read failed
+[2025-11-05T23:20:46.047147] [INFO] Connection established
+[2025-11-05T23:20:46.047223] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.047232] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.047236] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.047202] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.047126] [INFO] Connection established
+[2025-11-05T23:20:46.047228] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.047139] [INFO] Connection established

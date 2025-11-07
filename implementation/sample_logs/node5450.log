@@ -1,0 +1,35 @@
+[2025-11-05T23:20:35.274938] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.274861] [INFO] User logged in
+[2025-11-05T23:20:35.274793] [INFO] Connection established
+[2025-11-05T23:20:35.274953] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.274868] [INFO] Database query executed
+[2025-11-05T23:20:35.274882] [WARN] Cache miss
+[2025-11-05T23:20:35.274923] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.274905] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.274864] [INFO] Service initialized
+[2025-11-05T23:20:35.274900] [ERROR] Memory allocation error
+[2025-11-05T23:20:35.274877] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.274889] [WARN] Slow query performance
+[2025-11-05T23:20:35.274914] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.274910] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.274853] [INFO] Session started
+[2025-11-05T23:20:35.274838] [INFO] Request processed successfully
+[2025-11-05T23:20:35.274827] [INFO] Session started
+[2025-11-05T23:20:35.274941] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.274927] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.274945] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.274930] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.274885] [WARN] High memory usage detected
+[2025-11-05T23:20:35.274842] [INFO] Connection established
+[2025-11-05T23:20:35.274949] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.274934] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.274818] [INFO] Connection established
+[2025-11-05T23:20:35.274894] [ERROR] Request failed
+[2025-11-05T23:20:35.274857] [INFO] User logged in
+[2025-11-05T23:20:35.274919] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.274823] [INFO] Health check passed
+[2025-11-05T23:20:35.274850] [INFO] Transaction completed
+[2025-11-05T23:20:35.274845] [INFO] Request processed successfully
+[2025-11-05T23:20:35.274835] [INFO] Connection established
+[2025-11-05T23:20:35.274873] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.274831] [INFO] Health check passed

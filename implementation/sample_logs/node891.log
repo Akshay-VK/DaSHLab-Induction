@@ -1,0 +1,28 @@
+[2025-11-05T23:20:16.247300] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.247283] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.247257] [WARN] Deprecated API usage
+[2025-11-05T23:20:16.247248] [INFO] Configuration loaded
+[2025-11-05T23:20:16.247292] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.247235] [INFO] User logged in
+[2025-11-05T23:20:16.247244] [INFO] Service initialized
+[2025-11-05T23:20:16.247182] [INFO] Health check passed
+[2025-11-05T23:20:16.247296] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.247308] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.247318] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.247322] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.247288] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.247326] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.247271] [WARN] Timeout warning
+[2025-11-05T23:20:16.247217] [INFO] Session started
+[2025-11-05T23:20:16.247267] [WARN] Slow query performance
+[2025-11-05T23:20:16.247312] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.247231] [INFO] Service initialized
+[2025-11-05T23:20:16.247262] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.247252] [INFO] Connection established
+[2025-11-05T23:20:16.247277] [ERROR] Permission denied
+[2025-11-05T23:20:16.247304] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.247227] [INFO] Configuration loaded
+[2025-11-05T23:20:16.247207] [INFO] Connection established
+[2025-11-05T23:20:16.247213] [INFO] Configuration loaded
+[2025-11-05T23:20:16.247239] [INFO] Transaction completed
+[2025-11-05T23:20:16.247222] [INFO] Database query executed

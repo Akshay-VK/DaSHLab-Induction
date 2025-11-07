@@ -1,0 +1,24 @@
+[2025-11-05T23:20:13.509876] [INFO] Request processed successfully
+[2025-11-05T23:20:13.509884] [WARN] Slow query performance
+[2025-11-05T23:20:13.509888] [WARN] Slow query performance
+[2025-11-05T23:20:13.509859] [INFO] Session started
+[2025-11-05T23:20:13.509812] [INFO] Configuration loaded
+[2025-11-05T23:20:13.509866] [INFO] Health check passed
+[2025-11-05T23:20:13.509920] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.509901] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:13.509838] [INFO] Transaction completed
+[2025-11-05T23:20:13.509916] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.509880] [WARN] High memory usage detected
+[2025-11-05T23:20:13.509869] [INFO] Health check passed
+[2025-11-05T23:20:13.509855] [INFO] Request processed successfully
+[2025-11-05T23:20:13.509862] [INFO] Transaction completed
+[2025-11-05T23:20:13.509912] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:13.509847] [INFO] Health check passed
+[2025-11-05T23:20:13.509923] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:13.509851] [INFO] Connection established
+[2025-11-05T23:20:13.509905] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:13.509896] [ERROR] Database connection lost
+[2025-11-05T23:20:13.509872] [INFO] Session started
+[2025-11-05T23:20:13.509909] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:13.509891] [WARN] Disk space low
+[2025-11-05T23:20:13.509843] [INFO] Configuration loaded

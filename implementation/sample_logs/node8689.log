@@ -1,0 +1,27 @@
+[2025-11-05T23:20:48.302071] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.302037] [INFO] Database query executed
+[2025-11-05T23:20:48.302014] [INFO] Health check passed
+[2025-11-05T23:20:48.301996] [INFO] Database query executed
+[2025-11-05T23:20:48.302098] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.302093] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:48.302060] [ERROR] Service unavailable
+[2025-11-05T23:20:48.302066] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:48.302053] [WARN] Rate limit approaching
+[2025-11-05T23:20:48.302010] [INFO] Transaction completed
+[2025-11-05T23:20:48.302047] [WARN] Connection retry attempt
+[2025-11-05T23:20:48.302085] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:48.302075] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:48.302103] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.301955] [INFO] Request processed successfully
+[2025-11-05T23:20:48.302023] [INFO] Health check passed
+[2025-11-05T23:20:48.302041] [INFO] User logged in
+[2025-11-05T23:20:48.302005] [INFO] Health check passed
+[2025-11-05T23:20:48.302089] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:48.301992] [INFO] Session started
+[2025-11-05T23:20:48.301987] [INFO] Transaction completed
+[2025-11-05T23:20:48.302027] [INFO] Session started
+[2025-11-05T23:20:48.302001] [INFO] Configuration loaded
+[2025-11-05T23:20:48.301981] [INFO] Session started
+[2025-11-05T23:20:48.302080] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:48.302032] [INFO] Configuration loaded
+[2025-11-05T23:20:48.302019] [INFO] Transaction completed

@@ -1,0 +1,27 @@
+[2025-11-05T23:20:13.560228] [INFO] Configuration loaded
+[2025-11-05T23:20:13.560186] [INFO] Health check passed
+[2025-11-05T23:20:13.560181] [INFO] Connection established
+[2025-11-05T23:20:13.560212] [INFO] User logged in
+[2025-11-05T23:20:13.560240] [WARN] Cache miss
+[2025-11-05T23:20:13.560267] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:13.560290] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.560224] [INFO] Database query executed
+[2025-11-05T23:20:13.560191] [INFO] Cache hit
+[2025-11-05T23:20:13.560142] [INFO] Cache hit
+[2025-11-05T23:20:13.560280] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:13.560216] [INFO] Configuration loaded
+[2025-11-05T23:20:13.560176] [INFO] Cache hit
+[2025-11-05T23:20:13.560252] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.560257] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.560169] [INFO] Health check passed
+[2025-11-05T23:20:13.560275] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:13.560220] [INFO] Database query executed
+[2025-11-05T23:20:13.560262] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.560285] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:13.560195] [INFO] Cache hit
+[2025-11-05T23:20:13.560246] [ERROR] Database connection lost
+[2025-11-05T23:20:13.560199] [INFO] Transaction completed
+[2025-11-05T23:20:13.560235] [WARN] Connection retry attempt
+[2025-11-05T23:20:13.560203] [INFO] Cache hit
+[2025-11-05T23:20:13.560271] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.560208] [INFO] Cache hit

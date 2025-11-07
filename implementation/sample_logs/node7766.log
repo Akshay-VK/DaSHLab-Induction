@@ -1,0 +1,33 @@
+[2025-11-05T23:20:44.582553] [INFO] Session started
+[2025-11-05T23:20:44.582623] [WARN] Disk space low
+[2025-11-05T23:20:44.582646] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.582604] [INFO] Cache hit
+[2025-11-05T23:20:44.582584] [INFO] Service initialized
+[2025-11-05T23:20:44.582661] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.582600] [INFO] Session started
+[2025-11-05T23:20:44.582588] [INFO] Cache hit
+[2025-11-05T23:20:44.582669] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.582676] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.582572] [INFO] Request processed successfully
+[2025-11-05T23:20:44.582619] [WARN] Connection retry attempt
+[2025-11-05T23:20:44.582632] [ERROR] Permission denied
+[2025-11-05T23:20:44.582627] [WARN] Cache miss
+[2025-11-05T23:20:44.582657] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.582558] [INFO] Configuration loaded
+[2025-11-05T23:20:44.582567] [INFO] Transaction completed
+[2025-11-05T23:20:44.582596] [INFO] Transaction completed
+[2025-11-05T23:20:44.582609] [WARN] Slow query performance
+[2025-11-05T23:20:44.582592] [INFO] Transaction completed
+[2025-11-05T23:20:44.582520] [INFO] Session started
+[2025-11-05T23:20:44.582653] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.582673] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.582614] [WARN] Cache miss
+[2025-11-05T23:20:44.582680] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.582563] [INFO] Transaction completed
+[2025-11-05T23:20:44.582545] [INFO] Request processed successfully
+[2025-11-05T23:20:44.582575] [INFO] Cache hit
+[2025-11-05T23:20:44.582649] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.582641] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.582636] [ERROR] Memory allocation error
+[2025-11-05T23:20:44.582580] [INFO] Configuration loaded
+[2025-11-05T23:20:44.582665] [DEBUG] Buffer size: 4096 bytes

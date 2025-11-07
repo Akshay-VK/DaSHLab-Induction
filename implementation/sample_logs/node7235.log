@@ -1,0 +1,32 @@
+[2025-11-05T23:20:42.415394] [INFO] Cache hit
+[2025-11-05T23:20:42.415385] [INFO] Transaction completed
+[2025-11-05T23:20:42.415410] [WARN] Queue size growing
+[2025-11-05T23:20:42.415371] [INFO] User logged in
+[2025-11-05T23:20:42.415400] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.415366] [INFO] Session started
+[2025-11-05T23:20:42.415347] [INFO] Service initialized
+[2025-11-05T23:20:42.415306] [INFO] Service initialized
+[2025-11-05T23:20:42.415337] [INFO] User logged in
+[2025-11-05T23:20:42.415456] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.415405] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.415332] [INFO] Health check passed
+[2025-11-05T23:20:42.415465] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.415342] [INFO] Cache hit
+[2025-11-05T23:20:42.415445] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.415432] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.415461] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.415441] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.415474] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.415352] [INFO] Transaction completed
+[2025-11-05T23:20:42.415389] [INFO] Request processed successfully
+[2025-11-05T23:20:42.415480] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.415451] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.415380] [INFO] Cache hit
+[2025-11-05T23:20:42.415469] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.415362] [INFO] Transaction completed
+[2025-11-05T23:20:42.415358] [INFO] Session started
+[2025-11-05T23:20:42.415415] [WARN] Resource threshold approaching
+[2025-11-05T23:20:42.415376] [INFO] Configuration loaded
+[2025-11-05T23:20:42.415436] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.415426] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.415420] [ERROR] Memory allocation error

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:43.730171] [INFO] Session started
+[2025-11-05T23:20:43.730178] [WARN] Cache miss
+[2025-11-05T23:20:43.730212] [ERROR] Memory allocation error
+[2025-11-05T23:20:43.730255] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.730130] [INFO] User logged in
+[2025-11-05T23:20:43.730242] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.730144] [INFO] Request processed successfully
+[2025-11-05T23:20:43.730108] [INFO] Session started
+[2025-11-05T23:20:43.730207] [ERROR] Memory allocation error
+[2025-11-05T23:20:43.730246] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.730237] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.730167] [INFO] Connection established
+[2025-11-05T23:20:43.730080] [INFO] Configuration loaded
+[2025-11-05T23:20:43.730124] [INFO] Health check passed
+[2025-11-05T23:20:43.730232] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.730251] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.730158] [INFO] Health check passed
+[2025-11-05T23:20:43.730217] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.730163] [INFO] Connection established
+[2025-11-05T23:20:43.730228] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.730193] [WARN] Deprecated API usage
+[2025-11-05T23:20:43.730197] [WARN] Resource threshold approaching
+[2025-11-05T23:20:43.730188] [WARN] Queue size growing
+[2025-11-05T23:20:43.730223] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.730183] [WARN] Queue size growing
+[2025-11-05T23:20:43.730149] [INFO] Database query executed
+[2025-11-05T23:20:43.730139] [INFO] Transaction completed
+[2025-11-05T23:20:43.730134] [INFO] Health check passed
+[2025-11-05T23:20:43.730201] [WARN] Disk space low
+[2025-11-05T23:20:43.730120] [INFO] Service initialized
+[2025-11-05T23:20:43.730114] [INFO] User logged in
+[2025-11-05T23:20:43.730154] [INFO] Session started

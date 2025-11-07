@@ -1,0 +1,28 @@
+[2025-11-05T23:20:16.412225] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.412272] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.412276] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.412158] [INFO] Database query executed
+[2025-11-05T23:20:16.412246] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.412188] [INFO] User logged in
+[2025-11-05T23:20:16.412255] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.412172] [INFO] User logged in
+[2025-11-05T23:20:16.412199] [INFO] Session started
+[2025-11-05T23:20:16.412242] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.412208] [INFO] Cache hit
+[2025-11-05T23:20:16.412154] [INFO] Service initialized
+[2025-11-05T23:20:16.412231] [ERROR] Authentication failed
+[2025-11-05T23:20:16.412183] [INFO] Health check passed
+[2025-11-05T23:20:16.412148] [INFO] Transaction completed
+[2025-11-05T23:20:16.412119] [INFO] Connection established
+[2025-11-05T23:20:16.412237] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.412177] [INFO] Configuration loaded
+[2025-11-05T23:20:16.412203] [INFO] Cache hit
+[2025-11-05T23:20:16.412251] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.412194] [INFO] Transaction completed
+[2025-11-05T23:20:16.412213] [INFO] Connection established
+[2025-11-05T23:20:16.412260] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.412264] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.412220] [WARN] High memory usage detected
+[2025-11-05T23:20:16.412168] [INFO] Transaction completed
+[2025-11-05T23:20:16.412268] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.412163] [INFO] Service initialized

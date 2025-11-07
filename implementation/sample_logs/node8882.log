@@ -1,0 +1,31 @@
+[2025-11-05T23:20:49.297838] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.297752] [WARN] Cache miss
+[2025-11-05T23:20:49.297827] [ERROR] Permission denied
+[2025-11-05T23:20:49.297700] [INFO] Request processed successfully
+[2025-11-05T23:20:49.297738] [INFO] Transaction completed
+[2025-11-05T23:20:49.297658] [INFO] Session started
+[2025-11-05T23:20:49.297862] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.297719] [INFO] User logged in
+[2025-11-05T23:20:49.297858] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.297729] [INFO] User logged in
+[2025-11-05T23:20:49.297871] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.297724] [INFO] Transaction completed
+[2025-11-05T23:20:49.297877] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.297715] [INFO] Cache hit
+[2025-11-05T23:20:49.297844] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.297764] [WARN] Queue size growing
+[2025-11-05T23:20:49.297696] [INFO] Database query executed
+[2025-11-05T23:20:49.297685] [INFO] Database query executed
+[2025-11-05T23:20:49.297758] [WARN] Connection retry attempt
+[2025-11-05T23:20:49.297848] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.297710] [INFO] Request processed successfully
+[2025-11-05T23:20:49.297734] [INFO] User logged in
+[2025-11-05T23:20:49.297814] [WARN] High memory usage detected
+[2025-11-05T23:20:49.297833] [ERROR] Memory allocation error
+[2025-11-05T23:20:49.297742] [INFO] Connection established
+[2025-11-05T23:20:49.297746] [INFO] Cache hit
+[2025-11-05T23:20:49.297866] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.297691] [INFO] Session started
+[2025-11-05T23:20:49.297853] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.297769] [WARN] Queue size growing
+[2025-11-05T23:20:49.297706] [INFO] Session started

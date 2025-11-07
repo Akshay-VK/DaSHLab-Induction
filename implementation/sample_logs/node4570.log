@@ -1,0 +1,36 @@
+[2025-11-05T23:20:31.925624] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.925560] [WARN] Slow query performance
+[2025-11-05T23:20:31.925583] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.925615] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.925610] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.925516] [INFO] Configuration loaded
+[2025-11-05T23:20:31.925494] [INFO] Connection established
+[2025-11-05T23:20:31.925470] [INFO] Cache hit
+[2025-11-05T23:20:31.925552] [WARN] Deprecated API usage
+[2025-11-05T23:20:31.925475] [INFO] Request processed successfully
+[2025-11-05T23:20:31.925596] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.925529] [INFO] Connection established
+[2025-11-05T23:20:31.925489] [INFO] Configuration loaded
+[2025-11-05T23:20:31.925547] [WARN] Slow query performance
+[2025-11-05T23:20:31.925520] [INFO] User logged in
+[2025-11-05T23:20:31.925556] [WARN] High memory usage detected
+[2025-11-05T23:20:31.925571] [ERROR] Permission denied
+[2025-11-05T23:20:31.925620] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.925592] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.925542] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.925484] [INFO] Configuration loaded
+[2025-11-05T23:20:31.925566] [ERROR] Service unavailable
+[2025-11-05T23:20:31.925507] [INFO] Configuration loaded
+[2025-11-05T23:20:31.925498] [INFO] Transaction completed
+[2025-11-05T23:20:31.925525] [INFO] Cache hit
+[2025-11-05T23:20:31.925576] [ERROR] Disk read failed
+[2025-11-05T23:20:31.925605] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.925588] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.925480] [INFO] Request processed successfully
+[2025-11-05T23:20:31.925465] [INFO] Cache hit
+[2025-11-05T23:20:31.925503] [INFO] Transaction completed
+[2025-11-05T23:20:31.925458] [INFO] User logged in
+[2025-11-05T23:20:31.925512] [INFO] Session started
+[2025-11-05T23:20:31.925432] [INFO] Database query executed
+[2025-11-05T23:20:31.925536] [WARN] Deprecated API usage
+[2025-11-05T23:20:31.925600] [DEBUG] Thread pool size: 8

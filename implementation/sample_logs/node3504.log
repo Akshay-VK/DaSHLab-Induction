@@ -1,0 +1,28 @@
+[2025-11-05T23:20:27.712003] [INFO] Connection established
+[2025-11-05T23:20:27.711995] [INFO] Session started
+[2025-11-05T23:20:27.712049] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.712036] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.712053] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.711956] [INFO] User logged in
+[2025-11-05T23:20:27.711974] [INFO] Request processed successfully
+[2025-11-05T23:20:27.711951] [INFO] Health check passed
+[2025-11-05T23:20:27.712032] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.712058] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.711969] [INFO] User logged in
+[2025-11-05T23:20:27.712008] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.712027] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.712015] [ERROR] Network timeout
+[2025-11-05T23:20:27.712020] [ERROR] Request failed
+[2025-11-05T23:20:27.711965] [INFO] Database query executed
+[2025-11-05T23:20:27.711961] [INFO] Cache hit
+[2025-11-05T23:20:27.712062] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.711999] [INFO] Request processed successfully
+[2025-11-05T23:20:27.712045] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.711947] [INFO] Health check passed
+[2025-11-05T23:20:27.711987] [INFO] Request processed successfully
+[2025-11-05T23:20:27.711983] [INFO] User logged in
+[2025-11-05T23:20:27.711978] [INFO] User logged in
+[2025-11-05T23:20:27.711942] [INFO] Cache hit
+[2025-11-05T23:20:27.711916] [INFO] Health check passed
+[2025-11-05T23:20:27.712040] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.711991] [INFO] Database query executed

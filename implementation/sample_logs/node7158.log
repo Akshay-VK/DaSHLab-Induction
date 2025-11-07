@@ -1,0 +1,35 @@
+[2025-11-05T23:20:42.194223] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.194236] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.194128] [INFO] Connection established
+[2025-11-05T23:20:42.194155] [INFO] Cache hit
+[2025-11-05T23:20:42.194227] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.194108] [INFO] User logged in
+[2025-11-05T23:20:42.194139] [INFO] Database query executed
+[2025-11-05T23:20:42.194103] [INFO] Session started
+[2025-11-05T23:20:42.194123] [INFO] Configuration loaded
+[2025-11-05T23:20:42.194163] [INFO] User logged in
+[2025-11-05T23:20:42.194063] [INFO] Connection established
+[2025-11-05T23:20:42.194182] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.194218] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.194177] [WARN] Slow query performance
+[2025-11-05T23:20:42.194113] [INFO] Connection established
+[2025-11-05T23:20:42.194245] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.194150] [INFO] Request processed successfully
+[2025-11-05T23:20:42.194209] [ERROR] Database connection lost
+[2025-11-05T23:20:42.194097] [INFO] Health check passed
+[2025-11-05T23:20:42.194200] [ERROR] Memory allocation error
+[2025-11-05T23:20:42.194159] [INFO] Database query executed
+[2025-11-05T23:20:42.194190] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.194134] [INFO] Configuration loaded
+[2025-11-05T23:20:42.194196] [ERROR] Memory allocation error
+[2025-11-05T23:20:42.194248] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.194144] [INFO] Session started
+[2025-11-05T23:20:42.194232] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.194171] [INFO] Cache hit
+[2025-11-05T23:20:42.194167] [INFO] Configuration loaded
+[2025-11-05T23:20:42.194240] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.194119] [INFO] Request processed successfully
+[2025-11-05T23:20:42.194187] [WARN] Timeout warning
+[2025-11-05T23:20:42.194205] [ERROR] Authentication failed
+[2025-11-05T23:20:42.194090] [INFO] Database query executed
+[2025-11-05T23:20:42.194213] [ERROR] Memory allocation error

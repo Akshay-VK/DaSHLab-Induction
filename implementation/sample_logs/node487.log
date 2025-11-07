@@ -1,0 +1,31 @@
+[2025-11-05T23:20:14.513889] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.513919] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.513762] [INFO] Configuration loaded
+[2025-11-05T23:20:14.513834] [INFO] Configuration loaded
+[2025-11-05T23:20:14.513874] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.513910] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.513817] [INFO] Session started
+[2025-11-05T23:20:14.513902] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.513788] [INFO] Session started
+[2025-11-05T23:20:14.513838] [INFO] Connection established
+[2025-11-05T23:20:14.513869] [WARN] Queue size growing
+[2025-11-05T23:20:14.513803] [INFO] Configuration loaded
+[2025-11-05T23:20:14.513847] [WARN] Queue size growing
+[2025-11-05T23:20:14.513852] [WARN] Cache miss
+[2025-11-05T23:20:14.513898] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.513821] [INFO] Session started
+[2025-11-05T23:20:14.513860] [WARN] Timeout warning
+[2025-11-05T23:20:14.513865] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.513894] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.513856] [WARN] Deprecated API usage
+[2025-11-05T23:20:14.513879] [ERROR] Service unavailable
+[2025-11-05T23:20:14.513798] [INFO] User logged in
+[2025-11-05T23:20:14.513830] [INFO] Session started
+[2025-11-05T23:20:14.513813] [INFO] Configuration loaded
+[2025-11-05T23:20:14.513808] [INFO] Service initialized
+[2025-11-05T23:20:14.513842] [INFO] Session started
+[2025-11-05T23:20:14.513906] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.513915] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.513826] [INFO] Connection established
+[2025-11-05T23:20:14.513883] [ERROR] Network timeout
+[2025-11-05T23:20:14.513793] [INFO] Connection established

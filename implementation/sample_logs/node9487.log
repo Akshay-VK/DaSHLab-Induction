@@ -1,0 +1,33 @@
+[2025-11-05T23:20:52.018383] [INFO] Cache hit
+[2025-11-05T23:20:52.018441] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.018404] [WARN] Disk space low
+[2025-11-05T23:20:52.018390] [INFO] Configuration loaded
+[2025-11-05T23:20:52.018456] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.018452] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.018464] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.018353] [INFO] Session started
+[2025-11-05T23:20:52.018386] [INFO] Database query executed
+[2025-11-05T23:20:52.018361] [INFO] Request processed successfully
+[2025-11-05T23:20:52.018433] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.018340] [INFO] Database query executed
+[2025-11-05T23:20:52.018395] [WARN] Cache miss
+[2025-11-05T23:20:52.018372] [INFO] Service initialized
+[2025-11-05T23:20:52.018368] [INFO] Request processed successfully
+[2025-11-05T23:20:52.018316] [INFO] Cache hit
+[2025-11-05T23:20:52.018357] [INFO] Session started
+[2025-11-05T23:20:52.018376] [INFO] Request processed successfully
+[2025-11-05T23:20:52.018460] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.018345] [INFO] Database query executed
+[2025-11-05T23:20:52.018365] [INFO] Cache hit
+[2025-11-05T23:20:52.018445] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.018420] [ERROR] Service unavailable
+[2025-11-05T23:20:52.018408] [WARN] Queue size growing
+[2025-11-05T23:20:52.018429] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.018379] [INFO] Session started
+[2025-11-05T23:20:52.018425] [ERROR] Permission denied
+[2025-11-05T23:20:52.018349] [INFO] Session started
+[2025-11-05T23:20:52.018449] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.018415] [WARN] High memory usage detected
+[2025-11-05T23:20:52.018412] [WARN] Cache miss
+[2025-11-05T23:20:52.018438] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.018399] [WARN] Connection retry attempt

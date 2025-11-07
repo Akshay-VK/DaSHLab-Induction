@@ -1,0 +1,26 @@
+[2025-11-05T23:20:45.815341] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.815374] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.815282] [INFO] Configuration loaded
+[2025-11-05T23:20:45.815317] [WARN] High memory usage detected
+[2025-11-05T23:20:45.815263] [INFO] Session started
+[2025-11-05T23:20:45.815350] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.815323] [ERROR] Service unavailable
+[2025-11-05T23:20:45.815287] [INFO] Configuration loaded
+[2025-11-05T23:20:45.815311] [INFO] Configuration loaded
+[2025-11-05T23:20:45.815257] [INFO] Cache hit
+[2025-11-05T23:20:45.815299] [INFO] Transaction completed
+[2025-11-05T23:20:45.815335] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.815268] [INFO] Transaction completed
+[2025-11-05T23:20:45.815355] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.815369] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.815360] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.815307] [INFO] Session started
+[2025-11-05T23:20:45.815278] [INFO] Transaction completed
+[2025-11-05T23:20:45.815230] [INFO] Connection established
+[2025-11-05T23:20:45.815291] [INFO] Transaction completed
+[2025-11-05T23:20:45.815328] [ERROR] Memory allocation error
+[2025-11-05T23:20:45.815364] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.815295] [INFO] Database query executed
+[2025-11-05T23:20:45.815345] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.815303] [INFO] User logged in
+[2025-11-05T23:20:45.815273] [INFO] Transaction completed

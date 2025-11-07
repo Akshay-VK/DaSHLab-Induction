@@ -1,0 +1,29 @@
+[2025-11-05T23:20:17.799066] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.798974] [INFO] Cache hit
+[2025-11-05T23:20:17.798992] [INFO] Health check passed
+[2025-11-05T23:20:17.799042] [WARN] Queue size growing
+[2025-11-05T23:20:17.799074] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.799083] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.799058] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.798988] [INFO] Connection established
+[2025-11-05T23:20:17.799033] [WARN] Deprecated API usage
+[2025-11-05T23:20:17.799029] [WARN] Queue size growing
+[2025-11-05T23:20:17.799079] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.799014] [INFO] Database query executed
+[2025-11-05T23:20:17.798940] [INFO] Cache hit
+[2025-11-05T23:20:17.798979] [INFO] Cache hit
+[2025-11-05T23:20:17.799000] [INFO] Request processed successfully
+[2025-11-05T23:20:17.799037] [WARN] Connection retry attempt
+[2025-11-05T23:20:17.798984] [INFO] Cache hit
+[2025-11-05T23:20:17.799005] [INFO] Request processed successfully
+[2025-11-05T23:20:17.799053] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.799062] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.799071] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.799087] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.799010] [INFO] Request processed successfully
+[2025-11-05T23:20:17.799018] [INFO] Health check passed
+[2025-11-05T23:20:17.799091] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.798967] [INFO] Request processed successfully
+[2025-11-05T23:20:17.799023] [WARN] Disk space low
+[2025-11-05T23:20:17.798996] [INFO] Health check passed
+[2025-11-05T23:20:17.799047] [ERROR] Disk read failed

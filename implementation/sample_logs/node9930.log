@@ -1,0 +1,35 @@
+[2025-11-05T23:20:53.749061] [INFO] Service initialized
+[2025-11-05T23:20:53.749175] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.749129] [WARN] Slow query performance
+[2025-11-05T23:20:53.749179] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.749074] [INFO] Service initialized
+[2025-11-05T23:20:53.749082] [INFO] Transaction completed
+[2025-11-05T23:20:53.749078] [INFO] Cache hit
+[2025-11-05T23:20:53.749147] [ERROR] Database connection lost
+[2025-11-05T23:20:53.749187] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.749052] [INFO] Health check passed
+[2025-11-05T23:20:53.749091] [INFO] Configuration loaded
+[2025-11-05T23:20:53.749115] [INFO] Request processed successfully
+[2025-11-05T23:20:53.749087] [INFO] Transaction completed
+[2025-11-05T23:20:53.749056] [INFO] Session started
+[2025-11-05T23:20:53.749158] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.749137] [WARN] High memory usage detected
+[2025-11-05T23:20:53.749099] [INFO] Session started
+[2025-11-05T23:20:53.749133] [WARN] Disk space low
+[2025-11-05T23:20:53.749163] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.749167] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.749119] [INFO] Session started
+[2025-11-05T23:20:53.749110] [INFO] Service initialized
+[2025-11-05T23:20:53.749046] [INFO] Request processed successfully
+[2025-11-05T23:20:53.749152] [ERROR] Permission denied
+[2025-11-05T23:20:53.749171] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.749183] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.749191] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.749142] [WARN] Timeout warning
+[2025-11-05T23:20:53.749095] [INFO] Configuration loaded
+[2025-11-05T23:20:53.749066] [INFO] Configuration loaded
+[2025-11-05T23:20:53.749124] [WARN] Cache miss
+[2025-11-05T23:20:53.749107] [INFO] Database query executed
+[2025-11-05T23:20:53.749103] [INFO] User logged in
+[2025-11-05T23:20:53.749070] [INFO] Database query executed
+[2025-11-05T23:20:53.749021] [INFO] Request processed successfully

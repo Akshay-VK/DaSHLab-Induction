@@ -1,0 +1,26 @@
+[2025-11-05T23:20:39.488821] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:39.488793] [WARN] Slow query performance
+[2025-11-05T23:20:39.488757] [INFO] Configuration loaded
+[2025-11-05T23:20:39.488737] [INFO] Cache hit
+[2025-11-05T23:20:39.488723] [INFO] Health check passed
+[2025-11-05T23:20:39.488817] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.488684] [INFO] Session started
+[2025-11-05T23:20:39.488751] [INFO] Connection established
+[2025-11-05T23:20:39.488813] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:39.488799] [ERROR] Memory allocation error
+[2025-11-05T23:20:39.488805] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.488761] [INFO] Health check passed
+[2025-11-05T23:20:39.488732] [INFO] Session started
+[2025-11-05T23:20:39.488825] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.488728] [INFO] User logged in
+[2025-11-05T23:20:39.488785] [WARN] Cache miss
+[2025-11-05T23:20:39.488746] [INFO] Transaction completed
+[2025-11-05T23:20:39.488718] [INFO] Configuration loaded
+[2025-11-05T23:20:39.488809] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.488765] [INFO] Cache hit
+[2025-11-05T23:20:39.488742] [INFO] User logged in
+[2025-11-05T23:20:39.488779] [WARN] Cache miss
+[2025-11-05T23:20:39.488712] [INFO] Service initialized
+[2025-11-05T23:20:39.488774] [INFO] Request processed successfully
+[2025-11-05T23:20:39.488789] [WARN] Disk space low
+[2025-11-05T23:20:39.488770] [INFO] Service initialized

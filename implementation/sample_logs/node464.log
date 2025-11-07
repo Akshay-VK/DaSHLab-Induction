@@ -1,0 +1,35 @@
+[2025-11-05T23:20:14.381751] [INFO] Session started
+[2025-11-05T23:20:14.381769] [INFO] Session started
+[2025-11-05T23:20:14.381861] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.381850] [ERROR] Network timeout
+[2025-11-05T23:20:14.381739] [INFO] Session started
+[2025-11-05T23:20:14.381788] [INFO] Connection established
+[2025-11-05T23:20:14.381783] [INFO] Transaction completed
+[2025-11-05T23:20:14.381760] [INFO] User logged in
+[2025-11-05T23:20:14.381755] [INFO] Connection established
+[2025-11-05T23:20:14.381797] [INFO] Health check passed
+[2025-11-05T23:20:14.381792] [INFO] User logged in
+[2025-11-05T23:20:14.381801] [INFO] Connection established
+[2025-11-05T23:20:14.381836] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.381885] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.381867] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.381876] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.381817] [WARN] Timeout warning
+[2025-11-05T23:20:14.381845] [WARN] Rate limit approaching
+[2025-11-05T23:20:14.381831] [WARN] Cache miss
+[2025-11-05T23:20:14.381806] [WARN] Timeout warning
+[2025-11-05T23:20:14.381871] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.381764] [INFO] Request processed successfully
+[2025-11-05T23:20:14.381773] [INFO] Health check passed
+[2025-11-05T23:20:14.381898] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.381712] [INFO] User logged in
+[2025-11-05T23:20:14.381881] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.381779] [INFO] Service initialized
+[2025-11-05T23:20:14.381889] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.381840] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.381812] [WARN] High memory usage detected
+[2025-11-05T23:20:14.381894] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.381745] [INFO] Session started
+[2025-11-05T23:20:14.381821] [WARN] Queue size growing
+[2025-11-05T23:20:14.381856] [ERROR] Request failed
+[2025-11-05T23:20:14.381826] [WARN] Rate limit approaching

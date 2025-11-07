@@ -1,0 +1,29 @@
+[2025-11-05T23:20:19.021747] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.021755] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:19.021637] [INFO] Cache hit
+[2025-11-05T23:20:19.021741] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.021692] [WARN] Deprecated API usage
+[2025-11-05T23:20:19.021459] [INFO] Transaction completed
+[2025-11-05T23:20:19.021432] [INFO] Configuration loaded
+[2025-11-05T23:20:19.021765] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:19.021751] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.021626] [INFO] Configuration loaded
+[2025-11-05T23:20:19.021647] [INFO] Service initialized
+[2025-11-05T23:20:19.021770] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.021642] [INFO] User logged in
+[2025-11-05T23:20:19.021761] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.021697] [ERROR] Permission denied
+[2025-11-05T23:20:19.021774] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.021657] [INFO] Database query executed
+[2025-11-05T23:20:19.021665] [INFO] Database query executed
+[2025-11-05T23:20:19.021687] [WARN] Resource threshold approaching
+[2025-11-05T23:20:19.021474] [INFO] Transaction completed
+[2025-11-05T23:20:19.021470] [INFO] Connection established
+[2025-11-05T23:20:19.021701] [ERROR] Disk read failed
+[2025-11-05T23:20:19.021652] [INFO] User logged in
+[2025-11-05T23:20:19.021661] [INFO] Service initialized
+[2025-11-05T23:20:19.021465] [INFO] Database query executed
+[2025-11-05T23:20:19.021674] [INFO] Request processed successfully
+[2025-11-05T23:20:19.021682] [WARN] Slow query performance
+[2025-11-05T23:20:19.021735] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:19.021669] [INFO] Connection established

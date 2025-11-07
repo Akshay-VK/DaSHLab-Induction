@@ -1,0 +1,30 @@
+[2025-11-05T23:20:44.430784] [INFO] Database query executed
+[2025-11-05T23:20:44.430865] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.430774] [INFO] Configuration loaded
+[2025-11-05T23:20:44.430891] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.430879] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.430850] [ERROR] Disk read failed
+[2025-11-05T23:20:44.430870] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.430829] [WARN] Slow query performance
+[2025-11-05T23:20:44.430823] [INFO] Request processed successfully
+[2025-11-05T23:20:44.430801] [INFO] User logged in
+[2025-11-05T23:20:44.430763] [INFO] Database query executed
+[2025-11-05T23:20:44.430796] [INFO] Configuration loaded
+[2025-11-05T23:20:44.430874] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.430779] [INFO] Request processed successfully
+[2025-11-05T23:20:44.430843] [WARN] Disk space low
+[2025-11-05T23:20:44.430819] [INFO] Service initialized
+[2025-11-05T23:20:44.430887] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.430739] [INFO] Configuration loaded
+[2025-11-05T23:20:44.430815] [INFO] Request processed successfully
+[2025-11-05T23:20:44.430770] [INFO] Configuration loaded
+[2025-11-05T23:20:44.430792] [INFO] Connection established
+[2025-11-05T23:20:44.430883] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.430811] [INFO] Request processed successfully
+[2025-11-05T23:20:44.430895] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:44.430806] [INFO] Request processed successfully
+[2025-11-05T23:20:44.430855] [ERROR] Permission denied
+[2025-11-05T23:20:44.430834] [WARN] Cache miss
+[2025-11-05T23:20:44.430839] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.430788] [INFO] Request processed successfully
+[2025-11-05T23:20:44.430860] [DEBUG] Buffer size: 4096 bytes

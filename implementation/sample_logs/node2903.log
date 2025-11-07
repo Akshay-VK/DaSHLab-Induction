@@ -1,0 +1,33 @@
+[2025-11-05T23:20:24.944131] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.944112] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.944127] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.944045] [INFO] Connection established
+[2025-11-05T23:20:24.944083] [WARN] Queue size growing
+[2025-11-05T23:20:24.944022] [INFO] Configuration loaded
+[2025-11-05T23:20:24.944036] [INFO] User logged in
+[2025-11-05T23:20:24.944145] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.944003] [INFO] Transaction completed
+[2025-11-05T23:20:24.944141] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.944059] [INFO] Transaction completed
+[2025-11-05T23:20:24.944017] [INFO] Service initialized
+[2025-11-05T23:20:24.944067] [INFO] Database query executed
+[2025-11-05T23:20:24.944122] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.944078] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.944009] [INFO] Database query executed
+[2025-11-05T23:20:24.944040] [INFO] Session started
+[2025-11-05T23:20:24.944073] [WARN] Resource threshold approaching
+[2025-11-05T23:20:24.943977] [INFO] Health check passed
+[2025-11-05T23:20:24.944054] [INFO] Database query executed
+[2025-11-05T23:20:24.944049] [INFO] Configuration loaded
+[2025-11-05T23:20:24.944098] [ERROR] Disk read failed
+[2025-11-05T23:20:24.944117] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.944092] [ERROR] File not found
+[2025-11-05T23:20:24.944108] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.944013] [INFO] Transaction completed
+[2025-11-05T23:20:24.944063] [INFO] Session started
+[2025-11-05T23:20:24.944136] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.944027] [INFO] Connection established
+[2025-11-05T23:20:24.944087] [WARN] Cache miss
+[2025-11-05T23:20:24.944150] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.944031] [INFO] User logged in
+[2025-11-05T23:20:24.944103] [DEBUG] Buffer size: 4096 bytes

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:38.866650] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.866617] [INFO] Health check passed
+[2025-11-05T23:20:38.866638] [ERROR] Permission denied
+[2025-11-05T23:20:38.866629] [WARN] Cache miss
+[2025-11-05T23:20:38.866633] [WARN] Slow query performance
+[2025-11-05T23:20:38.866551] [INFO] Health check passed
+[2025-11-05T23:20:38.866582] [INFO] Transaction completed
+[2025-11-05T23:20:38.866625] [WARN] Resource threshold approaching
+[2025-11-05T23:20:38.866600] [INFO] Configuration loaded
+[2025-11-05T23:20:38.866589] [INFO] Service initialized
+[2025-11-05T23:20:38.866660] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.866607] [INFO] Health check passed
+[2025-11-05T23:20:38.866646] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.866586] [INFO] Cache hit
+[2025-11-05T23:20:38.866573] [INFO] Request processed successfully
+[2025-11-05T23:20:38.866604] [INFO] Service initialized
+[2025-11-05T23:20:38.866578] [INFO] Cache hit
+[2025-11-05T23:20:38.866664] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.866653] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.866668] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.866596] [INFO] Cache hit
+[2025-11-05T23:20:38.866671] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.866657] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.866611] [INFO] Transaction completed
+[2025-11-05T23:20:38.866641] [ERROR] Database connection lost
+[2025-11-05T23:20:38.866593] [INFO] Transaction completed
+[2025-11-05T23:20:38.866614] [INFO] Service initialized
+[2025-11-05T23:20:38.866620] [INFO] Transaction completed

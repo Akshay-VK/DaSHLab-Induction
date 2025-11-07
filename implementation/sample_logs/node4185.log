@@ -1,0 +1,28 @@
+[2025-11-05T23:20:30.429423] [INFO] Service initialized
+[2025-11-05T23:20:30.429466] [ERROR] Disk read failed
+[2025-11-05T23:20:30.429518] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.429441] [INFO] Service initialized
+[2025-11-05T23:20:30.429366] [INFO] Service initialized
+[2025-11-05T23:20:30.429477] [ERROR] Database connection lost
+[2025-11-05T23:20:30.429515] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.429488] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.429428] [INFO] Request processed successfully
+[2025-11-05T23:20:30.429414] [INFO] Transaction completed
+[2025-11-05T23:20:30.429502] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.429433] [INFO] Session started
+[2025-11-05T23:20:30.429483] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.429472] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.429450] [INFO] Session started
+[2025-11-05T23:20:30.429497] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.429445] [INFO] Request processed successfully
+[2025-11-05T23:20:30.429398] [INFO] Session started
+[2025-11-05T23:20:30.429454] [INFO] Transaction completed
+[2025-11-05T23:20:30.429392] [INFO] Cache hit
+[2025-11-05T23:20:30.429460] [WARN] Resource threshold approaching
+[2025-11-05T23:20:30.429419] [INFO] Configuration loaded
+[2025-11-05T23:20:30.429409] [INFO] Configuration loaded
+[2025-11-05T23:20:30.429506] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.429437] [INFO] Configuration loaded
+[2025-11-05T23:20:30.429493] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.429404] [INFO] Database query executed
+[2025-11-05T23:20:30.429511] [DEBUG] Loop iteration: 15

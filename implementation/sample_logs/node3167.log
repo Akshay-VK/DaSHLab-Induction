@@ -1,0 +1,34 @@
+[2025-11-05T23:20:26.078393] [WARN] Deprecated API usage
+[2025-11-05T23:20:26.078451] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.078380] [INFO] Cache hit
+[2025-11-05T23:20:26.078420] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.078353] [INFO] Connection established
+[2025-11-05T23:20:26.078307] [INFO] Configuration loaded
+[2025-11-05T23:20:26.078403] [WARN] Timeout warning
+[2025-11-05T23:20:26.078435] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.078447] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.078441] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.078377] [INFO] Configuration loaded
+[2025-11-05T23:20:26.078444] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.078341] [INFO] Database query executed
+[2025-11-05T23:20:26.078383] [INFO] Service initialized
+[2025-11-05T23:20:26.078438] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.078432] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.078337] [INFO] Database query executed
+[2025-11-05T23:20:26.078364] [INFO] Health check passed
+[2025-11-05T23:20:26.078400] [WARN] High memory usage detected
+[2025-11-05T23:20:26.078356] [INFO] Database query executed
+[2025-11-05T23:20:26.078374] [INFO] Cache hit
+[2025-11-05T23:20:26.078428] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.078345] [INFO] Configuration loaded
+[2025-11-05T23:20:26.078367] [INFO] Session started
+[2025-11-05T23:20:26.078416] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.078412] [ERROR] Permission denied
+[2025-11-05T23:20:26.078370] [INFO] Cache hit
+[2025-11-05T23:20:26.078396] [WARN] Connection retry attempt
+[2025-11-05T23:20:26.078408] [ERROR] File not found
+[2025-11-05T23:20:26.078360] [INFO] Service initialized
+[2025-11-05T23:20:26.078387] [WARN] Connection retry attempt
+[2025-11-05T23:20:26.078332] [INFO] Cache hit
+[2025-11-05T23:20:26.078425] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.078349] [INFO] User logged in

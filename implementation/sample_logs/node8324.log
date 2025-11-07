@@ -1,0 +1,34 @@
+[2025-11-05T23:20:46.969561] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.969579] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.969550] [ERROR] Memory allocation error
+[2025-11-05T23:20:46.969592] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.969556] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.969451] [INFO] Service initialized
+[2025-11-05T23:20:46.969501] [INFO] Database query executed
+[2025-11-05T23:20:46.969510] [INFO] Connection established
+[2025-11-05T23:20:46.969493] [INFO] Session started
+[2025-11-05T23:20:46.969466] [INFO] Configuration loaded
+[2025-11-05T23:20:46.969570] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.969471] [INFO] Request processed successfully
+[2025-11-05T23:20:46.969475] [INFO] Transaction completed
+[2025-11-05T23:20:46.969546] [ERROR] Memory allocation error
+[2025-11-05T23:20:46.969531] [WARN] Connection retry attempt
+[2025-11-05T23:20:46.969535] [WARN] Connection retry attempt
+[2025-11-05T23:20:46.969597] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.969488] [INFO] Session started
+[2025-11-05T23:20:46.969423] [INFO] Service initialized
+[2025-11-05T23:20:46.969527] [WARN] Timeout warning
+[2025-11-05T23:20:46.969521] [WARN] Connection retry attempt
+[2025-11-05T23:20:46.969602] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.969566] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.969457] [INFO] Service initialized
+[2025-11-05T23:20:46.969480] [INFO] Transaction completed
+[2025-11-05T23:20:46.969506] [INFO] Database query executed
+[2025-11-05T23:20:46.969461] [INFO] Connection established
+[2025-11-05T23:20:46.969516] [WARN] Timeout warning
+[2025-11-05T23:20:46.969575] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.969583] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.969484] [INFO] Cache hit
+[2025-11-05T23:20:46.969588] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.969541] [ERROR] File not found
+[2025-11-05T23:20:46.969497] [INFO] Health check passed

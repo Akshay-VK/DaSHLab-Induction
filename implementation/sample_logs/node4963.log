@@ -1,0 +1,29 @@
+[2025-11-05T23:20:33.498267] [WARN] High memory usage detected
+[2025-11-05T23:20:33.498318] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.498322] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.498246] [INFO] Database query executed
+[2025-11-05T23:20:33.498258] [INFO] Health check passed
+[2025-11-05T23:20:33.498280] [WARN] Queue size growing
+[2025-11-05T23:20:33.498262] [INFO] Database query executed
+[2025-11-05T23:20:33.498326] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.498207] [INFO] Configuration loaded
+[2025-11-05T23:20:33.498305] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.498313] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.498296] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.498221] [INFO] Transaction completed
+[2025-11-05T23:20:33.498286] [ERROR] Service unavailable
+[2025-11-05T23:20:33.498276] [WARN] Resource threshold approaching
+[2025-11-05T23:20:33.498291] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.498254] [INFO] Database query executed
+[2025-11-05T23:20:33.498234] [INFO] User logged in
+[2025-11-05T23:20:33.498243] [INFO] Configuration loaded
+[2025-11-05T23:20:33.498213] [INFO] Cache hit
+[2025-11-05T23:20:33.498309] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.498271] [WARN] Disk space low
+[2025-11-05T23:20:33.498238] [INFO] Database query executed
+[2025-11-05T23:20:33.498226] [INFO] Cache hit
+[2025-11-05T23:20:33.498182] [INFO] Connection established
+[2025-11-05T23:20:33.498300] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.498230] [INFO] Database query executed
+[2025-11-05T23:20:33.498250] [INFO] Database query executed
+[2025-11-05T23:20:33.498217] [INFO] Connection established

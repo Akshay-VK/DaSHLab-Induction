@@ -1,0 +1,29 @@
+[2025-11-05T23:20:50.100283] [INFO] Cache hit
+[2025-11-05T23:20:50.100358] [INFO] Configuration loaded
+[2025-11-05T23:20:50.100351] [INFO] Database query executed
+[2025-11-05T23:20:50.100380] [WARN] Timeout warning
+[2025-11-05T23:20:50.100388] [WARN] Queue size growing
+[2025-11-05T23:20:50.100397] [ERROR] Memory allocation error
+[2025-11-05T23:20:50.100335] [INFO] Configuration loaded
+[2025-11-05T23:20:50.100414] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.100406] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.100402] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.100314] [INFO] Transaction completed
+[2025-11-05T23:20:50.100339] [INFO] Transaction completed
+[2025-11-05T23:20:50.100327] [INFO] Transaction completed
+[2025-11-05T23:20:50.100347] [INFO] Health check passed
+[2025-11-05T23:20:50.100331] [INFO] Cache hit
+[2025-11-05T23:20:50.100392] [WARN] Slow query performance
+[2025-11-05T23:20:50.100354] [INFO] Request processed successfully
+[2025-11-05T23:20:50.100308] [INFO] Health check passed
+[2025-11-05T23:20:50.100423] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:50.100371] [WARN] Timeout warning
+[2025-11-05T23:20:50.100323] [INFO] Session started
+[2025-11-05T23:20:50.100419] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:50.100366] [INFO] Database query executed
+[2025-11-05T23:20:50.100318] [INFO] Session started
+[2025-11-05T23:20:50.100362] [INFO] Service initialized
+[2025-11-05T23:20:50.100411] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.100343] [INFO] Transaction completed
+[2025-11-05T23:20:50.100376] [WARN] Deprecated API usage
+[2025-11-05T23:20:50.100384] [WARN] High memory usage detected

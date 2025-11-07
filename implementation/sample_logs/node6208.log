@@ -1,0 +1,31 @@
+[2025-11-05T23:20:38.526716] [INFO] Service initialized
+[2025-11-05T23:20:38.526628] [INFO] Session started
+[2025-11-05T23:20:38.526790] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.526760] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.526671] [INFO] Database query executed
+[2025-11-05T23:20:38.526764] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.526708] [INFO] Database query executed
+[2025-11-05T23:20:38.526744] [ERROR] Request failed
+[2025-11-05T23:20:38.526754] [ERROR] File not found
+[2025-11-05T23:20:38.526666] [INFO] Cache hit
+[2025-11-05T23:20:38.526680] [INFO] Transaction completed
+[2025-11-05T23:20:38.526698] [INFO] Connection established
+[2025-11-05T23:20:38.526769] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.526737] [WARN] Resource threshold approaching
+[2025-11-05T23:20:38.526676] [INFO] Database query executed
+[2025-11-05T23:20:38.526749] [ERROR] Network timeout
+[2025-11-05T23:20:38.526733] [WARN] Queue size growing
+[2025-11-05T23:20:38.526655] [INFO] Cache hit
+[2025-11-05T23:20:38.526795] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.526703] [INFO] Service initialized
+[2025-11-05T23:20:38.526722] [WARN] Timeout warning
+[2025-11-05T23:20:38.526662] [INFO] Request processed successfully
+[2025-11-05T23:20:38.526712] [INFO] Configuration loaded
+[2025-11-05T23:20:38.526786] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.526685] [INFO] Request processed successfully
+[2025-11-05T23:20:38.526694] [INFO] Transaction completed
+[2025-11-05T23:20:38.526780] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.526689] [INFO] Transaction completed
+[2025-11-05T23:20:38.526775] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.526728] [WARN] Disk space low
+[2025-11-05T23:20:38.526799] [DEBUG] Loop iteration: 15

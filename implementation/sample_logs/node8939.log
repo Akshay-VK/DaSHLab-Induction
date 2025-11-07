@@ -1,0 +1,31 @@
+[2025-11-05T23:20:49.510527] [INFO] Request processed successfully
+[2025-11-05T23:20:49.510588] [ERROR] Database connection lost
+[2025-11-05T23:20:49.510616] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.510531] [INFO] Configuration loaded
+[2025-11-05T23:20:49.510515] [INFO] Transaction completed
+[2025-11-05T23:20:49.510579] [WARN] Resource threshold approaching
+[2025-11-05T23:20:49.510575] [WARN] High memory usage detected
+[2025-11-05T23:20:49.510506] [INFO] Cache hit
+[2025-11-05T23:20:49.510467] [INFO] Database query executed
+[2025-11-05T23:20:49.510500] [INFO] Transaction completed
+[2025-11-05T23:20:49.510621] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.510547] [INFO] Cache hit
+[2025-11-05T23:20:49.510552] [INFO] Service initialized
+[2025-11-05T23:20:49.510570] [WARN] Slow query performance
+[2025-11-05T23:20:49.510598] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:49.510608] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.510556] [INFO] Service initialized
+[2025-11-05T23:20:49.510629] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:49.510593] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.510493] [INFO] Session started
+[2025-11-05T23:20:49.510612] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:49.510602] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.510543] [INFO] Cache hit
+[2025-11-05T23:20:49.510625] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.510563] [WARN] Connection retry attempt
+[2025-11-05T23:20:49.510510] [INFO] Configuration loaded
+[2025-11-05T23:20:49.510535] [INFO] Cache hit
+[2025-11-05T23:20:49.510519] [INFO] Health check passed
+[2025-11-05T23:20:49.510523] [INFO] User logged in
+[2025-11-05T23:20:49.510539] [INFO] User logged in
+[2025-11-05T23:20:49.510583] [WARN] Deprecated API usage

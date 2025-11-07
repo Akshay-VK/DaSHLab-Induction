@@ -1,0 +1,28 @@
+[2025-11-05T23:20:38.745897] [INFO] Session started
+[2025-11-05T23:20:38.745963] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.745907] [INFO] User logged in
+[2025-11-05T23:20:38.745774] [INFO] User logged in
+[2025-11-05T23:20:38.745943] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.745824] [INFO] Configuration loaded
+[2025-11-05T23:20:38.745844] [INFO] Database query executed
+[2025-11-05T23:20:38.745848] [INFO] Request processed successfully
+[2025-11-05T23:20:38.745852] [INFO] Cache hit
+[2025-11-05T23:20:38.745840] [INFO] Connection established
+[2025-11-05T23:20:38.745829] [INFO] Transaction completed
+[2025-11-05T23:20:38.745923] [WARN] Rate limit approaching
+[2025-11-05T23:20:38.745913] [WARN] Timeout warning
+[2025-11-05T23:20:38.745954] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.745834] [INFO] Session started
+[2025-11-05T23:20:38.745807] [INFO] Database query executed
+[2025-11-05T23:20:38.745951] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.745967] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.745800] [INFO] Session started
+[2025-11-05T23:20:38.745812] [INFO] Health check passed
+[2025-11-05T23:20:38.745939] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.745818] [INFO] Session started
+[2025-11-05T23:20:38.745959] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.745918] [WARN] Queue size growing
+[2025-11-05T23:20:38.745947] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.745929] [ERROR] Authentication failed
+[2025-11-05T23:20:38.745903] [INFO] Configuration loaded
+[2025-11-05T23:20:38.745934] [DEBUG] Entering function process_data()

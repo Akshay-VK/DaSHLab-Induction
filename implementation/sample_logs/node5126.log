@@ -1,0 +1,24 @@
+[2025-11-05T23:20:34.110576] [ERROR] Permission denied
+[2025-11-05T23:20:34.110601] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.110558] [INFO] Request processed successfully
+[2025-11-05T23:20:34.110550] [INFO] Transaction completed
+[2025-11-05T23:20:34.110582] [ERROR] Service unavailable
+[2025-11-05T23:20:34.110553] [INFO] Request processed successfully
+[2025-11-05T23:20:34.110521] [INFO] Database query executed
+[2025-11-05T23:20:34.110610] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.110592] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.110541] [INFO] Connection established
+[2025-11-05T23:20:34.110570] [WARN] Resource threshold approaching
+[2025-11-05T23:20:34.110565] [INFO] User logged in
+[2025-11-05T23:20:34.110533] [INFO] Connection established
+[2025-11-05T23:20:34.110517] [INFO] Connection established
+[2025-11-05T23:20:34.110545] [INFO] Transaction completed
+[2025-11-05T23:20:34.110605] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.110487] [INFO] Connection established
+[2025-11-05T23:20:34.110587] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.110596] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.110561] [INFO] Request processed successfully
+[2025-11-05T23:20:34.110537] [INFO] Transaction completed
+[2025-11-05T23:20:34.110525] [INFO] Session started
+[2025-11-05T23:20:34.110511] [INFO] Database query executed
+[2025-11-05T23:20:34.110529] [INFO] Cache hit

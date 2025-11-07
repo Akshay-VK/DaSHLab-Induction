@@ -1,0 +1,25 @@
+[2025-11-05T23:20:27.495424] [ERROR] Service unavailable
+[2025-11-05T23:20:27.495394] [INFO] Cache hit
+[2025-11-05T23:20:27.495391] [INFO] User logged in
+[2025-11-05T23:20:27.495459] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.495380] [INFO] Connection established
+[2025-11-05T23:20:27.495400] [INFO] Transaction completed
+[2025-11-05T23:20:27.495432] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.495419] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.495439] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.495436] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.495456] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.495388] [INFO] Transaction completed
+[2025-11-05T23:20:27.495416] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.495452] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.495404] [INFO] Service initialized
+[2025-11-05T23:20:27.495408] [WARN] Slow query performance
+[2025-11-05T23:20:27.495442] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.495354] [INFO] User logged in
+[2025-11-05T23:20:27.495446] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.495376] [INFO] Transaction completed
+[2025-11-05T23:20:27.495397] [INFO] Transaction completed
+[2025-11-05T23:20:27.495384] [INFO] Session started
+[2025-11-05T23:20:27.495428] [ERROR] Authentication failed
+[2025-11-05T23:20:27.495412] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.495449] [DEBUG] Entering function process_data()

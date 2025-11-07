@@ -1,0 +1,34 @@
+[2025-11-05T23:20:46.765005] [INFO] Transaction completed
+[2025-11-05T23:20:46.765058] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.764983] [INFO] User logged in
+[2025-11-05T23:20:46.764947] [INFO] Cache hit
+[2025-11-05T23:20:46.765045] [ERROR] Network timeout
+[2025-11-05T23:20:46.765050] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.764998] [INFO] Database query executed
+[2025-11-05T23:20:46.764980] [INFO] Database query executed
+[2025-11-05T23:20:46.765017] [INFO] Service initialized
+[2025-11-05T23:20:46.765103] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.765030] [WARN] Slow query performance
+[2025-11-05T23:20:46.765042] [ERROR] Request failed
+[2025-11-05T23:20:46.765034] [WARN] Resource threshold approaching
+[2025-11-05T23:20:46.765123] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.765065] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.765002] [INFO] User logged in
+[2025-11-05T23:20:46.765115] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.765008] [INFO] Database query executed
+[2025-11-05T23:20:46.765099] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.765119] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.765037] [WARN] Resource threshold approaching
+[2025-11-05T23:20:46.764976] [INFO] Service initialized
+[2025-11-05T23:20:46.765014] [INFO] Connection established
+[2025-11-05T23:20:46.765107] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.765110] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.764991] [INFO] Configuration loaded
+[2025-11-05T23:20:46.764994] [INFO] Transaction completed
+[2025-11-05T23:20:46.765027] [WARN] Timeout warning
+[2025-11-05T23:20:46.764971] [INFO] Cache hit
+[2025-11-05T23:20:46.765011] [INFO] Database query executed
+[2025-11-05T23:20:46.764987] [INFO] Health check passed
+[2025-11-05T23:20:46.765022] [WARN] Slow query performance
+[2025-11-05T23:20:46.765061] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.765054] [DEBUG] Loop iteration: 15

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:28.757840] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.757798] [INFO] Database query executed
+[2025-11-05T23:20:28.757768] [INFO] Database query executed
+[2025-11-05T23:20:28.757807] [INFO] Request processed successfully
+[2025-11-05T23:20:28.757887] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.757878] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.757831] [ERROR] Request failed
+[2025-11-05T23:20:28.757783] [INFO] Session started
+[2025-11-05T23:20:28.757813] [WARN] Slow query performance
+[2025-11-05T23:20:28.757773] [INFO] Configuration loaded
+[2025-11-05T23:20:28.757835] [ERROR] Disk read failed
+[2025-11-05T23:20:28.757778] [INFO] Health check passed
+[2025-11-05T23:20:28.757793] [INFO] Configuration loaded
+[2025-11-05T23:20:28.757818] [WARN] Timeout warning
+[2025-11-05T23:20:28.757822] [WARN] Deprecated API usage
+[2025-11-05T23:20:28.757858] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.757862] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.757850] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.757874] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.757866] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.757788] [INFO] User logged in
+[2025-11-05T23:20:28.757742] [INFO] Request processed successfully
+[2025-11-05T23:20:28.757854] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.757883] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.757826] [WARN] Slow query performance
+[2025-11-05T23:20:28.757846] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.757870] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.757802] [INFO] Cache hit

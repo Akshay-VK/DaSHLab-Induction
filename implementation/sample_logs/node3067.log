@@ -1,0 +1,27 @@
+[2025-11-05T23:20:25.602487] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.602467] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.602424] [INFO] Connection established
+[2025-11-05T23:20:25.602450] [ERROR] Request failed
+[2025-11-05T23:20:25.602491] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.602410] [INFO] Request processed successfully
+[2025-11-05T23:20:25.602479] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.602457] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.602437] [INFO] Transaction completed
+[2025-11-05T23:20:25.602471] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.602360] [INFO] Service initialized
+[2025-11-05T23:20:25.602443] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.602503] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.602406] [INFO] Request processed successfully
+[2025-11-05T23:20:25.602415] [INFO] Transaction completed
+[2025-11-05T23:20:25.602401] [INFO] Transaction completed
+[2025-11-05T23:20:25.602396] [INFO] User logged in
+[2025-11-05T23:20:25.602475] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.602432] [INFO] Configuration loaded
+[2025-11-05T23:20:25.602419] [INFO] Service initialized
+[2025-11-05T23:20:25.602483] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.602428] [INFO] Health check passed
+[2025-11-05T23:20:25.602499] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.602462] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.602385] [INFO] Session started
+[2025-11-05T23:20:25.602391] [INFO] Cache hit
+[2025-11-05T23:20:25.602495] [DEBUG] Buffer size: 4096 bytes

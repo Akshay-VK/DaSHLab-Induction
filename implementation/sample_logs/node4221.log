@@ -1,0 +1,31 @@
+[2025-11-05T23:20:30.535008] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.535019] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.534984] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.534926] [INFO] Database query executed
+[2025-11-05T23:20:30.534942] [INFO] Database query executed
+[2025-11-05T23:20:30.534921] [INFO] Database query executed
+[2025-11-05T23:20:30.534958] [WARN] High memory usage detected
+[2025-11-05T23:20:30.534979] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.534878] [INFO] Service initialized
+[2025-11-05T23:20:30.534890] [INFO] Connection established
+[2025-11-05T23:20:30.534894] [INFO] Health check passed
+[2025-11-05T23:20:30.534969] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.534974] [ERROR] Database connection lost
+[2025-11-05T23:20:30.535003] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.534932] [INFO] Database query executed
+[2025-11-05T23:20:30.534937] [INFO] Service initialized
+[2025-11-05T23:20:30.534998] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.534988] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.534907] [INFO] Cache hit
+[2025-11-05T23:20:30.534899] [INFO] Database query executed
+[2025-11-05T23:20:30.534903] [INFO] Transaction completed
+[2025-11-05T23:20:30.534993] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.534884] [INFO] Health check passed
+[2025-11-05T23:20:30.534917] [INFO] Database query executed
+[2025-11-05T23:20:30.535012] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.534853] [INFO] User logged in
+[2025-11-05T23:20:30.534953] [WARN] Timeout warning
+[2025-11-05T23:20:30.534963] [WARN] Cache miss
+[2025-11-05T23:20:30.535016] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.534947] [WARN] Timeout warning
+[2025-11-05T23:20:30.534913] [INFO] Session started

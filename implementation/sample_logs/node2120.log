@@ -1,0 +1,27 @@
+[2025-11-05T23:20:21.499212] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.499226] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.499101] [INFO] Configuration loaded
+[2025-11-05T23:20:21.499222] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.499137] [INFO] Database query executed
+[2025-11-05T23:20:21.499186] [INFO] Service initialized
+[2025-11-05T23:20:21.499142] [INFO] Health check passed
+[2025-11-05T23:20:21.499173] [INFO] Cache hit
+[2025-11-05T23:20:21.499208] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.499196] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.499217] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.499235] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.499146] [INFO] Configuration loaded
+[2025-11-05T23:20:21.499159] [INFO] Cache hit
+[2025-11-05T23:20:21.499182] [INFO] Health check passed
+[2025-11-05T23:20:21.499243] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.499164] [INFO] Transaction completed
+[2025-11-05T23:20:21.499177] [INFO] Health check passed
+[2025-11-05T23:20:21.499231] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.499132] [INFO] Service initialized
+[2025-11-05T23:20:21.499126] [INFO] Database query executed
+[2025-11-05T23:20:21.499151] [INFO] Service initialized
+[2025-11-05T23:20:21.499202] [ERROR] Network timeout
+[2025-11-05T23:20:21.499191] [WARN] Deprecated API usage
+[2025-11-05T23:20:21.499168] [INFO] User logged in
+[2025-11-05T23:20:21.499155] [INFO] Cache hit
+[2025-11-05T23:20:21.499239] [DEBUG] Memory allocation: 2048 bytes

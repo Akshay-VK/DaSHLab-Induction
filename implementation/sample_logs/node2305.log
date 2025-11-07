@@ -1,0 +1,36 @@
+[2025-11-05T23:20:22.190204] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.190176] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.190103] [INFO] Transaction completed
+[2025-11-05T23:20:22.190209] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.190080] [INFO] Cache hit
+[2025-11-05T23:20:22.190185] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.190090] [INFO] Service initialized
+[2025-11-05T23:20:22.190140] [WARN] High memory usage detected
+[2025-11-05T23:20:22.190155] [ERROR] File not found
+[2025-11-05T23:20:22.190119] [INFO] Session started
+[2025-11-05T23:20:22.190199] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.190136] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.190099] [INFO] User logged in
+[2025-11-05T23:20:22.190052] [INFO] Service initialized
+[2025-11-05T23:20:22.190067] [INFO] Session started
+[2025-11-05T23:20:22.190047] [INFO] Health check passed
+[2025-11-05T23:20:22.190131] [WARN] Rate limit approaching
+[2025-11-05T23:20:22.190110] [INFO] Configuration loaded
+[2025-11-05T23:20:22.190190] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.190020] [INFO] Session started
+[2025-11-05T23:20:22.190213] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.190115] [INFO] Session started
+[2025-11-05T23:20:22.190181] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.190161] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.190076] [INFO] Service initialized
+[2025-11-05T23:20:22.190195] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.190145] [WARN] Timeout warning
+[2025-11-05T23:20:22.190166] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.190151] [ERROR] Database connection lost
+[2025-11-05T23:20:22.190124] [INFO] User logged in
+[2025-11-05T23:20:22.190072] [INFO] Database query executed
+[2025-11-05T23:20:22.190057] [INFO] Configuration loaded
+[2025-11-05T23:20:22.190085] [INFO] User logged in
+[2025-11-05T23:20:22.190170] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.190095] [INFO] Database query executed
+[2025-11-05T23:20:22.190062] [INFO] Transaction completed

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:27.236363] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.236253] [INFO] Cache hit
+[2025-11-05T23:20:27.236370] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.236321] [WARN] High memory usage detected
+[2025-11-05T23:20:27.236248] [INFO] Health check passed
+[2025-11-05T23:20:27.236275] [INFO] Health check passed
+[2025-11-05T23:20:27.236359] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.236325] [WARN] Slow query performance
+[2025-11-05T23:20:27.236280] [INFO] Configuration loaded
+[2025-11-05T23:20:27.236242] [INFO] Session started
+[2025-11-05T23:20:27.236284] [INFO] Configuration loaded
+[2025-11-05T23:20:27.236292] [INFO] Cache hit
+[2025-11-05T23:20:27.236271] [INFO] Service initialized
+[2025-11-05T23:20:27.236312] [WARN] Deprecated API usage
+[2025-11-05T23:20:27.236307] [WARN] Slow query performance
+[2025-11-05T23:20:27.236341] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.236258] [INFO] Configuration loaded
+[2025-11-05T23:20:27.236300] [INFO] Session started
+[2025-11-05T23:20:27.236350] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.236216] [INFO] Configuration loaded
+[2025-11-05T23:20:27.236345] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.236288] [INFO] Database query executed
+[2025-11-05T23:20:27.236262] [INFO] Configuration loaded
+[2025-11-05T23:20:27.236296] [INFO] Configuration loaded
+[2025-11-05T23:20:27.236267] [INFO] Connection established
+[2025-11-05T23:20:27.236366] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.236335] [ERROR] File not found
+[2025-11-05T23:20:27.236354] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.236330] [ERROR] Service unavailable
+[2025-11-05T23:20:27.236375] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.236317] [WARN] Deprecated API usage
+[2025-11-05T23:20:27.236379] [DEBUG] Buffer size: 4096 bytes

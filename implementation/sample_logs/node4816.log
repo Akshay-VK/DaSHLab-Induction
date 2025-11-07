@@ -1,0 +1,33 @@
+[2025-11-05T23:20:32.980078] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.980074] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.980082] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.979949] [INFO] Database query executed
+[2025-11-05T23:20:32.979955] [INFO] Transaction completed
+[2025-11-05T23:20:32.979961] [INFO] Request processed successfully
+[2025-11-05T23:20:32.979980] [INFO] Request processed successfully
+[2025-11-05T23:20:32.979967] [INFO] Connection established
+[2025-11-05T23:20:32.980009] [INFO] User logged in
+[2025-11-05T23:20:32.980005] [INFO] Session started
+[2025-11-05T23:20:32.979971] [INFO] Configuration loaded
+[2025-11-05T23:20:32.979997] [INFO] Configuration loaded
+[2025-11-05T23:20:32.980045] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.979922] [INFO] Cache hit
+[2025-11-05T23:20:32.980086] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.980029] [WARN] Resource threshold approaching
+[2025-11-05T23:20:32.980050] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.980020] [WARN] Connection retry attempt
+[2025-11-05T23:20:32.980035] [ERROR] Database connection lost
+[2025-11-05T23:20:32.980069] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.980064] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:32.980093] [DEBUG] Cache key generated
+[2025-11-05T23:20:32.979989] [INFO] User logged in
+[2025-11-05T23:20:32.979975] [INFO] User logged in
+[2025-11-05T23:20:32.980055] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.980015] [WARN] Cache miss
+[2025-11-05T23:20:32.980001] [INFO] Transaction completed
+[2025-11-05T23:20:32.979993] [INFO] Service initialized
+[2025-11-05T23:20:32.980059] [DEBUG] Cache key generated
+[2025-11-05T23:20:32.980025] [WARN] Slow query performance
+[2025-11-05T23:20:32.979984] [INFO] Configuration loaded
+[2025-11-05T23:20:32.980089] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:32.980040] [ERROR] Request failed

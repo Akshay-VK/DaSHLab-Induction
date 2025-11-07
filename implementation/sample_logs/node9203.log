@@ -1,0 +1,29 @@
+[2025-11-05T23:20:50.557537] [INFO] Service initialized
+[2025-11-05T23:20:50.557626] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.557639] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.557594] [WARN] Resource threshold approaching
+[2025-11-05T23:20:50.557576] [WARN] Queue size growing
+[2025-11-05T23:20:50.557580] [WARN] Queue size growing
+[2025-11-05T23:20:50.557584] [WARN] Slow query performance
+[2025-11-05T23:20:50.557635] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.557522] [INFO] Cache hit
+[2025-11-05T23:20:50.557618] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.557604] [ERROR] Invalid input data
+[2025-11-05T23:20:50.557609] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.557613] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.557643] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:50.557528] [INFO] Configuration loaded
+[2025-11-05T23:20:50.557570] [INFO] Transaction completed
+[2025-11-05T23:20:50.557532] [INFO] Connection established
+[2025-11-05T23:20:50.557550] [INFO] Database query executed
+[2025-11-05T23:20:50.557622] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.557497] [INFO] Transaction completed
+[2025-11-05T23:20:50.557589] [WARN] Connection retry attempt
+[2025-11-05T23:20:50.557545] [INFO] Health check passed
+[2025-11-05T23:20:50.557541] [INFO] Cache hit
+[2025-11-05T23:20:50.557599] [ERROR] Authentication failed
+[2025-11-05T23:20:50.557566] [INFO] Configuration loaded
+[2025-11-05T23:20:50.557562] [INFO] Session started
+[2025-11-05T23:20:50.557554] [INFO] Service initialized
+[2025-11-05T23:20:50.557631] [DEBUG] Cache key generated
+[2025-11-05T23:20:50.557558] [INFO] Connection established

@@ -1,0 +1,36 @@
+[2025-11-05T23:20:23.801897] [ERROR] Disk read failed
+[2025-11-05T23:20:23.802021] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.801844] [INFO] Session started
+[2025-11-05T23:20:23.801924] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.801763] [INFO] Session started
+[2025-11-05T23:20:23.801933] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.801727] [INFO] Database query executed
+[2025-11-05T23:20:23.801890] [WARN] Timeout warning
+[2025-11-05T23:20:23.801928] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.801886] [WARN] Disk space low
+[2025-11-05T23:20:23.802043] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:23.802031] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.801938] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.801768] [INFO] Transaction completed
+[2025-11-05T23:20:23.802036] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.802027] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.802047] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.801734] [INFO] Service initialized
+[2025-11-05T23:20:23.801755] [INFO] Transaction completed
+[2025-11-05T23:20:23.801853] [INFO] Request processed successfully
+[2025-11-05T23:20:23.801907] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.801913] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:23.802009] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.802051] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.801857] [INFO] Health check passed
+[2025-11-05T23:20:23.801745] [INFO] Database query executed
+[2025-11-05T23:20:23.801759] [INFO] Service initialized
+[2025-11-05T23:20:23.801874] [WARN] High memory usage detected
+[2025-11-05T23:20:23.801902] [ERROR] Authentication failed
+[2025-11-05T23:20:23.801881] [WARN] Disk space low
+[2025-11-05T23:20:23.801740] [INFO] Transaction completed
+[2025-11-05T23:20:23.801751] [INFO] Service initialized
+[2025-11-05T23:20:23.801867] [INFO] Transaction completed
+[2025-11-05T23:20:23.801700] [INFO] Request processed successfully
+[2025-11-05T23:20:23.801918] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.801862] [INFO] Service initialized

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:42.297806] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.297781] [ERROR] Service unavailable
+[2025-11-05T23:20:42.297796] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.297758] [INFO] Connection established
+[2025-11-05T23:20:42.297820] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.297764] [WARN] High memory usage detected
+[2025-11-05T23:20:42.297810] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.297770] [WARN] Disk space low
+[2025-11-05T23:20:42.297815] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.297706] [INFO] User logged in
+[2025-11-05T23:20:42.297722] [INFO] User logged in
+[2025-11-05T23:20:42.297740] [INFO] Configuration loaded
+[2025-11-05T23:20:42.297736] [INFO] Transaction completed
+[2025-11-05T23:20:42.297801] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.297717] [INFO] Request processed successfully
+[2025-11-05T23:20:42.297749] [INFO] Transaction completed
+[2025-11-05T23:20:42.297754] [INFO] Transaction completed
+[2025-11-05T23:20:42.297696] [INFO] Cache hit
+[2025-11-05T23:20:42.297786] [ERROR] Request failed
+[2025-11-05T23:20:42.297726] [INFO] Request processed successfully
+[2025-11-05T23:20:42.297701] [INFO] Service initialized
+[2025-11-05T23:20:42.297829] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.297824] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.297712] [INFO] User logged in
+[2025-11-05T23:20:42.297730] [INFO] Transaction completed
+[2025-11-05T23:20:42.297671] [INFO] Health check passed
+[2025-11-05T23:20:42.297775] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.297792] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.297745] [INFO] User logged in

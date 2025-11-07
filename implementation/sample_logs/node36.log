@@ -1,0 +1,32 @@
+[2025-11-05T23:20:11.691195] [DEBUG] Cache key generated
+[2025-11-05T23:20:11.691201] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.691106] [INFO] Health check passed
+[2025-11-05T23:20:11.691123] [INFO] Request processed successfully
+[2025-11-05T23:20:11.691148] [INFO] Transaction completed
+[2025-11-05T23:20:11.691130] [INFO] Request processed successfully
+[2025-11-05T23:20:11.691098] [INFO] Request processed successfully
+[2025-11-05T23:20:11.691187] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:11.691114] [INFO] Database query executed
+[2025-11-05T23:20:11.691142] [INFO] Health check passed
+[2025-11-05T23:20:11.691139] [INFO] Health check passed
+[2025-11-05T23:20:11.691172] [ERROR] Permission denied
+[2025-11-05T23:20:11.691192] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.691120] [INFO] Database query executed
+[2025-11-05T23:20:11.691160] [WARN] Resource threshold approaching
+[2025-11-05T23:20:11.691198] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.691145] [INFO] Connection established
+[2025-11-05T23:20:11.691102] [INFO] Session started
+[2025-11-05T23:20:11.691189] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:11.691157] [WARN] Rate limit approaching
+[2025-11-05T23:20:11.691180] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:11.691176] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:11.691074] [INFO] User logged in
+[2025-11-05T23:20:11.691136] [INFO] Connection established
+[2025-11-05T23:20:11.691153] [WARN] Disk space low
+[2025-11-05T23:20:11.691183] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.691164] [WARN] High memory usage detected
+[2025-11-05T23:20:11.691110] [INFO] Database query executed
+[2025-11-05T23:20:11.691133] [INFO] Request processed successfully
+[2025-11-05T23:20:11.691167] [WARN] Timeout warning
+[2025-11-05T23:20:11.691127] [INFO] Session started
+[2025-11-05T23:20:11.691117] [INFO] Request processed successfully

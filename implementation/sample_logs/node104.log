@@ -1,0 +1,27 @@
+[2025-11-05T23:20:11.932635] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:11.932592] [INFO] Service initialized
+[2025-11-05T23:20:11.932504] [INFO] Configuration loaded
+[2025-11-05T23:20:11.932557] [INFO] Session started
+[2025-11-05T23:20:11.932615] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:11.932588] [INFO] Connection established
+[2025-11-05T23:20:11.932654] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:11.932621] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.932548] [INFO] Request processed successfully
+[2025-11-05T23:20:11.932571] [INFO] Request processed successfully
+[2025-11-05T23:20:11.932566] [INFO] Configuration loaded
+[2025-11-05T23:20:11.932604] [ERROR] Request failed
+[2025-11-05T23:20:11.932579] [INFO] Configuration loaded
+[2025-11-05T23:20:11.932630] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:11.932626] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:11.932532] [INFO] Request processed successfully
+[2025-11-05T23:20:11.932538] [INFO] Configuration loaded
+[2025-11-05T23:20:11.932639] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:11.932575] [INFO] Connection established
+[2025-11-05T23:20:11.932609] [ERROR] Permission denied
+[2025-11-05T23:20:11.932584] [INFO] Service initialized
+[2025-11-05T23:20:11.932552] [INFO] Health check passed
+[2025-11-05T23:20:11.932562] [INFO] Cache hit
+[2025-11-05T23:20:11.932644] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.932598] [WARN] Timeout warning
+[2025-11-05T23:20:11.932543] [INFO] Transaction completed
+[2025-11-05T23:20:11.932650] [DEBUG] Loop iteration: 15

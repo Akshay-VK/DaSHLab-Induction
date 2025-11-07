@@ -1,0 +1,31 @@
+[2025-11-05T23:20:44.748175] [INFO] Cache hit
+[2025-11-05T23:20:44.748251] [INFO] Health check passed
+[2025-11-05T23:20:44.748255] [INFO] Connection established
+[2025-11-05T23:20:44.748233] [INFO] Session started
+[2025-11-05T23:20:44.748283] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.748225] [INFO] Connection established
+[2025-11-05T23:20:44.748291] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.748274] [ERROR] Network timeout
+[2025-11-05T23:20:44.748244] [INFO] Connection established
+[2025-11-05T23:20:44.748269] [ERROR] Invalid input data
+[2025-11-05T23:20:44.748264] [WARN] Deprecated API usage
+[2025-11-05T23:20:44.748217] [INFO] Session started
+[2025-11-05T23:20:44.748300] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.748240] [INFO] Database query executed
+[2025-11-05T23:20:44.748199] [INFO] Transaction completed
+[2025-11-05T23:20:44.748315] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.748258] [INFO] User logged in
+[2025-11-05T23:20:44.748221] [INFO] User logged in
+[2025-11-05T23:20:44.748213] [INFO] Request processed successfully
+[2025-11-05T23:20:44.748303] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.748236] [INFO] Session started
+[2025-11-05T23:20:44.748319] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.748307] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:44.748248] [INFO] Transaction completed
+[2025-11-05T23:20:44.748229] [INFO] Request processed successfully
+[2025-11-05T23:20:44.748311] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.748295] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.748288] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.748209] [INFO] Cache hit
+[2025-11-05T23:20:44.748278] [ERROR] Database connection lost
+[2025-11-05T23:20:44.748205] [INFO] Request processed successfully

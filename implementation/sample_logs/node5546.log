@@ -1,0 +1,28 @@
+[2025-11-05T23:20:35.626804] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.626752] [INFO] Request processed successfully
+[2025-11-05T23:20:35.626706] [INFO] User logged in
+[2025-11-05T23:20:35.626732] [INFO] Database query executed
+[2025-11-05T23:20:35.626701] [INFO] Cache hit
+[2025-11-05T23:20:35.626745] [INFO] Session started
+[2025-11-05T23:20:35.626741] [INFO] Transaction completed
+[2025-11-05T23:20:35.626728] [INFO] Configuration loaded
+[2025-11-05T23:20:35.626790] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.626723] [INFO] Session started
+[2025-11-05T23:20:35.626711] [INFO] Request processed successfully
+[2025-11-05T23:20:35.626748] [INFO] Request processed successfully
+[2025-11-05T23:20:35.626715] [INFO] Transaction completed
+[2025-11-05T23:20:35.626812] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.626737] [INFO] Service initialized
+[2025-11-05T23:20:35.626775] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.626758] [WARN] Queue size growing
+[2025-11-05T23:20:35.626780] [ERROR] Permission denied
+[2025-11-05T23:20:35.626695] [INFO] Database query executed
+[2025-11-05T23:20:35.626762] [WARN] Queue size growing
+[2025-11-05T23:20:35.626720] [INFO] Request processed successfully
+[2025-11-05T23:20:35.626771] [WARN] Rate limit approaching
+[2025-11-05T23:20:35.626808] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.626767] [WARN] Connection retry attempt
+[2025-11-05T23:20:35.626799] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.626795] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.626671] [INFO] Session started
+[2025-11-05T23:20:35.626785] [ERROR] Invalid input data

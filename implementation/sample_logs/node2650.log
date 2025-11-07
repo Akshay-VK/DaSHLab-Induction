@@ -1,0 +1,33 @@
+[2025-11-05T23:20:23.903791] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:23.903774] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.903716] [INFO] Cache hit
+[2025-11-05T23:20:23.903756] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.903762] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.903781] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.903682] [INFO] Cache hit
+[2025-11-05T23:20:23.903675] [INFO] Session started
+[2025-11-05T23:20:23.903770] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.903735] [WARN] Resource threshold approaching
+[2025-11-05T23:20:23.903685] [INFO] Health check passed
+[2025-11-05T23:20:23.903747] [ERROR] File not found
+[2025-11-05T23:20:23.903787] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.903767] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.903727] [WARN] Timeout warning
+[2025-11-05T23:20:23.903759] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.903657] [INFO] Connection established
+[2025-11-05T23:20:23.903777] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.903653] [INFO] Session started
+[2025-11-05T23:20:23.903668] [INFO] Request processed successfully
+[2025-11-05T23:20:23.903784] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.903678] [INFO] Service initialized
+[2025-11-05T23:20:23.903661] [INFO] Request processed successfully
+[2025-11-05T23:20:23.903731] [WARN] Queue size growing
+[2025-11-05T23:20:23.903623] [INFO] Session started
+[2025-11-05T23:20:23.903665] [INFO] Request processed successfully
+[2025-11-05T23:20:23.903671] [INFO] Session started
+[2025-11-05T23:20:23.903722] [INFO] Connection established
+[2025-11-05T23:20:23.903688] [INFO] Request processed successfully
+[2025-11-05T23:20:23.903751] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.903743] [ERROR] Authentication failed
+[2025-11-05T23:20:23.903648] [INFO] Service initialized
+[2025-11-05T23:20:23.903739] [WARN] Connection retry attempt

@@ -1,0 +1,27 @@
+[2025-11-05T23:20:27.463573] [INFO] Session started
+[2025-11-05T23:20:27.463529] [INFO] Transaction completed
+[2025-11-05T23:20:27.463570] [INFO] Transaction completed
+[2025-11-05T23:20:27.463577] [INFO] Database query executed
+[2025-11-05T23:20:27.463583] [INFO] Health check passed
+[2025-11-05T23:20:27.463554] [INFO] Connection established
+[2025-11-05T23:20:27.463630] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.463644] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.463580] [INFO] Cache hit
+[2025-11-05T23:20:27.463586] [INFO] Request processed successfully
+[2025-11-05T23:20:27.463593] [WARN] Slow query performance
+[2025-11-05T23:20:27.463616] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.463637] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.463620] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.463627] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.463612] [ERROR] Request failed
+[2025-11-05T23:20:27.463597] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.463559] [INFO] Request processed successfully
+[2025-11-05T23:20:27.463589] [INFO] Request processed successfully
+[2025-11-05T23:20:27.463601] [WARN] Timeout warning
+[2025-11-05T23:20:27.463604] [WARN] Rate limit approaching
+[2025-11-05T23:20:27.463623] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.463640] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.463563] [INFO] Transaction completed
+[2025-11-05T23:20:27.463567] [INFO] Health check passed
+[2025-11-05T23:20:27.463608] [ERROR] Memory allocation error
+[2025-11-05T23:20:27.463634] [DEBUG] Variable value: x=42

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:12.637179] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:12.637196] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:12.637112] [INFO] Session started
+[2025-11-05T23:20:12.637154] [WARN] Resource threshold approaching
+[2025-11-05T23:20:12.637169] [ERROR] Memory allocation error
+[2025-11-05T23:20:12.637088] [INFO] Health check passed
+[2025-11-05T23:20:12.637139] [INFO] Cache hit
+[2025-11-05T23:20:12.637188] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.637093] [INFO] Cache hit
+[2025-11-05T23:20:12.637098] [INFO] Request processed successfully
+[2025-11-05T23:20:12.637130] [INFO] Session started
+[2025-11-05T23:20:12.637149] [WARN] Rate limit approaching
+[2025-11-05T23:20:12.637117] [INFO] Connection established
+[2025-11-05T23:20:12.637205] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:12.637173] [ERROR] Database connection lost
+[2025-11-05T23:20:12.637108] [INFO] User logged in
+[2025-11-05T23:20:12.637164] [ERROR] Request failed
+[2025-11-05T23:20:12.637103] [INFO] Request processed successfully
+[2025-11-05T23:20:12.637134] [INFO] Cache hit
+[2025-11-05T23:20:12.637184] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.637060] [INFO] User logged in
+[2025-11-05T23:20:12.637192] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:12.637126] [INFO] User logged in
+[2025-11-05T23:20:12.637158] [WARN] Timeout warning
+[2025-11-05T23:20:12.637144] [WARN] Connection retry attempt
+[2025-11-05T23:20:12.637121] [INFO] Configuration loaded
+[2025-11-05T23:20:12.637201] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:12.637210] [DEBUG] Memory allocation: 2048 bytes

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:32.248186] [INFO] Service initialized
+[2025-11-05T23:20:32.248206] [INFO] Session started
+[2025-11-05T23:20:32.248175] [INFO] Session started
+[2025-11-05T23:20:32.248240] [ERROR] Invalid input data
+[2025-11-05T23:20:32.248203] [INFO] Request processed successfully
+[2025-11-05T23:20:32.248262] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:32.248265] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.248212] [INFO] Connection established
+[2025-11-05T23:20:32.248196] [INFO] User logged in
+[2025-11-05T23:20:32.248259] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.248244] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.248199] [INFO] Connection established
+[2025-11-05T23:20:32.248217] [WARN] Queue size growing
+[2025-11-05T23:20:32.248145] [INFO] Database query executed
+[2025-11-05T23:20:32.248171] [INFO] Database query executed
+[2025-11-05T23:20:32.248225] [WARN] Rate limit approaching
+[2025-11-05T23:20:32.248179] [INFO] Transaction completed
+[2025-11-05T23:20:32.248167] [INFO] Health check passed
+[2025-11-05T23:20:32.248189] [INFO] Service initialized
+[2025-11-05T23:20:32.248209] [INFO] Connection established
+[2025-11-05T23:20:32.248221] [WARN] Timeout warning
+[2025-11-05T23:20:32.248183] [INFO] Request processed successfully
+[2025-11-05T23:20:32.248232] [WARN] High memory usage detected
+[2025-11-05T23:20:32.248248] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:32.248251] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.248255] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.248269] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:32.248236] [ERROR] Database connection lost
+[2025-11-05T23:20:32.248193] [INFO] Database query executed
+[2025-11-05T23:20:32.248228] [WARN] Rate limit approaching

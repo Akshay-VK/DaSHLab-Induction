@@ -1,0 +1,31 @@
+[2025-11-05T23:20:36.419380] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.419394] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.419353] [WARN] Disk space low
+[2025-11-05T23:20:36.419280] [INFO] Configuration loaded
+[2025-11-05T23:20:36.419389] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.419289] [INFO] User logged in
+[2025-11-05T23:20:36.419294] [INFO] Connection established
+[2025-11-05T23:20:36.419348] [WARN] Deprecated API usage
+[2025-11-05T23:20:36.419324] [INFO] Connection established
+[2025-11-05T23:20:36.419285] [INFO] User logged in
+[2025-11-05T23:20:36.419302] [INFO] Transaction completed
+[2025-11-05T23:20:36.419344] [WARN] Connection retry attempt
+[2025-11-05T23:20:36.419306] [INFO] Transaction completed
+[2025-11-05T23:20:36.419315] [INFO] Request processed successfully
+[2025-11-05T23:20:36.419268] [INFO] Service initialized
+[2025-11-05T23:20:36.419402] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:36.419298] [INFO] Database query executed
+[2025-11-05T23:20:36.419364] [ERROR] Disk read failed
+[2025-11-05T23:20:36.419407] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:36.419320] [INFO] Transaction completed
+[2025-11-05T23:20:36.419375] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:36.419369] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.419398] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.419274] [INFO] Request processed successfully
+[2025-11-05T23:20:36.419359] [ERROR] Disk read failed
+[2025-11-05T23:20:36.419311] [INFO] Health check passed
+[2025-11-05T23:20:36.419385] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.419242] [INFO] Connection established
+[2025-11-05T23:20:36.419328] [INFO] User logged in
+[2025-11-05T23:20:36.419333] [INFO] Service initialized
+[2025-11-05T23:20:36.419338] [WARN] Rate limit approaching

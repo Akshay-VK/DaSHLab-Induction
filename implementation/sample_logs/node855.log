@@ -1,0 +1,25 @@
+[2025-11-05T23:20:16.107626] [INFO] Transaction completed
+[2025-11-05T23:20:16.107639] [WARN] Cache miss
+[2025-11-05T23:20:16.107593] [INFO] User logged in
+[2025-11-05T23:20:16.107606] [INFO] Session started
+[2025-11-05T23:20:16.107678] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.107574] [INFO] Database query executed
+[2025-11-05T23:20:16.107634] [INFO] Service initialized
+[2025-11-05T23:20:16.107682] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.107656] [ERROR] Authentication failed
+[2025-11-05T23:20:16.107661] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.107567] [INFO] User logged in
+[2025-11-05T23:20:16.107665] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.107539] [INFO] Configuration loaded
+[2025-11-05T23:20:16.107674] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.107621] [INFO] Transaction completed
+[2025-11-05T23:20:16.107629] [INFO] Session started
+[2025-11-05T23:20:16.107597] [INFO] Database query executed
+[2025-11-05T23:20:16.107587] [INFO] Service initialized
+[2025-11-05T23:20:16.107644] [WARN] Slow query performance
+[2025-11-05T23:20:16.107612] [INFO] Database query executed
+[2025-11-05T23:20:16.107617] [INFO] Database query executed
+[2025-11-05T23:20:16.107602] [INFO] Request processed successfully
+[2025-11-05T23:20:16.107581] [INFO] Service initialized
+[2025-11-05T23:20:16.107670] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.107651] [ERROR] Permission denied

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:16.840799] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.840730] [INFO] Transaction completed
+[2025-11-05T23:20:16.840756] [WARN] Slow query performance
+[2025-11-05T23:20:16.840717] [INFO] Transaction completed
+[2025-11-05T23:20:16.840735] [INFO] User logged in
+[2025-11-05T23:20:16.840726] [INFO] Configuration loaded
+[2025-11-05T23:20:16.840713] [INFO] Configuration loaded
+[2025-11-05T23:20:16.840768] [ERROR] File not found
+[2025-11-05T23:20:16.840699] [INFO] Connection established
+[2025-11-05T23:20:16.840684] [INFO] Session started
+[2025-11-05T23:20:16.840808] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.840694] [INFO] Session started
+[2025-11-05T23:20:16.840784] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.840709] [INFO] Cache hit
+[2025-11-05T23:20:16.840740] [INFO] Connection established
+[2025-11-05T23:20:16.840817] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.840749] [INFO] Health check passed
+[2025-11-05T23:20:16.840793] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.840774] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.840651] [INFO] Database query executed
+[2025-11-05T23:20:16.840779] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.840804] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.840704] [INFO] Transaction completed
+[2025-11-05T23:20:16.840678] [INFO] Session started
+[2025-11-05T23:20:16.840812] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.840744] [INFO] Health check passed
+[2025-11-05T23:20:16.840789] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.840722] [INFO] Database query executed
+[2025-11-05T23:20:16.840689] [INFO] Service initialized
+[2025-11-05T23:20:16.840762] [ERROR] Memory allocation error

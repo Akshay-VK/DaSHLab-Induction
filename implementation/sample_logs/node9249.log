@@ -1,0 +1,32 @@
+[2025-11-05T23:20:50.682592] [ERROR] File not found
+[2025-11-05T23:20:50.682635] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:50.682588] [ERROR] Request failed
+[2025-11-05T23:20:50.682615] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.682597] [ERROR] Invalid input data
+[2025-11-05T23:20:50.682526] [INFO] Connection established
+[2025-11-05T23:20:50.682565] [WARN] Resource threshold approaching
+[2025-11-05T23:20:50.682502] [INFO] User logged in
+[2025-11-05T23:20:50.682570] [WARN] Queue size growing
+[2025-11-05T23:20:50.682623] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.682631] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.682508] [INFO] Database query executed
+[2025-11-05T23:20:50.682619] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.682512] [INFO] User logged in
+[2025-11-05T23:20:50.682559] [INFO] Transaction completed
+[2025-11-05T23:20:50.682517] [INFO] User logged in
+[2025-11-05T23:20:50.682575] [WARN] Timeout warning
+[2025-11-05T23:20:50.682606] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:50.682538] [INFO] User logged in
+[2025-11-05T23:20:50.682547] [INFO] Service initialized
+[2025-11-05T23:20:50.682534] [INFO] Cache hit
+[2025-11-05T23:20:50.682579] [WARN] Slow query performance
+[2025-11-05T23:20:50.682602] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:50.682555] [INFO] Database query executed
+[2025-11-05T23:20:50.682611] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.682551] [INFO] Transaction completed
+[2025-11-05T23:20:50.682530] [INFO] Cache hit
+[2025-11-05T23:20:50.682542] [INFO] Session started
+[2025-11-05T23:20:50.682583] [WARN] Resource threshold approaching
+[2025-11-05T23:20:50.682627] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.682478] [INFO] Request processed successfully
+[2025-11-05T23:20:50.682522] [INFO] Health check passed

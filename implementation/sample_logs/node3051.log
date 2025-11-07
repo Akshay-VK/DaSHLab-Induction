@@ -1,0 +1,26 @@
+[2025-11-05T23:20:25.568378] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.568382] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.568304] [INFO] Session started
+[2025-11-05T23:20:25.568291] [INFO] Health check passed
+[2025-11-05T23:20:25.568342] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.568287] [INFO] Session started
+[2025-11-05T23:20:25.568316] [INFO] Service initialized
+[2025-11-05T23:20:25.568308] [INFO] Cache hit
+[2025-11-05T23:20:25.568373] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.568336] [INFO] Connection established
+[2025-11-05T23:20:25.568276] [INFO] Connection established
+[2025-11-05T23:20:25.568324] [INFO] Service initialized
+[2025-11-05T23:20:25.568313] [INFO] Connection established
+[2025-11-05T23:20:25.568282] [INFO] Database query executed
+[2025-11-05T23:20:25.568353] [ERROR] Permission denied
+[2025-11-05T23:20:25.568347] [WARN] Slow query performance
+[2025-11-05T23:20:25.568320] [INFO] Configuration loaded
+[2025-11-05T23:20:25.568332] [INFO] Connection established
+[2025-11-05T23:20:25.568387] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.568364] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.568369] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.568295] [INFO] Cache hit
+[2025-11-05T23:20:25.568251] [INFO] Transaction completed
+[2025-11-05T23:20:25.568300] [INFO] Request processed successfully
+[2025-11-05T23:20:25.568358] [ERROR] Memory allocation error
+[2025-11-05T23:20:25.568328] [INFO] Database query executed

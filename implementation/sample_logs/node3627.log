@@ -1,0 +1,33 @@
+[2025-11-05T23:20:28.229944] [INFO] Session started
+[2025-11-05T23:20:28.230103] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.230055] [WARN] Timeout warning
+[2025-11-05T23:20:28.230000] [INFO] Connection established
+[2025-11-05T23:20:28.230040] [WARN] Queue size growing
+[2025-11-05T23:20:28.229885] [INFO] User logged in
+[2025-11-05T23:20:28.229863] [INFO] Service initialized
+[2025-11-05T23:20:28.230183] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.230011] [INFO] Database query executed
+[2025-11-05T23:20:28.230021] [INFO] Configuration loaded
+[2025-11-05T23:20:28.230087] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.230083] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.230006] [INFO] Cache hit
+[2025-11-05T23:20:28.229870] [INFO] Database query executed
+[2025-11-05T23:20:28.229960] [INFO] Cache hit
+[2025-11-05T23:20:28.230066] [ERROR] Invalid input data
+[2025-11-05T23:20:28.230034] [WARN] High memory usage detected
+[2025-11-05T23:20:28.230091] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.230026] [INFO] Health check passed
+[2025-11-05T23:20:28.230072] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.229835] [INFO] Database query executed
+[2025-11-05T23:20:28.230016] [INFO] Configuration loaded
+[2025-11-05T23:20:28.229991] [INFO] User logged in
+[2025-11-05T23:20:28.229876] [INFO] Cache hit
+[2025-11-05T23:20:28.230049] [WARN] Timeout warning
+[2025-11-05T23:20:28.230078] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.230061] [ERROR] Memory allocation error
+[2025-11-05T23:20:28.229881] [INFO] Connection established
+[2025-11-05T23:20:28.229890] [INFO] Health check passed
+[2025-11-05T23:20:28.230045] [WARN] Rate limit approaching
+[2025-11-05T23:20:28.230098] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:28.230094] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.229954] [INFO] Health check passed

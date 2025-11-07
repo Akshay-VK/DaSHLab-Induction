@@ -1,0 +1,38 @@
+[2025-11-05T23:20:41.314193] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.314198] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.314218] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.314141] [WARN] Disk space low
+[2025-11-05T23:20:41.314206] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.314118] [INFO] Database query executed
+[2025-11-05T23:20:41.314186] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.314101] [INFO] Request processed successfully
+[2025-11-05T23:20:41.314214] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.314097] [INFO] Transaction completed
+[2025-11-05T23:20:41.314181] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.314126] [INFO] User logged in
+[2025-11-05T23:20:41.314066] [INFO] Request processed successfully
+[2025-11-05T23:20:41.314109] [INFO] Health check passed
+[2025-11-05T23:20:41.314075] [INFO] Transaction completed
+[2025-11-05T23:20:41.314084] [INFO] Configuration loaded
+[2025-11-05T23:20:41.314202] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.314162] [WARN] Queue size growing
+[2025-11-05T23:20:41.314122] [INFO] Session started
+[2025-11-05T23:20:41.314172] [ERROR] Database connection lost
+[2025-11-05T23:20:41.314167] [ERROR] Permission denied
+[2025-11-05T23:20:41.314114] [INFO] Configuration loaded
+[2025-11-05T23:20:41.314190] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.314105] [INFO] Cache hit
+[2025-11-05T23:20:41.314092] [INFO] Cache hit
+[2025-11-05T23:20:41.314035] [INFO] Transaction completed
+[2025-11-05T23:20:41.314158] [WARN] High memory usage detected
+[2025-11-05T23:20:41.314210] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.314132] [WARN] Deprecated API usage
+[2025-11-05T23:20:41.314145] [WARN] Deprecated API usage
+[2025-11-05T23:20:41.314071] [INFO] Database query executed
+[2025-11-05T23:20:41.314137] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.314153] [WARN] Queue size growing
+[2025-11-05T23:20:41.314080] [INFO] Request processed successfully
+[2025-11-05T23:20:41.314059] [INFO] Health check passed
+[2025-11-05T23:20:41.314177] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.314149] [WARN] High memory usage detected
+[2025-11-05T23:20:41.314088] [INFO] User logged in

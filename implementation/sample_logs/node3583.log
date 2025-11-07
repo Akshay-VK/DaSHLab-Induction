@@ -1,0 +1,29 @@
+[2025-11-05T23:20:27.994391] [INFO] Transaction completed
+[2025-11-05T23:20:27.994423] [INFO] Service initialized
+[2025-11-05T23:20:27.994501] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.994492] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.994473] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.994457] [ERROR] Disk read failed
+[2025-11-05T23:20:27.994468] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.994428] [INFO] Configuration loaded
+[2025-11-05T23:20:27.994436] [INFO] Session started
+[2025-11-05T23:20:27.994410] [INFO] Health check passed
+[2025-11-05T23:20:27.994415] [INFO] Request processed successfully
+[2025-11-05T23:20:27.994401] [INFO] Session started
+[2025-11-05T23:20:27.994463] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.994405] [INFO] Service initialized
+[2025-11-05T23:20:27.994396] [INFO] Connection established
+[2025-11-05T23:20:27.994452] [WARN] Disk space low
+[2025-11-05T23:20:27.994419] [INFO] Request processed successfully
+[2025-11-05T23:20:27.994343] [INFO] Transaction completed
+[2025-11-05T23:20:27.994487] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.994382] [INFO] Transaction completed
+[2025-11-05T23:20:27.994371] [INFO] Configuration loaded
+[2025-11-05T23:20:27.994377] [INFO] Health check passed
+[2025-11-05T23:20:27.994442] [WARN] High memory usage detected
+[2025-11-05T23:20:27.994447] [WARN] Disk space low
+[2025-11-05T23:20:27.994386] [INFO] User logged in
+[2025-11-05T23:20:27.994478] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.994496] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:27.994432] [INFO] Database query executed
+[2025-11-05T23:20:27.994482] [DEBUG] HTTP request headers parsed

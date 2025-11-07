@@ -1,0 +1,27 @@
+[2025-11-05T23:20:26.416853] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.416826] [INFO] Session started
+[2025-11-05T23:20:26.416820] [INFO] Cache hit
+[2025-11-05T23:20:26.416813] [INFO] Cache hit
+[2025-11-05T23:20:26.416816] [INFO] Session started
+[2025-11-05T23:20:26.416823] [INFO] Session started
+[2025-11-05T23:20:26.416845] [ERROR] Request failed
+[2025-11-05T23:20:26.416842] [ERROR] Memory allocation error
+[2025-11-05T23:20:26.416879] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.416803] [INFO] User logged in
+[2025-11-05T23:20:26.416769] [INFO] Transaction completed
+[2025-11-05T23:20:26.416807] [INFO] Configuration loaded
+[2025-11-05T23:20:26.416797] [INFO] Session started
+[2025-11-05T23:20:26.416872] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.416849] [ERROR] Request failed
+[2025-11-05T23:20:26.416863] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.416830] [INFO] Session started
+[2025-11-05T23:20:26.416866] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.416810] [INFO] User logged in
+[2025-11-05T23:20:26.416834] [WARN] Rate limit approaching
+[2025-11-05T23:20:26.416876] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.416837] [WARN] Timeout warning
+[2025-11-05T23:20:26.416860] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.416869] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.416800] [INFO] Service initialized
+[2025-11-05T23:20:26.416792] [INFO] Cache hit
+[2025-11-05T23:20:26.416856] [DEBUG] HTTP request headers parsed

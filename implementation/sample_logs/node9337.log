@@ -1,0 +1,26 @@
+[2025-11-05T23:20:51.053466] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.053405] [INFO] Database query executed
+[2025-11-05T23:20:51.053474] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.053418] [INFO] Service initialized
+[2025-11-05T23:20:51.053400] [INFO] Service initialized
+[2025-11-05T23:20:51.053390] [INFO] Session started
+[2025-11-05T23:20:51.053395] [INFO] Database query executed
+[2025-11-05T23:20:51.053462] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.053409] [INFO] Transaction completed
+[2025-11-05T23:20:51.053497] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:51.053383] [INFO] Request processed successfully
+[2025-11-05T23:20:51.053448] [WARN] Queue size growing
+[2025-11-05T23:20:51.053478] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.053413] [INFO] Connection established
+[2025-11-05T23:20:51.053470] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.053492] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.053455] [ERROR] Network timeout
+[2025-11-05T23:20:51.053435] [INFO] Service initialized
+[2025-11-05T23:20:51.053483] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.053357] [INFO] Configuration loaded
+[2025-11-05T23:20:51.053427] [INFO] User logged in
+[2025-11-05T23:20:51.053443] [INFO] Session started
+[2025-11-05T23:20:51.053488] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:51.053422] [INFO] Connection established
+[2025-11-05T23:20:51.053439] [INFO] User logged in
+[2025-11-05T23:20:51.053431] [INFO] Database query executed

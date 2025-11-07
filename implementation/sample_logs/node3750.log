@@ -1,0 +1,39 @@
+[2025-11-05T23:20:28.674049] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.673964] [INFO] Cache hit
+[2025-11-05T23:20:28.673978] [INFO] Configuration loaded
+[2025-11-05T23:20:28.673982] [INFO] Connection established
+[2025-11-05T23:20:28.673986] [INFO] User logged in
+[2025-11-05T23:20:28.674005] [WARN] Slow query performance
+[2025-11-05T23:20:28.673938] [INFO] Configuration loaded
+[2025-11-05T23:20:28.673951] [INFO] User logged in
+[2025-11-05T23:20:28.674013] [WARN] Queue size growing
+[2025-11-05T23:20:28.673942] [INFO] Cache hit
+[2025-11-05T23:20:28.674067] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.674084] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.673990] [INFO] Cache hit
+[2025-11-05T23:20:28.673906] [INFO] Transaction completed
+[2025-11-05T23:20:28.674040] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.674035] [ERROR] Authentication failed
+[2025-11-05T23:20:28.673973] [INFO] Session started
+[2025-11-05T23:20:28.674096] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.674075] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.674062] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.674025] [WARN] Queue size growing
+[2025-11-05T23:20:28.673932] [INFO] Database query executed
+[2025-11-05T23:20:28.674000] [WARN] Slow query performance
+[2025-11-05T23:20:28.674080] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.674045] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.673956] [INFO] User logged in
+[2025-11-05T23:20:28.674058] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.674021] [WARN] Slow query performance
+[2025-11-05T23:20:28.674053] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.674092] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.674088] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.673960] [INFO] Cache hit
+[2025-11-05T23:20:28.673995] [WARN] Queue size growing
+[2025-11-05T23:20:28.673947] [INFO] Service initialized
+[2025-11-05T23:20:28.674030] [ERROR] File not found
+[2025-11-05T23:20:28.674009] [WARN] High memory usage detected
+[2025-11-05T23:20:28.674017] [WARN] Connection retry attempt
+[2025-11-05T23:20:28.673969] [INFO] Cache hit
+[2025-11-05T23:20:28.674071] [DEBUG] Timer set: 30 seconds

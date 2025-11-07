@@ -1,0 +1,29 @@
+[2025-11-05T23:20:52.724799] [INFO] Health check passed
+[2025-11-05T23:20:52.724816] [INFO] Service initialized
+[2025-11-05T23:20:52.724776] [INFO] Transaction completed
+[2025-11-05T23:20:52.724877] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.724781] [INFO] Database query executed
+[2025-11-05T23:20:52.724824] [INFO] Configuration loaded
+[2025-11-05T23:20:52.724812] [INFO] Health check passed
+[2025-11-05T23:20:52.724897] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.724820] [INFO] Connection established
+[2025-11-05T23:20:52.724881] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.724885] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.724858] [ERROR] Invalid input data
+[2025-11-05T23:20:52.724890] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.724853] [WARN] Queue size growing
+[2025-11-05T23:20:52.724791] [INFO] Database query executed
+[2025-11-05T23:20:52.724832] [INFO] Service initialized
+[2025-11-05T23:20:52.724838] [WARN] Queue size growing
+[2025-11-05T23:20:52.724868] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.724795] [INFO] Request processed successfully
+[2025-11-05T23:20:52.724803] [INFO] Request processed successfully
+[2025-11-05T23:20:52.724873] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.724751] [INFO] Health check passed
+[2025-11-05T23:20:52.724808] [INFO] Transaction completed
+[2025-11-05T23:20:52.724893] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.724848] [WARN] High memory usage detected
+[2025-11-05T23:20:52.724843] [WARN] Timeout warning
+[2025-11-05T23:20:52.724863] [ERROR] Disk read failed
+[2025-11-05T23:20:52.724786] [INFO] Database query executed
+[2025-11-05T23:20:52.724828] [INFO] Configuration loaded

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:30.001646] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.001569] [INFO] User logged in
+[2025-11-05T23:20:30.001522] [INFO] Configuration loaded
+[2025-11-05T23:20:30.001633] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.001531] [INFO] Service initialized
+[2025-11-05T23:20:30.001527] [INFO] Service initialized
+[2025-11-05T23:20:30.001556] [INFO] User logged in
+[2025-11-05T23:20:30.001584] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.001573] [INFO] Database query executed
+[2025-11-05T23:20:30.001539] [INFO] Cache hit
+[2025-11-05T23:20:30.001579] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.001642] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.001637] [DEBUG] Cache key generated
+[2025-11-05T23:20:30.001602] [ERROR] Memory allocation error
+[2025-11-05T23:20:30.001535] [INFO] Configuration loaded
+[2025-11-05T23:20:30.001450] [INFO] Request processed successfully
+[2025-11-05T23:20:30.001592] [WARN] Disk space low
+[2025-11-05T23:20:30.001629] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.001564] [INFO] Service initialized
+[2025-11-05T23:20:30.001606] [ERROR] File not found
+[2025-11-05T23:20:30.001625] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.001588] [WARN] Queue size growing
+[2025-11-05T23:20:30.001511] [INFO] Configuration loaded
+[2025-11-05T23:20:30.001621] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.001548] [INFO] Database query executed
+[2025-11-05T23:20:30.001611] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.001560] [INFO] Transaction completed
+[2025-11-05T23:20:30.001617] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.001517] [INFO] Request processed successfully
+[2025-11-05T23:20:30.001543] [INFO] Transaction completed
+[2025-11-05T23:20:30.001597] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.001552] [INFO] User logged in

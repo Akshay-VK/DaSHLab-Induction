@@ -1,0 +1,32 @@
+[2025-11-05T23:20:46.007853] [ERROR] Request failed
+[2025-11-05T23:20:46.007756] [INFO] Connection established
+[2025-11-05T23:20:46.007880] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.007889] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.007789] [INFO] Health check passed
+[2025-11-05T23:20:46.007770] [INFO] Database query executed
+[2025-11-05T23:20:46.007766] [INFO] User logged in
+[2025-11-05T23:20:46.007807] [INFO] Request processed successfully
+[2025-11-05T23:20:46.007893] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.007828] [WARN] Slow query performance
+[2025-11-05T23:20:46.007865] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.007724] [INFO] User logged in
+[2025-11-05T23:20:46.007837] [WARN] Slow query performance
+[2025-11-05T23:20:46.007870] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.007794] [INFO] Connection established
+[2025-11-05T23:20:46.007798] [INFO] User logged in
+[2025-11-05T23:20:46.007784] [INFO] Health check passed
+[2025-11-05T23:20:46.007884] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.007779] [INFO] Cache hit
+[2025-11-05T23:20:46.007875] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.007843] [ERROR] Database connection lost
+[2025-11-05T23:20:46.007803] [INFO] Health check passed
+[2025-11-05T23:20:46.007816] [INFO] Transaction completed
+[2025-11-05T23:20:46.007859] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.007761] [INFO] Connection established
+[2025-11-05T23:20:46.007812] [INFO] User logged in
+[2025-11-05T23:20:46.007833] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.007898] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.007822] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.007849] [ERROR] Disk read failed
+[2025-11-05T23:20:46.007775] [INFO] Request processed successfully
+[2025-11-05T23:20:46.007751] [INFO] Request processed successfully

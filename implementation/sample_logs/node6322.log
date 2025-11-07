@@ -1,0 +1,27 @@
+[2025-11-05T23:20:38.968018] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.968021] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.967959] [INFO] Session started
+[2025-11-05T23:20:38.967946] [INFO] Connection established
+[2025-11-05T23:20:38.967934] [INFO] Request processed successfully
+[2025-11-05T23:20:38.967989] [ERROR] Memory allocation error
+[2025-11-05T23:20:38.967965] [INFO] Cache hit
+[2025-11-05T23:20:38.967981] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.967970] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.967984] [WARN] Timeout warning
+[2025-11-05T23:20:38.967978] [WARN] Queue size growing
+[2025-11-05T23:20:38.968002] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.967952] [INFO] Service initialized
+[2025-11-05T23:20:38.968013] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.967955] [INFO] Cache hit
+[2025-11-05T23:20:38.968025] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.967993] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.967930] [INFO] Health check passed
+[2025-11-05T23:20:38.967906] [INFO] Transaction completed
+[2025-11-05T23:20:38.968009] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.968006] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.967962] [INFO] Cache hit
+[2025-11-05T23:20:38.967974] [WARN] Rate limit approaching
+[2025-11-05T23:20:38.967998] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.967949] [INFO] Configuration loaded
+[2025-11-05T23:20:38.967942] [INFO] Connection established
+[2025-11-05T23:20:38.967939] [INFO] Cache hit

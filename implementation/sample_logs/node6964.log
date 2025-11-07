@@ -1,0 +1,31 @@
+[2025-11-05T23:20:41.363390] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.363385] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.363375] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.363300] [INFO] Database query executed
+[2025-11-05T23:20:41.363318] [INFO] Transaction completed
+[2025-11-05T23:20:41.363410] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.363322] [INFO] Transaction completed
+[2025-11-05T23:20:41.363276] [INFO] Transaction completed
+[2025-11-05T23:20:41.363380] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.363401] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.363269] [INFO] Cache hit
+[2025-11-05T23:20:41.363358] [WARN] Cache miss
+[2025-11-05T23:20:41.363405] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.363353] [WARN] Queue size growing
+[2025-11-05T23:20:41.363310] [INFO] Configuration loaded
+[2025-11-05T23:20:41.363343] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.363331] [INFO] Cache hit
+[2025-11-05T23:20:41.363243] [INFO] Health check passed
+[2025-11-05T23:20:41.363291] [INFO] Service initialized
+[2025-11-05T23:20:41.363286] [INFO] Connection established
+[2025-11-05T23:20:41.363296] [INFO] Service initialized
+[2025-11-05T23:20:41.363348] [WARN] Queue size growing
+[2025-11-05T23:20:41.363314] [INFO] Service initialized
+[2025-11-05T23:20:41.363327] [INFO] Configuration loaded
+[2025-11-05T23:20:41.363305] [INFO] Configuration loaded
+[2025-11-05T23:20:41.363364] [ERROR] Authentication failed
+[2025-11-05T23:20:41.363397] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.363337] [WARN] Deprecated API usage
+[2025-11-05T23:20:41.363394] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.363369] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.363281] [INFO] Request processed successfully

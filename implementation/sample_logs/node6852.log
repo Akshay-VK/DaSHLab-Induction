@@ -1,0 +1,32 @@
+[2025-11-05T23:20:41.001137] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.001146] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.001133] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.001096] [WARN] High memory usage detected
+[2025-11-05T23:20:41.001062] [INFO] Health check passed
+[2025-11-05T23:20:41.001124] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.001104] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.001049] [INFO] Transaction completed
+[2025-11-05T23:20:41.001007] [INFO] Configuration loaded
+[2025-11-05T23:20:41.001100] [WARN] Resource threshold approaching
+[2025-11-05T23:20:41.001090] [WARN] Slow query performance
+[2025-11-05T23:20:41.001036] [INFO] Database query executed
+[2025-11-05T23:20:41.001018] [INFO] User logged in
+[2025-11-05T23:20:41.001028] [INFO] Request processed successfully
+[2025-11-05T23:20:41.001109] [ERROR] Permission denied
+[2025-11-05T23:20:41.001041] [INFO] Cache hit
+[2025-11-05T23:20:41.001013] [INFO] Cache hit
+[2025-11-05T23:20:41.001068] [INFO] Health check passed
+[2025-11-05T23:20:41.001129] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.001054] [INFO] Connection established
+[2025-11-05T23:20:41.001142] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.001045] [INFO] User logged in
+[2025-11-05T23:20:41.001115] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.001072] [INFO] Cache hit
+[2025-11-05T23:20:41.001032] [INFO] Configuration loaded
+[2025-11-05T23:20:41.001084] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.001023] [INFO] Transaction completed
+[2025-11-05T23:20:41.001120] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.000982] [INFO] Connection established
+[2025-11-05T23:20:41.001057] [INFO] Session started
+[2025-11-05T23:20:41.001077] [INFO] Cache hit
+[2025-11-05T23:20:41.001150] [DEBUG] Loop iteration: 15

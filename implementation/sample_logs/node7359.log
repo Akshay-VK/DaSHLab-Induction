@@ -1,0 +1,31 @@
+[2025-11-05T23:20:42.812610] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.812480] [INFO] Service initialized
+[2025-11-05T23:20:42.812580] [WARN] Slow query performance
+[2025-11-05T23:20:42.812647] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.812642] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.812568] [INFO] Connection established
+[2025-11-05T23:20:42.812530] [INFO] Service initialized
+[2025-11-05T23:20:42.812544] [INFO] Database query executed
+[2025-11-05T23:20:42.812525] [INFO] Database query executed
+[2025-11-05T23:20:42.812652] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.812616] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.812631] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.812558] [INFO] Cache hit
+[2025-11-05T23:20:42.812597] [WARN] Queue size growing
+[2025-11-05T23:20:42.812520] [INFO] Cache hit
+[2025-11-05T23:20:42.812636] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.812591] [WARN] Timeout warning
+[2025-11-05T23:20:42.812554] [INFO] Session started
+[2025-11-05T23:20:42.812573] [INFO] Configuration loaded
+[2025-11-05T23:20:42.812549] [INFO] Request processed successfully
+[2025-11-05T23:20:42.812514] [INFO] User logged in
+[2025-11-05T23:20:42.812620] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.812603] [ERROR] Disk read failed
+[2025-11-05T23:20:42.812657] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.812507] [INFO] Connection established
+[2025-11-05T23:20:42.812563] [INFO] Health check passed
+[2025-11-05T23:20:42.812626] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.812540] [INFO] Request processed successfully
+[2025-11-05T23:20:42.812662] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.812535] [INFO] Request processed successfully
+[2025-11-05T23:20:42.812585] [WARN] Resource threshold approaching

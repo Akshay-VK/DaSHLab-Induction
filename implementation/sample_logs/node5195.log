@@ -1,0 +1,30 @@
+[2025-11-05T23:20:34.375557] [INFO] Session started
+[2025-11-05T23:20:34.375544] [INFO] User logged in
+[2025-11-05T23:20:34.375648] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.375567] [INFO] User logged in
+[2025-11-05T23:20:34.375576] [INFO] Connection established
+[2025-11-05T23:20:34.375643] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.375634] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.375580] [INFO] Cache hit
+[2025-11-05T23:20:34.375629] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.375624] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.375539] [INFO] Request processed successfully
+[2025-11-05T23:20:34.375571] [INFO] Configuration loaded
+[2025-11-05T23:20:34.375584] [INFO] Request processed successfully
+[2025-11-05T23:20:34.375593] [INFO] Cache hit
+[2025-11-05T23:20:34.375553] [INFO] User logged in
+[2025-11-05T23:20:34.375607] [WARN] Rate limit approaching
+[2025-11-05T23:20:34.375588] [INFO] Service initialized
+[2025-11-05T23:20:34.375516] [INFO] Cache hit
+[2025-11-05T23:20:34.375603] [WARN] Cache miss
+[2025-11-05T23:20:34.375619] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.375638] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.375562] [INFO] Request processed successfully
+[2025-11-05T23:20:34.375488] [INFO] Cache hit
+[2025-11-05T23:20:34.375652] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.375613] [ERROR] Service unavailable
+[2025-11-05T23:20:34.375598] [WARN] Slow query performance
+[2025-11-05T23:20:34.375549] [INFO] Connection established
+[2025-11-05T23:20:34.375521] [INFO] Session started
+[2025-11-05T23:20:34.375534] [INFO] Health check passed
+[2025-11-05T23:20:34.375528] [INFO] Connection established

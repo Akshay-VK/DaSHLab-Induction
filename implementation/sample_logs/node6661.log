@@ -1,0 +1,32 @@
+[2025-11-05T23:20:40.203152] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.203126] [ERROR] Permission denied
+[2025-11-05T23:20:40.203095] [WARN] Disk space low
+[2025-11-05T23:20:40.203042] [INFO] Health check passed
+[2025-11-05T23:20:40.203166] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.203142] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.203175] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.203147] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.203085] [INFO] Database query executed
+[2025-11-05T23:20:40.203111] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.203052] [INFO] User logged in
+[2025-11-05T23:20:40.203071] [INFO] Database query executed
+[2025-11-05T23:20:40.203101] [WARN] Connection retry attempt
+[2025-11-05T23:20:40.203061] [INFO] Configuration loaded
+[2025-11-05T23:20:40.203057] [INFO] Service initialized
+[2025-11-05T23:20:40.203131] [ERROR] Database connection lost
+[2025-11-05T23:20:40.203137] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.203037] [INFO] Transaction completed
+[2025-11-05T23:20:40.203120] [WARN] Slow query performance
+[2025-11-05T23:20:40.203000] [INFO] Health check passed
+[2025-11-05T23:20:40.203106] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.203076] [INFO] Health check passed
+[2025-11-05T23:20:40.203027] [INFO] Request processed successfully
+[2025-11-05T23:20:40.203089] [INFO] Request processed successfully
+[2025-11-05T23:20:40.203116] [WARN] High memory usage detected
+[2025-11-05T23:20:40.203080] [INFO] User logged in
+[2025-11-05T23:20:40.203157] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.203047] [INFO] Session started
+[2025-11-05T23:20:40.203032] [INFO] Request processed successfully
+[2025-11-05T23:20:40.203067] [INFO] Cache hit
+[2025-11-05T23:20:40.203171] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.203161] [DEBUG] Variable value: x=42

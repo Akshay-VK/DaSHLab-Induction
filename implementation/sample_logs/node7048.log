@@ -1,0 +1,29 @@
+[2025-11-05T23:20:41.758174] [INFO] User logged in
+[2025-11-05T23:20:41.758253] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.758209] [INFO] Cache hit
+[2025-11-05T23:20:41.758260] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.758236] [WARN] High memory usage detected
+[2025-11-05T23:20:41.758228] [WARN] Timeout warning
+[2025-11-05T23:20:41.758199] [INFO] Health check passed
+[2025-11-05T23:20:41.758239] [WARN] Timeout warning
+[2025-11-05T23:20:41.758248] [ERROR] Network timeout
+[2025-11-05T23:20:41.758202] [INFO] Cache hit
+[2025-11-05T23:20:41.758219] [INFO] Cache hit
+[2025-11-05T23:20:41.758182] [INFO] Health check passed
+[2025-11-05T23:20:41.758267] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.758195] [INFO] Service initialized
+[2025-11-05T23:20:41.758256] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.758212] [INFO] Request processed successfully
+[2025-11-05T23:20:41.758178] [INFO] Transaction completed
+[2025-11-05T23:20:41.758192] [INFO] Cache hit
+[2025-11-05T23:20:41.758232] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.758205] [INFO] Connection established
+[2025-11-05T23:20:41.758189] [INFO] Health check passed
+[2025-11-05T23:20:41.758146] [INFO] Connection established
+[2025-11-05T23:20:41.758270] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.758263] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.758224] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.758185] [INFO] Configuration loaded
+[2025-11-05T23:20:41.758170] [INFO] Health check passed
+[2025-11-05T23:20:41.758216] [INFO] Connection established
+[2025-11-05T23:20:41.758244] [ERROR] Invalid input data

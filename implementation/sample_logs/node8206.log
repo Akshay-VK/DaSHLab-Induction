@@ -1,0 +1,26 @@
+[2025-11-05T23:20:46.419370] [INFO] Session started
+[2025-11-05T23:20:46.419385] [INFO] Configuration loaded
+[2025-11-05T23:20:46.419393] [INFO] Service initialized
+[2025-11-05T23:20:46.419437] [ERROR] Invalid input data
+[2025-11-05T23:20:46.419423] [WARN] Slow query performance
+[2025-11-05T23:20:46.419474] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.419466] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.419442] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.419380] [INFO] Database query executed
+[2025-11-05T23:20:46.419398] [INFO] Health check passed
+[2025-11-05T23:20:46.419345] [INFO] User logged in
+[2025-11-05T23:20:46.419462] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.419470] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.419375] [INFO] User logged in
+[2025-11-05T23:20:46.419454] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.419450] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.419417] [INFO] Health check passed
+[2025-11-05T23:20:46.419413] [INFO] Cache hit
+[2025-11-05T23:20:46.419389] [INFO] Session started
+[2025-11-05T23:20:46.419410] [INFO] Database query executed
+[2025-11-05T23:20:46.419432] [ERROR] Database connection lost
+[2025-11-05T23:20:46.419427] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.419402] [INFO] User logged in
+[2025-11-05T23:20:46.419458] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.419406] [INFO] Session started
+[2025-11-05T23:20:46.419447] [DEBUG] Entering function process_data()

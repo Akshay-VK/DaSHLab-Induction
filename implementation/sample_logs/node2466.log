@@ -1,0 +1,28 @@
+[2025-11-05T23:20:22.925007] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.924946] [INFO] Connection established
+[2025-11-05T23:20:22.925003] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.924902] [INFO] Database query executed
+[2025-11-05T23:20:22.924942] [INFO] Session started
+[2025-11-05T23:20:22.924916] [INFO] User logged in
+[2025-11-05T23:20:22.924907] [INFO] Request processed successfully
+[2025-11-05T23:20:22.925015] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.924991] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.924982] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.924995] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.924999] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:22.924952] [WARN] Timeout warning
+[2025-11-05T23:20:22.924924] [INFO] User logged in
+[2025-11-05T23:20:22.924969] [WARN] Cache miss
+[2025-11-05T23:20:22.924957] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.924911] [INFO] Request processed successfully
+[2025-11-05T23:20:22.924961] [WARN] Deprecated API usage
+[2025-11-05T23:20:22.924986] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.924920] [INFO] Service initialized
+[2025-11-05T23:20:22.924975] [ERROR] Disk read failed
+[2025-11-05T23:20:22.924938] [INFO] Request processed successfully
+[2025-11-05T23:20:22.924933] [INFO] Transaction completed
+[2025-11-05T23:20:22.925011] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.924929] [INFO] Session started
+[2025-11-05T23:20:22.924896] [INFO] Configuration loaded
+[2025-11-05T23:20:22.924965] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.924874] [INFO] Health check passed

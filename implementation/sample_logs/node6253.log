@@ -1,0 +1,35 @@
+[2025-11-05T23:20:38.685714] [INFO] Cache hit
+[2025-11-05T23:20:38.685696] [INFO] Cache hit
+[2025-11-05T23:20:38.685682] [INFO] Health check passed
+[2025-11-05T23:20:38.685755] [WARN] Rate limit approaching
+[2025-11-05T23:20:38.685705] [INFO] User logged in
+[2025-11-05T23:20:38.685687] [INFO] Health check passed
+[2025-11-05T23:20:38.685673] [INFO] Session started
+[2025-11-05T23:20:38.685804] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.685799] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:38.685653] [INFO] Health check passed
+[2025-11-05T23:20:38.685761] [ERROR] Permission denied
+[2025-11-05T23:20:38.685750] [WARN] Queue size growing
+[2025-11-05T23:20:38.685809] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.685746] [WARN] Cache miss
+[2025-11-05T23:20:38.685726] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.685710] [INFO] Request processed successfully
+[2025-11-05T23:20:38.685659] [INFO] User logged in
+[2025-11-05T23:20:38.685619] [INFO] Session started
+[2025-11-05T23:20:38.685647] [INFO] Database query executed
+[2025-11-05T23:20:38.685669] [INFO] Session started
+[2025-11-05T23:20:38.685720] [WARN] Slow query performance
+[2025-11-05T23:20:38.685678] [INFO] Configuration loaded
+[2025-11-05T23:20:38.685741] [WARN] Timeout warning
+[2025-11-05T23:20:38.685736] [WARN] Slow query performance
+[2025-11-05T23:20:38.685731] [WARN] Deprecated API usage
+[2025-11-05T23:20:38.685664] [INFO] Request processed successfully
+[2025-11-05T23:20:38.685782] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.685691] [INFO] Connection established
+[2025-11-05T23:20:38.685778] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.685786] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.685773] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.685791] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.685795] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.685701] [INFO] Request processed successfully
+[2025-11-05T23:20:38.685766] [ERROR] Authentication failed

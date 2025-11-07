@@ -1,0 +1,27 @@
+[2025-11-05T23:20:22.072682] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.072633] [INFO] User logged in
+[2025-11-05T23:20:22.072538] [INFO] Session started
+[2025-11-05T23:20:22.072617] [INFO] Service initialized
+[2025-11-05T23:20:22.072667] [ERROR] Invalid input data
+[2025-11-05T23:20:22.072657] [WARN] Queue size growing
+[2025-11-05T23:20:22.072690] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.072686] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.072566] [INFO] Database query executed
+[2025-11-05T23:20:22.072694] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.072653] [WARN] Disk space low
+[2025-11-05T23:20:22.072672] [ERROR] Disk read failed
+[2025-11-05T23:20:22.072702] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.072698] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.072711] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.072644] [WARN] Connection retry attempt
+[2025-11-05T23:20:22.072628] [INFO] Cache hit
+[2025-11-05T23:20:22.072573] [INFO] Transaction completed
+[2025-11-05T23:20:22.072649] [WARN] Timeout warning
+[2025-11-05T23:20:22.072625] [INFO] Session started
+[2025-11-05T23:20:22.072621] [INFO] Request processed successfully
+[2025-11-05T23:20:22.072637] [INFO] Transaction completed
+[2025-11-05T23:20:22.072661] [WARN] Cache miss
+[2025-11-05T23:20:22.072607] [INFO] Database query executed
+[2025-11-05T23:20:22.072612] [INFO] Health check passed
+[2025-11-05T23:20:22.072706] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.072677] [DEBUG] Timer set: 30 seconds

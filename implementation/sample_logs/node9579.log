@@ -1,0 +1,29 @@
+[2025-11-05T23:20:52.478705] [INFO] Health check passed
+[2025-11-05T23:20:52.478884] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.478742] [INFO] Database query executed
+[2025-11-05T23:20:52.478897] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.478901] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.478838] [INFO] Database query executed
+[2025-11-05T23:20:52.478752] [INFO] Configuration loaded
+[2025-11-05T23:20:52.478834] [INFO] User logged in
+[2025-11-05T23:20:52.478875] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.478844] [WARN] Cache miss
+[2025-11-05T23:20:52.478825] [INFO] User logged in
+[2025-11-05T23:20:52.478746] [INFO] Request processed successfully
+[2025-11-05T23:20:52.478893] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.478850] [WARN] Disk space low
+[2025-11-05T23:20:52.478830] [INFO] Database query executed
+[2025-11-05T23:20:52.478756] [INFO] User logged in
+[2025-11-05T23:20:52.478731] [INFO] Connection established
+[2025-11-05T23:20:52.478879] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.478761] [INFO] Health check passed
+[2025-11-05T23:20:52.478768] [INFO] Configuration loaded
+[2025-11-05T23:20:52.478871] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.478862] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.478867] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.478888] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.478856] [ERROR] Request failed
+[2025-11-05T23:20:52.478906] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.478820] [INFO] Cache hit
+[2025-11-05T23:20:52.478812] [INFO] Transaction completed
+[2025-11-05T23:20:52.478737] [INFO] Transaction completed

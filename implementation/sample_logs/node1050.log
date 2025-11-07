@@ -1,0 +1,39 @@
+[2025-11-05T23:20:16.848062] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.848099] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.848047] [ERROR] Memory allocation error
+[2025-11-05T23:20:16.848023] [WARN] Disk space low
+[2025-11-05T23:20:16.848071] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.848067] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.847999] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.847958] [INFO] Request processed successfully
+[2025-11-05T23:20:16.847953] [INFO] Transaction completed
+[2025-11-05T23:20:16.848032] [ERROR] Authentication failed
+[2025-11-05T23:20:16.848103] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.848090] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.847939] [INFO] Service initialized
+[2025-11-05T23:20:16.848004] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.847933] [INFO] Health check passed
+[2025-11-05T23:20:16.847944] [INFO] User logged in
+[2025-11-05T23:20:16.847988] [INFO] Database query executed
+[2025-11-05T23:20:16.848014] [WARN] Slow query performance
+[2025-11-05T23:20:16.848094] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.848052] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.848009] [WARN] Disk space low
+[2025-11-05T23:20:16.848076] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.847966] [INFO] Cache hit
+[2025-11-05T23:20:16.847906] [INFO] User logged in
+[2025-11-05T23:20:16.848057] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.848027] [WARN] Slow query performance
+[2025-11-05T23:20:16.848080] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.847971] [INFO] Service initialized
+[2025-11-05T23:20:16.847949] [INFO] Cache hit
+[2025-11-05T23:20:16.847984] [INFO] Service initialized
+[2025-11-05T23:20:16.847994] [WARN] Resource threshold approaching
+[2025-11-05T23:20:16.847979] [INFO] Configuration loaded
+[2025-11-05T23:20:16.847962] [INFO] Health check passed
+[2025-11-05T23:20:16.848085] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.847975] [INFO] Connection established
+[2025-11-05T23:20:16.848042] [ERROR] Disk read failed
+[2025-11-05T23:20:16.848038] [ERROR] Authentication failed
+[2025-11-05T23:20:16.848018] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.848107] [DEBUG] Loop iteration: 15

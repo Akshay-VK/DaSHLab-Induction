@@ -1,0 +1,29 @@
+[2025-11-05T23:20:20.173666] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.173591] [INFO] Cache hit
+[2025-11-05T23:20:20.173596] [INFO] Request processed successfully
+[2025-11-05T23:20:20.173576] [INFO] Session started
+[2025-11-05T23:20:20.173559] [INFO] Session started
+[2025-11-05T23:20:20.173670] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.173626] [WARN] Connection retry attempt
+[2025-11-05T23:20:20.173604] [INFO] Cache hit
+[2025-11-05T23:20:20.173658] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.173581] [INFO] Session started
+[2025-11-05T23:20:20.173613] [WARN] Cache miss
+[2025-11-05T23:20:20.173640] [ERROR] Database connection lost
+[2025-11-05T23:20:20.173645] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.173586] [INFO] Request processed successfully
+[2025-11-05T23:20:20.173526] [INFO] Configuration loaded
+[2025-11-05T23:20:20.173600] [INFO] Cache hit
+[2025-11-05T23:20:20.173571] [INFO] Database query executed
+[2025-11-05T23:20:20.173630] [WARN] Deprecated API usage
+[2025-11-05T23:20:20.173654] [DEBUG] Cache key generated
+[2025-11-05T23:20:20.173608] [INFO] Database query executed
+[2025-11-05T23:20:20.173565] [INFO] Database query executed
+[2025-11-05T23:20:20.173622] [WARN] High memory usage detected
+[2025-11-05T23:20:20.173674] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.173553] [INFO] Configuration loaded
+[2025-11-05T23:20:20.173650] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.173618] [WARN] Timeout warning
+[2025-11-05T23:20:20.173662] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.173635] [ERROR] Memory allocation error
+[2025-11-05T23:20:20.173678] [DEBUG] Thread pool size: 8

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:24.447149] [WARN] High memory usage detected
+[2025-11-05T23:20:24.447055] [INFO] Database query executed
+[2025-11-05T23:20:24.447164] [ERROR] Request failed
+[2025-11-05T23:20:24.447169] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.447155] [WARN] Resource threshold approaching
+[2025-11-05T23:20:24.447060] [INFO] Configuration loaded
+[2025-11-05T23:20:24.447134] [INFO] Service initialized
+[2025-11-05T23:20:24.447175] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.447185] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.447030] [INFO] Connection established
+[2025-11-05T23:20:24.447181] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.447093] [INFO] Connection established
+[2025-11-05T23:20:24.447118] [INFO] Health check passed
+[2025-11-05T23:20:24.447178] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.447086] [INFO] User logged in
+[2025-11-05T23:20:24.447159] [ERROR] Memory allocation error
+[2025-11-05T23:20:24.447127] [INFO] Connection established
+[2025-11-05T23:20:24.447068] [INFO] Request processed successfully
+[2025-11-05T23:20:24.447075] [INFO] Configuration loaded
+[2025-11-05T23:20:24.447078] [INFO] Connection established
+[2025-11-05T23:20:24.447146] [WARN] Rate limit approaching
+[2025-11-05T23:20:24.447137] [INFO] Transaction completed
+[2025-11-05T23:20:24.447172] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.447124] [INFO] Service initialized
+[2025-11-05T23:20:24.447142] [WARN] Cache miss
+[2025-11-05T23:20:24.447071] [INFO] Session started
+[2025-11-05T23:20:24.447131] [INFO] Health check passed
+[2025-11-05T23:20:24.447082] [INFO] Service initialized
+[2025-11-05T23:20:24.447187] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.447152] [WARN] Rate limit approaching
+[2025-11-05T23:20:24.447064] [INFO] User logged in
+[2025-11-05T23:20:24.447089] [INFO] Transaction completed

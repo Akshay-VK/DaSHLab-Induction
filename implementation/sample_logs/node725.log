@@ -1,0 +1,29 @@
+[2025-11-05T23:20:15.556158] [INFO] Database query executed
+[2025-11-05T23:20:15.556254] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.556128] [INFO] User logged in
+[2025-11-05T23:20:15.556138] [INFO] Request processed successfully
+[2025-11-05T23:20:15.556153] [INFO] Session started
+[2025-11-05T23:20:15.556228] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.556173] [INFO] Cache hit
+[2025-11-05T23:20:15.556218] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.556207] [ERROR] Request failed
+[2025-11-05T23:20:15.556213] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.556118] [INFO] User logged in
+[2025-11-05T23:20:15.556243] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.556163] [INFO] Session started
+[2025-11-05T23:20:15.556200] [ERROR] Authentication failed
+[2025-11-05T23:20:15.556194] [WARN] Resource threshold approaching
+[2025-11-05T23:20:15.556148] [INFO] Connection established
+[2025-11-05T23:20:15.556188] [WARN] Deprecated API usage
+[2025-11-05T23:20:15.556123] [INFO] Service initialized
+[2025-11-05T23:20:15.556233] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.556133] [INFO] Connection established
+[2025-11-05T23:20:15.556224] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.556083] [INFO] Service initialized
+[2025-11-05T23:20:15.556143] [INFO] User logged in
+[2025-11-05T23:20:15.556168] [INFO] User logged in
+[2025-11-05T23:20:15.556182] [INFO] Configuration loaded
+[2025-11-05T23:20:15.556177] [INFO] Database query executed
+[2025-11-05T23:20:15.556238] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.556112] [INFO] Session started
+[2025-11-05T23:20:15.556248] [DEBUG] Memory allocation: 2048 bytes

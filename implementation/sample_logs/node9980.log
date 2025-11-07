@@ -1,0 +1,30 @@
+[2025-11-05T23:20:53.964185] [INFO] User logged in
+[2025-11-05T23:20:53.964143] [INFO] Session started
+[2025-11-05T23:20:53.964250] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.964246] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.964217] [WARN] Resource threshold approaching
+[2025-11-05T23:20:53.964242] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.964149] [INFO] Connection established
+[2025-11-05T23:20:53.964153] [INFO] Cache hit
+[2025-11-05T23:20:53.964190] [INFO] Database query executed
+[2025-11-05T23:20:53.964137] [INFO] Connection established
+[2025-11-05T23:20:53.964254] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.964222] [ERROR] Memory allocation error
+[2025-11-05T23:20:53.964237] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.964181] [INFO] Configuration loaded
+[2025-11-05T23:20:53.964177] [INFO] Session started
+[2025-11-05T23:20:53.964114] [INFO] Configuration loaded
+[2025-11-05T23:20:53.964262] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.964194] [INFO] Configuration loaded
+[2025-11-05T23:20:53.964227] [ERROR] File not found
+[2025-11-05T23:20:53.964158] [INFO] Health check passed
+[2025-11-05T23:20:53.964258] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.964162] [INFO] User logged in
+[2025-11-05T23:20:53.964208] [WARN] Timeout warning
+[2025-11-05T23:20:53.964213] [WARN] Timeout warning
+[2025-11-05T23:20:53.964266] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.964166] [INFO] Transaction completed
+[2025-11-05T23:20:53.964198] [INFO] Cache hit
+[2025-11-05T23:20:53.964233] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.964171] [INFO] Configuration loaded
+[2025-11-05T23:20:53.964203] [WARN] Slow query performance

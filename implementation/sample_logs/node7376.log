@@ -1,0 +1,36 @@
+[2025-11-05T23:20:42.911604] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.911525] [INFO] Session started
+[2025-11-05T23:20:42.911534] [INFO] User logged in
+[2025-11-05T23:20:42.911636] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.911551] [INFO] Transaction completed
+[2025-11-05T23:20:42.911648] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.911613] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.911570] [WARN] Cache miss
+[2025-11-05T23:20:42.911627] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.911504] [INFO] Configuration loaded
+[2025-11-05T23:20:42.911595] [ERROR] Database connection lost
+[2025-11-05T23:20:42.911543] [INFO] Service initialized
+[2025-11-05T23:20:42.911539] [INFO] Connection established
+[2025-11-05T23:20:42.911618] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.911471] [INFO] User logged in
+[2025-11-05T23:20:42.911566] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.911652] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.911515] [INFO] Database query executed
+[2025-11-05T23:20:42.911609] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.911498] [INFO] Cache hit
+[2025-11-05T23:20:42.911589] [ERROR] Request failed
+[2025-11-05T23:20:42.911600] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.911623] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.911510] [INFO] Session started
+[2025-11-05T23:20:42.911560] [INFO] User logged in
+[2025-11-05T23:20:42.911640] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.911547] [INFO] Cache hit
+[2025-11-05T23:20:42.911584] [WARN] High memory usage detected
+[2025-11-05T23:20:42.911576] [WARN] High memory usage detected
+[2025-11-05T23:20:42.911555] [INFO] Service initialized
+[2025-11-05T23:20:42.911656] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.911520] [INFO] Service initialized
+[2025-11-05T23:20:42.911529] [INFO] Health check passed
+[2025-11-05T23:20:42.911643] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.911580] [WARN] Slow query performance
+[2025-11-05T23:20:42.911632] [DEBUG] Cache key generated

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:27.474753] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.474769] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.474703] [INFO] Request processed successfully
+[2025-11-05T23:20:27.474738] [ERROR] Disk read failed
+[2025-11-05T23:20:27.474630] [INFO] Health check passed
+[2025-11-05T23:20:27.474765] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.474762] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:27.474634] [INFO] Database query executed
+[2025-11-05T23:20:27.474718] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.474641] [INFO] Database query executed
+[2025-11-05T23:20:27.474734] [ERROR] Request failed
+[2025-11-05T23:20:27.474706] [INFO] Connection established
+[2025-11-05T23:20:27.474759] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.474625] [INFO] Cache hit
+[2025-11-05T23:20:27.474652] [INFO] Health check passed
+[2025-11-05T23:20:27.474695] [INFO] User logged in
+[2025-11-05T23:20:27.474713] [INFO] Request processed successfully
+[2025-11-05T23:20:27.474746] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:27.474648] [INFO] Health check passed
+[2025-11-05T23:20:27.474730] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.474709] [INFO] Connection established
+[2025-11-05T23:20:27.474722] [WARN] Rate limit approaching
+[2025-11-05T23:20:27.474600] [INFO] Connection established
+[2025-11-05T23:20:27.474749] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.474637] [INFO] User logged in
+[2025-11-05T23:20:27.474699] [INFO] Health check passed
+[2025-11-05T23:20:27.474726] [WARN] High memory usage detected
+[2025-11-05T23:20:27.474742] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.474645] [INFO] Session started
+[2025-11-05T23:20:27.474756] [DEBUG] HTTP request headers parsed

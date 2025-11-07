@@ -1,0 +1,26 @@
+[2025-11-05T23:20:26.071580] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.071536] [INFO] Service initialized
+[2025-11-05T23:20:26.071514] [INFO] Configuration loaded
+[2025-11-05T23:20:26.071594] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.071354] [INFO] Database query executed
+[2025-11-05T23:20:26.071584] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.071510] [INFO] Database query executed
+[2025-11-05T23:20:26.071552] [WARN] Resource threshold approaching
+[2025-11-05T23:20:26.071527] [INFO] Transaction completed
+[2025-11-05T23:20:26.071517] [INFO] Configuration loaded
+[2025-11-05T23:20:26.071530] [INFO] Service initialized
+[2025-11-05T23:20:26.071524] [INFO] Service initialized
+[2025-11-05T23:20:26.071520] [INFO] Configuration loaded
+[2025-11-05T23:20:26.071546] [INFO] Configuration loaded
+[2025-11-05T23:20:26.071565] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.071587] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.071570] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.071573] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.071533] [INFO] Connection established
+[2025-11-05T23:20:26.071503] [INFO] Configuration loaded
+[2025-11-05T23:20:26.071539] [INFO] User logged in
+[2025-11-05T23:20:26.071561] [ERROR] Memory allocation error
+[2025-11-05T23:20:26.071590] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.071543] [INFO] Request processed successfully
+[2025-11-05T23:20:26.071576] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.071557] [ERROR] Disk read failed

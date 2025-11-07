@@ -1,0 +1,30 @@
+[2025-11-05T23:20:25.729391] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.729318] [INFO] Session started
+[2025-11-05T23:20:25.729361] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.729259] [INFO] Database query executed
+[2025-11-05T23:20:25.729347] [ERROR] Invalid input data
+[2025-11-05T23:20:25.729353] [ERROR] Disk read failed
+[2025-11-05T23:20:25.729366] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.729400] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.729380] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.729386] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.729395] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.729274] [INFO] Configuration loaded
+[2025-11-05T23:20:25.729297] [INFO] Configuration loaded
+[2025-11-05T23:20:25.729283] [INFO] Service initialized
+[2025-11-05T23:20:25.729269] [INFO] Session started
+[2025-11-05T23:20:25.729265] [INFO] Database query executed
+[2025-11-05T23:20:25.729341] [WARN] Queue size growing
+[2025-11-05T23:20:25.729376] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.729314] [INFO] Health check passed
+[2025-11-05T23:20:25.729330] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.729371] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.729309] [INFO] Request processed successfully
+[2025-11-05T23:20:25.729301] [INFO] Service initialized
+[2025-11-05T23:20:25.729336] [WARN] Slow query performance
+[2025-11-05T23:20:25.729292] [INFO] Request processed successfully
+[2025-11-05T23:20:25.729279] [INFO] User logged in
+[2025-11-05T23:20:25.729324] [WARN] High memory usage detected
+[2025-11-05T23:20:25.729305] [INFO] Transaction completed
+[2025-11-05T23:20:25.729287] [INFO] Service initialized
+[2025-11-05T23:20:25.729236] [INFO] Connection established

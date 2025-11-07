@@ -1,0 +1,28 @@
+[2025-11-05T23:20:30.295287] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.295199] [INFO] Database query executed
+[2025-11-05T23:20:30.295214] [INFO] User logged in
+[2025-11-05T23:20:30.295259] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.295203] [INFO] Session started
+[2025-11-05T23:20:30.295210] [INFO] Configuration loaded
+[2025-11-05T23:20:30.295241] [WARN] Disk space low
+[2025-11-05T23:20:30.295250] [ERROR] Permission denied
+[2025-11-05T23:20:30.295206] [INFO] Request processed successfully
+[2025-11-05T23:20:30.295263] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.295221] [INFO] Database query executed
+[2025-11-05T23:20:30.295276] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.295280] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.295244] [WARN] Disk space low
+[2025-11-05T23:20:30.295187] [INFO] Session started
+[2025-11-05T23:20:30.295228] [INFO] Configuration loaded
+[2025-11-05T23:20:30.295183] [INFO] Request processed successfully
+[2025-11-05T23:20:30.295195] [INFO] Configuration loaded
+[2025-11-05T23:20:30.295237] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.295158] [INFO] Session started
+[2025-11-05T23:20:30.295191] [INFO] User logged in
+[2025-11-05T23:20:30.295255] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.295217] [INFO] Cache hit
+[2025-11-05T23:20:30.295284] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.295232] [INFO] Database query executed
+[2025-11-05T23:20:30.295271] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.295267] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.295225] [INFO] Health check passed

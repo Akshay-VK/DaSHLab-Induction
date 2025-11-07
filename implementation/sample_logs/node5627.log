@@ -1,0 +1,30 @@
+[2025-11-05T23:20:35.948682] [INFO] Database query executed
+[2025-11-05T23:20:35.948765] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.948610] [INFO] Connection established
+[2025-11-05T23:20:35.948674] [INFO] Health check passed
+[2025-11-05T23:20:35.948640] [INFO] Service initialized
+[2025-11-05T23:20:35.948760] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.948716] [ERROR] Request failed
+[2025-11-05T23:20:35.948730] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.948663] [INFO] Configuration loaded
+[2025-11-05T23:20:35.948650] [INFO] Session started
+[2025-11-05T23:20:35.948710] [WARN] Timeout warning
+[2025-11-05T23:20:35.948739] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.948634] [INFO] Configuration loaded
+[2025-11-05T23:20:35.948659] [INFO] Service initialized
+[2025-11-05T23:20:35.948687] [INFO] User logged in
+[2025-11-05T23:20:35.948699] [INFO] Cache hit
+[2025-11-05T23:20:35.948720] [ERROR] Disk read failed
+[2025-11-05T23:20:35.948725] [ERROR] Memory allocation error
+[2025-11-05T23:20:35.948748] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.948734] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.948669] [INFO] Request processed successfully
+[2025-11-05T23:20:35.948756] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.948691] [INFO] Session started
+[2025-11-05T23:20:35.948645] [INFO] Service initialized
+[2025-11-05T23:20:35.948655] [INFO] Transaction completed
+[2025-11-05T23:20:35.948705] [WARN] Disk space low
+[2025-11-05T23:20:35.948695] [INFO] Transaction completed
+[2025-11-05T23:20:35.948752] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.948743] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.948678] [INFO] Transaction completed

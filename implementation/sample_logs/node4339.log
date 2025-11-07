@@ -1,0 +1,25 @@
+[2025-11-05T23:20:30.997327] [INFO] Connection established
+[2025-11-05T23:20:30.997300] [INFO] User logged in
+[2025-11-05T23:20:30.997423] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.997400] [WARN] Rate limit approaching
+[2025-11-05T23:20:30.997436] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.997343] [INFO] Health check passed
+[2025-11-05T23:20:30.997407] [ERROR] Disk read failed
+[2025-11-05T23:20:30.997361] [INFO] Request processed successfully
+[2025-11-05T23:20:30.997333] [INFO] Request processed successfully
+[2025-11-05T23:20:30.997440] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.997389] [INFO] Session started
+[2025-11-05T23:20:30.997432] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.997384] [INFO] Transaction completed
+[2025-11-05T23:20:30.997366] [INFO] Service initialized
+[2025-11-05T23:20:30.997357] [INFO] Configuration loaded
+[2025-11-05T23:20:30.997428] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.997371] [INFO] Configuration loaded
+[2025-11-05T23:20:30.997395] [WARN] Timeout warning
+[2025-11-05T23:20:30.997348] [INFO] User logged in
+[2025-11-05T23:20:30.997380] [INFO] Configuration loaded
+[2025-11-05T23:20:30.997352] [INFO] Cache hit
+[2025-11-05T23:20:30.997418] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.997339] [INFO] Cache hit
+[2025-11-05T23:20:30.997375] [INFO] Database query executed
+[2025-11-05T23:20:30.997412] [ERROR] Permission denied

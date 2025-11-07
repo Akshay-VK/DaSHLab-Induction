@@ -1,0 +1,36 @@
+[2025-11-05T23:20:24.651469] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.651377] [INFO] Configuration loaded
+[2025-11-05T23:20:24.651479] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.651424] [WARN] Slow query performance
+[2025-11-05T23:20:24.651390] [INFO] Health check passed
+[2025-11-05T23:20:24.651350] [INFO] Transaction completed
+[2025-11-05T23:20:24.651405] [INFO] Request processed successfully
+[2025-11-05T23:20:24.651360] [INFO] Session started
+[2025-11-05T23:20:24.651355] [INFO] Connection established
+[2025-11-05T23:20:24.651457] [ERROR] Request failed
+[2025-11-05T23:20:24.651401] [INFO] Configuration loaded
+[2025-11-05T23:20:24.651435] [WARN] Cache miss
+[2025-11-05T23:20:24.651364] [INFO] Connection established
+[2025-11-05T23:20:24.651474] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.651452] [WARN] Queue size growing
+[2025-11-05T23:20:24.651373] [INFO] Transaction completed
+[2025-11-05T23:20:24.651448] [WARN] Deprecated API usage
+[2025-11-05T23:20:24.651504] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.651483] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.651420] [WARN] Rate limit approaching
+[2025-11-05T23:20:24.651499] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.651381] [INFO] User logged in
+[2025-11-05T23:20:24.651409] [INFO] Session started
+[2025-11-05T23:20:24.651495] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.651444] [WARN] Slow query performance
+[2025-11-05T23:20:24.651413] [INFO] Database query executed
+[2025-11-05T23:20:24.651491] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.651393] [INFO] Database query executed
+[2025-11-05T23:20:24.651439] [WARN] Queue size growing
+[2025-11-05T23:20:24.651386] [INFO] Connection established
+[2025-11-05T23:20:24.651462] [ERROR] Invalid input data
+[2025-11-05T23:20:24.651326] [INFO] Transaction completed
+[2025-11-05T23:20:24.651487] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.651429] [WARN] Deprecated API usage
+[2025-11-05T23:20:24.651397] [INFO] Request processed successfully
+[2025-11-05T23:20:24.651368] [INFO] Health check passed

@@ -1,0 +1,33 @@
+[2025-11-05T23:20:14.906418] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.906401] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.906348] [INFO] Health check passed
+[2025-11-05T23:20:14.906339] [INFO] Configuration loaded
+[2025-11-05T23:20:14.906434] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.906273] [INFO] Health check passed
+[2025-11-05T23:20:14.906430] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.906426] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.906414] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.906298] [INFO] Cache hit
+[2025-11-05T23:20:14.906388] [ERROR] Service unavailable
+[2025-11-05T23:20:14.906378] [WARN] Slow query performance
+[2025-11-05T23:20:14.906396] [ERROR] Service unavailable
+[2025-11-05T23:20:14.906410] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.906370] [WARN] Timeout warning
+[2025-11-05T23:20:14.906361] [WARN] Rate limit approaching
+[2025-11-05T23:20:14.906330] [INFO] Cache hit
+[2025-11-05T23:20:14.906356] [INFO] Database query executed
+[2025-11-05T23:20:14.906322] [INFO] Database query executed
+[2025-11-05T23:20:14.906351] [INFO] Service initialized
+[2025-11-05T23:20:14.906343] [INFO] Configuration loaded
+[2025-11-05T23:20:14.906384] [ERROR] Invalid input data
+[2025-11-05T23:20:14.906406] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.906304] [INFO] Request processed successfully
+[2025-11-05T23:20:14.906335] [INFO] Transaction completed
+[2025-11-05T23:20:14.906422] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.906374] [WARN] Deprecated API usage
+[2025-11-05T23:20:14.906366] [WARN] Deprecated API usage
+[2025-11-05T23:20:14.906326] [INFO] Database query executed
+[2025-11-05T23:20:14.906318] [INFO] Transaction completed
+[2025-11-05T23:20:14.906313] [INFO] Configuration loaded
+[2025-11-05T23:20:14.906392] [ERROR] Permission denied
+[2025-11-05T23:20:14.906309] [INFO] Database query executed

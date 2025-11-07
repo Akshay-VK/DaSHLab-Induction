@@ -1,0 +1,27 @@
+[2025-11-05T23:20:46.699714] [INFO] Session started
+[2025-11-05T23:20:46.699718] [INFO] Database query executed
+[2025-11-05T23:20:46.699747] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.699671] [INFO] Cache hit
+[2025-11-05T23:20:46.699752] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.699665] [INFO] User logged in
+[2025-11-05T23:20:46.699687] [INFO] User logged in
+[2025-11-05T23:20:46.699756] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.699680] [INFO] Service initialized
+[2025-11-05T23:20:46.699691] [INFO] Request processed successfully
+[2025-11-05T23:20:46.699711] [INFO] Request processed successfully
+[2025-11-05T23:20:46.699695] [INFO] Transaction completed
+[2025-11-05T23:20:46.699769] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.699742] [ERROR] Database connection lost
+[2025-11-05T23:20:46.699707] [INFO] Database query executed
+[2025-11-05T23:20:46.699773] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.699728] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.699760] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.699639] [INFO] Request processed successfully
+[2025-11-05T23:20:46.699703] [INFO] Service initialized
+[2025-11-05T23:20:46.699736] [WARN] Slow query performance
+[2025-11-05T23:20:46.699723] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.699699] [INFO] Request processed successfully
+[2025-11-05T23:20:46.699732] [WARN] Timeout warning
+[2025-11-05T23:20:46.699684] [INFO] Health check passed
+[2025-11-05T23:20:46.699764] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.699676] [INFO] Health check passed

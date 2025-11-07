@@ -1,0 +1,34 @@
+[2025-11-05T23:20:54.299618] [INFO] Configuration loaded
+[2025-11-05T23:20:54.300005] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:54.299684] [ERROR] Service unavailable
+[2025-11-05T23:20:54.299658] [WARN] Deprecated API usage
+[2025-11-05T23:20:54.299506] [INFO] User logged in
+[2025-11-05T23:20:54.300022] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:54.299648] [INFO] Session started
+[2025-11-05T23:20:54.299534] [INFO] Configuration loaded
+[2025-11-05T23:20:54.299928] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:54.300027] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:54.300018] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:54.299549] [INFO] Request processed successfully
+[2025-11-05T23:20:54.299653] [WARN] Disk space low
+[2025-11-05T23:20:54.299562] [INFO] Session started
+[2025-11-05T23:20:54.299540] [INFO] Request processed successfully
+[2025-11-05T23:20:54.299554] [INFO] Connection established
+[2025-11-05T23:20:54.299689] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:54.300014] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:54.299663] [WARN] Slow query performance
+[2025-11-05T23:20:54.299558] [INFO] Service initialized
+[2025-11-05T23:20:54.299672] [WARN] Slow query performance
+[2025-11-05T23:20:54.299644] [INFO] Service initialized
+[2025-11-05T23:20:54.300000] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:54.299635] [INFO] Transaction completed
+[2025-11-05T23:20:54.299992] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:54.299626] [INFO] Service initialized
+[2025-11-05T23:20:54.299667] [WARN] Cache miss
+[2025-11-05T23:20:54.299631] [INFO] Request processed successfully
+[2025-11-05T23:20:54.299545] [INFO] Database query executed
+[2025-11-05T23:20:54.300009] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:54.299639] [INFO] Health check passed
+[2025-11-05T23:20:54.299679] [ERROR] Memory allocation error
+[2025-11-05T23:20:54.299698] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:54.299694] [DEBUG] Buffer size: 4096 bytes

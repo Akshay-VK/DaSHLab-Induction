@@ -1,0 +1,33 @@
+[2025-11-05T23:20:51.781038] [WARN] Slow query performance
+[2025-11-05T23:20:51.781003] [INFO] Session started
+[2025-11-05T23:20:51.781080] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.781077] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.781007] [INFO] Transaction completed
+[2025-11-05T23:20:51.780993] [INFO] Request processed successfully
+[2025-11-05T23:20:51.781068] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.781010] [INFO] User logged in
+[2025-11-05T23:20:51.781013] [INFO] Connection established
+[2025-11-05T23:20:51.781035] [WARN] Timeout warning
+[2025-11-05T23:20:51.781020] [INFO] Transaction completed
+[2025-11-05T23:20:51.780977] [INFO] Health check passed
+[2025-11-05T23:20:51.780986] [INFO] Cache hit
+[2025-11-05T23:20:51.781000] [INFO] Request processed successfully
+[2025-11-05T23:20:51.781087] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.781071] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.781046] [ERROR] Permission denied
+[2025-11-05T23:20:51.780982] [INFO] Database query executed
+[2025-11-05T23:20:51.781074] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.781054] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.781042] [WARN] Deprecated API usage
+[2025-11-05T23:20:51.781023] [INFO] User logged in
+[2025-11-05T23:20:51.781064] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.780997] [INFO] User logged in
+[2025-11-05T23:20:51.781016] [INFO] Health check passed
+[2025-11-05T23:20:51.781058] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.781050] [ERROR] Database connection lost
+[2025-11-05T23:20:51.780989] [INFO] Database query executed
+[2025-11-05T23:20:51.781031] [WARN] Resource threshold approaching
+[2025-11-05T23:20:51.780953] [INFO] User logged in
+[2025-11-05T23:20:51.781083] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.781061] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.781027] [WARN] High memory usage detected

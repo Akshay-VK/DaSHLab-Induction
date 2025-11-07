@@ -1,0 +1,32 @@
+[2025-11-05T23:20:37.518860] [INFO] Session started
+[2025-11-05T23:20:37.518998] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.519004] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.518908] [INFO] Request processed successfully
+[2025-11-05T23:20:37.518928] [INFO] Connection established
+[2025-11-05T23:20:37.518972] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.518951] [WARN] Disk space low
+[2025-11-05T23:20:37.518903] [INFO] Session started
+[2025-11-05T23:20:37.519021] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.518942] [WARN] Deprecated API usage
+[2025-11-05T23:20:37.518913] [INFO] Cache hit
+[2025-11-05T23:20:37.518923] [INFO] User logged in
+[2025-11-05T23:20:37.518968] [ERROR] Invalid input data
+[2025-11-05T23:20:37.518981] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.519016] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.518994] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.518986] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.518989] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.519008] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.518892] [INFO] Transaction completed
+[2025-11-05T23:20:37.518932] [INFO] Service initialized
+[2025-11-05T23:20:37.519024] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.518947] [WARN] Timeout warning
+[2025-11-05T23:20:37.519012] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.519028] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.518962] [ERROR] Memory allocation error
+[2025-11-05T23:20:37.518957] [WARN] Slow query performance
+[2025-11-05T23:20:37.518897] [INFO] Request processed successfully
+[2025-11-05T23:20:37.518977] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.518936] [INFO] Transaction completed
+[2025-11-05T23:20:37.518918] [INFO] Configuration loaded
+[2025-11-05T23:20:37.518887] [INFO] Health check passed

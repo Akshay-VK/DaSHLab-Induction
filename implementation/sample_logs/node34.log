@@ -1,0 +1,36 @@
+[2025-11-05T23:20:11.684969] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.684921] [INFO] Session started
+[2025-11-05T23:20:11.684927] [INFO] Health check passed
+[2025-11-05T23:20:11.684901] [INFO] Database query executed
+[2025-11-05T23:20:11.684908] [INFO] Service initialized
+[2025-11-05T23:20:11.684931] [INFO] Transaction completed
+[2025-11-05T23:20:11.684914] [INFO] Request processed successfully
+[2025-11-05T23:20:11.684990] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.684884] [INFO] User logged in
+[2025-11-05T23:20:11.684965] [ERROR] Memory allocation error
+[2025-11-05T23:20:11.684939] [WARN] Rate limit approaching
+[2025-11-05T23:20:11.684891] [INFO] Cache hit
+[2025-11-05T23:20:11.684993] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.684898] [INFO] Database query executed
+[2025-11-05T23:20:11.684876] [INFO] Cache hit
+[2025-11-05T23:20:11.684956] [WARN] Timeout warning
+[2025-11-05T23:20:11.684949] [WARN] Disk space low
+[2025-11-05T23:20:11.684852] [INFO] User logged in
+[2025-11-05T23:20:11.684945] [WARN] High memory usage detected
+[2025-11-05T23:20:11.684980] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:11.684881] [INFO] Database query executed
+[2025-11-05T23:20:11.684972] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.684935] [WARN] Disk space low
+[2025-11-05T23:20:11.684924] [INFO] Connection established
+[2025-11-05T23:20:11.684997] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:11.684911] [INFO] Health check passed
+[2025-11-05T23:20:11.684975] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:11.684984] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.684905] [INFO] Connection established
+[2025-11-05T23:20:11.684895] [INFO] Transaction completed
+[2025-11-05T23:20:11.684961] [ERROR] Invalid input data
+[2025-11-05T23:20:11.684942] [WARN] Connection retry attempt
+[2025-11-05T23:20:11.684887] [INFO] User logged in
+[2025-11-05T23:20:11.684953] [WARN] Slow query performance
+[2025-11-05T23:20:11.684987] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:11.684917] [INFO] Connection established

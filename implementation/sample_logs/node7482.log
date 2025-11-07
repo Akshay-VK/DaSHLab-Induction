@@ -1,0 +1,33 @@
+[2025-11-05T23:20:43.543254] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.543202] [INFO] Session started
+[2025-11-05T23:20:43.543199] [INFO] Database query executed
+[2025-11-05T23:20:43.543271] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.543209] [INFO] User logged in
+[2025-11-05T23:20:43.543206] [INFO] Database query executed
+[2025-11-05T23:20:43.543229] [WARN] Rate limit approaching
+[2025-11-05T23:20:43.543212] [INFO] Session started
+[2025-11-05T23:20:43.543283] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.543274] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.543215] [INFO] Cache hit
+[2025-11-05T23:20:43.543196] [INFO] Request processed successfully
+[2025-11-05T23:20:43.543186] [INFO] Health check passed
+[2025-11-05T23:20:43.543236] [WARN] Queue size growing
+[2025-11-05T23:20:43.543267] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.543251] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.543244] [ERROR] Network timeout
+[2025-11-05T23:20:43.543220] [WARN] Slow query performance
+[2025-11-05T23:20:43.543277] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.543240] [ERROR] Permission denied
+[2025-11-05T23:20:43.543264] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.543178] [INFO] Cache hit
+[2025-11-05T23:20:43.543173] [INFO] Health check passed
+[2025-11-05T23:20:43.543182] [INFO] Transaction completed
+[2025-11-05T23:20:43.543225] [WARN] Timeout warning
+[2025-11-05T23:20:43.543261] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.543189] [INFO] Health check passed
+[2025-11-05T23:20:43.543248] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.543147] [INFO] Connection established
+[2025-11-05T23:20:43.543280] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.543233] [WARN] Timeout warning
+[2025-11-05T23:20:43.543257] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.543192] [INFO] Service initialized

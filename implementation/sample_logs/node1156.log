@@ -1,0 +1,26 @@
+[2025-11-05T23:20:17.354233] [INFO] Database query executed
+[2025-11-05T23:20:17.354251] [WARN] Cache miss
+[2025-11-05T23:20:17.354192] [INFO] Session started
+[2025-11-05T23:20:17.354202] [INFO] Database query executed
+[2025-11-05T23:20:17.354241] [INFO] Health check passed
+[2025-11-05T23:20:17.354206] [INFO] Health check passed
+[2025-11-05T23:20:17.354216] [INFO] User logged in
+[2025-11-05T23:20:17.354197] [INFO] Request processed successfully
+[2025-11-05T23:20:17.354258] [ERROR] Invalid input data
+[2025-11-05T23:20:17.354246] [WARN] Rate limit approaching
+[2025-11-05T23:20:17.354281] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.354228] [INFO] Session started
+[2025-11-05T23:20:17.354272] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.354187] [INFO] Database query executed
+[2025-11-05T23:20:17.354289] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.354285] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.354182] [INFO] Cache hit
+[2025-11-05T23:20:17.354211] [INFO] Session started
+[2025-11-05T23:20:17.354155] [INFO] Database query executed
+[2025-11-05T23:20:17.354277] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.354237] [INFO] Request processed successfully
+[2025-11-05T23:20:17.354263] [ERROR] Memory allocation error
+[2025-11-05T23:20:17.354220] [INFO] Session started
+[2025-11-05T23:20:17.354294] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.354224] [INFO] Transaction completed
+[2025-11-05T23:20:17.354268] [DEBUG] Entering function process_data()

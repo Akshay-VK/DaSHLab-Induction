@@ -1,0 +1,27 @@
+[2025-11-05T23:20:18.264194] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.264203] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.264175] [ERROR] Request failed
+[2025-11-05T23:20:18.264111] [INFO] User logged in
+[2025-11-05T23:20:18.264140] [INFO] Service initialized
+[2025-11-05T23:20:18.264180] [ERROR] Network timeout
+[2025-11-05T23:20:18.264129] [INFO] Transaction completed
+[2025-11-05T23:20:18.264116] [INFO] Health check passed
+[2025-11-05T23:20:18.264085] [INFO] Transaction completed
+[2025-11-05T23:20:18.264212] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.264148] [INFO] Database query executed
+[2025-11-05T23:20:18.264185] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:18.264137] [INFO] Health check passed
+[2025-11-05T23:20:18.264169] [WARN] Timeout warning
+[2025-11-05T23:20:18.264156] [INFO] Service initialized
+[2025-11-05T23:20:18.264152] [INFO] Configuration loaded
+[2025-11-05T23:20:18.264133] [INFO] Request processed successfully
+[2025-11-05T23:20:18.264216] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:18.264164] [INFO] Health check passed
+[2025-11-05T23:20:18.264121] [INFO] Transaction completed
+[2025-11-05T23:20:18.264160] [INFO] User logged in
+[2025-11-05T23:20:18.264190] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:18.264144] [INFO] Configuration loaded
+[2025-11-05T23:20:18.264199] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.264219] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:18.264208] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.264125] [INFO] Service initialized

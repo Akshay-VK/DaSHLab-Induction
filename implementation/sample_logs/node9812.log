@@ -1,0 +1,35 @@
+[2025-11-05T23:20:53.312938] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.312942] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.312817] [INFO] Health check passed
+[2025-11-05T23:20:53.312874] [INFO] Connection established
+[2025-11-05T23:20:53.312908] [ERROR] Authentication failed
+[2025-11-05T23:20:53.312806] [INFO] Cache hit
+[2025-11-05T23:20:53.312861] [INFO] Health check passed
+[2025-11-05T23:20:53.312845] [INFO] Service initialized
+[2025-11-05T23:20:53.312832] [INFO] Database query executed
+[2025-11-05T23:20:53.312885] [WARN] Slow query performance
+[2025-11-05T23:20:53.312946] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.312899] [ERROR] Memory allocation error
+[2025-11-05T23:20:53.312889] [WARN] Disk space low
+[2025-11-05T23:20:53.312904] [ERROR] Service unavailable
+[2025-11-05T23:20:53.312930] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.312840] [INFO] Database query executed
+[2025-11-05T23:20:53.312780] [INFO] User logged in
+[2025-11-05T23:20:53.312918] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.312956] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.312857] [INFO] Health check passed
+[2025-11-05T23:20:53.312822] [INFO] User logged in
+[2025-11-05T23:20:53.312849] [INFO] User logged in
+[2025-11-05T23:20:53.312913] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.312853] [INFO] Health check passed
+[2025-11-05T23:20:53.312812] [INFO] Database query executed
+[2025-11-05T23:20:53.312880] [WARN] Cache miss
+[2025-11-05T23:20:53.312893] [WARN] Slow query performance
+[2025-11-05T23:20:53.312870] [INFO] Transaction completed
+[2025-11-05T23:20:53.312922] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.312926] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.312865] [INFO] User logged in
+[2025-11-05T23:20:53.312836] [INFO] Configuration loaded
+[2025-11-05T23:20:53.312827] [INFO] Health check passed
+[2025-11-05T23:20:53.312951] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.312934] [DEBUG] Variable value: x=42

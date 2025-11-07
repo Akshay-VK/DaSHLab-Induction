@@ -1,0 +1,28 @@
+[2025-11-05T23:20:46.820544] [INFO] Request processed successfully
+[2025-11-05T23:20:46.820740] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.820148] [INFO] Connection established
+[2025-11-05T23:20:46.820593] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.820605] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.820601] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.820134] [INFO] Configuration loaded
+[2025-11-05T23:20:46.820734] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.820553] [INFO] User logged in
+[2025-11-05T23:20:46.820558] [INFO] Connection established
+[2025-11-05T23:20:46.820583] [ERROR] Invalid input data
+[2025-11-05T23:20:46.820533] [INFO] Request processed successfully
+[2025-11-05T23:20:46.820158] [INFO] Cache hit
+[2025-11-05T23:20:46.820128] [INFO] Cache hit
+[2025-11-05T23:20:46.820562] [INFO] Connection established
+[2025-11-05T23:20:46.820143] [INFO] User logged in
+[2025-11-05T23:20:46.820597] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.820571] [WARN] Timeout warning
+[2025-11-05T23:20:46.820512] [INFO] Request processed successfully
+[2025-11-05T23:20:46.820611] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.820139] [INFO] Service initialized
+[2025-11-05T23:20:46.820153] [INFO] Transaction completed
+[2025-11-05T23:20:46.820539] [INFO] Cache hit
+[2025-11-05T23:20:46.820588] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.820577] [WARN] Connection retry attempt
+[2025-11-05T23:20:46.820100] [INFO] Cache hit
+[2025-11-05T23:20:46.820548] [INFO] Cache hit
+[2025-11-05T23:20:46.820718] [DEBUG] Cache key generated

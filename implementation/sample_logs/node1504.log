@@ -1,0 +1,32 @@
+[2025-11-05T23:20:18.943372] [INFO] Health check passed
+[2025-11-05T23:20:18.943341] [INFO] Configuration loaded
+[2025-11-05T23:20:18.943382] [INFO] Connection established
+[2025-11-05T23:20:18.943346] [INFO] Database query executed
+[2025-11-05T23:20:18.943351] [INFO] Service initialized
+[2025-11-05T23:20:18.943386] [INFO] Database query executed
+[2025-11-05T23:20:18.943479] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.943483] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.943314] [INFO] Connection established
+[2025-11-05T23:20:18.943462] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:18.943416] [WARN] Connection retry attempt
+[2025-11-05T23:20:18.943474] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:18.943368] [INFO] Service initialized
+[2025-11-05T23:20:18.943394] [INFO] Transaction completed
+[2025-11-05T23:20:18.943470] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:18.943426] [WARN] Timeout warning
+[2025-11-05T23:20:18.943377] [INFO] Database query executed
+[2025-11-05T23:20:18.943364] [INFO] Session started
+[2025-11-05T23:20:18.943391] [INFO] Service initialized
+[2025-11-05T23:20:18.943453] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.943404] [INFO] Request processed successfully
+[2025-11-05T23:20:18.943442] [ERROR] Network timeout
+[2025-11-05T23:20:18.943466] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.943458] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.943360] [INFO] Transaction completed
+[2025-11-05T23:20:18.943356] [INFO] User logged in
+[2025-11-05T23:20:18.943448] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:18.943398] [INFO] Request processed successfully
+[2025-11-05T23:20:18.943422] [WARN] Cache miss
+[2025-11-05T23:20:18.943435] [WARN] Slow query performance
+[2025-11-05T23:20:18.943431] [WARN] Deprecated API usage
+[2025-11-05T23:20:18.943409] [INFO] Cache hit

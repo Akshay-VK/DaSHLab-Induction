@@ -1,0 +1,35 @@
+[2025-11-05T23:20:28.852739] [INFO] Database query executed
+[2025-11-05T23:20:28.852743] [INFO] Service initialized
+[2025-11-05T23:20:28.852747] [INFO] Request processed successfully
+[2025-11-05T23:20:28.852704] [INFO] Cache hit
+[2025-11-05T23:20:28.852724] [INFO] Connection established
+[2025-11-05T23:20:28.852754] [INFO] Configuration loaded
+[2025-11-05T23:20:28.852799] [ERROR] Request failed
+[2025-11-05T23:20:28.852804] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.852840] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.852771] [WARN] Timeout warning
+[2025-11-05T23:20:28.852728] [INFO] Session started
+[2025-11-05T23:20:28.852827] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.852761] [INFO] Service initialized
+[2025-11-05T23:20:28.852786] [WARN] Deprecated API usage
+[2025-11-05T23:20:28.852779] [WARN] Connection retry attempt
+[2025-11-05T23:20:28.852831] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.852812] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.852758] [INFO] Cache hit
+[2025-11-05T23:20:28.852816] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.852775] [WARN] Timeout warning
+[2025-11-05T23:20:28.852720] [INFO] Cache hit
+[2025-11-05T23:20:28.852731] [INFO] Service initialized
+[2025-11-05T23:20:28.852795] [ERROR] Permission denied
+[2025-11-05T23:20:28.852782] [WARN] Deprecated API usage
+[2025-11-05T23:20:28.852712] [INFO] User logged in
+[2025-11-05T23:20:28.852680] [INFO] Transaction completed
+[2025-11-05T23:20:28.852823] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.852836] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.852767] [WARN] Deprecated API usage
+[2025-11-05T23:20:28.852751] [INFO] Database query executed
+[2025-11-05T23:20:28.852735] [INFO] Session started
+[2025-11-05T23:20:28.852808] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.852820] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.852789] [WARN] Slow query performance
+[2025-11-05T23:20:28.852716] [INFO] Session started

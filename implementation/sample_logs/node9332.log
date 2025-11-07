@@ -1,0 +1,27 @@
+[2025-11-05T23:20:51.043293] [INFO] Session started
+[2025-11-05T23:20:51.043371] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.043376] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.043307] [INFO] Database query executed
+[2025-11-05T23:20:51.043390] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.043311] [INFO] Connection established
+[2025-11-05T23:20:51.043321] [INFO] Service initialized
+[2025-11-05T23:20:51.043385] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:51.043298] [INFO] User logged in
+[2025-11-05T23:20:51.043346] [INFO] Request processed successfully
+[2025-11-05T23:20:51.043336] [INFO] Configuration loaded
+[2025-11-05T23:20:51.043257] [INFO] Service initialized
+[2025-11-05T23:20:51.043303] [INFO] User logged in
+[2025-11-05T23:20:51.043281] [INFO] Cache hit
+[2025-11-05T23:20:51.043330] [INFO] Request processed successfully
+[2025-11-05T23:20:51.043403] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.043381] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.043407] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.043394] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.043316] [INFO] Session started
+[2025-11-05T23:20:51.043364] [ERROR] Permission denied
+[2025-11-05T23:20:51.043326] [INFO] Request processed successfully
+[2025-11-05T23:20:51.043399] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.043288] [INFO] Request processed successfully
+[2025-11-05T23:20:51.043353] [WARN] Timeout warning
+[2025-11-05T23:20:51.043358] [WARN] High memory usage detected
+[2025-11-05T23:20:51.043341] [INFO] Service initialized

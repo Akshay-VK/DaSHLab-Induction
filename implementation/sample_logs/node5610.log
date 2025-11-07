@@ -1,0 +1,34 @@
+[2025-11-05T23:20:35.893374] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.893338] [WARN] Cache miss
+[2025-11-05T23:20:35.893255] [INFO] Connection established
+[2025-11-05T23:20:35.893261] [INFO] Configuration loaded
+[2025-11-05T23:20:35.893281] [INFO] Database query executed
+[2025-11-05T23:20:35.893313] [INFO] Database query executed
+[2025-11-05T23:20:35.893379] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.893271] [INFO] Health check passed
+[2025-11-05T23:20:35.893326] [INFO] Transaction completed
+[2025-11-05T23:20:35.893384] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.893342] [WARN] Timeout warning
+[2025-11-05T23:20:35.893322] [INFO] Connection established
+[2025-11-05T23:20:35.893368] [ERROR] Request failed
+[2025-11-05T23:20:35.893388] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.893364] [ERROR] Permission denied
+[2025-11-05T23:20:35.893266] [INFO] Request processed successfully
+[2025-11-05T23:20:35.893303] [INFO] Transaction completed
+[2025-11-05T23:20:35.893392] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.893308] [INFO] Session started
+[2025-11-05T23:20:35.893332] [WARN] Connection retry attempt
+[2025-11-05T23:20:35.893289] [INFO] Health check passed
+[2025-11-05T23:20:35.893229] [INFO] Database query executed
+[2025-11-05T23:20:35.893347] [WARN] High memory usage detected
+[2025-11-05T23:20:35.893294] [INFO] User logged in
+[2025-11-05T23:20:35.893406] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.893299] [INFO] Session started
+[2025-11-05T23:20:35.893285] [INFO] Configuration loaded
+[2025-11-05T23:20:35.893276] [INFO] Request processed successfully
+[2025-11-05T23:20:35.893401] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.893352] [WARN] Cache miss
+[2025-11-05T23:20:35.893411] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.893358] [ERROR] Disk read failed
+[2025-11-05T23:20:35.893396] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.893317] [INFO] Session started

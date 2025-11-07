@@ -1,0 +1,25 @@
+[2025-11-05T23:20:42.705618] [INFO] Session started
+[2025-11-05T23:20:42.705637] [INFO] Database query executed
+[2025-11-05T23:20:42.705598] [INFO] Service initialized
+[2025-11-05T23:20:42.705668] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.705671] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.705594] [INFO] Connection established
+[2025-11-05T23:20:42.705674] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.705654] [ERROR] Authentication failed
+[2025-11-05T23:20:42.705665] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.705612] [INFO] Configuration loaded
+[2025-11-05T23:20:42.705569] [INFO] Service initialized
+[2025-11-05T23:20:42.705602] [INFO] Request processed successfully
+[2025-11-05T23:20:42.705662] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.705628] [INFO] Cache hit
+[2025-11-05T23:20:42.705609] [INFO] Session started
+[2025-11-05T23:20:42.705641] [WARN] Cache miss
+[2025-11-05T23:20:42.705615] [INFO] Database query executed
+[2025-11-05T23:20:42.705621] [INFO] Service initialized
+[2025-11-05T23:20:42.705658] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.705650] [ERROR] File not found
+[2025-11-05T23:20:42.705645] [WARN] Queue size growing
+[2025-11-05T23:20:42.705605] [INFO] Connection established
+[2025-11-05T23:20:42.705634] [INFO] Cache hit
+[2025-11-05T23:20:42.705631] [INFO] Database query executed
+[2025-11-05T23:20:42.705624] [INFO] User logged in

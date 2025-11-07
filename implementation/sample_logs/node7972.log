@@ -1,0 +1,29 @@
+[2025-11-05T23:20:45.332215] [INFO] Session started
+[2025-11-05T23:20:45.332195] [INFO] Connection established
+[2025-11-05T23:20:45.332478] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.332191] [INFO] Database query executed
+[2025-11-05T23:20:45.332229] [ERROR] Memory allocation error
+[2025-11-05T23:20:45.332177] [INFO] Request processed successfully
+[2025-11-05T23:20:45.332219] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.332248] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.332142] [INFO] Database query executed
+[2025-11-05T23:20:45.332188] [INFO] Cache hit
+[2025-11-05T23:20:45.332255] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.332165] [INFO] Database query executed
+[2025-11-05T23:20:45.332198] [INFO] Health check passed
+[2025-11-05T23:20:45.332174] [INFO] Cache hit
+[2025-11-05T23:20:45.332205] [INFO] Service initialized
+[2025-11-05T23:20:45.332245] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.332251] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.332212] [INFO] Database query executed
+[2025-11-05T23:20:45.332170] [INFO] Configuration loaded
+[2025-11-05T23:20:45.332258] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.332208] [INFO] Session started
+[2025-11-05T23:20:45.332181] [INFO] Configuration loaded
+[2025-11-05T23:20:45.332184] [INFO] Service initialized
+[2025-11-05T23:20:45.332224] [WARN] High memory usage detected
+[2025-11-05T23:20:45.332233] [ERROR] Permission denied
+[2025-11-05T23:20:45.332237] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.332262] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.332202] [INFO] Connection established
+[2025-11-05T23:20:45.332242] [DEBUG] Memory allocation: 2048 bytes

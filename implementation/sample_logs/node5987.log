@@ -1,0 +1,29 @@
+[2025-11-05T23:20:37.625980] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.625824] [INFO] Service initialized
+[2025-11-05T23:20:37.625947] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.625918] [INFO] Cache hit
+[2025-11-05T23:20:37.626005] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.625992] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.625926] [INFO] Health check passed
+[2025-11-05T23:20:37.625937] [INFO] Request processed successfully
+[2025-11-05T23:20:37.625905] [INFO] Connection established
+[2025-11-05T23:20:37.625930] [INFO] Connection established
+[2025-11-05T23:20:37.625921] [INFO] Transaction completed
+[2025-11-05T23:20:37.626008] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.625989] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.625957] [WARN] Cache miss
+[2025-11-05T23:20:37.625976] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.625909] [INFO] Connection established
+[2025-11-05T23:20:37.625900] [INFO] User logged in
+[2025-11-05T23:20:37.625942] [INFO] Configuration loaded
+[2025-11-05T23:20:37.625967] [ERROR] File not found
+[2025-11-05T23:20:37.625961] [WARN] High memory usage detected
+[2025-11-05T23:20:37.625934] [INFO] Cache hit
+[2025-11-05T23:20:37.625997] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.625985] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.625952] [WARN] Disk space low
+[2025-11-05T23:20:37.625894] [INFO] Service initialized
+[2025-11-05T23:20:37.625849] [INFO] User logged in
+[2025-11-05T23:20:37.625913] [INFO] Cache hit
+[2025-11-05T23:20:37.625971] [ERROR] Database connection lost
+[2025-11-05T23:20:37.626001] [DEBUG] Variable value: x=42

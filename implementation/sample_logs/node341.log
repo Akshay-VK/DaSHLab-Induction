@@ -1,0 +1,36 @@
+[2025-11-05T23:20:13.772623] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:13.772545] [INFO] Health check passed
+[2025-11-05T23:20:13.772570] [INFO] Session started
+[2025-11-05T23:20:13.772619] [ERROR] Memory allocation error
+[2025-11-05T23:20:13.772627] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.772497] [INFO] Transaction completed
+[2025-11-05T23:20:13.772599] [WARN] Rate limit approaching
+[2025-11-05T23:20:13.772588] [WARN] Cache miss
+[2025-11-05T23:20:13.772602] [WARN] Deprecated API usage
+[2025-11-05T23:20:13.772573] [INFO] Connection established
+[2025-11-05T23:20:13.772557] [INFO] User logged in
+[2025-11-05T23:20:13.772538] [INFO] Cache hit
+[2025-11-05T23:20:13.772527] [INFO] Service initialized
+[2025-11-05T23:20:13.772531] [INFO] Health check passed
+[2025-11-05T23:20:13.772606] [WARN] High memory usage detected
+[2025-11-05T23:20:13.772563] [INFO] Service initialized
+[2025-11-05T23:20:13.772583] [INFO] Connection established
+[2025-11-05T23:20:13.772630] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:13.772522] [INFO] Transaction completed
+[2025-11-05T23:20:13.772595] [WARN] Slow query performance
+[2025-11-05T23:20:13.772633] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:13.772542] [INFO] Session started
+[2025-11-05T23:20:13.772610] [WARN] Resource threshold approaching
+[2025-11-05T23:20:13.772560] [INFO] Request processed successfully
+[2025-11-05T23:20:13.772566] [INFO] Configuration loaded
+[2025-11-05T23:20:13.772534] [INFO] Health check passed
+[2025-11-05T23:20:13.772580] [INFO] Configuration loaded
+[2025-11-05T23:20:13.772645] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:13.772642] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.772637] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.772554] [INFO] Cache hit
+[2025-11-05T23:20:13.772548] [INFO] User logged in
+[2025-11-05T23:20:13.772592] [WARN] Rate limit approaching
+[2025-11-05T23:20:13.772614] [ERROR] Disk read failed
+[2025-11-05T23:20:13.772649] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:13.772576] [INFO] Cache hit

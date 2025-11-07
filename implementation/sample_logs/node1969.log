@@ -1,0 +1,27 @@
+[2025-11-05T23:20:20.846825] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.846723] [INFO] Configuration loaded
+[2025-11-05T23:20:20.846757] [INFO] Database query executed
+[2025-11-05T23:20:20.846821] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.846794] [ERROR] Disk read failed
+[2025-11-05T23:20:20.846717] [INFO] Health check passed
+[2025-11-05T23:20:20.846690] [INFO] Configuration loaded
+[2025-11-05T23:20:20.846737] [INFO] Configuration loaded
+[2025-11-05T23:20:20.846829] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.846762] [INFO] Configuration loaded
+[2025-11-05T23:20:20.846772] [WARN] Timeout warning
+[2025-11-05T23:20:20.846751] [INFO] Database query executed
+[2025-11-05T23:20:20.846843] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.846777] [WARN] Disk space low
+[2025-11-05T23:20:20.846733] [INFO] Cache hit
+[2025-11-05T23:20:20.846839] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.846728] [INFO] Transaction completed
+[2025-11-05T23:20:20.846833] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.846799] [ERROR] Request failed
+[2025-11-05T23:20:20.846766] [INFO] Configuration loaded
+[2025-11-05T23:20:20.846812] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.846787] [WARN] Cache miss
+[2025-11-05T23:20:20.846817] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.846747] [INFO] User logged in
+[2025-11-05T23:20:20.846806] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.846742] [INFO] Database query executed
+[2025-11-05T23:20:20.846781] [WARN] Cache miss

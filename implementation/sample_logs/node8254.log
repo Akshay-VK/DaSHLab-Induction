@@ -1,0 +1,36 @@
+[2025-11-05T23:20:46.748271] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.748267] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.748287] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.748279] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.748259] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.748209] [INFO] Connection established
+[2025-11-05T23:20:46.748205] [INFO] Transaction completed
+[2025-11-05T23:20:46.748283] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.748291] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.748221] [INFO] Configuration loaded
+[2025-11-05T23:20:46.748201] [INFO] User logged in
+[2025-11-05T23:20:46.748275] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.748185] [INFO] Cache hit
+[2025-11-05T23:20:46.748226] [WARN] High memory usage detected
+[2025-11-05T23:20:46.748189] [INFO] Session started
+[2025-11-05T23:20:46.748153] [INFO] Session started
+[2025-11-05T23:20:46.748240] [WARN] Resource threshold approaching
+[2025-11-05T23:20:46.748213] [INFO] Database query executed
+[2025-11-05T23:20:46.748197] [INFO] Configuration loaded
+[2025-11-05T23:20:46.748217] [INFO] Configuration loaded
+[2025-11-05T23:20:46.748231] [WARN] Deprecated API usage
+[2025-11-05T23:20:46.748163] [INFO] Request processed successfully
+[2025-11-05T23:20:46.748158] [INFO] Configuration loaded
+[2025-11-05T23:20:46.748299] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.748295] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.748171] [INFO] Configuration loaded
+[2025-11-05T23:20:46.748263] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.748167] [INFO] Transaction completed
+[2025-11-05T23:20:46.748254] [ERROR] Invalid input data
+[2025-11-05T23:20:46.748127] [INFO] Database query executed
+[2025-11-05T23:20:46.748250] [ERROR] Request failed
+[2025-11-05T23:20:46.748193] [INFO] Cache hit
+[2025-11-05T23:20:46.748236] [WARN] Resource threshold approaching
+[2025-11-05T23:20:46.748245] [ERROR] Permission denied
+[2025-11-05T23:20:46.748176] [INFO] Transaction completed
+[2025-11-05T23:20:46.748180] [INFO] Cache hit

@@ -1,0 +1,26 @@
+[2025-11-05T23:20:42.594643] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.594554] [INFO] Cache hit
+[2025-11-05T23:20:42.594572] [INFO] Transaction completed
+[2025-11-05T23:20:42.594544] [INFO] Transaction completed
+[2025-11-05T23:20:42.594531] [INFO] Session started
+[2025-11-05T23:20:42.594614] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.594536] [INFO] Health check passed
+[2025-11-05T23:20:42.594588] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.594577] [WARN] Slow query performance
+[2025-11-05T23:20:42.594567] [INFO] Connection established
+[2025-11-05T23:20:42.594558] [INFO] Health check passed
+[2025-11-05T23:20:42.594549] [INFO] Database query executed
+[2025-11-05T23:20:42.594623] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.594602] [WARN] High memory usage detected
+[2025-11-05T23:20:42.594540] [INFO] Health check passed
+[2025-11-05T23:20:42.594592] [WARN] Queue size growing
+[2025-11-05T23:20:42.594628] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.594633] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.594637] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.594525] [INFO] Health check passed
+[2025-11-05T23:20:42.594608] [ERROR] Permission denied
+[2025-11-05T23:20:42.594596] [WARN] Queue size growing
+[2025-11-05T23:20:42.594498] [INFO] Request processed successfully
+[2025-11-05T23:20:42.594583] [WARN] Disk space low
+[2025-11-05T23:20:42.594563] [INFO] Request processed successfully
+[2025-11-05T23:20:42.594619] [DEBUG] Thread pool size: 8

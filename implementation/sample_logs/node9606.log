@@ -1,0 +1,28 @@
+[2025-11-05T23:20:52.598225] [ERROR] Request failed
+[2025-11-05T23:20:52.598231] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.598259] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.598169] [INFO] Service initialized
+[2025-11-05T23:20:52.598115] [INFO] Database query executed
+[2025-11-05T23:20:52.598164] [INFO] User logged in
+[2025-11-05T23:20:52.598132] [INFO] Service initialized
+[2025-11-05T23:20:52.598138] [INFO] Health check passed
+[2025-11-05T23:20:52.598249] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.598143] [INFO] Cache hit
+[2025-11-05T23:20:52.598254] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.598212] [WARN] Queue size growing
+[2025-11-05T23:20:52.598148] [INFO] Transaction completed
+[2025-11-05T23:20:52.598219] [ERROR] Database connection lost
+[2025-11-05T23:20:52.598202] [WARN] Resource threshold approaching
+[2025-11-05T23:20:52.598179] [INFO] Service initialized
+[2025-11-05T23:20:52.598207] [WARN] Rate limit approaching
+[2025-11-05T23:20:52.598088] [INFO] Configuration loaded
+[2025-11-05T23:20:52.598153] [INFO] Database query executed
+[2025-11-05T23:20:52.598238] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.598190] [WARN] High memory usage detected
+[2025-11-05T23:20:52.598122] [INFO] User logged in
+[2025-11-05T23:20:52.598158] [INFO] Service initialized
+[2025-11-05T23:20:52.598127] [INFO] Request processed successfully
+[2025-11-05T23:20:52.598183] [INFO] User logged in
+[2025-11-05T23:20:52.598244] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.598174] [INFO] Transaction completed
+[2025-11-05T23:20:52.598196] [WARN] Timeout warning

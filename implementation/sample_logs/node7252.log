@@ -1,0 +1,32 @@
+[2025-11-05T23:20:42.462143] [INFO] Cache hit
+[2025-11-05T23:20:42.462088] [INFO] Session started
+[2025-11-05T23:20:42.462135] [INFO] Health check passed
+[2025-11-05T23:20:42.462215] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.462147] [INFO] Session started
+[2025-11-05T23:20:42.462110] [INFO] Database query executed
+[2025-11-05T23:20:42.462197] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.462082] [INFO] Request processed successfully
+[2025-11-05T23:20:42.462153] [WARN] Slow query performance
+[2025-11-05T23:20:42.462105] [INFO] Database query executed
+[2025-11-05T23:20:42.462167] [WARN] Deprecated API usage
+[2025-11-05T23:20:42.462207] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.462202] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.462132] [INFO] Request processed successfully
+[2025-11-05T23:20:42.462159] [WARN] Timeout warning
+[2025-11-05T23:20:42.462211] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.462139] [INFO] Session started
+[2025-11-05T23:20:42.462128] [INFO] Service initialized
+[2025-11-05T23:20:42.462114] [INFO] Request processed successfully
+[2025-11-05T23:20:42.462094] [INFO] Request processed successfully
+[2025-11-05T23:20:42.462100] [INFO] Service initialized
+[2025-11-05T23:20:42.462182] [ERROR] Memory allocation error
+[2025-11-05T23:20:42.462178] [ERROR] Network timeout
+[2025-11-05T23:20:42.462172] [ERROR] File not found
+[2025-11-05T23:20:42.462123] [INFO] Health check passed
+[2025-11-05T23:20:42.462056] [INFO] Database query executed
+[2025-11-05T23:20:42.462192] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.462223] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.462118] [INFO] User logged in
+[2025-11-05T23:20:42.462219] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.462187] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.462163] [WARN] Deprecated API usage

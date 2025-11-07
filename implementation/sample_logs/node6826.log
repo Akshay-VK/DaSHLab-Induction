@@ -1,0 +1,31 @@
+[2025-11-05T23:20:40.879295] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.879247] [INFO] Configuration loaded
+[2025-11-05T23:20:40.879199] [INFO] Connection established
+[2025-11-05T23:20:40.879258] [WARN] Timeout warning
+[2025-11-05T23:20:40.879231] [INFO] Transaction completed
+[2025-11-05T23:20:40.879213] [INFO] Cache hit
+[2025-11-05T23:20:40.879184] [INFO] User logged in
+[2025-11-05T23:20:40.879278] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.879272] [ERROR] File not found
+[2025-11-05T23:20:40.879235] [INFO] Configuration loaded
+[2025-11-05T23:20:40.879217] [INFO] Session started
+[2025-11-05T23:20:40.879226] [INFO] Transaction completed
+[2025-11-05T23:20:40.879299] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.879204] [INFO] Cache hit
+[2025-11-05T23:20:40.879253] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.879222] [INFO] Database query executed
+[2025-11-05T23:20:40.879316] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.879291] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.879195] [INFO] User logged in
+[2025-11-05T23:20:40.879190] [INFO] User logged in
+[2025-11-05T23:20:40.879239] [INFO] Session started
+[2025-11-05T23:20:40.879263] [WARN] Slow query performance
+[2025-11-05T23:20:40.879283] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.879208] [INFO] Session started
+[2025-11-05T23:20:40.879267] [WARN] Rate limit approaching
+[2025-11-05T23:20:40.879303] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.879287] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.879159] [INFO] Transaction completed
+[2025-11-05T23:20:40.879312] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.879308] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.879243] [INFO] Session started

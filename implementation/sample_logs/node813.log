@@ -1,0 +1,29 @@
+[2025-11-05T23:20:15.862827] [INFO] User logged in
+[2025-11-05T23:20:15.862795] [INFO] User logged in
+[2025-11-05T23:20:15.862800] [INFO] Cache hit
+[2025-11-05T23:20:15.862743] [INFO] Session started
+[2025-11-05T23:20:15.862843] [WARN] Connection retry attempt
+[2025-11-05T23:20:15.862814] [INFO] Configuration loaded
+[2025-11-05T23:20:15.862864] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.862776] [INFO] Cache hit
+[2025-11-05T23:20:15.862873] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.862823] [INFO] Cache hit
+[2025-11-05T23:20:15.862818] [INFO] Cache hit
+[2025-11-05T23:20:15.862770] [INFO] Database query executed
+[2025-11-05T23:20:15.862902] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.862878] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.862848] [WARN] Slow query performance
+[2025-11-05T23:20:15.862852] [WARN] Timeout warning
+[2025-11-05T23:20:15.862869] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.862786] [INFO] Health check passed
+[2025-11-05T23:20:15.862791] [INFO] User logged in
+[2025-11-05T23:20:15.862809] [INFO] Transaction completed
+[2025-11-05T23:20:15.862781] [INFO] Cache hit
+[2025-11-05T23:20:15.862894] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.862804] [INFO] Health check passed
+[2025-11-05T23:20:15.862884] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.862889] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.862898] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.862838] [WARN] Slow query performance
+[2025-11-05T23:20:15.862832] [INFO] Health check passed
+[2025-11-05T23:20:15.862858] [ERROR] Invalid input data

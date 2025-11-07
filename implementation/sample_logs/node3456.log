@@ -1,0 +1,29 @@
+[2025-11-05T23:20:27.476147] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.476156] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.476054] [INFO] Service initialized
+[2025-11-05T23:20:27.476121] [INFO] Configuration loaded
+[2025-11-05T23:20:27.476144] [WARN] High memory usage detected
+[2025-11-05T23:20:27.476079] [INFO] Request processed successfully
+[2025-11-05T23:20:27.476163] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.476127] [INFO] Service initialized
+[2025-11-05T23:20:27.476173] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.476124] [INFO] Request processed successfully
+[2025-11-05T23:20:27.476084] [INFO] Cache hit
+[2025-11-05T23:20:27.476099] [INFO] Session started
+[2025-11-05T23:20:27.476103] [INFO] Transaction completed
+[2025-11-05T23:20:27.476160] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.476136] [WARN] Timeout warning
+[2025-11-05T23:20:27.476166] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.476096] [INFO] Configuration loaded
+[2025-11-05T23:20:27.476180] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.476088] [INFO] Transaction completed
+[2025-11-05T23:20:27.476092] [INFO] Configuration loaded
+[2025-11-05T23:20:27.476152] [ERROR] Permission denied
+[2025-11-05T23:20:27.476114] [INFO] Transaction completed
+[2025-11-05T23:20:27.476110] [INFO] Service initialized
+[2025-11-05T23:20:27.476117] [INFO] Request processed successfully
+[2025-11-05T23:20:27.476177] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.476140] [WARN] High memory usage detected
+[2025-11-05T23:20:27.476170] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.476132] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.476107] [INFO] Health check passed

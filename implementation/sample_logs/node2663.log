@@ -1,0 +1,28 @@
+[2025-11-05T23:20:23.932263] [INFO] Cache hit
+[2025-11-05T23:20:23.932233] [INFO] User logged in
+[2025-11-05T23:20:23.932302] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.932268] [WARN] Connection retry attempt
+[2025-11-05T23:20:23.932208] [INFO] Connection established
+[2025-11-05T23:20:23.932283] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.932291] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:23.932306] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.932245] [INFO] User logged in
+[2025-11-05T23:20:23.932241] [INFO] Request processed successfully
+[2025-11-05T23:20:23.932221] [INFO] Connection established
+[2025-11-05T23:20:23.932295] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:23.932314] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.932213] [INFO] Session started
+[2025-11-05T23:20:23.932273] [WARN] Timeout warning
+[2025-11-05T23:20:23.932259] [INFO] User logged in
+[2025-11-05T23:20:23.932287] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.932237] [INFO] Request processed successfully
+[2025-11-05T23:20:23.932310] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.932278] [ERROR] Invalid input data
+[2025-11-05T23:20:23.932229] [INFO] Database query executed
+[2025-11-05T23:20:23.932252] [INFO] Database query executed
+[2025-11-05T23:20:23.932217] [INFO] Transaction completed
+[2025-11-05T23:20:23.932249] [INFO] Service initialized
+[2025-11-05T23:20:23.932298] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.932225] [INFO] Service initialized
+[2025-11-05T23:20:23.932256] [INFO] User logged in
+[2025-11-05T23:20:23.932184] [INFO] Connection established

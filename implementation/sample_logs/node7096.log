@@ -1,0 +1,30 @@
+[2025-11-05T23:20:41.851578] [INFO] Service initialized
+[2025-11-05T23:20:41.851587] [INFO] User logged in
+[2025-11-05T23:20:41.851677] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.851605] [INFO] Transaction completed
+[2025-11-05T23:20:41.851569] [INFO] Health check passed
+[2025-11-05T23:20:41.851614] [INFO] Configuration loaded
+[2025-11-05T23:20:41.851618] [INFO] Service initialized
+[2025-11-05T23:20:41.851682] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.851668] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.851609] [INFO] Database query executed
+[2025-11-05T23:20:41.851692] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.851654] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.851596] [INFO] Request processed successfully
+[2025-11-05T23:20:41.851649] [ERROR] Permission denied
+[2025-11-05T23:20:41.851664] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.851530] [INFO] Connection established
+[2025-11-05T23:20:41.851644] [ERROR] Invalid input data
+[2025-11-05T23:20:41.851574] [INFO] Health check passed
+[2025-11-05T23:20:41.851557] [INFO] Request processed successfully
+[2025-11-05T23:20:41.851600] [INFO] Cache hit
+[2025-11-05T23:20:41.851624] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.851660] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.851687] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.851673] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.851592] [INFO] Session started
+[2025-11-05T23:20:41.851564] [INFO] Cache hit
+[2025-11-05T23:20:41.851634] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.851629] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.851638] [WARN] High memory usage detected
+[2025-11-05T23:20:41.851583] [INFO] Health check passed

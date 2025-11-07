@@ -1,0 +1,33 @@
+[2025-11-05T23:20:40.215365] [INFO] Request processed successfully
+[2025-11-05T23:20:40.215504] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.215413] [INFO] Transaction completed
+[2025-11-05T23:20:40.215448] [INFO] Configuration loaded
+[2025-11-05T23:20:40.215403] [INFO] Cache hit
+[2025-11-05T23:20:40.215532] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.215495] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.215484] [ERROR] Permission denied
+[2025-11-05T23:20:40.215463] [WARN] Deprecated API usage
+[2025-11-05T23:20:40.215499] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.215540] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.215490] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.215444] [INFO] Request processed successfully
+[2025-11-05T23:20:40.215519] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.215510] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.215409] [INFO] Request processed successfully
+[2025-11-05T23:20:40.215393] [INFO] Configuration loaded
+[2025-11-05T23:20:40.215426] [INFO] User logged in
+[2025-11-05T23:20:40.215435] [INFO] Session started
+[2025-11-05T23:20:40.215469] [WARN] Cache miss
+[2025-11-05T23:20:40.215453] [INFO] User logged in
+[2025-11-05T23:20:40.215457] [INFO] Transaction completed
+[2025-11-05T23:20:40.215523] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.215422] [INFO] Session started
+[2025-11-05T23:20:40.215431] [INFO] Cache hit
+[2025-11-05T23:20:40.215399] [INFO] Connection established
+[2025-11-05T23:20:40.215527] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.215440] [INFO] Database query executed
+[2025-11-05T23:20:40.215418] [INFO] Session started
+[2025-11-05T23:20:40.215536] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.215479] [ERROR] Authentication failed
+[2025-11-05T23:20:40.215514] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.215473] [WARN] Deprecated API usage

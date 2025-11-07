@@ -1,0 +1,41 @@
+[2025-11-05T23:20:27.756458] [INFO] Health check passed
+[2025-11-05T23:20:27.756382] [INFO] Configuration loaded
+[2025-11-05T23:20:27.756423] [INFO] Database query executed
+[2025-11-05T23:20:27.756565] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.756579] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.756515] [WARN] Queue size growing
+[2025-11-05T23:20:27.756553] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.756494] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.756437] [INFO] Session started
+[2025-11-05T23:20:27.756511] [WARN] Deprecated API usage
+[2025-11-05T23:20:27.756570] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.756507] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.756429] [INFO] Cache hit
+[2025-11-05T23:20:27.756419] [INFO] User logged in
+[2025-11-05T23:20:27.756557] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:27.756521] [ERROR] Authentication failed
+[2025-11-05T23:20:27.756485] [WARN] Deprecated API usage
+[2025-11-05T23:20:27.756446] [INFO] Cache hit
+[2025-11-05T23:20:27.756583] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.756462] [INFO] Database query executed
+[2025-11-05T23:20:27.756471] [INFO] Configuration loaded
+[2025-11-05T23:20:27.756534] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.756466] [INFO] Configuration loaded
+[2025-11-05T23:20:27.756543] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.756525] [ERROR] Memory allocation error
+[2025-11-05T23:20:27.756450] [INFO] Database query executed
+[2025-11-05T23:20:27.756475] [INFO] Request processed successfully
+[2025-11-05T23:20:27.756498] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.756548] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.756414] [INFO] Session started
+[2025-11-05T23:20:27.756454] [INFO] Connection established
+[2025-11-05T23:20:27.756442] [INFO] Transaction completed
+[2025-11-05T23:20:27.756408] [INFO] Session started
+[2025-11-05T23:20:27.756574] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.756479] [INFO] Transaction completed
+[2025-11-05T23:20:27.756433] [INFO] Request processed successfully
+[2025-11-05T23:20:27.756502] [WARN] Rate limit approaching
+[2025-11-05T23:20:27.756539] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.756529] [ERROR] Database connection lost
+[2025-11-05T23:20:27.756561] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:27.756489] [WARN] Slow query performance

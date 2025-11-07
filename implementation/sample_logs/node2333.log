@@ -1,0 +1,32 @@
+[2025-11-05T23:20:22.289284] [INFO] Service initialized
+[2025-11-05T23:20:22.289322] [WARN] Queue size growing
+[2025-11-05T23:20:22.289354] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.289364] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.289400] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.289230] [INFO] Transaction completed
+[2025-11-05T23:20:22.289279] [INFO] Cache hit
+[2025-11-05T23:20:22.289264] [INFO] Cache hit
+[2025-11-05T23:20:22.289359] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.289297] [INFO] Health check passed
+[2025-11-05T23:20:22.289293] [INFO] Database query executed
+[2025-11-05T23:20:22.289312] [WARN] Rate limit approaching
+[2025-11-05T23:20:22.289318] [WARN] Disk space low
+[2025-11-05T23:20:22.289274] [INFO] Health check passed
+[2025-11-05T23:20:22.289306] [INFO] User logged in
+[2025-11-05T23:20:22.289335] [WARN] High memory usage detected
+[2025-11-05T23:20:22.289344] [ERROR] Memory allocation error
+[2025-11-05T23:20:22.289386] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.289339] [WARN] Timeout warning
+[2025-11-05T23:20:22.289269] [INFO] Database query executed
+[2025-11-05T23:20:22.289302] [INFO] Session started
+[2025-11-05T23:20:22.289349] [ERROR] Authentication failed
+[2025-11-05T23:20:22.289373] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.289289] [INFO] User logged in
+[2025-11-05T23:20:22.289368] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.289331] [WARN] High memory usage detected
+[2025-11-05T23:20:22.289382] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.289395] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:22.289377] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.289258] [INFO] Request processed successfully
+[2025-11-05T23:20:22.289391] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.289326] [WARN] High memory usage detected

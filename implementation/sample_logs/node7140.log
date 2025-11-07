@@ -1,0 +1,29 @@
+[2025-11-05T23:20:42.046281] [INFO] Request processed successfully
+[2025-11-05T23:20:42.046293] [WARN] Rate limit approaching
+[2025-11-05T23:20:42.046350] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.046269] [INFO] Cache hit
+[2025-11-05T23:20:42.046319] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.046257] [INFO] Health check passed
+[2025-11-05T23:20:42.046284] [INFO] Session started
+[2025-11-05T23:20:42.046347] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.046354] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.046339] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.046323] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.046331] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.046314] [ERROR] Invalid input data
+[2025-11-05T23:20:42.046218] [INFO] Configuration loaded
+[2025-11-05T23:20:42.046335] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:42.046265] [INFO] Transaction completed
+[2025-11-05T23:20:42.046327] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.046343] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.046297] [WARN] Timeout warning
+[2025-11-05T23:20:42.046261] [INFO] Health check passed
+[2025-11-05T23:20:42.046273] [INFO] Connection established
+[2025-11-05T23:20:42.046249] [INFO] Configuration loaded
+[2025-11-05T23:20:42.046301] [WARN] Slow query performance
+[2025-11-05T23:20:42.046253] [INFO] Request processed successfully
+[2025-11-05T23:20:42.046243] [INFO] User logged in
+[2025-11-05T23:20:42.046309] [WARN] Timeout warning
+[2025-11-05T23:20:42.046277] [INFO] User logged in
+[2025-11-05T23:20:42.046287] [INFO] Configuration loaded
+[2025-11-05T23:20:42.046304] [WARN] Cache miss

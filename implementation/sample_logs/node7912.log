@@ -1,0 +1,25 @@
+[2025-11-05T23:20:45.130776] [INFO] User logged in
+[2025-11-05T23:20:45.130852] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.130839] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.130810] [INFO] Service initialized
+[2025-11-05T23:20:45.130799] [INFO] Connection established
+[2025-11-05T23:20:45.130828] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.130814] [WARN] Deprecated API usage
+[2025-11-05T23:20:45.130784] [INFO] User logged in
+[2025-11-05T23:20:45.130771] [INFO] Database query executed
+[2025-11-05T23:20:45.130823] [ERROR] Request failed
+[2025-11-05T23:20:45.130733] [INFO] Service initialized
+[2025-11-05T23:20:45.130843] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.130788] [INFO] Health check passed
+[2025-11-05T23:20:45.130766] [INFO] Configuration loaded
+[2025-11-05T23:20:45.130802] [INFO] User logged in
+[2025-11-05T23:20:45.130832] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.130806] [INFO] Transaction completed
+[2025-11-05T23:20:45.130780] [INFO] Database query executed
+[2025-11-05T23:20:45.130761] [INFO] Health check passed
+[2025-11-05T23:20:45.130836] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.130819] [ERROR] Memory allocation error
+[2025-11-05T23:20:45.130791] [INFO] Request processed successfully
+[2025-11-05T23:20:45.130846] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.130795] [INFO] Request processed successfully
+[2025-11-05T23:20:45.130849] [DEBUG] Entering function process_data()

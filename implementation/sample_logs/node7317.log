@@ -1,0 +1,29 @@
+[2025-11-05T23:20:42.683378] [WARN] Cache miss
+[2025-11-05T23:20:42.683384] [WARN] Cache miss
+[2025-11-05T23:20:42.683439] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.683357] [INFO] Configuration loaded
+[2025-11-05T23:20:42.683316] [INFO] Connection established
+[2025-11-05T23:20:42.683425] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.683404] [ERROR] Invalid input data
+[2025-11-05T23:20:42.683409] [ERROR] File not found
+[2025-11-05T23:20:42.683369] [INFO] Database query executed
+[2025-11-05T23:20:42.683331] [INFO] Health check passed
+[2025-11-05T23:20:42.683435] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.683419] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:42.683430] [DEBUG] Cache key generated
+[2025-11-05T23:20:42.683335] [INFO] Service initialized
+[2025-11-05T23:20:42.683348] [INFO] Session started
+[2025-11-05T23:20:42.683389] [WARN] High memory usage detected
+[2025-11-05T23:20:42.683326] [INFO] Configuration loaded
+[2025-11-05T23:20:42.683364] [INFO] Transaction completed
+[2025-11-05T23:20:42.683399] [ERROR] Memory allocation error
+[2025-11-05T23:20:42.683352] [INFO] Cache hit
+[2025-11-05T23:20:42.683361] [INFO] Cache hit
+[2025-11-05T23:20:42.683414] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.683343] [INFO] Database query executed
+[2025-11-05T23:20:42.683339] [INFO] Cache hit
+[2025-11-05T23:20:42.683373] [INFO] Service initialized
+[2025-11-05T23:20:42.683394] [WARN] Connection retry attempt
+[2025-11-05T23:20:42.683310] [INFO] Health check passed
+[2025-11-05T23:20:42.683321] [INFO] Request processed successfully
+[2025-11-05T23:20:42.683286] [INFO] Database query executed

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:53.223145] [WARN] Timeout warning
+[2025-11-05T23:20:53.223173] [ERROR] Authentication failed
+[2025-11-05T23:20:53.223183] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.222877] [WARN] Cache miss
+[2025-11-05T23:20:53.223200] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.223113] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.222694] [INFO] Health check passed
+[2025-11-05T23:20:53.223204] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.222713] [INFO] Cache hit
+[2025-11-05T23:20:53.222718] [INFO] Transaction completed
+[2025-11-05T23:20:53.223104] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.222674] [INFO] Session started
+[2025-11-05T23:20:53.222690] [INFO] Health check passed
+[2025-11-05T23:20:53.223179] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.223153] [WARN] Timeout warning
+[2025-11-05T23:20:53.223167] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.222862] [INFO] Transaction completed
+[2025-11-05T23:20:53.223196] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.222685] [INFO] Request processed successfully
+[2025-11-05T23:20:53.223192] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.223211] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.223163] [WARN] Queue size growing
+[2025-11-05T23:20:53.222680] [INFO] Connection established
+[2025-11-05T23:20:53.222708] [INFO] User logged in
+[2025-11-05T23:20:53.222699] [INFO] Health check passed
+[2025-11-05T23:20:53.222703] [INFO] Request processed successfully
+[2025-11-05T23:20:53.222648] [INFO] Connection established
+[2025-11-05T23:20:53.223208] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.223187] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.223158] [WARN] High memory usage detected

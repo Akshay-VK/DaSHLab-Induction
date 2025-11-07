@@ -1,0 +1,36 @@
+[2025-11-05T23:20:20.096259] [WARN] Connection retry attempt
+[2025-11-05T23:20:20.096256] [WARN] Queue size growing
+[2025-11-05T23:20:20.096321] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.096159] [INFO] Health check passed
+[2025-11-05T23:20:20.096229] [INFO] Session started
+[2025-11-05T23:20:20.096299] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:20.096242] [WARN] High memory usage detected
+[2025-11-05T23:20:20.096194] [INFO] Transaction completed
+[2025-11-05T23:20:20.096270] [WARN] High memory usage detected
+[2025-11-05T23:20:20.096277] [WARN] Connection retry attempt
+[2025-11-05T23:20:20.096218] [INFO] Cache hit
+[2025-11-05T23:20:20.096233] [INFO] Cache hit
+[2025-11-05T23:20:20.096190] [INFO] Health check passed
+[2025-11-05T23:20:20.096274] [WARN] Deprecated API usage
+[2025-11-05T23:20:20.096207] [INFO] Request processed successfully
+[2025-11-05T23:20:20.096237] [INFO] Session started
+[2025-11-05T23:20:20.096211] [INFO] Request processed successfully
+[2025-11-05T23:20:20.096263] [WARN] Disk space low
+[2025-11-05T23:20:20.096184] [INFO] Health check passed
+[2025-11-05T23:20:20.096267] [WARN] Disk space low
+[2025-11-05T23:20:20.096203] [INFO] User logged in
+[2025-11-05T23:20:20.096304] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.096251] [WARN] High memory usage detected
+[2025-11-05T23:20:20.096199] [INFO] Connection established
+[2025-11-05T23:20:20.096282] [ERROR] Request failed
+[2025-11-05T23:20:20.096214] [INFO] Cache hit
+[2025-11-05T23:20:20.096309] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:20.096286] [ERROR] Authentication failed
+[2025-11-05T23:20:20.096246] [WARN] Slow query performance
+[2025-11-05T23:20:20.096317] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:20.096226] [INFO] Database query executed
+[2025-11-05T23:20:20.096326] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.096296] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.096291] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.096313] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:20.096222] [INFO] Configuration loaded

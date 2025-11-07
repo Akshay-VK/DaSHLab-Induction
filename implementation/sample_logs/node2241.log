@@ -1,0 +1,31 @@
+[2025-11-05T23:20:21.993439] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.993390] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.993331] [INFO] Service initialized
+[2025-11-05T23:20:21.993336] [INFO] User logged in
+[2025-11-05T23:20:21.993405] [ERROR] Authentication failed
+[2025-11-05T23:20:21.993362] [INFO] Transaction completed
+[2025-11-05T23:20:21.993341] [INFO] Configuration loaded
+[2025-11-05T23:20:21.993350] [INFO] Connection established
+[2025-11-05T23:20:21.993425] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.993346] [INFO] User logged in
+[2025-11-05T23:20:21.993411] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.993327] [INFO] Request processed successfully
+[2025-11-05T23:20:21.993370] [INFO] Request processed successfully
+[2025-11-05T23:20:21.993385] [WARN] Cache miss
+[2025-11-05T23:20:21.993448] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.993379] [WARN] Slow query performance
+[2025-11-05T23:20:21.993416] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.993443] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.993434] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.993358] [INFO] Database query executed
+[2025-11-05T23:20:21.993394] [WARN] Slow query performance
+[2025-11-05T23:20:21.993283] [INFO] Transaction completed
+[2025-11-05T23:20:21.993366] [INFO] Cache hit
+[2025-11-05T23:20:21.993430] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.993400] [ERROR] Authentication failed
+[2025-11-05T23:20:21.993310] [INFO] User logged in
+[2025-11-05T23:20:21.993354] [INFO] Connection established
+[2025-11-05T23:20:21.993322] [INFO] Request processed successfully
+[2025-11-05T23:20:21.993374] [INFO] Transaction completed
+[2025-11-05T23:20:21.993316] [INFO] Health check passed
+[2025-11-05T23:20:21.993420] [DEBUG] Buffer size: 4096 bytes

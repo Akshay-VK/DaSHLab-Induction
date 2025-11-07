@@ -1,0 +1,33 @@
+[2025-11-05T23:20:12.296638] [INFO] Session started
+[2025-11-05T23:20:12.296739] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:12.296735] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.296670] [INFO] Database query executed
+[2025-11-05T23:20:12.296731] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:12.296749] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:12.296647] [INFO] Configuration loaded
+[2025-11-05T23:20:12.296661] [INFO] Request processed successfully
+[2025-11-05T23:20:12.296727] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.296702] [ERROR] Authentication failed
+[2025-11-05T23:20:12.296600] [INFO] Transaction completed
+[2025-11-05T23:20:12.296612] [INFO] Service initialized
+[2025-11-05T23:20:12.296652] [INFO] Cache hit
+[2025-11-05T23:20:12.296621] [INFO] Connection established
+[2025-11-05T23:20:12.296607] [INFO] Request processed successfully
+[2025-11-05T23:20:12.296634] [INFO] Session started
+[2025-11-05T23:20:12.296643] [INFO] Service initialized
+[2025-11-05T23:20:12.296713] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.296682] [WARN] Deprecated API usage
+[2025-11-05T23:20:12.296691] [WARN] Timeout warning
+[2025-11-05T23:20:12.296665] [INFO] Configuration loaded
+[2025-11-05T23:20:12.296630] [INFO] Health check passed
+[2025-11-05T23:20:12.296744] [DEBUG] Cache key generated
+[2025-11-05T23:20:12.296707] [ERROR] Memory allocation error
+[2025-11-05T23:20:12.296572] [INFO] User logged in
+[2025-11-05T23:20:12.296656] [INFO] User logged in
+[2025-11-05T23:20:12.296753] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:12.296721] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:12.296686] [WARN] Slow query performance
+[2025-11-05T23:20:12.296616] [INFO] Health check passed
+[2025-11-05T23:20:12.296697] [WARN] Connection retry attempt
+[2025-11-05T23:20:12.296625] [INFO] Health check passed
+[2025-11-05T23:20:12.296676] [WARN] Resource threshold approaching

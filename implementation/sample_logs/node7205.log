@@ -1,0 +1,34 @@
+[2025-11-05T23:20:42.317256] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.317248] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.317200] [INFO] Transaction completed
+[2025-11-05T23:20:42.317180] [INFO] Transaction completed
+[2025-11-05T23:20:42.317185] [INFO] Connection established
+[2025-11-05T23:20:42.317274] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.317188] [INFO] Connection established
+[2025-11-05T23:20:42.317217] [WARN] Resource threshold approaching
+[2025-11-05T23:20:42.317222] [WARN] Cache miss
+[2025-11-05T23:20:42.317264] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.317152] [INFO] Service initialized
+[2025-11-05T23:20:42.317157] [INFO] Request processed successfully
+[2025-11-05T23:20:42.317148] [INFO] User logged in
+[2025-11-05T23:20:42.317260] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.317252] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.317269] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.317203] [INFO] Transaction completed
+[2025-11-05T23:20:42.317118] [INFO] Transaction completed
+[2025-11-05T23:20:42.317169] [INFO] Connection established
+[2025-11-05T23:20:42.317234] [ERROR] Request failed
+[2025-11-05T23:20:42.317161] [INFO] Connection established
+[2025-11-05T23:20:42.317244] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.317278] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:42.317143] [INFO] Service initialized
+[2025-11-05T23:20:42.317230] [WARN] Cache miss
+[2025-11-05T23:20:42.317177] [INFO] Connection established
+[2025-11-05T23:20:42.317212] [INFO] User logged in
+[2025-11-05T23:20:42.317207] [INFO] Transaction completed
+[2025-11-05T23:20:42.317196] [INFO] Health check passed
+[2025-11-05T23:20:42.317165] [INFO] Database query executed
+[2025-11-05T23:20:42.317239] [ERROR] File not found
+[2025-11-05T23:20:42.317173] [INFO] Configuration loaded
+[2025-11-05T23:20:42.317226] [WARN] Timeout warning
+[2025-11-05T23:20:42.317192] [INFO] Configuration loaded

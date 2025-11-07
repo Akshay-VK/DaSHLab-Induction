@@ -1,0 +1,33 @@
+[2025-11-05T23:20:33.869255] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.869188] [WARN] Cache miss
+[2025-11-05T23:20:33.869207] [WARN] Disk space low
+[2025-11-05T23:20:33.869231] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.869117] [INFO] Session started
+[2025-11-05T23:20:33.869132] [INFO] Configuration loaded
+[2025-11-05T23:20:33.869085] [INFO] Health check passed
+[2025-11-05T23:20:33.869144] [INFO] Request processed successfully
+[2025-11-05T23:20:33.869173] [INFO] Database query executed
+[2025-11-05T23:20:33.869157] [INFO] Health check passed
+[2025-11-05T23:20:33.869182] [INFO] Transaction completed
+[2025-11-05T23:20:33.869149] [INFO] Service initialized
+[2025-11-05T23:20:33.869177] [INFO] Service initialized
+[2025-11-05T23:20:33.869194] [WARN] High memory usage detected
+[2025-11-05T23:20:33.869140] [INFO] Cache hit
+[2025-11-05T23:20:33.869203] [WARN] Disk space low
+[2025-11-05T23:20:33.869245] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.869170] [INFO] Database query executed
+[2025-11-05T23:20:33.869153] [INFO] Session started
+[2025-11-05T23:20:33.869166] [INFO] Service initialized
+[2025-11-05T23:20:33.869216] [WARN] Rate limit approaching
+[2025-11-05T23:20:33.869111] [INFO] Database query executed
+[2025-11-05T23:20:33.869122] [INFO] Connection established
+[2025-11-05T23:20:33.869222] [ERROR] Database connection lost
+[2025-11-05T23:20:33.869161] [INFO] Request processed successfully
+[2025-11-05T23:20:33.869250] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.869136] [INFO] Database query executed
+[2025-11-05T23:20:33.869226] [ERROR] Memory allocation error
+[2025-11-05T23:20:33.869127] [INFO] Session started
+[2025-11-05T23:20:33.869241] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:33.869212] [WARN] High memory usage detected
+[2025-11-05T23:20:33.869236] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.869199] [WARN] Queue size growing

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:51.210841] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.210837] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:51.210853] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.210765] [INFO] Transaction completed
+[2025-11-05T23:20:51.210773] [INFO] Session started
+[2025-11-05T23:20:51.210802] [INFO] Transaction completed
+[2025-11-05T23:20:51.210777] [INFO] Session started
+[2025-11-05T23:20:51.210786] [INFO] User logged in
+[2025-11-05T23:20:51.210845] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.210790] [INFO] Request processed successfully
+[2025-11-05T23:20:51.210751] [INFO] Health check passed
+[2025-11-05T23:20:51.210833] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.210746] [INFO] Health check passed
+[2025-11-05T23:20:51.210794] [INFO] Connection established
+[2025-11-05T23:20:51.210849] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.210760] [INFO] Database query executed
+[2025-11-05T23:20:51.210782] [INFO] Session started
+[2025-11-05T23:20:51.210823] [ERROR] Authentication failed
+[2025-11-05T23:20:51.210828] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.210861] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.210798] [INFO] Cache hit
+[2025-11-05T23:20:51.210819] [ERROR] Permission denied
+[2025-11-05T23:20:51.210755] [INFO] Cache hit
+[2025-11-05T23:20:51.210769] [INFO] Service initialized
+[2025-11-05T23:20:51.210721] [INFO] Service initialized
+[2025-11-05T23:20:51.210813] [ERROR] Request failed
+[2025-11-05T23:20:51.210857] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:51.210807] [WARN] Timeout warning

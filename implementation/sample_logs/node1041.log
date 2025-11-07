@@ -1,0 +1,29 @@
+[2025-11-05T23:20:16.824852] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.824827] [WARN] Cache miss
+[2025-11-05T23:20:16.824778] [INFO] User logged in
+[2025-11-05T23:20:16.824847] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.824817] [INFO] Transaction completed
+[2025-11-05T23:20:16.824803] [INFO] Service initialized
+[2025-11-05T23:20:16.824857] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.824869] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.824787] [INFO] User logged in
+[2025-11-05T23:20:16.824709] [INFO] Request processed successfully
+[2025-11-05T23:20:16.824865] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.824807] [INFO] Session started
+[2025-11-05T23:20:16.824756] [INFO] User logged in
+[2025-11-05T23:20:16.824783] [INFO] Transaction completed
+[2025-11-05T23:20:16.824772] [INFO] Transaction completed
+[2025-11-05T23:20:16.824822] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.824833] [ERROR] Authentication failed
+[2025-11-05T23:20:16.824838] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.824743] [INFO] Cache hit
+[2025-11-05T23:20:16.824861] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.824812] [INFO] Session started
+[2025-11-05T23:20:16.824751] [INFO] Database query executed
+[2025-11-05T23:20:16.824795] [INFO] Database query executed
+[2025-11-05T23:20:16.824791] [INFO] Transaction completed
+[2025-11-05T23:20:16.824843] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.824767] [INFO] Request processed successfully
+[2025-11-05T23:20:16.824799] [INFO] Request processed successfully
+[2025-11-05T23:20:16.824737] [INFO] Request processed successfully
+[2025-11-05T23:20:16.824762] [INFO] Request processed successfully

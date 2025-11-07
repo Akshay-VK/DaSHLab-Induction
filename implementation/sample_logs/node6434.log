@@ -1,0 +1,32 @@
+[2025-11-05T23:20:39.443784] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.443741] [INFO] Service initialized
+[2025-11-05T23:20:39.443711] [INFO] User logged in
+[2025-11-05T23:20:39.443735] [INFO] Cache hit
+[2025-11-05T23:20:39.443798] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.443791] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.443732] [INFO] Request processed successfully
+[2025-11-05T23:20:39.443718] [INFO] User logged in
+[2025-11-05T23:20:39.443679] [INFO] User logged in
+[2025-11-05T23:20:39.443804] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.443707] [INFO] Request processed successfully
+[2025-11-05T23:20:39.443765] [WARN] Rate limit approaching
+[2025-11-05T23:20:39.443738] [INFO] Request processed successfully
+[2025-11-05T23:20:39.443787] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.443715] [INFO] Session started
+[2025-11-05T23:20:39.443722] [INFO] Service initialized
+[2025-11-05T23:20:39.443754] [WARN] Cache miss
+[2025-11-05T23:20:39.443776] [ERROR] Service unavailable
+[2025-11-05T23:20:39.443750] [INFO] Request processed successfully
+[2025-11-05T23:20:39.443801] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.443780] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.443769] [ERROR] Permission denied
+[2025-11-05T23:20:39.443759] [WARN] Timeout warning
+[2025-11-05T23:20:39.443794] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:39.443744] [INFO] Service initialized
+[2025-11-05T23:20:39.443762] [WARN] Queue size growing
+[2025-11-05T23:20:39.443725] [INFO] Cache hit
+[2025-11-05T23:20:39.443728] [INFO] Database query executed
+[2025-11-05T23:20:39.443702] [INFO] Service initialized
+[2025-11-05T23:20:39.443808] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.443773] [ERROR] Invalid input data
+[2025-11-05T23:20:39.443747] [INFO] User logged in

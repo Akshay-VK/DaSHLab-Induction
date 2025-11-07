@@ -1,0 +1,30 @@
+[2025-11-05T23:20:34.247496] [WARN] Queue size growing
+[2025-11-05T23:20:34.247500] [WARN] Cache miss
+[2025-11-05T23:20:34.247523] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.247545] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.247487] [WARN] Rate limit approaching
+[2025-11-05T23:20:34.247456] [INFO] Configuration loaded
+[2025-11-05T23:20:34.247481] [WARN] Queue size growing
+[2025-11-05T23:20:34.247541] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.247507] [ERROR] Service unavailable
+[2025-11-05T23:20:34.247428] [INFO] Service initialized
+[2025-11-05T23:20:34.247537] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.247438] [INFO] Database query executed
+[2025-11-05T23:20:34.247447] [INFO] Cache hit
+[2025-11-05T23:20:34.247433] [INFO] Cache hit
+[2025-11-05T23:20:34.247442] [INFO] Cache hit
+[2025-11-05T23:20:34.247528] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.247418] [INFO] User logged in
+[2025-11-05T23:20:34.247513] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.247413] [INFO] Configuration loaded
+[2025-11-05T23:20:34.247475] [INFO] Database query executed
+[2025-11-05T23:20:34.247464] [INFO] Service initialized
+[2025-11-05T23:20:34.247451] [INFO] Session started
+[2025-11-05T23:20:34.247532] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.247407] [INFO] Configuration loaded
+[2025-11-05T23:20:34.247423] [INFO] Database query executed
+[2025-11-05T23:20:34.247460] [INFO] User logged in
+[2025-11-05T23:20:34.247492] [WARN] Slow query performance
+[2025-11-05T23:20:34.247468] [INFO] Configuration loaded
+[2025-11-05T23:20:34.247380] [INFO] Session started
+[2025-11-05T23:20:34.247518] [DEBUG] Variable value: x=42

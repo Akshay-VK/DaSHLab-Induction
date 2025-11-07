@@ -1,0 +1,30 @@
+[2025-11-05T23:20:28.276829] [INFO] Connection established
+[2025-11-05T23:20:28.276907] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.276911] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.276919] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.276923] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.276854] [INFO] Request processed successfully
+[2025-11-05T23:20:28.276847] [INFO] Request processed successfully
+[2025-11-05T23:20:28.276858] [INFO] Health check passed
+[2025-11-05T23:20:28.276893] [ERROR] Database connection lost
+[2025-11-05T23:20:28.276898] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.276789] [INFO] Health check passed
+[2025-11-05T23:20:28.276866] [INFO] Session started
+[2025-11-05T23:20:28.276875] [WARN] High memory usage detected
+[2025-11-05T23:20:28.276927] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.276833] [INFO] Request processed successfully
+[2025-11-05T23:20:28.276842] [INFO] Request processed successfully
+[2025-11-05T23:20:28.276824] [INFO] Database query executed
+[2025-11-05T23:20:28.276870] [INFO] Health check passed
+[2025-11-05T23:20:28.276813] [INFO] Connection established
+[2025-11-05T23:20:28.276819] [INFO] Health check passed
+[2025-11-05T23:20:28.276903] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.276915] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.276887] [ERROR] Memory allocation error
+[2025-11-05T23:20:28.276934] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.276880] [WARN] Cache miss
+[2025-11-05T23:20:28.276931] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.276938] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:28.276851] [INFO] Service initialized
+[2025-11-05T23:20:28.276862] [INFO] Cache hit
+[2025-11-05T23:20:28.276838] [INFO] Connection established

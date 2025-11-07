@@ -1,0 +1,31 @@
+[2025-11-05T23:20:15.414248] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.414195] [INFO] Connection established
+[2025-11-05T23:20:15.414210] [WARN] Deprecated API usage
+[2025-11-05T23:20:15.414158] [INFO] Connection established
+[2025-11-05T23:20:15.414239] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.414187] [INFO] Configuration loaded
+[2025-11-05T23:20:15.414147] [INFO] Health check passed
+[2025-11-05T23:20:15.414260] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.414183] [INFO] Database query executed
+[2025-11-05T23:20:15.414244] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.414220] [ERROR] Database connection lost
+[2025-11-05T23:20:15.414200] [WARN] Slow query performance
+[2025-11-05T23:20:15.414230] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.414175] [INFO] Connection established
+[2025-11-05T23:20:15.414138] [INFO] Service initialized
+[2025-11-05T23:20:15.414206] [WARN] Disk space low
+[2025-11-05T23:20:15.414235] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.414252] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.414264] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.414191] [INFO] Configuration loaded
+[2025-11-05T23:20:15.414256] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.414143] [INFO] Configuration loaded
+[2025-11-05T23:20:15.414162] [INFO] Transaction completed
+[2025-11-05T23:20:15.414166] [INFO] Cache hit
+[2025-11-05T23:20:15.414153] [INFO] User logged in
+[2025-11-05T23:20:15.414171] [INFO] Health check passed
+[2025-11-05T23:20:15.414179] [INFO] Request processed successfully
+[2025-11-05T23:20:15.414225] [ERROR] Authentication failed
+[2025-11-05T23:20:15.414105] [INFO] Configuration loaded
+[2025-11-05T23:20:15.414215] [WARN] Connection retry attempt
+[2025-11-05T23:20:15.414132] [INFO] Configuration loaded

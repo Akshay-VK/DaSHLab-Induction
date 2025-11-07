@@ -1,0 +1,29 @@
+[2025-11-05T23:20:16.922745] [INFO] Configuration loaded
+[2025-11-05T23:20:16.922704] [INFO] Transaction completed
+[2025-11-05T23:20:16.922764] [WARN] Queue size growing
+[2025-11-05T23:20:16.922726] [INFO] Configuration loaded
+[2025-11-05T23:20:16.922812] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.922795] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.922736] [INFO] Session started
+[2025-11-05T23:20:16.922799] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.922780] [ERROR] Memory allocation error
+[2025-11-05T23:20:16.922718] [INFO] Cache hit
+[2025-11-05T23:20:16.922699] [INFO] Configuration loaded
+[2025-11-05T23:20:16.922714] [INFO] Configuration loaded
+[2025-11-05T23:20:16.922803] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.922753] [INFO] Cache hit
+[2025-11-05T23:20:16.922666] [INFO] Service initialized
+[2025-11-05T23:20:16.922816] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.922808] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:16.922730] [INFO] Session started
+[2025-11-05T23:20:16.922790] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.922709] [INFO] Request processed successfully
+[2025-11-05T23:20:16.922740] [INFO] Database query executed
+[2025-11-05T23:20:16.922749] [INFO] Health check passed
+[2025-11-05T23:20:16.922759] [WARN] Deprecated API usage
+[2025-11-05T23:20:16.922768] [WARN] Connection retry attempt
+[2025-11-05T23:20:16.922693] [INFO] Health check passed
+[2025-11-05T23:20:16.922820] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.922722] [INFO] Cache hit
+[2025-11-05T23:20:16.922773] [WARN] Queue size growing
+[2025-11-05T23:20:16.922785] [ERROR] Disk read failed

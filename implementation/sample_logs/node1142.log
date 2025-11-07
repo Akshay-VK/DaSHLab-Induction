@@ -1,0 +1,23 @@
+[2025-11-05T23:20:17.300881] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.300852] [INFO] Health check passed
+[2025-11-05T23:20:17.300890] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.300848] [INFO] Transaction completed
+[2025-11-05T23:20:17.300895] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.300831] [INFO] Health check passed
+[2025-11-05T23:20:17.300818] [INFO] Health check passed
+[2025-11-05T23:20:17.300876] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.300899] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.300856] [INFO] Database query executed
+[2025-11-05T23:20:17.300814] [INFO] Request processed successfully
+[2025-11-05T23:20:17.300840] [INFO] Health check passed
+[2025-11-05T23:20:17.300826] [INFO] Cache hit
+[2025-11-05T23:20:17.300885] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.300809] [INFO] Service initialized
+[2025-11-05T23:20:17.300871] [ERROR] Network timeout
+[2025-11-05T23:20:17.300860] [INFO] Service initialized
+[2025-11-05T23:20:17.300865] [WARN] Connection retry attempt
+[2025-11-05T23:20:17.300835] [INFO] Cache hit
+[2025-11-05T23:20:17.300803] [INFO] Transaction completed
+[2025-11-05T23:20:17.300822] [INFO] Transaction completed
+[2025-11-05T23:20:17.300844] [INFO] Database query executed
+[2025-11-05T23:20:17.300779] [INFO] Request processed successfully

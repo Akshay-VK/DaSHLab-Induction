@@ -1,0 +1,28 @@
+[2025-11-05T23:20:50.378175] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:50.378200] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.378100] [INFO] Configuration loaded
+[2025-11-05T23:20:50.378068] [INFO] Connection established
+[2025-11-05T23:20:50.378179] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.378127] [INFO] Transaction completed
+[2025-11-05T23:20:50.378163] [WARN] High memory usage detected
+[2025-11-05T23:20:50.378196] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.378141] [INFO] Request processed successfully
+[2025-11-05T23:20:50.378134] [INFO] Connection established
+[2025-11-05T23:20:50.378159] [WARN] Slow query performance
+[2025-11-05T23:20:50.378204] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.378115] [INFO] Configuration loaded
+[2025-11-05T23:20:50.378169] [ERROR] Service unavailable
+[2025-11-05T23:20:50.378149] [INFO] Transaction completed
+[2025-11-05T23:20:50.378111] [INFO] Transaction completed
+[2025-11-05T23:20:50.378145] [INFO] Configuration loaded
+[2025-11-05T23:20:50.378154] [WARN] Slow query performance
+[2025-11-05T23:20:50.378138] [INFO] Request processed successfully
+[2025-11-05T23:20:50.378119] [INFO] Health check passed
+[2025-11-05T23:20:50.378106] [INFO] Database query executed
+[2025-11-05T23:20:50.378123] [INFO] Service initialized
+[2025-11-05T23:20:50.378130] [INFO] User logged in
+[2025-11-05T23:20:50.378188] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:50.378192] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.378183] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.378095] [INFO] Request processed successfully
+[2025-11-05T23:20:50.378207] [DEBUG] HTTP request headers parsed

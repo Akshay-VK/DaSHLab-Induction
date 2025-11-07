@@ -1,0 +1,35 @@
+[2025-11-05T23:20:47.771912] [INFO] Session started
+[2025-11-05T23:20:47.771915] [INFO] Connection established
+[2025-11-05T23:20:47.771962] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.771927] [INFO] Cache hit
+[2025-11-05T23:20:47.771983] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.771972] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:47.772000] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.771747] [INFO] Connection established
+[2025-11-05T23:20:47.772003] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.771909] [INFO] Health check passed
+[2025-11-05T23:20:47.771987] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.771935] [WARN] High memory usage detected
+[2025-11-05T23:20:47.771990] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.771895] [INFO] Configuration loaded
+[2025-11-05T23:20:47.771943] [WARN] Timeout warning
+[2025-11-05T23:20:47.771898] [INFO] Service initialized
+[2025-11-05T23:20:47.771955] [ERROR] Memory allocation error
+[2025-11-05T23:20:47.771969] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.771958] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.771975] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.771930] [INFO] Cache hit
+[2025-11-05T23:20:47.771939] [WARN] Queue size growing
+[2025-11-05T23:20:47.771965] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.771924] [INFO] User logged in
+[2025-11-05T23:20:47.771996] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.771918] [INFO] Configuration loaded
+[2025-11-05T23:20:47.771946] [WARN] Cache miss
+[2025-11-05T23:20:47.771902] [INFO] Cache hit
+[2025-11-05T23:20:47.771979] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.771950] [ERROR] Database connection lost
+[2025-11-05T23:20:47.771892] [INFO] User logged in
+[2025-11-05T23:20:47.771993] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.771887] [INFO] Service initialized
+[2025-11-05T23:20:47.771905] [INFO] Session started
+[2025-11-05T23:20:47.771921] [INFO] Database query executed

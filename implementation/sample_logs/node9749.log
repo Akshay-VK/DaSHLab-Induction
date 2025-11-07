@@ -1,0 +1,27 @@
+[2025-11-05T23:20:53.079135] [INFO] Session started
+[2025-11-05T23:20:53.079207] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.079172] [INFO] Database query executed
+[2025-11-05T23:20:53.079215] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.079140] [INFO] Transaction completed
+[2025-11-05T23:20:53.079163] [INFO] Database query executed
+[2025-11-05T23:20:53.079236] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.079175] [INFO] Transaction completed
+[2025-11-05T23:20:53.079178] [INFO] Connection established
+[2025-11-05T23:20:53.079233] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.079221] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.079159] [INFO] Transaction completed
+[2025-11-05T23:20:53.079225] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.079182] [INFO] Transaction completed
+[2025-11-05T23:20:53.079229] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.079155] [INFO] Connection established
+[2025-11-05T23:20:53.079147] [INFO] Request processed successfully
+[2025-11-05T23:20:53.079186] [INFO] Configuration loaded
+[2025-11-05T23:20:53.079109] [INFO] Health check passed
+[2025-11-05T23:20:53.079197] [ERROR] File not found
+[2025-11-05T23:20:53.079202] [ERROR] Disk read failed
+[2025-11-05T23:20:53.079166] [INFO] Transaction completed
+[2025-11-05T23:20:53.079152] [INFO] Request processed successfully
+[2025-11-05T23:20:53.079191] [WARN] Slow query performance
+[2025-11-05T23:20:53.079211] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.079144] [INFO] Request processed successfully
+[2025-11-05T23:20:53.079169] [INFO] Connection established

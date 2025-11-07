@@ -1,0 +1,27 @@
+[2025-11-05T23:20:22.682606] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.682601] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.682556] [INFO] Health check passed
+[2025-11-05T23:20:22.682584] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:22.682510] [INFO] Request processed successfully
+[2025-11-05T23:20:22.682568] [ERROR] Request failed
+[2025-11-05T23:20:22.682588] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:22.682493] [INFO] Request processed successfully
+[2025-11-05T23:20:22.682611] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.682529] [INFO] Health check passed
+[2025-11-05T23:20:22.682505] [INFO] Request processed successfully
+[2025-11-05T23:20:22.682543] [INFO] Connection established
+[2025-11-05T23:20:22.682520] [INFO] Request processed successfully
+[2025-11-05T23:20:22.682579] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:22.682616] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.682539] [INFO] Service initialized
+[2025-11-05T23:20:22.682547] [INFO] Request processed successfully
+[2025-11-05T23:20:22.682574] [ERROR] Authentication failed
+[2025-11-05T23:20:22.682597] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.682515] [INFO] Cache hit
+[2025-11-05T23:20:22.682466] [INFO] Session started
+[2025-11-05T23:20:22.682592] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.682534] [INFO] Cache hit
+[2025-11-05T23:20:22.682551] [INFO] Database query executed
+[2025-11-05T23:20:22.682562] [WARN] Slow query performance
+[2025-11-05T23:20:22.682500] [INFO] Database query executed
+[2025-11-05T23:20:22.682525] [INFO] Cache hit

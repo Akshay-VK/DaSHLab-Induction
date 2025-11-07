@@ -1,0 +1,30 @@
+[2025-11-05T23:20:45.247121] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.247024] [INFO] User logged in
+[2025-11-05T23:20:45.247049] [INFO] Request processed successfully
+[2025-11-05T23:20:45.247114] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.247125] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.247033] [INFO] Health check passed
+[2025-11-05T23:20:45.247132] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.247085] [WARN] Cache miss
+[2025-11-05T23:20:45.247008] [INFO] Transaction completed
+[2025-11-05T23:20:45.247046] [INFO] Transaction completed
+[2025-11-05T23:20:45.247076] [WARN] Rate limit approaching
+[2025-11-05T23:20:45.247110] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.247015] [INFO] Request processed successfully
+[2025-11-05T23:20:45.247020] [INFO] Session started
+[2025-11-05T23:20:45.247029] [INFO] Service initialized
+[2025-11-05T23:20:45.247042] [INFO] Request processed successfully
+[2025-11-05T23:20:45.247065] [INFO] Health check passed
+[2025-11-05T23:20:45.247128] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.247053] [INFO] Cache hit
+[2025-11-05T23:20:45.247101] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.247057] [INFO] Health check passed
+[2025-11-05T23:20:45.247071] [WARN] Rate limit approaching
+[2025-11-05T23:20:45.247061] [INFO] Health check passed
+[2025-11-05T23:20:45.247080] [WARN] Cache miss
+[2025-11-05T23:20:45.247095] [ERROR] Invalid input data
+[2025-11-05T23:20:45.247117] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.247038] [INFO] Cache hit
+[2025-11-05T23:20:45.246983] [INFO] Database query executed
+[2025-11-05T23:20:45.247089] [WARN] High memory usage detected
+[2025-11-05T23:20:45.247106] [DEBUG] Loop iteration: 15

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:25.406112] [INFO] Health check passed
+[2025-11-05T23:20:25.406099] [INFO] Service initialized
+[2025-11-05T23:20:25.406108] [INFO] Database query executed
+[2025-11-05T23:20:25.406198] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.406127] [INFO] Connection established
+[2025-11-05T23:20:25.406094] [INFO] Health check passed
+[2025-11-05T23:20:25.406194] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.406103] [INFO] User logged in
+[2025-11-05T23:20:25.406185] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.406181] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.406172] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.406207] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.406155] [ERROR] Database connection lost
+[2025-11-05T23:20:25.406088] [INFO] Health check passed
+[2025-11-05T23:20:25.406136] [INFO] Database query executed
+[2025-11-05T23:20:25.406121] [INFO] Session started
+[2025-11-05T23:20:25.406061] [INFO] User logged in
+[2025-11-05T23:20:25.406219] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.406160] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.406165] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.406223] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.406190] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.406149] [ERROR] Database connection lost
+[2025-11-05T23:20:25.406211] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.406176] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.406215] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.406117] [INFO] Request processed successfully
+[2025-11-05T23:20:25.406202] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.406131] [INFO] Cache hit
+[2025-11-05T23:20:25.406142] [WARN] High memory usage detected

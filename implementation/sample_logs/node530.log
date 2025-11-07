@@ -1,0 +1,27 @@
+[2025-11-05T23:20:14.711812] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.711800] [INFO] Cache hit
+[2025-11-05T23:20:14.711842] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.711764] [INFO] Health check passed
+[2025-11-05T23:20:14.711792] [INFO] Database query executed
+[2025-11-05T23:20:14.711838] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.711852] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.711712] [INFO] Session started
+[2025-11-05T23:20:14.711787] [INFO] Request processed successfully
+[2025-11-05T23:20:14.711778] [INFO] Database query executed
+[2025-11-05T23:20:14.711744] [INFO] Connection established
+[2025-11-05T23:20:14.711830] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.711769] [INFO] Service initialized
+[2025-11-05T23:20:14.711847] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.711856] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.711773] [INFO] User logged in
+[2025-11-05T23:20:14.711819] [ERROR] Network timeout
+[2025-11-05T23:20:14.711796] [INFO] Transaction completed
+[2025-11-05T23:20:14.711783] [INFO] Transaction completed
+[2025-11-05T23:20:14.711755] [INFO] Session started
+[2025-11-05T23:20:14.711759] [INFO] Configuration loaded
+[2025-11-05T23:20:14.711825] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.711833] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.711806] [WARN] High memory usage detected
+[2025-11-05T23:20:14.711749] [INFO] Cache hit
+[2025-11-05T23:20:14.711861] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.711739] [INFO] User logged in

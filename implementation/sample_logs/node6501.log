@@ -1,0 +1,29 @@
+[2025-11-05T23:20:39.666525] [INFO] Service initialized
+[2025-11-05T23:20:39.666563] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.666520] [INFO] Health check passed
+[2025-11-05T23:20:39.666587] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.666541] [WARN] Deprecated API usage
+[2025-11-05T23:20:39.666503] [INFO] Cache hit
+[2025-11-05T23:20:39.666591] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.666486] [INFO] Transaction completed
+[2025-11-05T23:20:39.666498] [INFO] Configuration loaded
+[2025-11-05T23:20:39.666511] [INFO] Health check passed
+[2025-11-05T23:20:39.666584] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.666558] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.666536] [WARN] High memory usage detected
+[2025-11-05T23:20:39.666507] [INFO] Session started
+[2025-11-05T23:20:39.666576] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.666495] [INFO] Transaction completed
+[2025-11-05T23:20:39.666433] [INFO] User logged in
+[2025-11-05T23:20:39.666530] [WARN] Queue size growing
+[2025-11-05T23:20:39.666515] [INFO] Session started
+[2025-11-05T23:20:39.666477] [INFO] Request processed successfully
+[2025-11-05T23:20:39.666580] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:39.666482] [INFO] Cache hit
+[2025-11-05T23:20:39.666545] [WARN] Deprecated API usage
+[2025-11-05T23:20:39.666551] [ERROR] Memory allocation error
+[2025-11-05T23:20:39.666567] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:39.666472] [INFO] Configuration loaded
+[2025-11-05T23:20:39.666571] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.666466] [INFO] User logged in
+[2025-11-05T23:20:39.666491] [INFO] Request processed successfully

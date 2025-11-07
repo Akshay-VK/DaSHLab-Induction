@@ -1,0 +1,30 @@
+[2025-11-05T23:20:26.640918] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.640869] [INFO] Health check passed
+[2025-11-05T23:20:26.640915] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.640850] [INFO] Session started
+[2025-11-05T23:20:26.640825] [INFO] Transaction completed
+[2025-11-05T23:20:26.640909] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.640860] [INFO] User logged in
+[2025-11-05T23:20:26.640902] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.640905] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.640854] [INFO] Transaction completed
+[2025-11-05T23:20:26.640921] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.640891] [ERROR] Disk read failed
+[2025-11-05T23:20:26.640899] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.640833] [INFO] User logged in
+[2025-11-05T23:20:26.640837] [INFO] Database query executed
+[2025-11-05T23:20:26.640863] [INFO] Connection established
+[2025-11-05T23:20:26.640884] [WARN] Connection retry attempt
+[2025-11-05T23:20:26.640800] [INFO] Database query executed
+[2025-11-05T23:20:26.640877] [WARN] Deprecated API usage
+[2025-11-05T23:20:26.640881] [WARN] Connection retry attempt
+[2025-11-05T23:20:26.640843] [INFO] Request processed successfully
+[2025-11-05T23:20:26.640840] [INFO] Request processed successfully
+[2025-11-05T23:20:26.640912] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.640847] [INFO] User logged in
+[2025-11-05T23:20:26.640873] [WARN] Timeout warning
+[2025-11-05T23:20:26.640857] [INFO] Transaction completed
+[2025-11-05T23:20:26.640888] [ERROR] File not found
+[2025-11-05T23:20:26.640866] [INFO] Service initialized
+[2025-11-05T23:20:26.640829] [INFO] Configuration loaded
+[2025-11-05T23:20:26.640896] [DEBUG] Variable value: x=42

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:50.121371] [ERROR] Disk read failed
+[2025-11-05T23:20:50.121392] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:50.121236] [INFO] Cache hit
+[2025-11-05T23:20:50.121332] [INFO] Service initialized
+[2025-11-05T23:20:50.121377] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.121266] [INFO] Connection established
+[2025-11-05T23:20:50.121245] [INFO] Service initialized
+[2025-11-05T23:20:50.121317] [INFO] User logged in
+[2025-11-05T23:20:50.121409] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.121262] [INFO] Configuration loaded
+[2025-11-05T23:20:50.121413] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:50.121348] [WARN] Cache miss
+[2025-11-05T23:20:50.121204] [INFO] Connection established
+[2025-11-05T23:20:50.121258] [INFO] Connection established
+[2025-11-05T23:20:50.121241] [INFO] Cache hit
+[2025-11-05T23:20:50.121343] [WARN] Connection retry attempt
+[2025-11-05T23:20:50.121352] [WARN] Connection retry attempt
+[2025-11-05T23:20:50.121366] [ERROR] Authentication failed
+[2025-11-05T23:20:50.121382] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:50.121323] [INFO] Request processed successfully
+[2025-11-05T23:20:50.121254] [INFO] Transaction completed
+[2025-11-05T23:20:50.121396] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.121356] [WARN] Disk space low
+[2025-11-05T23:20:50.121404] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:50.121387] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:50.121271] [INFO] Service initialized
+[2025-11-05T23:20:50.121230] [INFO] Request processed successfully
+[2025-11-05T23:20:50.121327] [INFO] Session started
+[2025-11-05T23:20:50.121360] [WARN] Slow query performance
+[2025-11-05T23:20:50.121250] [INFO] Database query executed
+[2025-11-05T23:20:50.121400] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:50.121338] [WARN] Rate limit approaching

@@ -1,0 +1,33 @@
+[2025-11-05T23:20:46.410684] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.410670] [ERROR] Invalid input data
+[2025-11-05T23:20:46.410710] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.410693] [DEBUG] Cache key generated
+[2025-11-05T23:20:46.410701] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.410600] [INFO] Connection established
+[2025-11-05T23:20:46.410718] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.410625] [INFO] Health check passed
+[2025-11-05T23:20:46.410714] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.410609] [INFO] Connection established
+[2025-11-05T23:20:46.410722] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.410656] [WARN] Cache miss
+[2025-11-05T23:20:46.410560] [INFO] Cache hit
+[2025-11-05T23:20:46.410641] [INFO] Cache hit
+[2025-11-05T23:20:46.410605] [INFO] Connection established
+[2025-11-05T23:20:46.410651] [WARN] Timeout warning
+[2025-11-05T23:20:46.410646] [WARN] Disk space low
+[2025-11-05T23:20:46.410585] [INFO] User logged in
+[2025-11-05T23:20:46.410675] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.410633] [INFO] Database query executed
+[2025-11-05T23:20:46.410596] [INFO] Database query executed
+[2025-11-05T23:20:46.410616] [INFO] Session started
+[2025-11-05T23:20:46.410591] [INFO] Health check passed
+[2025-11-05T23:20:46.410665] [ERROR] Invalid input data
+[2025-11-05T23:20:46.410621] [INFO] Cache hit
+[2025-11-05T23:20:46.410660] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.410680] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.410613] [INFO] Database query executed
+[2025-11-05T23:20:46.410705] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.410629] [INFO] Session started
+[2025-11-05T23:20:46.410637] [INFO] Configuration loaded
+[2025-11-05T23:20:46.410697] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.410689] [DEBUG] HTTP request headers parsed

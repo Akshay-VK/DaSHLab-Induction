@@ -1,0 +1,33 @@
+[2025-11-05T23:20:17.144999] [WARN] Timeout warning
+[2025-11-05T23:20:17.145044] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.144936] [INFO] Transaction completed
+[2025-11-05T23:20:17.145034] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.144918] [INFO] Configuration loaded
+[2025-11-05T23:20:17.144903] [INFO] Connection established
+[2025-11-05T23:20:17.145005] [WARN] High memory usage detected
+[2025-11-05T23:20:17.144946] [INFO] Database query executed
+[2025-11-05T23:20:17.145063] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.144976] [INFO] Database query executed
+[2025-11-05T23:20:17.144952] [INFO] Database query executed
+[2025-11-05T23:20:17.144930] [INFO] Connection established
+[2025-11-05T23:20:17.144957] [INFO] Service initialized
+[2025-11-05T23:20:17.145039] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.145016] [ERROR] Service unavailable
+[2025-11-05T23:20:17.144981] [INFO] Connection established
+[2025-11-05T23:20:17.144877] [INFO] Cache hit
+[2025-11-05T23:20:17.145058] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.145022] [ERROR] Network timeout
+[2025-11-05T23:20:17.145009] [WARN] Connection retry attempt
+[2025-11-05T23:20:17.144971] [INFO] User logged in
+[2025-11-05T23:20:17.144910] [INFO] Transaction completed
+[2025-11-05T23:20:17.145028] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.144941] [INFO] Service initialized
+[2025-11-05T23:20:17.144988] [WARN] Resource threshold approaching
+[2025-11-05T23:20:17.145073] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.145054] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.144994] [WARN] Cache miss
+[2025-11-05T23:20:17.145049] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.144962] [INFO] Connection established
+[2025-11-05T23:20:17.145069] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.144924] [INFO] Database query executed
+[2025-11-05T23:20:17.144966] [INFO] Health check passed

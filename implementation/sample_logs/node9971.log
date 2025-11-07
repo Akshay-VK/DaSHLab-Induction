@@ -1,0 +1,26 @@
+[2025-11-05T23:20:53.947909] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.947926] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.947915] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.947801] [INFO] Configuration loaded
+[2025-11-05T23:20:53.947937] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.947921] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.947873] [WARN] Cache miss
+[2025-11-05T23:20:53.947898] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.947931] [DEBUG] Cache key generated
+[2025-11-05T23:20:53.947829] [INFO] Session started
+[2025-11-05T23:20:53.947863] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.947858] [WARN] Resource threshold approaching
+[2025-11-05T23:20:53.947813] [INFO] Connection established
+[2025-11-05T23:20:53.947834] [INFO] Configuration loaded
+[2025-11-05T23:20:53.947775] [INFO] Configuration loaded
+[2025-11-05T23:20:53.947808] [INFO] Configuration loaded
+[2025-11-05T23:20:53.947844] [INFO] Request processed successfully
+[2025-11-05T23:20:53.947892] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.947880] [ERROR] Service unavailable
+[2025-11-05T23:20:53.947852] [WARN] Resource threshold approaching
+[2025-11-05T23:20:53.947868] [WARN] Connection retry attempt
+[2025-11-05T23:20:53.947824] [INFO] Request processed successfully
+[2025-11-05T23:20:53.947885] [ERROR] Request failed
+[2025-11-05T23:20:53.947904] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.947819] [INFO] Service initialized
+[2025-11-05T23:20:53.947839] [INFO] Session started

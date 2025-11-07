@@ -1,0 +1,31 @@
+[2025-11-05T23:20:41.360400] [WARN] Slow query performance
+[2025-11-05T23:20:41.360349] [INFO] Configuration loaded
+[2025-11-05T23:20:41.360329] [INFO] Session started
+[2025-11-05T23:20:41.360417] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.360362] [INFO] Connection established
+[2025-11-05T23:20:41.360334] [INFO] Connection established
+[2025-11-05T23:20:41.360433] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.360354] [INFO] Health check passed
+[2025-11-05T23:20:41.360437] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.360395] [WARN] Cache miss
+[2025-11-05T23:20:41.360443] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.360358] [INFO] Transaction completed
+[2025-11-05T23:20:41.360456] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.360461] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.360366] [INFO] Health check passed
+[2025-11-05T23:20:41.360411] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.360423] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.360375] [INFO] User logged in
+[2025-11-05T23:20:41.360370] [INFO] Request processed successfully
+[2025-11-05T23:20:41.360339] [INFO] Cache hit
+[2025-11-05T23:20:41.360452] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.360344] [INFO] Service initialized
+[2025-11-05T23:20:41.360381] [WARN] Cache miss
+[2025-11-05T23:20:41.360428] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.360406] [ERROR] File not found
+[2025-11-05T23:20:41.360297] [INFO] Health check passed
+[2025-11-05T23:20:41.360386] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.360465] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.360323] [INFO] Configuration loaded
+[2025-11-05T23:20:41.360391] [WARN] Queue size growing
+[2025-11-05T23:20:41.360447] [DEBUG] Thread pool size: 8

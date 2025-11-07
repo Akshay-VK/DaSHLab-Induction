@@ -1,0 +1,32 @@
+[2025-11-05T23:20:14.744879] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.744804] [INFO] Health check passed
+[2025-11-05T23:20:14.744786] [INFO] Health check passed
+[2025-11-05T23:20:14.744837] [WARN] Disk space low
+[2025-11-05T23:20:14.744870] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.744830] [WARN] Disk space low
+[2025-11-05T23:20:14.744808] [INFO] Request processed successfully
+[2025-11-05T23:20:14.744814] [INFO] User logged in
+[2025-11-05T23:20:14.744855] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.744843] [ERROR] Memory allocation error
+[2025-11-05T23:20:14.744825] [WARN] Slow query performance
+[2025-11-05T23:20:14.744874] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.744800] [INFO] Session started
+[2025-11-05T23:20:14.744888] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.744777] [INFO] Request processed successfully
+[2025-11-05T23:20:14.744795] [INFO] Cache hit
+[2025-11-05T23:20:14.744864] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.744892] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.744883] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.744782] [INFO] Session started
+[2025-11-05T23:20:14.744791] [INFO] User logged in
+[2025-11-05T23:20:14.744896] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.744850] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.744752] [INFO] Connection established
+[2025-11-05T23:20:14.744773] [INFO] Configuration loaded
+[2025-11-05T23:20:14.744724] [INFO] Connection established
+[2025-11-05T23:20:14.744763] [INFO] Session started
+[2025-11-05T23:20:14.744768] [INFO] Health check passed
+[2025-11-05T23:20:14.744860] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.744757] [INFO] Configuration loaded
+[2025-11-05T23:20:14.744820] [WARN] Rate limit approaching
+[2025-11-05T23:20:14.744901] [DEBUG] Loop iteration: 15

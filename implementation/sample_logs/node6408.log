@@ -1,0 +1,35 @@
+[2025-11-05T23:20:39.267986] [INFO] Cache hit
+[2025-11-05T23:20:39.267955] [INFO] Database query executed
+[2025-11-05T23:20:39.268029] [ERROR] Database connection lost
+[2025-11-05T23:20:39.267968] [INFO] Cache hit
+[2025-11-05T23:20:39.267945] [INFO] Connection established
+[2025-11-05T23:20:39.268005] [WARN] Connection retry attempt
+[2025-11-05T23:20:39.267939] [INFO] Health check passed
+[2025-11-05T23:20:39.268039] [ERROR] Request failed
+[2025-11-05T23:20:39.267950] [INFO] Configuration loaded
+[2025-11-05T23:20:39.267972] [INFO] Cache hit
+[2025-11-05T23:20:39.267982] [INFO] Health check passed
+[2025-11-05T23:20:39.267995] [INFO] Configuration loaded
+[2025-11-05T23:20:39.268010] [WARN] Slow query performance
+[2025-11-05T23:20:39.267999] [INFO] Database query executed
+[2025-11-05T23:20:39.267990] [INFO] Cache hit
+[2025-11-05T23:20:39.268015] [WARN] Connection retry attempt
+[2025-11-05T23:20:39.268076] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.267959] [INFO] Configuration loaded
+[2025-11-05T23:20:39.268024] [WARN] Deprecated API usage
+[2025-11-05T23:20:39.268085] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.267912] [INFO] Request processed successfully
+[2025-11-05T23:20:39.268068] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.268094] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.268063] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.267964] [INFO] Request processed successfully
+[2025-11-05T23:20:39.268019] [WARN] Deprecated API usage
+[2025-11-05T23:20:39.267977] [INFO] Service initialized
+[2025-11-05T23:20:39.268080] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.268090] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:39.268055] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.268072] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.268050] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.268035] [ERROR] Disk read failed
+[2025-11-05T23:20:39.268045] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:39.268059] [DEBUG] Memory allocation: 2048 bytes

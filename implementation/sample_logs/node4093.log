@@ -1,0 +1,29 @@
+[2025-11-05T23:20:30.003968] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.003933] [WARN] Deprecated API usage
+[2025-11-05T23:20:30.003950] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.003985] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.003902] [INFO] Health check passed
+[2025-11-05T23:20:30.003915] [INFO] Health check passed
+[2025-11-05T23:20:30.003927] [INFO] Database query executed
+[2025-11-05T23:20:30.003872] [INFO] Configuration loaded
+[2025-11-05T23:20:30.003972] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.003977] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.003893] [INFO] Database query executed
+[2025-11-05T23:20:30.003906] [INFO] Database query executed
+[2025-11-05T23:20:30.003944] [ERROR] Database connection lost
+[2025-11-05T23:20:30.003885] [INFO] Health check passed
+[2025-11-05T23:20:30.003911] [INFO] Session started
+[2025-11-05T23:20:30.003963] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.003834] [INFO] Configuration loaded
+[2025-11-05T23:20:30.003876] [INFO] Cache hit
+[2025-11-05T23:20:30.003939] [ERROR] Disk read failed
+[2025-11-05T23:20:30.003959] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.003923] [INFO] Request processed successfully
+[2025-11-05T23:20:30.003861] [INFO] Configuration loaded
+[2025-11-05T23:20:30.003898] [INFO] Request processed successfully
+[2025-11-05T23:20:30.003981] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.003919] [INFO] Health check passed
+[2025-11-05T23:20:30.003881] [INFO] Cache hit
+[2025-11-05T23:20:30.003889] [INFO] Cache hit
+[2025-11-05T23:20:30.003955] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.003867] [INFO] Configuration loaded

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:12.967802] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.967785] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:12.967665] [INFO] Request processed successfully
+[2025-11-05T23:20:12.967714] [INFO] Session started
+[2025-11-05T23:20:12.967755] [ERROR] Permission denied
+[2025-11-05T23:20:12.967764] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.967789] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:12.967770] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:12.967689] [INFO] Session started
+[2025-11-05T23:20:12.967674] [INFO] Cache hit
+[2025-11-05T23:20:12.967695] [INFO] Health check passed
+[2025-11-05T23:20:12.967781] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:12.967723] [INFO] Session started
+[2025-11-05T23:20:12.967734] [WARN] High memory usage detected
+[2025-11-05T23:20:12.967626] [INFO] Connection established
+[2025-11-05T23:20:12.967740] [WARN] High memory usage detected
+[2025-11-05T23:20:12.967728] [INFO] Health check passed
+[2025-11-05T23:20:12.967759] [ERROR] Network timeout
+[2025-11-05T23:20:12.967749] [WARN] Rate limit approaching
+[2025-11-05T23:20:12.967660] [INFO] Request processed successfully
+[2025-11-05T23:20:12.967654] [INFO] Session started
+[2025-11-05T23:20:12.967700] [INFO] Cache hit
+[2025-11-05T23:20:12.967678] [INFO] Session started
+[2025-11-05T23:20:12.967718] [INFO] Database query executed
+[2025-11-05T23:20:12.967684] [INFO] Cache hit
+[2025-11-05T23:20:12.967744] [WARN] High memory usage detected
+[2025-11-05T23:20:12.967704] [INFO] Transaction completed
+[2025-11-05T23:20:12.967777] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:12.967798] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.967710] [INFO] Transaction completed
+[2025-11-05T23:20:12.967793] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:12.967669] [INFO] Connection established

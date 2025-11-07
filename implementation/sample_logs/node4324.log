@@ -1,0 +1,24 @@
+[2025-11-05T23:20:30.961294] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.961211] [INFO] Request processed successfully
+[2025-11-05T23:20:30.961237] [INFO] Health check passed
+[2025-11-05T23:20:30.961258] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.961220] [INFO] Connection established
+[2025-11-05T23:20:30.961276] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.961263] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.961202] [INFO] User logged in
+[2025-11-05T23:20:30.961233] [INFO] Request processed successfully
+[2025-11-05T23:20:30.961190] [INFO] Cache hit
+[2025-11-05T23:20:30.961225] [INFO] Database query executed
+[2025-11-05T23:20:30.961207] [INFO] Cache hit
+[2025-11-05T23:20:30.961167] [INFO] Transaction completed
+[2025-11-05T23:20:30.961267] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.961281] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.961247] [WARN] High memory usage detected
+[2025-11-05T23:20:30.961229] [INFO] Service initialized
+[2025-11-05T23:20:30.961290] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.961242] [WARN] Timeout warning
+[2025-11-05T23:20:30.961253] [ERROR] Invalid input data
+[2025-11-05T23:20:30.961196] [INFO] Connection established
+[2025-11-05T23:20:30.961272] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.961216] [INFO] Service initialized
+[2025-11-05T23:20:30.961286] [DEBUG] Cache key generated

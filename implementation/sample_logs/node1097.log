@@ -1,0 +1,21 @@
+[2025-11-05T23:20:17.134883] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.134873] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.134868] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.134853] [ERROR] Authentication failed
+[2025-11-05T23:20:17.134808] [INFO] User logged in
+[2025-11-05T23:20:17.134833] [WARN] Resource threshold approaching
+[2025-11-05T23:20:17.134843] [WARN] Cache miss
+[2025-11-05T23:20:17.134798] [INFO] Cache hit
+[2025-11-05T23:20:17.134887] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.134858] [ERROR] Request failed
+[2025-11-05T23:20:17.134839] [WARN] Connection retry attempt
+[2025-11-05T23:20:17.134818] [INFO] Configuration loaded
+[2025-11-05T23:20:17.134764] [INFO] Session started
+[2025-11-05T23:20:17.134813] [INFO] Request processed successfully
+[2025-11-05T23:20:17.134827] [INFO] Transaction completed
+[2025-11-05T23:20:17.134803] [INFO] Health check passed
+[2025-11-05T23:20:17.134791] [INFO] Transaction completed
+[2025-11-05T23:20:17.134863] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.134878] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.134823] [INFO] Cache hit
+[2025-11-05T23:20:17.134848] [WARN] Resource threshold approaching

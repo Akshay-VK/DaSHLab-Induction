@@ -1,0 +1,29 @@
+[2025-11-05T23:20:24.427252] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.427180] [INFO] Cache hit
+[2025-11-05T23:20:24.427140] [INFO] Configuration loaded
+[2025-11-05T23:20:24.427261] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.427228] [ERROR] Request failed
+[2025-11-05T23:20:24.427239] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.427248] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.427213] [WARN] High memory usage detected
+[2025-11-05T23:20:24.427257] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.427189] [INFO] Request processed successfully
+[2025-11-05T23:20:24.427184] [INFO] Request processed successfully
+[2025-11-05T23:20:24.427265] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.427146] [INFO] Session started
+[2025-11-05T23:20:24.427114] [INFO] Configuration loaded
+[2025-11-05T23:20:24.427198] [INFO] Session started
+[2025-11-05T23:20:24.427193] [INFO] Database query executed
+[2025-11-05T23:20:24.427175] [INFO] Service initialized
+[2025-11-05T23:20:24.427151] [INFO] Service initialized
+[2025-11-05T23:20:24.427218] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.427234] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.427156] [INFO] Request processed successfully
+[2025-11-05T23:20:24.427244] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.427202] [INFO] Configuration loaded
+[2025-11-05T23:20:24.427162] [INFO] Configuration loaded
+[2025-11-05T23:20:24.427171] [INFO] Connection established
+[2025-11-05T23:20:24.427166] [INFO] Request processed successfully
+[2025-11-05T23:20:24.427269] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.427223] [WARN] High memory usage detected
+[2025-11-05T23:20:24.427208] [WARN] Connection retry attempt

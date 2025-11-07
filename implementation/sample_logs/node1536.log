@@ -1,0 +1,36 @@
+[2025-11-05T23:20:19.064290] [WARN] High memory usage detected
+[2025-11-05T23:20:19.064405] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:19.064140] [INFO] Connection established
+[2025-11-05T23:20:19.064133] [INFO] Cache hit
+[2025-11-05T23:20:19.064374] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.064145] [INFO] Request processed successfully
+[2025-11-05T23:20:19.064396] [DEBUG] Cache key generated
+[2025-11-05T23:20:19.064098] [INFO] Session started
+[2025-11-05T23:20:19.064127] [INFO] Cache hit
+[2025-11-05T23:20:19.064153] [INFO] Database query executed
+[2025-11-05T23:20:19.064217] [INFO] Health check passed
+[2025-11-05T23:20:19.064401] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:19.064269] [INFO] Cache hit
+[2025-11-05T23:20:19.064229] [INFO] Transaction completed
+[2025-11-05T23:20:19.064383] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.064281] [WARN] Connection retry attempt
+[2025-11-05T23:20:19.064361] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:19.064150] [INFO] Session started
+[2025-11-05T23:20:19.064369] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:19.064295] [WARN] Cache miss
+[2025-11-05T23:20:19.064252] [INFO] Health check passed
+[2025-11-05T23:20:19.064234] [INFO] Connection established
+[2025-11-05T23:20:19.064308] [ERROR] Network timeout
+[2025-11-05T23:20:19.064224] [INFO] Transaction completed
+[2025-11-05T23:20:19.064256] [INFO] User logged in
+[2025-11-05T23:20:19.064265] [INFO] Service initialized
+[2025-11-05T23:20:19.064238] [INFO] Health check passed
+[2025-11-05T23:20:19.064247] [INFO] Service initialized
+[2025-11-05T23:20:19.064285] [WARN] Timeout warning
+[2025-11-05T23:20:19.064387] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.064391] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:19.064261] [INFO] Cache hit
+[2025-11-05T23:20:19.064379] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:19.064301] [ERROR] Network timeout
+[2025-11-05T23:20:19.064242] [INFO] Configuration loaded
+[2025-11-05T23:20:19.064276] [WARN] Resource threshold approaching

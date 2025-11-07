@@ -1,0 +1,32 @@
+[2025-11-05T23:20:51.808307] [INFO] Connection established
+[2025-11-05T23:20:51.808290] [INFO] Service initialized
+[2025-11-05T23:20:51.808316] [INFO] Health check passed
+[2025-11-05T23:20:51.808347] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.808287] [INFO] Transaction completed
+[2025-11-05T23:20:51.808310] [INFO] Cache hit
+[2025-11-05T23:20:51.808354] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.808322] [INFO] Transaction completed
+[2025-11-05T23:20:51.808360] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.808278] [INFO] User logged in
+[2025-11-05T23:20:51.808383] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.808370] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.808326] [WARN] Slow query performance
+[2025-11-05T23:20:51.808337] [WARN] Queue size growing
+[2025-11-05T23:20:51.808313] [INFO] Service initialized
+[2025-11-05T23:20:51.808380] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.808373] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.808294] [INFO] Health check passed
+[2025-11-05T23:20:51.808350] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.808319] [INFO] Service initialized
+[2025-11-05T23:20:51.808252] [INFO] Health check passed
+[2025-11-05T23:20:51.808341] [ERROR] Memory allocation error
+[2025-11-05T23:20:51.808303] [INFO] Connection established
+[2025-11-05T23:20:51.808334] [WARN] Slow query performance
+[2025-11-05T23:20:51.808367] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.808357] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.808283] [INFO] Service initialized
+[2025-11-05T23:20:51.808364] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.808330] [WARN] Resource threshold approaching
+[2025-11-05T23:20:51.808376] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.808297] [INFO] Configuration loaded
+[2025-11-05T23:20:51.808300] [INFO] Request processed successfully

@@ -1,0 +1,27 @@
+[2025-11-05T23:20:11.793217] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.793140] [INFO] Cache hit
+[2025-11-05T23:20:11.793129] [INFO] Session started
+[2025-11-05T23:20:11.793185] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.793179] [ERROR] Memory allocation error
+[2025-11-05T23:20:11.793072] [INFO] Health check passed
+[2025-11-05T23:20:11.793204] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:11.793212] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:11.793152] [INFO] User logged in
+[2025-11-05T23:20:11.793196] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.793146] [INFO] User logged in
+[2025-11-05T23:20:11.793199] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:11.793134] [INFO] Cache hit
+[2025-11-05T23:20:11.793097] [INFO] Database query executed
+[2025-11-05T23:20:11.793105] [INFO] Health check passed
+[2025-11-05T23:20:11.793124] [INFO] Database query executed
+[2025-11-05T23:20:11.793156] [INFO] Request processed successfully
+[2025-11-05T23:20:11.793114] [INFO] Configuration loaded
+[2025-11-05T23:20:11.793167] [WARN] High memory usage detected
+[2025-11-05T23:20:11.793208] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.793024] [INFO] Health check passed
+[2025-11-05T23:20:11.793161] [INFO] Request processed successfully
+[2025-11-05T23:20:11.793120] [INFO] Connection established
+[2025-11-05T23:20:11.793191] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.793174] [ERROR] Memory allocation error
+[2025-11-05T23:20:11.793221] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:11.793109] [INFO] Request processed successfully

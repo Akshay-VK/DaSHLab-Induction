@@ -1,0 +1,28 @@
+[2025-11-05T23:20:42.809120] [WARN] Timeout warning
+[2025-11-05T23:20:42.809057] [INFO] Health check passed
+[2025-11-05T23:20:42.809101] [WARN] High memory usage detected
+[2025-11-05T23:20:42.809155] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.809146] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.809126] [ERROR] Memory allocation error
+[2025-11-05T23:20:42.809045] [INFO] Configuration loaded
+[2025-11-05T23:20:42.809086] [INFO] Transaction completed
+[2025-11-05T23:20:42.809174] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:42.809051] [INFO] Connection established
+[2025-11-05T23:20:42.809072] [INFO] Transaction completed
+[2025-11-05T23:20:42.809169] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:42.809090] [INFO] Health check passed
+[2025-11-05T23:20:42.809111] [WARN] Disk space low
+[2025-11-05T23:20:42.809116] [WARN] Queue size growing
+[2025-11-05T23:20:42.809081] [INFO] Cache hit
+[2025-11-05T23:20:42.809062] [INFO] Database query executed
+[2025-11-05T23:20:42.809077] [INFO] Transaction completed
+[2025-11-05T23:20:42.809160] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:42.809131] [ERROR] Network timeout
+[2025-11-05T23:20:42.809095] [INFO] Transaction completed
+[2025-11-05T23:20:42.809137] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.809151] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:42.809142] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:42.809106] [WARN] Cache miss
+[2025-11-05T23:20:42.809165] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:42.809019] [INFO] Session started
+[2025-11-05T23:20:42.809067] [INFO] Health check passed

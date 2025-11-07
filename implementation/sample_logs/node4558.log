@@ -1,0 +1,36 @@
+[2025-11-05T23:20:31.899575] [INFO] Database query executed
+[2025-11-05T23:20:31.899566] [INFO] Cache hit
+[2025-11-05T23:20:31.899529] [INFO] Session started
+[2025-11-05T23:20:31.899534] [INFO] Database query executed
+[2025-11-05T23:20:31.899600] [ERROR] File not found
+[2025-11-05T23:20:31.899519] [INFO] Cache hit
+[2025-11-05T23:20:31.899481] [INFO] Health check passed
+[2025-11-05T23:20:31.899581] [WARN] Cache miss
+[2025-11-05T23:20:31.899571] [INFO] Request processed successfully
+[2025-11-05T23:20:31.899626] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.899548] [INFO] Request processed successfully
+[2025-11-05T23:20:31.899610] [ERROR] Memory allocation error
+[2025-11-05T23:20:31.899615] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.899591] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.899668] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.899508] [INFO] Database query executed
+[2025-11-05T23:20:31.899630] [DEBUG] Cache key generated
+[2025-11-05T23:20:31.899561] [INFO] Configuration loaded
+[2025-11-05T23:20:31.899672] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:31.899653] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.899605] [ERROR] Database connection lost
+[2025-11-05T23:20:31.899634] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.899621] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:31.899543] [INFO] Service initialized
+[2025-11-05T23:20:31.899595] [WARN] High memory usage detected
+[2025-11-05T23:20:31.899557] [INFO] Transaction completed
+[2025-11-05T23:20:31.899657] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.899587] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.899639] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.899663] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:31.899539] [INFO] Configuration loaded
+[2025-11-05T23:20:31.899644] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.899514] [INFO] Request processed successfully
+[2025-11-05T23:20:31.899648] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.899552] [INFO] Transaction completed
+[2025-11-05T23:20:31.899524] [INFO] User logged in

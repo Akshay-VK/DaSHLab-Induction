@@ -1,0 +1,29 @@
+[2025-11-05T23:20:48.162195] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:48.162152] [ERROR] Invalid input data
+[2025-11-05T23:20:48.162171] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:48.162108] [INFO] User logged in
+[2025-11-05T23:20:48.162120] [INFO] Cache hit
+[2025-11-05T23:20:48.162132] [INFO] Transaction completed
+[2025-11-05T23:20:48.162204] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.162090] [INFO] Cache hit
+[2025-11-05T23:20:48.162165] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:48.162181] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:48.162100] [INFO] Service initialized
+[2025-11-05T23:20:48.162160] [ERROR] Authentication failed
+[2025-11-05T23:20:48.162207] [DEBUG] Cache key generated
+[2025-11-05T23:20:48.162116] [INFO] Session started
+[2025-11-05T23:20:48.162147] [ERROR] Memory allocation error
+[2025-11-05T23:20:48.162095] [INFO] Connection established
+[2025-11-05T23:20:48.162112] [INFO] Transaction completed
+[2025-11-05T23:20:48.162104] [INFO] Database query executed
+[2025-11-05T23:20:48.162128] [INFO] Request processed successfully
+[2025-11-05T23:20:48.162186] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:48.162124] [INFO] Request processed successfully
+[2025-11-05T23:20:48.162156] [ERROR] Invalid input data
+[2025-11-05T23:20:48.162200] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:48.162060] [INFO] Database query executed
+[2025-11-05T23:20:48.162136] [INFO] Session started
+[2025-11-05T23:20:48.162085] [INFO] Configuration loaded
+[2025-11-05T23:20:48.162176] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:48.162191] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:48.162141] [WARN] Deprecated API usage

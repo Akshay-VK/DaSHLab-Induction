@@ -1,0 +1,31 @@
+[2025-11-05T23:20:47.521049] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.520976] [INFO] Service initialized
+[2025-11-05T23:20:47.520996] [INFO] Configuration loaded
+[2025-11-05T23:20:47.520929] [INFO] Health check passed
+[2025-11-05T23:20:47.521004] [INFO] Configuration loaded
+[2025-11-05T23:20:47.520986] [INFO] Health check passed
+[2025-11-05T23:20:47.520972] [INFO] Connection established
+[2025-11-05T23:20:47.520961] [INFO] Health check passed
+[2025-11-05T23:20:47.521042] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.521045] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.520989] [INFO] Connection established
+[2025-11-05T23:20:47.521009] [WARN] Connection retry attempt
+[2025-11-05T23:20:47.521023] [WARN] Connection retry attempt
+[2025-11-05T23:20:47.520998] [INFO] Database query executed
+[2025-11-05T23:20:47.520954] [INFO] Session started
+[2025-11-05T23:20:47.520965] [INFO] User logged in
+[2025-11-05T23:20:47.521027] [ERROR] Authentication failed
+[2025-11-05T23:20:47.520958] [INFO] Session started
+[2025-11-05T23:20:47.521001] [INFO] Transaction completed
+[2025-11-05T23:20:47.520979] [INFO] Service initialized
+[2025-11-05T23:20:47.521013] [WARN] Rate limit approaching
+[2025-11-05T23:20:47.521035] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.521039] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.521052] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:47.521019] [WARN] Slow query performance
+[2025-11-05T23:20:47.521055] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:47.520969] [INFO] Transaction completed
+[2025-11-05T23:20:47.520992] [INFO] Configuration loaded
+[2025-11-05T23:20:47.521031] [ERROR] Network timeout
+[2025-11-05T23:20:47.520983] [INFO] Database query executed
+[2025-11-05T23:20:47.521016] [WARN] Cache miss

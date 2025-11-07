@@ -1,0 +1,31 @@
+[2025-11-05T23:20:30.981084] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.981116] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.980982] [INFO] Connection established
+[2025-11-05T23:20:30.981102] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:30.981068] [ERROR] Invalid input data
+[2025-11-05T23:20:30.981040] [INFO] Transaction completed
+[2025-11-05T23:20:30.981001] [INFO] Cache hit
+[2025-11-05T23:20:30.980976] [INFO] Connection established
+[2025-11-05T23:20:30.981107] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.981062] [WARN] High memory usage detected
+[2025-11-05T23:20:30.981111] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.980996] [INFO] Session started
+[2025-11-05T23:20:30.981053] [WARN] Timeout warning
+[2025-11-05T23:20:30.981046] [WARN] Disk space low
+[2025-11-05T23:20:30.981027] [INFO] Service initialized
+[2025-11-05T23:20:30.981078] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.981097] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.980949] [INFO] Request processed successfully
+[2025-11-05T23:20:30.981073] [ERROR] Authentication failed
+[2025-11-05T23:20:30.981015] [INFO] Session started
+[2025-11-05T23:20:30.981036] [INFO] Cache hit
+[2025-11-05T23:20:30.981010] [INFO] Request processed successfully
+[2025-11-05T23:20:30.981031] [INFO] User logged in
+[2025-11-05T23:20:30.981057] [WARN] Slow query performance
+[2025-11-05T23:20:30.981023] [INFO] Configuration loaded
+[2025-11-05T23:20:30.981093] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.981088] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.981006] [INFO] Session started
+[2025-11-05T23:20:30.980991] [INFO] Database query executed
+[2025-11-05T23:20:30.981019] [INFO] Transaction completed
+[2025-11-05T23:20:30.980986] [INFO] Request processed successfully

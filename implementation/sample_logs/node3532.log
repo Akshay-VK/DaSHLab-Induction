@@ -1,0 +1,31 @@
+[2025-11-05T23:20:27.830668] [INFO] Request processed successfully
+[2025-11-05T23:20:27.830754] [DEBUG] Cache key generated
+[2025-11-05T23:20:27.830682] [WARN] Cache miss
+[2025-11-05T23:20:27.830758] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.830703] [ERROR] Disk read failed
+[2025-11-05T23:20:27.830713] [ERROR] Invalid input data
+[2025-11-05T23:20:27.830655] [INFO] Configuration loaded
+[2025-11-05T23:20:27.830745] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:27.830719] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.830637] [INFO] Database query executed
+[2025-11-05T23:20:27.830734] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.830589] [INFO] Database query executed
+[2025-11-05T23:20:27.830621] [INFO] User logged in
+[2025-11-05T23:20:27.830615] [INFO] Cache hit
+[2025-11-05T23:20:27.830664] [INFO] Request processed successfully
+[2025-11-05T23:20:27.830659] [INFO] Connection established
+[2025-11-05T23:20:27.830676] [INFO] Database query executed
+[2025-11-05T23:20:27.830687] [WARN] Connection retry attempt
+[2025-11-05T23:20:27.830739] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:27.830750] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:27.830723] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:27.830646] [INFO] User logged in
+[2025-11-05T23:20:27.830728] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:27.830651] [INFO] User logged in
+[2025-11-05T23:20:27.830626] [INFO] Health check passed
+[2025-11-05T23:20:27.830708] [ERROR] Authentication failed
+[2025-11-05T23:20:27.830641] [INFO] User logged in
+[2025-11-05T23:20:27.830692] [WARN] Resource threshold approaching
+[2025-11-05T23:20:27.830631] [INFO] Connection established
+[2025-11-05T23:20:27.830672] [INFO] Connection established
+[2025-11-05T23:20:27.830697] [WARN] Resource threshold approaching

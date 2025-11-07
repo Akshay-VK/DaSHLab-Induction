@@ -1,0 +1,30 @@
+[2025-11-05T23:20:35.599239] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.599180] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.599147] [INFO] Cache hit
+[2025-11-05T23:20:35.599154] [INFO] Configuration loaded
+[2025-11-05T23:20:35.599227] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.599143] [INFO] Service initialized
+[2025-11-05T23:20:35.599164] [INFO] User logged in
+[2025-11-05T23:20:35.599110] [INFO] Request processed successfully
+[2025-11-05T23:20:35.599175] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.599203] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.599196] [ERROR] Permission denied
+[2025-11-05T23:20:35.599206] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.599217] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:35.599157] [INFO] Configuration loaded
+[2025-11-05T23:20:35.599171] [INFO] User logged in
+[2025-11-05T23:20:35.599160] [INFO] Configuration loaded
+[2025-11-05T23:20:35.599167] [INFO] User logged in
+[2025-11-05T23:20:35.599183] [WARN] Resource threshold approaching
+[2025-11-05T23:20:35.599191] [ERROR] Request failed
+[2025-11-05T23:20:35.599134] [INFO] Cache hit
+[2025-11-05T23:20:35.599214] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.599150] [INFO] Health check passed
+[2025-11-05T23:20:35.599221] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.599200] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.599232] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.599187] [WARN] Cache miss
+[2025-11-05T23:20:35.599236] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.599210] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.599224] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.599139] [INFO] Session started

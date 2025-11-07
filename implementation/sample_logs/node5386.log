@@ -1,0 +1,26 @@
+[2025-11-05T23:20:35.031885] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.031858] [INFO] Connection established
+[2025-11-05T23:20:35.031868] [WARN] Slow query performance
+[2025-11-05T23:20:35.031841] [INFO] Session started
+[2025-11-05T23:20:35.031900] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.031927] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.031923] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.031907] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.031915] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.031853] [INFO] Health check passed
+[2025-11-05T23:20:35.031863] [INFO] Configuration loaded
+[2025-11-05T23:20:35.031872] [WARN] Slow query performance
+[2025-11-05T23:20:35.031824] [INFO] Health check passed
+[2025-11-05T23:20:35.031904] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:35.031792] [INFO] Connection established
+[2025-11-05T23:20:35.031890] [ERROR] Network timeout
+[2025-11-05T23:20:35.031876] [WARN] Timeout warning
+[2025-11-05T23:20:35.031829] [INFO] Configuration loaded
+[2025-11-05T23:20:35.031919] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.031817] [INFO] Session started
+[2025-11-05T23:20:35.031835] [INFO] User logged in
+[2025-11-05T23:20:35.031845] [INFO] Health check passed
+[2025-11-05T23:20:35.031880] [WARN] Resource threshold approaching
+[2025-11-05T23:20:35.031849] [INFO] Health check passed
+[2025-11-05T23:20:35.031896] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.031911] [DEBUG] Entering function process_data()

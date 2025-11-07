@@ -1,0 +1,37 @@
+[2025-11-05T23:20:45.510822] [WARN] High memory usage detected
+[2025-11-05T23:20:45.510884] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.510857] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.510754] [INFO] Transaction completed
+[2025-11-05T23:20:45.510842] [ERROR] Authentication failed
+[2025-11-05T23:20:45.510720] [INFO] Database query executed
+[2025-11-05T23:20:45.510763] [INFO] Cache hit
+[2025-11-05T23:20:45.510826] [WARN] Queue size growing
+[2025-11-05T23:20:45.510744] [INFO] User logged in
+[2025-11-05T23:20:45.510725] [INFO] Database query executed
+[2025-11-05T23:20:45.510791] [INFO] Connection established
+[2025-11-05T23:20:45.510798] [WARN] Resource threshold approaching
+[2025-11-05T23:20:45.510714] [INFO] Connection established
+[2025-11-05T23:20:45.510837] [ERROR] Network timeout
+[2025-11-05T23:20:45.510778] [INFO] Connection established
+[2025-11-05T23:20:45.510848] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.510782] [INFO] Database query executed
+[2025-11-05T23:20:45.510787] [INFO] Configuration loaded
+[2025-11-05T23:20:45.510831] [WARN] Slow query performance
+[2025-11-05T23:20:45.510687] [INFO] Health check passed
+[2025-11-05T23:20:45.510740] [INFO] User logged in
+[2025-11-05T23:20:45.510861] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.510803] [WARN] Queue size growing
+[2025-11-05T23:20:45.510853] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.510758] [INFO] Session started
+[2025-11-05T23:20:45.510880] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:45.510808] [WARN] Rate limit approaching
+[2025-11-05T23:20:45.510870] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.510735] [INFO] Connection established
+[2025-11-05T23:20:45.510875] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.510773] [INFO] User logged in
+[2025-11-05T23:20:45.510749] [INFO] Cache hit
+[2025-11-05T23:20:45.510817] [WARN] Disk space low
+[2025-11-05T23:20:45.510865] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.510813] [WARN] Deprecated API usage
+[2025-11-05T23:20:45.510769] [INFO] Transaction completed
+[2025-11-05T23:20:45.510730] [INFO] Cache hit

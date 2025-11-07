@@ -1,0 +1,30 @@
+[2025-11-05T23:20:14.628617] [INFO] Session started
+[2025-11-05T23:20:14.628664] [WARN] High memory usage detected
+[2025-11-05T23:20:14.628715] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.628585] [INFO] Request processed successfully
+[2025-11-05T23:20:14.628711] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.628630] [INFO] Service initialized
+[2025-11-05T23:20:14.628608] [INFO] Cache hit
+[2025-11-05T23:20:14.628659] [WARN] Cache miss
+[2025-11-05T23:20:14.628638] [INFO] Configuration loaded
+[2025-11-05T23:20:14.628674] [ERROR] Permission denied
+[2025-11-05T23:20:14.628590] [INFO] Request processed successfully
+[2025-11-05T23:20:14.628688] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.628655] [WARN] Timeout warning
+[2025-11-05T23:20:14.628698] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.628702] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.628707] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.628642] [INFO] Health check passed
+[2025-11-05T23:20:14.628679] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.628626] [INFO] Database query executed
+[2025-11-05T23:20:14.628612] [INFO] Transaction completed
+[2025-11-05T23:20:14.628600] [INFO] Session started
+[2025-11-05T23:20:14.628684] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.628595] [INFO] Cache hit
+[2025-11-05T23:20:14.628650] [WARN] Slow query performance
+[2025-11-05T23:20:14.628621] [INFO] Transaction completed
+[2025-11-05T23:20:14.628693] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.628604] [INFO] Request processed successfully
+[2025-11-05T23:20:14.628669] [ERROR] Memory allocation error
+[2025-11-05T23:20:14.628634] [INFO] User logged in
+[2025-11-05T23:20:14.628558] [INFO] Service initialized

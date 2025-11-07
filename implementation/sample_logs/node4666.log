@@ -1,0 +1,27 @@
+[2025-11-05T23:20:32.333835] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.333831] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.333779] [INFO] Request processed successfully
+[2025-11-05T23:20:32.333803] [WARN] Connection retry attempt
+[2025-11-05T23:20:32.333765] [INFO] Database query executed
+[2025-11-05T23:20:32.333824] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.333841] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.333817] [ERROR] Memory allocation error
+[2025-11-05T23:20:32.333838] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.333789] [INFO] Connection established
+[2025-11-05T23:20:32.333796] [INFO] User logged in
+[2025-11-05T23:20:32.333761] [INFO] Service initialized
+[2025-11-05T23:20:32.333828] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.333812] [ERROR] Memory allocation error
+[2025-11-05T23:20:32.333848] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.333769] [INFO] Database query executed
+[2025-11-05T23:20:32.333772] [INFO] Configuration loaded
+[2025-11-05T23:20:32.333792] [INFO] Connection established
+[2025-11-05T23:20:32.333786] [INFO] Connection established
+[2025-11-05T23:20:32.333799] [INFO] Cache hit
+[2025-11-05T23:20:32.333732] [INFO] Configuration loaded
+[2025-11-05T23:20:32.333775] [INFO] Cache hit
+[2025-11-05T23:20:32.333756] [INFO] User logged in
+[2025-11-05T23:20:32.333782] [INFO] Health check passed
+[2025-11-05T23:20:32.333808] [WARN] Slow query performance
+[2025-11-05T23:20:32.333845] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:32.333821] [DEBUG] HTTP request headers parsed

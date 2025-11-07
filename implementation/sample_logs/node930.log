@@ -1,0 +1,26 @@
+[2025-11-05T23:20:16.362753] [INFO] Connection established
+[2025-11-05T23:20:16.362739] [INFO] Service initialized
+[2025-11-05T23:20:16.362825] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.362847] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.362773] [INFO] Request processed successfully
+[2025-11-05T23:20:16.362758] [INFO] Transaction completed
+[2025-11-05T23:20:16.362781] [INFO] Transaction completed
+[2025-11-05T23:20:16.362749] [INFO] Database query executed
+[2025-11-05T23:20:16.362830] [DEBUG] Cache key generated
+[2025-11-05T23:20:16.362815] [ERROR] Permission denied
+[2025-11-05T23:20:16.362792] [INFO] Database query executed
+[2025-11-05T23:20:16.362834] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.362744] [INFO] User logged in
+[2025-11-05T23:20:16.362789] [INFO] Session started
+[2025-11-05T23:20:16.362733] [INFO] Connection established
+[2025-11-05T23:20:16.362803] [WARN] Timeout warning
+[2025-11-05T23:20:16.362784] [INFO] Configuration loaded
+[2025-11-05T23:20:16.362838] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:16.362798] [WARN] Deprecated API usage
+[2025-11-05T23:20:16.362709] [INFO] Session started
+[2025-11-05T23:20:16.362768] [INFO] User logged in
+[2025-11-05T23:20:16.362762] [INFO] Request processed successfully
+[2025-11-05T23:20:16.362842] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:16.362777] [INFO] Health check passed
+[2025-11-05T23:20:16.362811] [ERROR] Request failed
+[2025-11-05T23:20:16.362819] [ERROR] Network timeout

@@ -1,0 +1,37 @@
+[2025-11-05T23:20:24.833306] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.833199] [INFO] Service initialized
+[2025-11-05T23:20:24.833295] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.833195] [INFO] Cache hit
+[2025-11-05T23:20:24.833261] [WARN] Rate limit approaching
+[2025-11-05T23:20:24.833216] [INFO] Health check passed
+[2025-11-05T23:20:24.833190] [INFO] Request processed successfully
+[2025-11-05T23:20:24.833211] [INFO] Session started
+[2025-11-05T23:20:24.833310] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.833315] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.833301] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.833270] [WARN] Queue size growing
+[2025-11-05T23:20:24.833203] [INFO] Session started
+[2025-11-05T23:20:24.833290] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.833179] [INFO] Service initialized
+[2025-11-05T23:20:24.833257] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.833242] [WARN] Cache miss
+[2025-11-05T23:20:24.833280] [ERROR] Request failed
+[2025-11-05T23:20:24.833224] [INFO] Transaction completed
+[2025-11-05T23:20:24.833343] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.833207] [INFO] Request processed successfully
+[2025-11-05T23:20:24.833325] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.833185] [INFO] Session started
+[2025-11-05T23:20:24.833338] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.833232] [INFO] Database query executed
+[2025-11-05T23:20:24.833284] [ERROR] Permission denied
+[2025-11-05T23:20:24.833252] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.833274] [WARN] Rate limit approaching
+[2025-11-05T23:20:24.833266] [WARN] Queue size growing
+[2025-11-05T23:20:24.833236] [INFO] User logged in
+[2025-11-05T23:20:24.833334] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.833330] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.833247] [WARN] Timeout warning
+[2025-11-05T23:20:24.833320] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.833228] [INFO] Database query executed
+[2025-11-05T23:20:24.833153] [INFO] Database query executed
+[2025-11-05T23:20:24.833220] [INFO] Service initialized

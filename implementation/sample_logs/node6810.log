@@ -1,0 +1,35 @@
+[2025-11-05T23:20:40.810956] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.810887] [WARN] Deprecated API usage
+[2025-11-05T23:20:40.810947] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.810829] [INFO] Health check passed
+[2025-11-05T23:20:40.810917] [ERROR] Disk read failed
+[2025-11-05T23:20:40.810962] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.810855] [INFO] Service initialized
+[2025-11-05T23:20:40.810939] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.810842] [INFO] Cache hit
+[2025-11-05T23:20:40.810878] [WARN] Disk space low
+[2025-11-05T23:20:40.810862] [INFO] Cache hit
+[2025-11-05T23:20:40.810923] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.810833] [INFO] Configuration loaded
+[2025-11-05T23:20:40.810820] [INFO] Connection established
+[2025-11-05T23:20:40.810851] [INFO] Service initialized
+[2025-11-05T23:20:40.810951] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.810780] [INFO] Health check passed
+[2025-11-05T23:20:40.810872] [WARN] Disk space low
+[2025-11-05T23:20:40.810906] [WARN] High memory usage detected
+[2025-11-05T23:20:40.810806] [INFO] Health check passed
+[2025-11-05T23:20:40.810825] [INFO] Database query executed
+[2025-11-05T23:20:40.810896] [WARN] Slow query performance
+[2025-11-05T23:20:40.810846] [INFO] Service initialized
+[2025-11-05T23:20:40.810837] [INFO] Service initialized
+[2025-11-05T23:20:40.810934] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.810910] [WARN] Disk space low
+[2025-11-05T23:20:40.810883] [WARN] Queue size growing
+[2025-11-05T23:20:40.810943] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.810892] [WARN] Cache miss
+[2025-11-05T23:20:40.810867] [INFO] Database query executed
+[2025-11-05T23:20:40.810811] [INFO] Configuration loaded
+[2025-11-05T23:20:40.810816] [INFO] Health check passed
+[2025-11-05T23:20:40.810901] [WARN] Queue size growing
+[2025-11-05T23:20:40.810858] [INFO] Health check passed
+[2025-11-05T23:20:40.810928] [DEBUG] Thread pool size: 8

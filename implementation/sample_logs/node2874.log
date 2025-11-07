@@ -1,0 +1,29 @@
+[2025-11-05T23:20:24.809494] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.809455] [ERROR] Memory allocation error
+[2025-11-05T23:20:24.809395] [INFO] Service initialized
+[2025-11-05T23:20:24.809460] [ERROR] File not found
+[2025-11-05T23:20:24.809341] [INFO] Session started
+[2025-11-05T23:20:24.809434] [WARN] Disk space low
+[2025-11-05T23:20:24.809471] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.809385] [INFO] Connection established
+[2025-11-05T23:20:24.809428] [INFO] Configuration loaded
+[2025-11-05T23:20:24.809444] [WARN] Cache miss
+[2025-11-05T23:20:24.809480] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:24.809370] [INFO] User logged in
+[2025-11-05T23:20:24.809403] [INFO] Request processed successfully
+[2025-11-05T23:20:24.809424] [INFO] Cache hit
+[2025-11-05T23:20:24.809499] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.809439] [WARN] Connection retry attempt
+[2025-11-05T23:20:24.809399] [INFO] Connection established
+[2025-11-05T23:20:24.809376] [INFO] Database query executed
+[2025-11-05T23:20:24.809407] [INFO] Transaction completed
+[2025-11-05T23:20:24.809420] [INFO] Session started
+[2025-11-05T23:20:24.809381] [INFO] Database query executed
+[2025-11-05T23:20:24.809475] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.809416] [INFO] Cache hit
+[2025-11-05T23:20:24.809449] [WARN] Slow query performance
+[2025-11-05T23:20:24.809390] [INFO] Cache hit
+[2025-11-05T23:20:24.809466] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.809412] [INFO] Connection established
+[2025-11-05T23:20:24.809485] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.809489] [DEBUG] Connection pool status checked

@@ -1,0 +1,32 @@
+[2025-11-05T23:20:30.529148] [INFO] Service initialized
+[2025-11-05T23:20:30.529158] [INFO] Configuration loaded
+[2025-11-05T23:20:30.529280] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.529285] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.529237] [ERROR] Database connection lost
+[2025-11-05T23:20:30.529117] [INFO] Database query executed
+[2025-11-05T23:20:30.529213] [WARN] Timeout warning
+[2025-11-05T23:20:30.529163] [INFO] User logged in
+[2025-11-05T23:20:30.529200] [INFO] Service initialized
+[2025-11-05T23:20:30.529248] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.529264] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.529243] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.529231] [ERROR] Service unavailable
+[2025-11-05T23:20:30.529168] [INFO] User logged in
+[2025-11-05T23:20:30.529142] [INFO] Request processed successfully
+[2025-11-05T23:20:30.529207] [WARN] Queue size growing
+[2025-11-05T23:20:30.529276] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.529254] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:30.529268] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.529153] [INFO] Connection established
+[2025-11-05T23:20:30.529259] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:30.529172] [INFO] Transaction completed
+[2025-11-05T23:20:30.529188] [INFO] Service initialized
+[2025-11-05T23:20:30.529181] [INFO] Transaction completed
+[2025-11-05T23:20:30.529290] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.529177] [INFO] Request processed successfully
+[2025-11-05T23:20:30.529196] [INFO] Request processed successfully
+[2025-11-05T23:20:30.529218] [WARN] Timeout warning
+[2025-11-05T23:20:30.529272] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.529185] [INFO] Connection established
+[2025-11-05T23:20:30.529225] [ERROR] Authentication failed
+[2025-11-05T23:20:30.529192] [INFO] Transaction completed

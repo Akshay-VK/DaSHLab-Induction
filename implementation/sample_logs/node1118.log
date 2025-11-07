@@ -1,0 +1,29 @@
+[2025-11-05T23:20:17.211731] [INFO] Request processed successfully
+[2025-11-05T23:20:17.211802] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.211757] [INFO] Request processed successfully
+[2025-11-05T23:20:17.211825] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.211810] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.211763] [INFO] Database query executed
+[2025-11-05T23:20:17.211760] [INFO] Configuration loaded
+[2025-11-05T23:20:17.211747] [INFO] Transaction completed
+[2025-11-05T23:20:17.211754] [INFO] Transaction completed
+[2025-11-05T23:20:17.211779] [WARN] High memory usage detected
+[2025-11-05T23:20:17.211739] [INFO] Configuration loaded
+[2025-11-05T23:20:17.211786] [WARN] High memory usage detected
+[2025-11-05T23:20:17.211790] [WARN] Queue size growing
+[2025-11-05T23:20:17.211743] [INFO] Connection established
+[2025-11-05T23:20:17.211750] [INFO] Connection established
+[2025-11-05T23:20:17.211806] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.211821] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.211735] [INFO] Request processed successfully
+[2025-11-05T23:20:17.211770] [INFO] Session started
+[2025-11-05T23:20:17.211793] [WARN] Connection retry attempt
+[2025-11-05T23:20:17.211828] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:17.211832] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.211783] [WARN] High memory usage detected
+[2025-11-05T23:20:17.211767] [INFO] Health check passed
+[2025-11-05T23:20:17.211818] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.211774] [INFO] Connection established
+[2025-11-05T23:20:17.211798] [ERROR] Permission denied
+[2025-11-05T23:20:17.211708] [INFO] Cache hit
+[2025-11-05T23:20:17.211814] [DEBUG] Buffer size: 4096 bytes

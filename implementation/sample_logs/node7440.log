@@ -1,0 +1,29 @@
+[2025-11-05T23:20:43.108772] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.108737] [INFO] Connection established
+[2025-11-05T23:20:43.108765] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.108791] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.108728] [INFO] Transaction completed
+[2025-11-05T23:20:43.108741] [WARN] Cache miss
+[2025-11-05T23:20:43.108761] [ERROR] Authentication failed
+[2025-11-05T23:20:43.108757] [ERROR] Database connection lost
+[2025-11-05T23:20:43.108785] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.108753] [WARN] Connection retry attempt
+[2025-11-05T23:20:43.108704] [INFO] Transaction completed
+[2025-11-05T23:20:43.108734] [INFO] Session started
+[2025-11-05T23:20:43.108775] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.108788] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.108718] [INFO] Health check passed
+[2025-11-05T23:20:43.108693] [INFO] Service initialized
+[2025-11-05T23:20:43.108725] [INFO] Service initialized
+[2025-11-05T23:20:43.108711] [INFO] Database query executed
+[2025-11-05T23:20:43.108671] [INFO] Database query executed
+[2025-11-05T23:20:43.108707] [INFO] Request processed successfully
+[2025-11-05T23:20:43.108778] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.108698] [INFO] User logged in
+[2025-11-05T23:20:43.108714] [INFO] Request processed successfully
+[2025-11-05T23:20:43.108749] [WARN] Connection retry attempt
+[2025-11-05T23:20:43.108769] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.108782] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.108731] [INFO] Service initialized
+[2025-11-05T23:20:43.108745] [WARN] Slow query performance
+[2025-11-05T23:20:43.108721] [INFO] Health check passed

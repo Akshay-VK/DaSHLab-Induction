@@ -1,0 +1,36 @@
+[2025-11-05T23:20:17.274279] [WARN] Slow query performance
+[2025-11-05T23:20:17.274314] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.274309] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.274336] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.274318] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.274266] [WARN] Slow query performance
+[2025-11-05T23:20:17.274144] [INFO] Database query executed
+[2025-11-05T23:20:17.274297] [ERROR] Invalid input data
+[2025-11-05T23:20:17.274303] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.274119] [INFO] Transaction completed
+[2025-11-05T23:20:17.274287] [WARN] Slow query performance
+[2025-11-05T23:20:17.274322] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.274293] [ERROR] Database connection lost
+[2025-11-05T23:20:17.274189] [INFO] Transaction completed
+[2025-11-05T23:20:17.274163] [INFO] Cache hit
+[2025-11-05T23:20:17.274238] [INFO] User logged in
+[2025-11-05T23:20:17.274154] [INFO] Cache hit
+[2025-11-05T23:20:17.274185] [INFO] Health check passed
+[2025-11-05T23:20:17.274259] [INFO] Health check passed
+[2025-11-05T23:20:17.274172] [INFO] Session started
+[2025-11-05T23:20:17.274274] [WARN] High memory usage detected
+[2025-11-05T23:20:17.274344] [DEBUG] Cache key generated
+[2025-11-05T23:20:17.274168] [INFO] Cache hit
+[2025-11-05T23:20:17.274254] [INFO] Session started
+[2025-11-05T23:20:17.274283] [WARN] Rate limit approaching
+[2025-11-05T23:20:17.274327] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.274340] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.274159] [INFO] Request processed successfully
+[2025-11-05T23:20:17.274181] [INFO] Health check passed
+[2025-11-05T23:20:17.274193] [INFO] Service initialized
+[2025-11-05T23:20:17.274248] [INFO] Health check passed
+[2025-11-05T23:20:17.274176] [INFO] Transaction completed
+[2025-11-05T23:20:17.274243] [INFO] Database query executed
+[2025-11-05T23:20:17.274331] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:17.274149] [INFO] Service initialized
+[2025-11-05T23:20:17.274228] [INFO] Cache hit

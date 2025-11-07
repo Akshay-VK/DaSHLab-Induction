@@ -1,0 +1,34 @@
+[2025-11-05T23:20:47.079010] [INFO] Request processed successfully
+[2025-11-05T23:20:47.079039] [INFO] Cache hit
+[2025-11-05T23:20:47.078988] [INFO] Connection established
+[2025-11-05T23:20:47.079035] [INFO] Configuration loaded
+[2025-11-05T23:20:47.078995] [INFO] Configuration loaded
+[2025-11-05T23:20:47.079077] [WARN] Slow query performance
+[2025-11-05T23:20:47.079005] [INFO] Connection established
+[2025-11-05T23:20:47.079093] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.079057] [INFO] Database query executed
+[2025-11-05T23:20:47.079120] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:47.079115] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.079082] [ERROR] File not found
+[2025-11-05T23:20:47.079132] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.079107] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.079000] [INFO] Transaction completed
+[2025-11-05T23:20:47.079111] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.079098] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.079128] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.079124] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.079069] [WARN] Slow query performance
+[2025-11-05T23:20:47.079073] [WARN] Deprecated API usage
+[2025-11-05T23:20:47.079024] [INFO] Database query executed
+[2025-11-05T23:20:47.079087] [ERROR] Service unavailable
+[2025-11-05T23:20:47.078961] [INFO] Connection established
+[2025-11-05T23:20:47.079044] [INFO] Service initialized
+[2025-11-05T23:20:47.079136] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.079063] [WARN] Queue size growing
+[2025-11-05T23:20:47.079142] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.079053] [INFO] Cache hit
+[2025-11-05T23:20:47.079020] [INFO] Session started
+[2025-11-05T23:20:47.079048] [INFO] Transaction completed
+[2025-11-05T23:20:47.079029] [INFO] Request processed successfully
+[2025-11-05T23:20:47.079102] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.079015] [INFO] Connection established

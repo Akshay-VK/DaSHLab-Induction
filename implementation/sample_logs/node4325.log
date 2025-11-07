@@ -1,0 +1,27 @@
+[2025-11-05T23:20:30.962793] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:30.962806] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:30.962745] [INFO] Cache hit
+[2025-11-05T23:20:30.962769] [WARN] Rate limit approaching
+[2025-11-05T23:20:30.962749] [INFO] Connection established
+[2025-11-05T23:20:30.962754] [INFO] Cache hit
+[2025-11-05T23:20:30.962741] [INFO] Transaction completed
+[2025-11-05T23:20:30.962719] [INFO] Database query executed
+[2025-11-05T23:20:30.962695] [INFO] Configuration loaded
+[2025-11-05T23:20:30.962773] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.962728] [INFO] Health check passed
+[2025-11-05T23:20:30.962671] [INFO] Request processed successfully
+[2025-11-05T23:20:30.962701] [INFO] Service initialized
+[2025-11-05T23:20:30.962811] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.962723] [INFO] User logged in
+[2025-11-05T23:20:30.962764] [WARN] Resource threshold approaching
+[2025-11-05T23:20:30.962715] [INFO] Configuration loaded
+[2025-11-05T23:20:30.962802] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:30.962733] [INFO] Service initialized
+[2025-11-05T23:20:30.962737] [INFO] Configuration loaded
+[2025-11-05T23:20:30.962784] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:30.962709] [INFO] Connection established
+[2025-11-05T23:20:30.962705] [INFO] Service initialized
+[2025-11-05T23:20:30.962759] [WARN] Connection retry attempt
+[2025-11-05T23:20:30.962797] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:30.962789] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:30.962778] [ERROR] Permission denied

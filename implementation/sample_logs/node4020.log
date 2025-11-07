@@ -1,0 +1,34 @@
+[2025-11-05T23:20:29.772563] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:29.769715] [INFO] Configuration loaded
+[2025-11-05T23:20:29.769722] [INFO] Session started
+[2025-11-05T23:20:29.769744] [INFO] User logged in
+[2025-11-05T23:20:29.772572] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:29.769659] [INFO] Transaction completed
+[2025-11-05T23:20:29.769747] [INFO] Service initialized
+[2025-11-05T23:20:29.769698] [INFO] Configuration loaded
+[2025-11-05T23:20:29.769751] [INFO] Cache hit
+[2025-11-05T23:20:29.769778] [WARN] Connection retry attempt
+[2025-11-05T23:20:29.769761] [WARN] Connection retry attempt
+[2025-11-05T23:20:29.772592] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.769766] [WARN] Cache miss
+[2025-11-05T23:20:29.769756] [INFO] Session started
+[2025-11-05T23:20:29.772568] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:29.769711] [INFO] Transaction completed
+[2025-11-05T23:20:29.769774] [WARN] Cache miss
+[2025-11-05T23:20:29.772533] [ERROR] File not found
+[2025-11-05T23:20:29.769731] [INFO] Cache hit
+[2025-11-05T23:20:29.769693] [INFO] Session started
+[2025-11-05T23:20:29.769784] [ERROR] Permission denied
+[2025-11-05T23:20:29.769687] [INFO] Service initialized
+[2025-11-05T23:20:29.769740] [INFO] Session started
+[2025-11-05T23:20:29.769770] [WARN] Disk space low
+[2025-11-05T23:20:29.772587] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:29.772582] [DEBUG] Cache key generated
+[2025-11-05T23:20:29.769727] [INFO] Connection established
+[2025-11-05T23:20:29.772578] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:29.769702] [INFO] Transaction completed
+[2025-11-05T23:20:29.769707] [INFO] Request processed successfully
+[2025-11-05T23:20:29.772558] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:29.769718] [INFO] Session started
+[2025-11-05T23:20:29.769735] [INFO] Database query executed
+[2025-11-05T23:20:29.772552] [DEBUG] Variable value: x=42

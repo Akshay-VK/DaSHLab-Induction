@@ -1,0 +1,38 @@
+[2025-11-05T23:20:32.684113] [WARN] Slow query performance
+[2025-11-05T23:20:32.684141] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.684037] [INFO] Health check passed
+[2025-11-05T23:20:32.684041] [INFO] Cache hit
+[2025-11-05T23:20:32.684081] [INFO] Database query executed
+[2025-11-05T23:20:32.684160] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:32.684103] [WARN] Deprecated API usage
+[2025-11-05T23:20:32.684145] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:32.684169] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:32.684090] [WARN] Timeout warning
+[2025-11-05T23:20:32.684155] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:32.684108] [WARN] Queue size growing
+[2025-11-05T23:20:32.684124] [ERROR] Database connection lost
+[2025-11-05T23:20:32.684027] [INFO] Request processed successfully
+[2025-11-05T23:20:32.684017] [INFO] Database query executed
+[2025-11-05T23:20:32.684173] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:32.684068] [INFO] Configuration loaded
+[2025-11-05T23:20:32.684011] [INFO] Configuration loaded
+[2025-11-05T23:20:32.684136] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:32.684005] [INFO] Cache hit
+[2025-11-05T23:20:32.684099] [WARN] Connection retry attempt
+[2025-11-05T23:20:32.684150] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:32.683977] [INFO] Connection established
+[2025-11-05T23:20:32.684032] [INFO] Cache hit
+[2025-11-05T23:20:32.684046] [INFO] Connection established
+[2025-11-05T23:20:32.684130] [ERROR] Database connection lost
+[2025-11-05T23:20:32.684054] [INFO] Configuration loaded
+[2025-11-05T23:20:32.684118] [WARN] Cache miss
+[2025-11-05T23:20:32.684022] [INFO] Health check passed
+[2025-11-05T23:20:32.684059] [INFO] Database query executed
+[2025-11-05T23:20:32.684076] [INFO] User logged in
+[2025-11-05T23:20:32.684165] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:32.684095] [WARN] Timeout warning
+[2025-11-05T23:20:32.684050] [INFO] Database query executed
+[2025-11-05T23:20:32.684179] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:32.684072] [INFO] Database query executed
+[2025-11-05T23:20:32.684085] [INFO] Configuration loaded
+[2025-11-05T23:20:32.684063] [INFO] Service initialized

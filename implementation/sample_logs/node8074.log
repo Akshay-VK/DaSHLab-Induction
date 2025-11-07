@@ -1,0 +1,29 @@
+[2025-11-05T23:20:45.935781] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.935705] [INFO] Connection established
+[2025-11-05T23:20:45.935756] [WARN] Cache miss
+[2025-11-05T23:20:45.935816] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.935669] [INFO] Request processed successfully
+[2025-11-05T23:20:45.935775] [ERROR] Request failed
+[2025-11-05T23:20:45.935739] [INFO] Request processed successfully
+[2025-11-05T23:20:45.935677] [INFO] Transaction completed
+[2025-11-05T23:20:45.935717] [INFO] Request processed successfully
+[2025-11-05T23:20:45.935797] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.935812] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.935807] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.935787] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.935802] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.935751] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.935822] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.935733] [INFO] Database query executed
+[2025-11-05T23:20:45.935643] [INFO] Database query executed
+[2025-11-05T23:20:45.935700] [INFO] Transaction completed
+[2025-11-05T23:20:45.935683] [INFO] Connection established
+[2025-11-05T23:20:45.935744] [INFO] Service initialized
+[2025-11-05T23:20:45.935723] [INFO] Configuration loaded
+[2025-11-05T23:20:45.935695] [INFO] Session started
+[2025-11-05T23:20:45.935728] [INFO] Connection established
+[2025-11-05T23:20:45.935792] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:45.935768] [WARN] Timeout warning
+[2025-11-05T23:20:45.935711] [INFO] Database query executed
+[2025-11-05T23:20:45.935689] [INFO] Cache hit
+[2025-11-05T23:20:45.935763] [WARN] Connection retry attempt

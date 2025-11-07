@@ -1,0 +1,31 @@
+[2025-11-05T23:20:41.775571] [INFO] Cache hit
+[2025-11-05T23:20:41.775646] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.775622] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.775675] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.775596] [INFO] Connection established
+[2025-11-05T23:20:41.775663] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.775578] [INFO] Health check passed
+[2025-11-05T23:20:41.775537] [INFO] Service initialized
+[2025-11-05T23:20:41.775618] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.775651] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.775671] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.775567] [INFO] Request processed successfully
+[2025-11-05T23:20:41.775643] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.775609] [INFO] Service initialized
+[2025-11-05T23:20:41.775574] [INFO] Service initialized
+[2025-11-05T23:20:41.775593] [INFO] Health check passed
+[2025-11-05T23:20:41.775562] [INFO] Health check passed
+[2025-11-05T23:20:41.775581] [INFO] Cache hit
+[2025-11-05T23:20:41.775667] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.775639] [ERROR] Authentication failed
+[2025-11-05T23:20:41.775634] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.775606] [INFO] Connection established
+[2025-11-05T23:20:41.775614] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.775627] [WARN] Resource threshold approaching
+[2025-11-05T23:20:41.775589] [INFO] Service initialized
+[2025-11-05T23:20:41.775630] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.775599] [INFO] Cache hit
+[2025-11-05T23:20:41.775602] [INFO] User logged in
+[2025-11-05T23:20:41.775585] [INFO] Connection established
+[2025-11-05T23:20:41.775659] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.775655] [DEBUG] Variable value: x=42

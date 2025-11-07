@@ -1,0 +1,33 @@
+[2025-11-05T23:20:40.012180] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.012197] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.012124] [INFO] User logged in
+[2025-11-05T23:20:40.012140] [INFO] Service initialized
+[2025-11-05T23:20:40.012092] [INFO] Service initialized
+[2025-11-05T23:20:40.012160] [WARN] Queue size growing
+[2025-11-05T23:20:40.012205] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.012103] [INFO] Cache hit
+[2025-11-05T23:20:40.012201] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.012213] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.012107] [INFO] Connection established
+[2025-11-05T23:20:40.012217] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.012193] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.012132] [INFO] Database query executed
+[2025-11-05T23:20:40.012209] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.012156] [WARN] Cache miss
+[2025-11-05T23:20:40.012116] [INFO] User logged in
+[2025-11-05T23:20:40.012087] [INFO] Configuration loaded
+[2025-11-05T23:20:40.012184] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.012054] [INFO] Configuration loaded
+[2025-11-05T23:20:40.012151] [WARN] Connection retry attempt
+[2025-11-05T23:20:40.012170] [ERROR] Database connection lost
+[2025-11-05T23:20:40.012120] [INFO] Connection established
+[2025-11-05T23:20:40.012165] [WARN] Cache miss
+[2025-11-05T23:20:40.012081] [INFO] Database query executed
+[2025-11-05T23:20:40.012128] [INFO] Connection established
+[2025-11-05T23:20:40.012221] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.012099] [INFO] Connection established
+[2025-11-05T23:20:40.012189] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.012176] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.012146] [WARN] Timeout warning
+[2025-11-05T23:20:40.012136] [INFO] Database query executed
+[2025-11-05T23:20:40.012111] [INFO] Request processed successfully

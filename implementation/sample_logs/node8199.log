@@ -1,0 +1,34 @@
+[2025-11-05T23:20:46.407212] [WARN] Rate limit approaching
+[2025-11-05T23:20:46.407286] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.407261] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.407278] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.407207] [INFO] Request processed successfully
+[2025-11-05T23:20:46.407217] [WARN] High memory usage detected
+[2025-11-05T23:20:46.407269] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.407282] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.407228] [WARN] High memory usage detected
+[2025-11-05T23:20:46.407187] [INFO] Service initialized
+[2025-11-05T23:20:46.407183] [INFO] Health check passed
+[2025-11-05T23:20:46.407256] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.407144] [INFO] Service initialized
+[2025-11-05T23:20:46.407118] [INFO] Request processed successfully
+[2025-11-05T23:20:46.407161] [INFO] Transaction completed
+[2025-11-05T23:20:46.407247] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.407251] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.407223] [WARN] Slow query performance
+[2025-11-05T23:20:46.407291] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.407242] [ERROR] Service unavailable
+[2025-11-05T23:20:46.407170] [INFO] Request processed successfully
+[2025-11-05T23:20:46.407237] [ERROR] Memory allocation error
+[2025-11-05T23:20:46.407191] [INFO] Database query executed
+[2025-11-05T23:20:46.407178] [INFO] Health check passed
+[2025-11-05T23:20:46.407265] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:46.407199] [INFO] Service initialized
+[2025-11-05T23:20:46.407232] [WARN] Timeout warning
+[2025-11-05T23:20:46.407273] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:46.407195] [INFO] Transaction completed
+[2025-11-05T23:20:46.407174] [INFO] User logged in
+[2025-11-05T23:20:46.407166] [INFO] Configuration loaded
+[2025-11-05T23:20:46.407203] [INFO] Transaction completed
+[2025-11-05T23:20:46.407156] [INFO] Database query executed
+[2025-11-05T23:20:46.407151] [INFO] Service initialized

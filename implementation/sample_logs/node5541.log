@@ -1,0 +1,25 @@
+[2025-11-05T23:20:35.613218] [INFO] Database query executed
+[2025-11-05T23:20:35.613213] [INFO] User logged in
+[2025-11-05T23:20:35.613296] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.613231] [INFO] User logged in
+[2025-11-05T23:20:35.613227] [INFO] Configuration loaded
+[2025-11-05T23:20:35.613255] [INFO] Cache hit
+[2025-11-05T23:20:35.613235] [INFO] Request processed successfully
+[2025-11-05T23:20:35.613243] [INFO] Service initialized
+[2025-11-05T23:20:35.613284] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.613187] [INFO] Configuration loaded
+[2025-11-05T23:20:35.613292] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.613304] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.613273] [WARN] Slow query performance
+[2025-11-05T23:20:35.613223] [INFO] User logged in
+[2025-11-05T23:20:35.613239] [INFO] Request processed successfully
+[2025-11-05T23:20:35.613288] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:35.613278] [ERROR] Authentication failed
+[2025-11-05T23:20:35.613308] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.613300] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.613247] [INFO] Transaction completed
+[2025-11-05T23:20:35.613314] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.613260] [WARN] Cache miss
+[2025-11-05T23:20:35.613269] [WARN] Timeout warning
+[2025-11-05T23:20:35.613265] [WARN] Disk space low
+[2025-11-05T23:20:35.613251] [INFO] Session started

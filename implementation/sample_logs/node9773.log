@@ -1,0 +1,33 @@
+[2025-11-05T23:20:53.167065] [WARN] Disk space low
+[2025-11-05T23:20:53.167010] [INFO] Health check passed
+[2025-11-05T23:20:53.167035] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.167052] [WARN] Cache miss
+[2025-11-05T23:20:53.190334] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.166991] [INFO] Health check passed
+[2025-11-05T23:20:53.167015] [INFO] Transaction completed
+[2025-11-05T23:20:53.167075] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.167024] [INFO] Health check passed
+[2025-11-05T23:20:53.166982] [INFO] Transaction completed
+[2025-11-05T23:20:53.167005] [INFO] Request processed successfully
+[2025-11-05T23:20:53.190308] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.167044] [WARN] High memory usage detected
+[2025-11-05T23:20:53.166975] [INFO] Service initialized
+[2025-11-05T23:20:53.166963] [INFO] Request processed successfully
+[2025-11-05T23:20:53.167084] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.167019] [INFO] Service initialized
+[2025-11-05T23:20:53.167028] [INFO] Cache hit
+[2025-11-05T23:20:53.167096] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.166996] [INFO] Health check passed
+[2025-11-05T23:20:53.167080] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.167092] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.167070] [ERROR] Database connection lost
+[2025-11-05T23:20:53.190328] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.166986] [INFO] Session started
+[2025-11-05T23:20:53.167000] [INFO] Health check passed
+[2025-11-05T23:20:53.167088] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.167061] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.167040] [WARN] Deprecated API usage
+[2025-11-05T23:20:53.167048] [WARN] Resource threshold approaching
+[2025-11-05T23:20:53.166936] [INFO] Request processed successfully
+[2025-11-05T23:20:53.167057] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.166970] [INFO] User logged in

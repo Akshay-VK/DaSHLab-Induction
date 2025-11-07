@@ -1,0 +1,30 @@
+[2025-11-05T23:20:49.571961] [INFO] Transaction completed
+[2025-11-05T23:20:49.572205] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.571952] [INFO] Health check passed
+[2025-11-05T23:20:49.572002] [WARN] Resource threshold approaching
+[2025-11-05T23:20:49.572160] [WARN] Deprecated API usage
+[2025-11-05T23:20:49.572168] [WARN] Slow query performance
+[2025-11-05T23:20:49.571910] [INFO] Session started
+[2025-11-05T23:20:49.571943] [INFO] User logged in
+[2025-11-05T23:20:49.572200] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.572172] [WARN] Cache miss
+[2025-11-05T23:20:49.571948] [INFO] Configuration loaded
+[2025-11-05T23:20:49.572219] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.572211] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.572183] [WARN] Cache miss
+[2025-11-05T23:20:49.571966] [INFO] Cache hit
+[2025-11-05T23:20:49.572215] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:49.571982] [INFO] Database query executed
+[2025-11-05T23:20:49.571978] [INFO] Session started
+[2025-11-05T23:20:49.571987] [INFO] Connection established
+[2025-11-05T23:20:49.571936] [INFO] Connection established
+[2025-11-05T23:20:49.571957] [INFO] Health check passed
+[2025-11-05T23:20:49.571992] [INFO] User logged in
+[2025-11-05T23:20:49.572007] [WARN] Deprecated API usage
+[2025-11-05T23:20:49.571996] [INFO] Service initialized
+[2025-11-05T23:20:49.571970] [INFO] Service initialized
+[2025-11-05T23:20:49.571974] [INFO] Transaction completed
+[2025-11-05T23:20:49.572190] [ERROR] Permission denied
+[2025-11-05T23:20:49.572179] [WARN] Slow query performance
+[2025-11-05T23:20:49.572223] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.572195] [ERROR] Permission denied

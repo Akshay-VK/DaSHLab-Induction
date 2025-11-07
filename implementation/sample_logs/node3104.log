@@ -1,0 +1,29 @@
+[2025-11-05T23:20:25.741844] [INFO] User logged in
+[2025-11-05T23:20:25.741812] [INFO] Cache hit
+[2025-11-05T23:20:25.741865] [WARN] Cache miss
+[2025-11-05T23:20:25.741834] [INFO] Database query executed
+[2025-11-05T23:20:25.741906] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.741792] [INFO] Health check passed
+[2025-11-05T23:20:25.741872] [ERROR] Database connection lost
+[2025-11-05T23:20:25.741919] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.741878] [ERROR] Authentication failed
+[2025-11-05T23:20:25.741902] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.741823] [INFO] Connection established
+[2025-11-05T23:20:25.741911] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.741839] [INFO] Database query executed
+[2025-11-05T23:20:25.741801] [INFO] Database query executed
+[2025-11-05T23:20:25.741897] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:25.741720] [INFO] Transaction completed
+[2025-11-05T23:20:25.741850] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.741796] [INFO] Health check passed
+[2025-11-05T23:20:25.741808] [INFO] Connection established
+[2025-11-05T23:20:25.741779] [INFO] Session started
+[2025-11-05T23:20:25.741888] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.741883] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.741893] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.741855] [WARN] Timeout warning
+[2025-11-05T23:20:25.741828] [INFO] Health check passed
+[2025-11-05T23:20:25.741860] [WARN] Connection retry attempt
+[2025-11-05T23:20:25.741818] [INFO] Cache hit
+[2025-11-05T23:20:25.741787] [INFO] Transaction completed
+[2025-11-05T23:20:25.741915] [DEBUG] Timer set: 30 seconds

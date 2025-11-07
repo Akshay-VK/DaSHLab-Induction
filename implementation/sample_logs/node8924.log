@@ -1,0 +1,31 @@
+[2025-11-05T23:20:49.442381] [INFO] Request processed successfully
+[2025-11-05T23:20:49.442435] [INFO] Service initialized
+[2025-11-05T23:20:49.442492] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:49.442355] [INFO] Connection established
+[2025-11-05T23:20:49.442446] [WARN] Connection retry attempt
+[2025-11-05T23:20:49.442507] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.442423] [INFO] Connection established
+[2025-11-05T23:20:49.442400] [INFO] Session started
+[2025-11-05T23:20:49.442498] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.442404] [INFO] User logged in
+[2025-11-05T23:20:49.442386] [INFO] Service initialized
+[2025-11-05T23:20:49.442478] [DEBUG] Cache key generated
+[2025-11-05T23:20:49.442520] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.442413] [INFO] Transaction completed
+[2025-11-05T23:20:49.442511] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.442466] [ERROR] File not found
+[2025-11-05T23:20:49.442460] [WARN] Disk space low
+[2025-11-05T23:20:49.442456] [WARN] Connection retry attempt
+[2025-11-05T23:20:49.442418] [INFO] Request processed successfully
+[2025-11-05T23:20:49.442427] [INFO] Cache hit
+[2025-11-05T23:20:49.442451] [WARN] Cache miss
+[2025-11-05T23:20:49.442515] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.442409] [INFO] Request processed successfully
+[2025-11-05T23:20:49.442440] [INFO] Cache hit
+[2025-11-05T23:20:49.442502] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.442396] [INFO] Session started
+[2025-11-05T23:20:49.442473] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:49.442482] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.442391] [INFO] Database query executed
+[2025-11-05T23:20:49.442431] [INFO] Request processed successfully
+[2025-11-05T23:20:49.442487] [DEBUG] Variable value: x=42

@@ -1,0 +1,28 @@
+[2025-11-05T23:20:39.563605] [INFO] Database query executed
+[2025-11-05T23:20:39.563585] [INFO] Service initialized
+[2025-11-05T23:20:39.563641] [INFO] Connection established
+[2025-11-05T23:20:39.563590] [INFO] Health check passed
+[2025-11-05T23:20:39.563595] [INFO] Service initialized
+[2025-11-05T23:20:39.563628] [INFO] Connection established
+[2025-11-05T23:20:39.563679] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:39.563609] [INFO] Request processed successfully
+[2025-11-05T23:20:39.563698] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.563624] [INFO] Transaction completed
+[2025-11-05T23:20:39.563669] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.563553] [INFO] Request processed successfully
+[2025-11-05T23:20:39.563688] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.563619] [INFO] Session started
+[2025-11-05T23:20:39.563683] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.563614] [INFO] Connection established
+[2025-11-05T23:20:39.563580] [INFO] Configuration loaded
+[2025-11-05T23:20:39.563652] [WARN] Slow query performance
+[2025-11-05T23:20:39.563647] [WARN] Queue size growing
+[2025-11-05T23:20:39.563703] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:39.563675] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.563659] [ERROR] Database connection lost
+[2025-11-05T23:20:39.563708] [DEBUG] Cache key generated
+[2025-11-05T23:20:39.563664] [ERROR] Database connection lost
+[2025-11-05T23:20:39.563633] [INFO] Service initialized
+[2025-11-05T23:20:39.563637] [INFO] Request processed successfully
+[2025-11-05T23:20:39.563600] [INFO] User logged in
+[2025-11-05T23:20:39.563693] [DEBUG] Thread pool size: 8

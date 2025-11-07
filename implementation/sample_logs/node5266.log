@@ -1,0 +1,29 @@
+[2025-11-05T23:20:34.646742] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.646753] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.646707] [INFO] Session started
+[2025-11-05T23:20:34.646696] [INFO] Configuration loaded
+[2025-11-05T23:20:34.646777] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.646737] [ERROR] Memory allocation error
+[2025-11-05T23:20:34.646700] [INFO] Health check passed
+[2025-11-05T23:20:34.646769] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.646748] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.646672] [INFO] Health check passed
+[2025-11-05T23:20:34.646703] [INFO] Database query executed
+[2025-11-05T23:20:34.646761] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.646604] [INFO] Cache hit
+[2025-11-05T23:20:34.646727] [WARN] Resource threshold approaching
+[2025-11-05T23:20:34.646773] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.646663] [INFO] Database query executed
+[2025-11-05T23:20:34.646668] [INFO] Request processed successfully
+[2025-11-05T23:20:34.646757] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.646657] [INFO] Database query executed
+[2025-11-05T23:20:34.646721] [WARN] Resource threshold approaching
+[2025-11-05T23:20:34.646684] [INFO] Request processed successfully
+[2025-11-05T23:20:34.646732] [ERROR] Authentication failed
+[2025-11-05T23:20:34.646765] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.646676] [INFO] Request processed successfully
+[2025-11-05T23:20:34.646687] [INFO] Cache hit
+[2025-11-05T23:20:34.646691] [INFO] Session started
+[2025-11-05T23:20:34.646711] [INFO] Connection established
+[2025-11-05T23:20:34.646680] [INFO] Database query executed
+[2025-11-05T23:20:34.646715] [INFO] User logged in

@@ -1,0 +1,36 @@
+[2025-11-05T23:20:31.437834] [INFO] Session started
+[2025-11-05T23:20:31.436356] [INFO] Configuration loaded
+[2025-11-05T23:20:31.437961] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.436346] [INFO] Configuration loaded
+[2025-11-05T23:20:31.437994] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.437917] [WARN] Connection retry attempt
+[2025-11-05T23:20:31.437926] [WARN] Disk space low
+[2025-11-05T23:20:31.436365] [INFO] Health check passed
+[2025-11-05T23:20:31.437980] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.437935] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.437888] [INFO] Session started
+[2025-11-05T23:20:31.437883] [INFO] Database query executed
+[2025-11-05T23:20:31.437966] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.437951] [ERROR] Request failed
+[2025-11-05T23:20:31.437971] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:31.437922] [WARN] Cache miss
+[2025-11-05T23:20:31.437946] [ERROR] Permission denied
+[2025-11-05T23:20:31.437874] [INFO] Session started
+[2025-11-05T23:20:31.437985] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:31.436328] [INFO] User logged in
+[2025-11-05T23:20:31.436360] [INFO] Session started
+[2025-11-05T23:20:31.437903] [WARN] Slow query performance
+[2025-11-05T23:20:31.437868] [INFO] Cache hit
+[2025-11-05T23:20:31.437956] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.436340] [INFO] Service initialized
+[2025-11-05T23:20:31.437976] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.436301] [INFO] Connection established
+[2025-11-05T23:20:31.437941] [ERROR] Service unavailable
+[2025-11-05T23:20:31.437912] [WARN] Cache miss
+[2025-11-05T23:20:31.437897] [WARN] Rate limit approaching
+[2025-11-05T23:20:31.437879] [INFO] Service initialized
+[2025-11-05T23:20:31.437931] [WARN] Disk space low
+[2025-11-05T23:20:31.436351] [INFO] Request processed successfully
+[2025-11-05T23:20:31.436335] [INFO] Health check passed
+[2025-11-05T23:20:31.437989] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.437908] [WARN] Cache miss

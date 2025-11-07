@@ -1,0 +1,32 @@
+[2025-11-05T23:20:47.823081] [INFO] Session started
+[2025-11-05T23:20:47.823112] [WARN] Slow query performance
+[2025-11-05T23:20:47.823077] [INFO] Configuration loaded
+[2025-11-05T23:20:47.823068] [INFO] Configuration loaded
+[2025-11-05T23:20:47.823127] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.823155] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:47.823064] [INFO] Session started
+[2025-11-05T23:20:47.823058] [INFO] Configuration loaded
+[2025-11-05T23:20:47.823090] [INFO] Transaction completed
+[2025-11-05T23:20:47.823071] [INFO] Service initialized
+[2025-11-05T23:20:47.823115] [WARN] High memory usage detected
+[2025-11-05T23:20:47.823061] [INFO] Transaction completed
+[2025-11-05T23:20:47.823130] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.823143] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.823146] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.823095] [WARN] High memory usage detected
+[2025-11-05T23:20:47.823134] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:47.823152] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.823149] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.823109] [WARN] Queue size growing
+[2025-11-05T23:20:47.823074] [INFO] Request processed successfully
+[2025-11-05T23:20:47.823029] [INFO] Service initialized
+[2025-11-05T23:20:47.823102] [WARN] Cache miss
+[2025-11-05T23:20:47.823123] [ERROR] Memory allocation error
+[2025-11-05T23:20:47.823087] [INFO] Health check passed
+[2025-11-05T23:20:47.823084] [INFO] Health check passed
+[2025-11-05T23:20:47.823054] [INFO] Session started
+[2025-11-05T23:20:47.823105] [WARN] Disk space low
+[2025-11-05T23:20:47.823119] [ERROR] Memory allocation error
+[2025-11-05T23:20:47.823137] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.823140] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.823099] [WARN] Connection retry attempt

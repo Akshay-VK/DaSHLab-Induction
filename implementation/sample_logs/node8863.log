@@ -1,0 +1,29 @@
+[2025-11-05T23:20:49.180951] [INFO] Session started
+[2025-11-05T23:20:49.180980] [INFO] Request processed successfully
+[2025-11-05T23:20:49.181027] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.180994] [INFO] Connection established
+[2025-11-05T23:20:49.181037] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.180972] [INFO] Service initialized
+[2025-11-05T23:20:49.181023] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:49.180946] [INFO] Cache hit
+[2025-11-05T23:20:49.180987] [INFO] Session started
+[2025-11-05T23:20:49.181015] [ERROR] Memory allocation error
+[2025-11-05T23:20:49.181012] [ERROR] Permission denied
+[2025-11-05T23:20:49.181041] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.181019] [ERROR] Request failed
+[2025-11-05T23:20:49.180960] [INFO] Transaction completed
+[2025-11-05T23:20:49.181002] [WARN] Deprecated API usage
+[2025-11-05T23:20:49.180965] [INFO] Configuration loaded
+[2025-11-05T23:20:49.180976] [INFO] Transaction completed
+[2025-11-05T23:20:49.181048] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.181034] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:49.180997] [INFO] Service initialized
+[2025-11-05T23:20:49.180984] [INFO] User logged in
+[2025-11-05T23:20:49.181007] [ERROR] Disk read failed
+[2025-11-05T23:20:49.181030] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.180920] [INFO] Session started
+[2025-11-05T23:20:49.180991] [INFO] User logged in
+[2025-11-05T23:20:49.181044] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:49.180969] [INFO] Transaction completed
+[2025-11-05T23:20:49.181051] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.180956] [INFO] Cache hit

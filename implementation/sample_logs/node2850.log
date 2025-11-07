@@ -1,0 +1,29 @@
+[2025-11-05T23:20:24.729442] [ERROR] Disk read failed
+[2025-11-05T23:20:24.729480] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.729378] [INFO] User logged in
+[2025-11-05T23:20:24.729382] [INFO] Session started
+[2025-11-05T23:20:24.729391] [INFO] User logged in
+[2025-11-05T23:20:24.729401] [INFO] Connection established
+[2025-11-05T23:20:24.729472] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.729454] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.729426] [WARN] Slow query performance
+[2025-11-05T23:20:24.729359] [INFO] Request processed successfully
+[2025-11-05T23:20:24.729438] [ERROR] Invalid input data
+[2025-11-05T23:20:24.729327] [INFO] Health check passed
+[2025-11-05T23:20:24.729353] [INFO] Database query executed
+[2025-11-05T23:20:24.729432] [WARN] Rate limit approaching
+[2025-11-05T23:20:24.729368] [INFO] Configuration loaded
+[2025-11-05T23:20:24.729405] [INFO] Request processed successfully
+[2025-11-05T23:20:24.729373] [INFO] Cache hit
+[2025-11-05T23:20:24.729363] [INFO] Service initialized
+[2025-11-05T23:20:24.729409] [INFO] Transaction completed
+[2025-11-05T23:20:24.729459] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.729416] [WARN] High memory usage detected
+[2025-11-05T23:20:24.729448] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.729396] [INFO] Connection established
+[2025-11-05T23:20:24.729463] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.729421] [WARN] Timeout warning
+[2025-11-05T23:20:24.729387] [INFO] Request processed successfully
+[2025-11-05T23:20:24.729468] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:24.729484] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.729476] [DEBUG] Loop iteration: 15

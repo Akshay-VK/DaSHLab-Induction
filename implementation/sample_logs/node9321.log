@@ -1,0 +1,36 @@
+[2025-11-05T23:20:51.020902] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.020884] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:51.020834] [INFO] Request processed successfully
+[2025-11-05T23:20:51.020853] [WARN] Disk space low
+[2025-11-05T23:20:51.020843] [WARN] Timeout warning
+[2025-11-05T23:20:51.020654] [INFO] Service initialized
+[2025-11-05T23:20:51.020872] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.020849] [WARN] Deprecated API usage
+[2025-11-05T23:20:51.020650] [INFO] Connection established
+[2025-11-05T23:20:51.020619] [INFO] Service initialized
+[2025-11-05T23:20:51.020876] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.020701] [INFO] Service initialized
+[2025-11-05T23:20:51.020891] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.020705] [INFO] Cache hit
+[2025-11-05T23:20:51.020590] [INFO] Database query executed
+[2025-11-05T23:20:51.020728] [INFO] Health check passed
+[2025-11-05T23:20:51.020635] [INFO] User logged in
+[2025-11-05T23:20:51.020910] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.020640] [INFO] Cache hit
+[2025-11-05T23:20:51.020880] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.020862] [ERROR] Memory allocation error
+[2025-11-05T23:20:51.020645] [INFO] Health check passed
+[2025-11-05T23:20:51.020887] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.020708] [INFO] Transaction completed
+[2025-11-05T23:20:51.020894] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.020857] [WARN] Cache miss
+[2025-11-05T23:20:51.020720] [INFO] Session started
+[2025-11-05T23:20:51.020716] [INFO] Request processed successfully
+[2025-11-05T23:20:51.020867] [ERROR] Memory allocation error
+[2025-11-05T23:20:51.020626] [INFO] Service initialized
+[2025-11-05T23:20:51.020724] [INFO] Health check passed
+[2025-11-05T23:20:51.020898] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.020906] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.020712] [INFO] Configuration loaded
+[2025-11-05T23:20:51.020631] [INFO] Request processed successfully
+[2025-11-05T23:20:51.020659] [INFO] Request processed successfully

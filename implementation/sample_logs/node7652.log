@@ -1,0 +1,31 @@
+[2025-11-05T23:20:44.139416] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.139348] [INFO] Cache hit
+[2025-11-05T23:20:44.139367] [INFO] Transaction completed
+[2025-11-05T23:20:44.139376] [INFO] Connection established
+[2025-11-05T23:20:44.139384] [WARN] Timeout warning
+[2025-11-05T23:20:44.139406] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.139341] [INFO] Session started
+[2025-11-05T23:20:44.139412] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.139427] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.139431] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:44.139337] [INFO] Connection established
+[2025-11-05T23:20:44.139401] [ERROR] Memory allocation error
+[2025-11-05T23:20:44.139391] [WARN] Disk space low
+[2025-11-05T23:20:44.139421] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.139352] [INFO] Database query executed
+[2025-11-05T23:20:44.139388] [WARN] Cache miss
+[2025-11-05T23:20:44.139380] [INFO] Cache hit
+[2025-11-05T23:20:44.139304] [INFO] Service initialized
+[2025-11-05T23:20:44.139397] [WARN] Deprecated API usage
+[2025-11-05T23:20:44.139345] [INFO] Session started
+[2025-11-05T23:20:44.139363] [INFO] Health check passed
+[2025-11-05T23:20:44.139394] [WARN] High memory usage detected
+[2025-11-05T23:20:44.139333] [INFO] Request processed successfully
+[2025-11-05T23:20:44.139373] [INFO] Request processed successfully
+[2025-11-05T23:20:44.139424] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.139356] [INFO] User logged in
+[2025-11-05T23:20:44.139360] [INFO] Transaction completed
+[2025-11-05T23:20:44.139419] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.139370] [INFO] Transaction completed
+[2025-11-05T23:20:44.139409] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.139329] [INFO] Connection established

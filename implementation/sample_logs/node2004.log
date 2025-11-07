@@ -1,0 +1,28 @@
+[2025-11-05T23:20:21.044096] [INFO] Cache hit
+[2025-11-05T23:20:21.044176] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.044106] [INFO] Session started
+[2025-11-05T23:20:21.044115] [INFO] User logged in
+[2025-11-05T23:20:21.044087] [INFO] Request processed successfully
+[2025-11-05T23:20:21.044136] [WARN] Cache miss
+[2025-11-05T23:20:21.044181] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.044075] [INFO] Database query executed
+[2025-11-05T23:20:21.044111] [INFO] Health check passed
+[2025-11-05T23:20:21.044172] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.044044] [INFO] Cache hit
+[2025-11-05T23:20:21.044185] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.044151] [ERROR] File not found
+[2025-11-05T23:20:21.044070] [INFO] Database query executed
+[2025-11-05T23:20:21.044127] [INFO] Request processed successfully
+[2025-11-05T23:20:21.044141] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.044119] [INFO] Database query executed
+[2025-11-05T23:20:21.044164] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.044146] [ERROR] Authentication failed
+[2025-11-05T23:20:21.044188] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.044123] [INFO] Cache hit
+[2025-11-05T23:20:21.044168] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.044082] [INFO] User logged in
+[2025-11-05T23:20:21.044100] [INFO] Transaction completed
+[2025-11-05T23:20:21.044131] [INFO] User logged in
+[2025-11-05T23:20:21.044091] [INFO] Health check passed
+[2025-11-05T23:20:21.044156] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.044160] [DEBUG] Cache key generated

@@ -1,0 +1,29 @@
+[2025-11-05T23:20:18.628918] [INFO] Cache hit
+[2025-11-05T23:20:18.628937] [INFO] Request processed successfully
+[2025-11-05T23:20:18.628944] [INFO] Session started
+[2025-11-05T23:20:18.628908] [INFO] Connection established
+[2025-11-05T23:20:18.628932] [INFO] Database query executed
+[2025-11-05T23:20:18.628940] [INFO] Database query executed
+[2025-11-05T23:20:18.629002] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.628914] [INFO] Connection established
+[2025-11-05T23:20:18.629007] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.628967] [WARN] Rate limit approaching
+[2025-11-05T23:20:18.628880] [INFO] Health check passed
+[2025-11-05T23:20:18.628924] [INFO] Configuration loaded
+[2025-11-05T23:20:18.628898] [INFO] Service initialized
+[2025-11-05T23:20:18.628994] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.628887] [INFO] Health check passed
+[2025-11-05T23:20:18.629012] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:18.628973] [ERROR] Permission denied
+[2025-11-05T23:20:18.628892] [INFO] Database query executed
+[2025-11-05T23:20:18.628928] [INFO] Request processed successfully
+[2025-11-05T23:20:18.628852] [INFO] Request processed successfully
+[2025-11-05T23:20:18.628961] [WARN] Slow query performance
+[2025-11-05T23:20:18.628904] [INFO] Connection established
+[2025-11-05T23:20:18.628977] [ERROR] Service unavailable
+[2025-11-05T23:20:18.628951] [WARN] Rate limit approaching
+[2025-11-05T23:20:18.628998] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.628989] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:18.628983] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:18.629016] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.628956] [WARN] Disk space low

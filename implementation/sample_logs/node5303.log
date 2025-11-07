@@ -1,0 +1,27 @@
+[2025-11-05T23:20:34.796026] [INFO] Configuration loaded
+[2025-11-05T23:20:34.796106] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.796120] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.796035] [INFO] Session started
+[2025-11-05T23:20:34.796004] [INFO] Session started
+[2025-11-05T23:20:34.796090] [WARN] Connection retry attempt
+[2025-11-05T23:20:34.796071] [WARN] Deprecated API usage
+[2025-11-05T23:20:34.796015] [INFO] Cache hit
+[2025-11-05T23:20:34.796010] [INFO] Cache hit
+[2025-11-05T23:20:34.796085] [WARN] Queue size growing
+[2025-11-05T23:20:34.796050] [INFO] Request processed successfully
+[2025-11-05T23:20:34.796055] [INFO] Service initialized
+[2025-11-05T23:20:34.795976] [INFO] Cache hit
+[2025-11-05T23:20:34.796021] [INFO] Transaction completed
+[2025-11-05T23:20:34.796044] [INFO] Transaction completed
+[2025-11-05T23:20:34.796111] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.796094] [WARN] Queue size growing
+[2025-11-05T23:20:34.796116] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.796081] [WARN] Cache miss
+[2025-11-05T23:20:34.796099] [ERROR] Memory allocation error
+[2025-11-05T23:20:34.796040] [INFO] Health check passed
+[2025-11-05T23:20:34.796065] [WARN] Resource threshold approaching
+[2025-11-05T23:20:34.796076] [WARN] Cache miss
+[2025-11-05T23:20:34.796130] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.796030] [INFO] Health check passed
+[2025-11-05T23:20:34.796125] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.796059] [INFO] Request processed successfully

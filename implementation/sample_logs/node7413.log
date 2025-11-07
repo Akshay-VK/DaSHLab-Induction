@@ -1,0 +1,30 @@
+[2025-11-05T23:20:43.047353] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.047344] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.047267] [INFO] User logged in
+[2025-11-05T23:20:43.047247] [INFO] Session started
+[2025-11-05T23:20:43.047312] [INFO] Configuration loaded
+[2025-11-05T23:20:43.047252] [INFO] Request processed successfully
+[2025-11-05T23:20:43.047286] [INFO] Transaction completed
+[2025-11-05T23:20:43.047316] [INFO] Connection established
+[2025-11-05T23:20:43.047322] [WARN] Cache miss
+[2025-11-05T23:20:43.047257] [INFO] Request processed successfully
+[2025-11-05T23:20:43.047334] [ERROR] Disk read failed
+[2025-11-05T23:20:43.047276] [INFO] Request processed successfully
+[2025-11-05T23:20:43.047262] [INFO] Transaction completed
+[2025-11-05T23:20:43.047361] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.047370] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:43.047210] [INFO] User logged in
+[2025-11-05T23:20:43.047339] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.047357] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.047328] [ERROR] Authentication failed
+[2025-11-05T23:20:43.047298] [INFO] Cache hit
+[2025-11-05T23:20:43.047294] [INFO] Health check passed
+[2025-11-05T23:20:43.047271] [INFO] Health check passed
+[2025-11-05T23:20:43.047236] [INFO] User logged in
+[2025-11-05T23:20:43.047242] [INFO] Configuration loaded
+[2025-11-05T23:20:43.047281] [INFO] Connection established
+[2025-11-05T23:20:43.047307] [INFO] User logged in
+[2025-11-05T23:20:43.047348] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.047290] [INFO] Session started
+[2025-11-05T23:20:43.047366] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.047303] [INFO] Health check passed

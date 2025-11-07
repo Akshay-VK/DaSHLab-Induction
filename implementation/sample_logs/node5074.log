@@ -1,0 +1,29 @@
+[2025-11-05T23:20:33.845297] [INFO] Transaction completed
+[2025-11-05T23:20:33.845311] [INFO] Health check passed
+[2025-11-05T23:20:33.845376] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.845358] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:33.845306] [INFO] Cache hit
+[2025-11-05T23:20:33.845334] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.845282] [INFO] Transaction completed
+[2025-11-05T23:20:33.845259] [INFO] Session started
+[2025-11-05T23:20:33.845302] [INFO] Connection established
+[2025-11-05T23:20:33.845371] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.845316] [WARN] Slow query performance
+[2025-11-05T23:20:33.845362] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.845344] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.845269] [INFO] Request processed successfully
+[2025-11-05T23:20:33.845323] [ERROR] File not found
+[2025-11-05T23:20:33.845273] [INFO] Cache hit
+[2025-11-05T23:20:33.845254] [INFO] Transaction completed
+[2025-11-05T23:20:33.845288] [INFO] User logged in
+[2025-11-05T23:20:33.845353] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.845328] [ERROR] Permission denied
+[2025-11-05T23:20:33.845264] [INFO] Connection established
+[2025-11-05T23:20:33.845278] [INFO] Service initialized
+[2025-11-05T23:20:33.845221] [INFO] Session started
+[2025-11-05T23:20:33.845339] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.845380] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.845349] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.845293] [INFO] Configuration loaded
+[2025-11-05T23:20:33.845248] [INFO] Transaction completed
+[2025-11-05T23:20:33.845367] [DEBUG] Entering function process_data()

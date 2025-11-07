@@ -1,0 +1,27 @@
+[2025-11-05T23:20:26.251274] [WARN] Slow query performance
+[2025-11-05T23:20:26.251233] [INFO] Request processed successfully
+[2025-11-05T23:20:26.251252] [INFO] Transaction completed
+[2025-11-05T23:20:26.251298] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.251246] [INFO] Configuration loaded
+[2025-11-05T23:20:26.251308] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.251290] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:26.251277] [WARN] Connection retry attempt
+[2025-11-05T23:20:26.251229] [INFO] User logged in
+[2025-11-05T23:20:26.251236] [INFO] Database query executed
+[2025-11-05T23:20:26.251271] [WARN] Slow query performance
+[2025-11-05T23:20:26.251305] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.251243] [INFO] Connection established
+[2025-11-05T23:20:26.251224] [INFO] User logged in
+[2025-11-05T23:20:26.251316] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.251256] [INFO] Request processed successfully
+[2025-11-05T23:20:26.251240] [INFO] Health check passed
+[2025-11-05T23:20:26.251294] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.251267] [WARN] High memory usage detected
+[2025-11-05T23:20:26.251249] [INFO] Configuration loaded
+[2025-11-05T23:20:26.251281] [WARN] Slow query performance
+[2025-11-05T23:20:26.251312] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.251301] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:26.251262] [INFO] Request processed successfully
+[2025-11-05T23:20:26.251259] [INFO] Transaction completed
+[2025-11-05T23:20:26.251199] [INFO] Request processed successfully
+[2025-11-05T23:20:26.251285] [ERROR] Database connection lost

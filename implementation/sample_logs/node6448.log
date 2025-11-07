@@ -1,0 +1,26 @@
+[2025-11-05T23:20:39.484489] [INFO] Session started
+[2025-11-05T23:20:39.484484] [INFO] User logged in
+[2025-11-05T23:20:39.484528] [WARN] Timeout warning
+[2025-11-05T23:20:39.484499] [INFO] Transaction completed
+[2025-11-05T23:20:39.484478] [INFO] Session started
+[2025-11-05T23:20:39.484572] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:39.484467] [INFO] Transaction completed
+[2025-11-05T23:20:39.484577] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:39.484541] [ERROR] Disk read failed
+[2025-11-05T23:20:39.484553] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:39.484518] [INFO] Request processed successfully
+[2025-11-05T23:20:39.484513] [INFO] Session started
+[2025-11-05T23:20:39.484547] [ERROR] Request failed
+[2025-11-05T23:20:39.484522] [INFO] Configuration loaded
+[2025-11-05T23:20:39.484460] [INFO] Health check passed
+[2025-11-05T23:20:39.484508] [INFO] Database query executed
+[2025-11-05T23:20:39.484503] [INFO] Connection established
+[2025-11-05T23:20:39.484473] [INFO] User logged in
+[2025-11-05T23:20:39.484567] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:39.484493] [INFO] Cache hit
+[2025-11-05T23:20:39.484581] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:39.484535] [WARN] Slow query performance
+[2025-11-05T23:20:39.484433] [INFO] User logged in
+[2025-11-05T23:20:39.484563] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:39.484558] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:39.484586] [DEBUG] HTTP request headers parsed

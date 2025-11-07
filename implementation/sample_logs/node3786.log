@@ -1,0 +1,30 @@
+[2025-11-05T23:20:28.823444] [WARN] Cache miss
+[2025-11-05T23:20:28.823252] [INFO] Cache hit
+[2025-11-05T23:20:28.823482] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.823427] [INFO] Database query executed
+[2025-11-05T23:20:28.823223] [INFO] Service initialized
+[2025-11-05T23:20:28.823452] [ERROR] Permission denied
+[2025-11-05T23:20:28.823246] [INFO] Request processed successfully
+[2025-11-05T23:20:28.823249] [INFO] Connection established
+[2025-11-05T23:20:28.823233] [INFO] Request processed successfully
+[2025-11-05T23:20:28.823479] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.823477] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.823266] [INFO] Request processed successfully
+[2025-11-05T23:20:28.823463] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.823418] [INFO] Cache hit
+[2025-11-05T23:20:28.823262] [INFO] Database query executed
+[2025-11-05T23:20:28.823256] [INFO] Service initialized
+[2025-11-05T23:20:28.823197] [INFO] Session started
+[2025-11-05T23:20:28.823460] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.823456] [DEBUG] Cache key generated
+[2025-11-05T23:20:28.823259] [INFO] Cache hit
+[2025-11-05T23:20:28.823242] [INFO] Transaction completed
+[2025-11-05T23:20:28.823448] [ERROR] Permission denied
+[2025-11-05T23:20:28.823474] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.823440] [WARN] Deprecated API usage
+[2025-11-05T23:20:28.823433] [WARN] Connection retry attempt
+[2025-11-05T23:20:28.823237] [INFO] Connection established
+[2025-11-05T23:20:28.823466] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.823436] [WARN] Disk space low
+[2025-11-05T23:20:28.823229] [INFO] Connection established
+[2025-11-05T23:20:28.823471] [DEBUG] Timer set: 30 seconds

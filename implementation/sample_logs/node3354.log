@@ -1,0 +1,33 @@
+[2025-11-05T23:20:26.628209] [INFO] User logged in
+[2025-11-05T23:20:26.628167] [INFO] Connection established
+[2025-11-05T23:20:26.628183] [INFO] Session started
+[2025-11-05T23:20:26.628252] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:26.628136] [INFO] Session started
+[2025-11-05T23:20:26.628198] [INFO] Health check passed
+[2025-11-05T23:20:26.628192] [INFO] Request processed successfully
+[2025-11-05T23:20:26.628186] [INFO] Database query executed
+[2025-11-05T23:20:26.628163] [INFO] Database query executed
+[2025-11-05T23:20:26.628262] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:26.628255] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:26.628174] [INFO] Connection established
+[2025-11-05T23:20:26.628189] [INFO] Request processed successfully
+[2025-11-05T23:20:26.628243] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:26.628232] [ERROR] Request failed
+[2025-11-05T23:20:26.628265] [DEBUG] Cache key generated
+[2025-11-05T23:20:26.628195] [INFO] Request processed successfully
+[2025-11-05T23:20:26.628259] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:26.628170] [INFO] Configuration loaded
+[2025-11-05T23:20:26.628217] [WARN] Rate limit approaching
+[2025-11-05T23:20:26.628228] [ERROR] Memory allocation error
+[2025-11-05T23:20:26.628159] [INFO] Configuration loaded
+[2025-11-05T23:20:26.628177] [INFO] Session started
+[2025-11-05T23:20:26.628249] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.628239] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:26.628224] [WARN] Cache miss
+[2025-11-05T23:20:26.628205] [INFO] Cache hit
+[2025-11-05T23:20:26.628212] [INFO] Request processed successfully
+[2025-11-05T23:20:26.628180] [INFO] Connection established
+[2025-11-05T23:20:26.628220] [WARN] Slow query performance
+[2025-11-05T23:20:26.628246] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:26.628235] [ERROR] Disk read failed
+[2025-11-05T23:20:26.628202] [INFO] Configuration loaded

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:37.969761] [INFO] Service initialized
+[2025-11-05T23:20:37.969749] [INFO] Database query executed
+[2025-11-05T23:20:37.969800] [ERROR] Memory allocation error
+[2025-11-05T23:20:37.969795] [WARN] Deprecated API usage
+[2025-11-05T23:20:37.969846] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.969785] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.969838] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.969737] [INFO] Configuration loaded
+[2025-11-05T23:20:37.969745] [INFO] Request processed successfully
+[2025-11-05T23:20:37.969769] [INFO] Cache hit
+[2025-11-05T23:20:37.969789] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.969724] [INFO] Health check passed
+[2025-11-05T23:20:37.969713] [INFO] Cache hit
+[2025-11-05T23:20:37.969719] [INFO] Health check passed
+[2025-11-05T23:20:37.969757] [INFO] User logged in
+[2025-11-05T23:20:37.969775] [WARN] Deprecated API usage
+[2025-11-05T23:20:37.969842] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.969825] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.969685] [INFO] Transaction completed
+[2025-11-05T23:20:37.969834] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.969820] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.969741] [INFO] Request processed successfully
+[2025-11-05T23:20:37.969728] [INFO] Session started
+[2025-11-05T23:20:37.969815] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.969804] [ERROR] Network timeout
+[2025-11-05T23:20:37.969830] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.969753] [INFO] Configuration loaded
+[2025-11-05T23:20:37.969765] [INFO] User logged in
+[2025-11-05T23:20:37.969733] [INFO] Connection established
+[2025-11-05T23:20:37.969779] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.969810] [DEBUG] Loop iteration: 15

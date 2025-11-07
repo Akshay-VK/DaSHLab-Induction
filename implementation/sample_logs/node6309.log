@@ -1,0 +1,29 @@
+[2025-11-05T23:20:38.890456] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.890405] [WARN] Cache miss
+[2025-11-05T23:20:38.890380] [INFO] Cache hit
+[2025-11-05T23:20:38.890390] [INFO] Service initialized
+[2025-11-05T23:20:38.890426] [ERROR] Network timeout
+[2025-11-05T23:20:38.890423] [ERROR] Memory allocation error
+[2025-11-05T23:20:38.890370] [INFO] Database query executed
+[2025-11-05T23:20:38.890397] [INFO] Request processed successfully
+[2025-11-05T23:20:38.890394] [INFO] Session started
+[2025-11-05T23:20:38.890440] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.890453] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.890384] [INFO] Cache hit
+[2025-11-05T23:20:38.890450] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.890411] [WARN] Slow query performance
+[2025-11-05T23:20:38.890401] [WARN] Rate limit approaching
+[2025-11-05T23:20:38.890339] [INFO] Health check passed
+[2025-11-05T23:20:38.890431] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.890415] [WARN] Queue size growing
+[2025-11-05T23:20:38.890447] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.890418] [WARN] Timeout warning
+[2025-11-05T23:20:38.890374] [INFO] Request processed successfully
+[2025-11-05T23:20:38.890443] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.890377] [INFO] Database query executed
+[2025-11-05T23:20:38.890408] [WARN] Rate limit approaching
+[2025-11-05T23:20:38.890367] [INFO] Session started
+[2025-11-05T23:20:38.890362] [INFO] Configuration loaded
+[2025-11-05T23:20:38.890387] [INFO] Configuration loaded
+[2025-11-05T23:20:38.890434] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.890437] [DEBUG] Memory allocation: 2048 bytes

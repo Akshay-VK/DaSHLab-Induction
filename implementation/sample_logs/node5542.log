@@ -1,0 +1,30 @@
+[2025-11-05T23:20:35.614702] [WARN] Disk space low
+[2025-11-05T23:20:35.614747] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:35.614643] [INFO] Session started
+[2025-11-05T23:20:35.614651] [INFO] Configuration loaded
+[2025-11-05T23:20:35.614656] [INFO] Session started
+[2025-11-05T23:20:35.614743] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:35.614711] [ERROR] Database connection lost
+[2025-11-05T23:20:35.614647] [INFO] User logged in
+[2025-11-05T23:20:35.614639] [INFO] Connection established
+[2025-11-05T23:20:35.614633] [INFO] Session started
+[2025-11-05T23:20:35.614716] [ERROR] File not found
+[2025-11-05T23:20:35.614660] [INFO] Transaction completed
+[2025-11-05T23:20:35.614684] [INFO] Database query executed
+[2025-11-05T23:20:35.614734] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:35.614721] [DEBUG] Cache key generated
+[2025-11-05T23:20:35.614664] [INFO] User logged in
+[2025-11-05T23:20:35.614687] [INFO] Transaction completed
+[2025-11-05T23:20:35.614739] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.614726] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:35.614730] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:35.614756] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:35.614669] [INFO] Configuration loaded
+[2025-11-05T23:20:35.614608] [INFO] Service initialized
+[2025-11-05T23:20:35.614706] [WARN] Deprecated API usage
+[2025-11-05T23:20:35.614673] [INFO] Database query executed
+[2025-11-05T23:20:35.614677] [INFO] User logged in
+[2025-11-05T23:20:35.614680] [INFO] Request processed successfully
+[2025-11-05T23:20:35.614692] [WARN] Connection retry attempt
+[2025-11-05T23:20:35.614697] [WARN] Rate limit approaching
+[2025-11-05T23:20:35.614752] [DEBUG] Variable value: x=42

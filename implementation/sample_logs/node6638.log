@@ -1,0 +1,34 @@
+[2025-11-05T23:20:40.112747] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.112702] [WARN] Slow query performance
+[2025-11-05T23:20:40.112674] [INFO] Service initialized
+[2025-11-05T23:20:40.112692] [WARN] Deprecated API usage
+[2025-11-05T23:20:40.112596] [INFO] Session started
+[2025-11-05T23:20:40.112758] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.112670] [INFO] Database query executed
+[2025-11-05T23:20:40.112698] [WARN] Disk space low
+[2025-11-05T23:20:40.112633] [INFO] Cache hit
+[2025-11-05T23:20:40.112762] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.112724] [ERROR] File not found
+[2025-11-05T23:20:40.112682] [INFO] Request processed successfully
+[2025-11-05T23:20:40.112710] [WARN] Timeout warning
+[2025-11-05T23:20:40.112662] [INFO] Configuration loaded
+[2025-11-05T23:20:40.112622] [INFO] Service initialized
+[2025-11-05T23:20:40.112719] [ERROR] Disk read failed
+[2025-11-05T23:20:40.112707] [WARN] Queue size growing
+[2025-11-05T23:20:40.112743] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.112638] [INFO] Configuration loaded
+[2025-11-05T23:20:40.112686] [INFO] User logged in
+[2025-11-05T23:20:40.112657] [INFO] User logged in
+[2025-11-05T23:20:40.112714] [WARN] Timeout warning
+[2025-11-05T23:20:40.112751] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.112730] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.112735] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.112642] [INFO] Configuration loaded
+[2025-11-05T23:20:40.112739] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.112651] [INFO] Session started
+[2025-11-05T23:20:40.112628] [INFO] Cache hit
+[2025-11-05T23:20:40.112767] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.112755] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:40.112666] [INFO] Request processed successfully
+[2025-11-05T23:20:40.112647] [INFO] Transaction completed
+[2025-11-05T23:20:40.112678] [INFO] Session started

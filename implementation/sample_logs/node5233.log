@@ -1,0 +1,34 @@
+[2025-11-05T23:20:34.485625] [INFO] Connection established
+[2025-11-05T23:20:34.485637] [INFO] Connection established
+[2025-11-05T23:20:34.485677] [INFO] Transaction completed
+[2025-11-05T23:20:34.485762] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.485781] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.485790] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.485631] [INFO] Cache hit
+[2025-11-05T23:20:34.485681] [INFO] User logged in
+[2025-11-05T23:20:34.485735] [ERROR] Memory allocation error
+[2025-11-05T23:20:34.485730] [ERROR] Disk read failed
+[2025-11-05T23:20:34.485642] [INFO] Transaction completed
+[2025-11-05T23:20:34.485713] [WARN] High memory usage detected
+[2025-11-05T23:20:34.485741] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.485662] [INFO] Service initialized
+[2025-11-05T23:20:34.485672] [INFO] Cache hit
+[2025-11-05T23:20:34.485746] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.485751] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.485767] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.485757] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.485785] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.485776] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.485771] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.485691] [INFO] Health check passed
+[2025-11-05T23:20:34.485667] [INFO] Cache hit
+[2025-11-05T23:20:34.485653] [INFO] Connection established
+[2025-11-05T23:20:34.485719] [WARN] High memory usage detected
+[2025-11-05T23:20:34.485648] [INFO] User logged in
+[2025-11-05T23:20:34.485696] [INFO] Cache hit
+[2025-11-05T23:20:34.485724] [ERROR] Disk read failed
+[2025-11-05T23:20:34.485708] [WARN] Queue size growing
+[2025-11-05T23:20:34.485600] [INFO] Health check passed
+[2025-11-05T23:20:34.485702] [WARN] Disk space low
+[2025-11-05T23:20:34.485658] [INFO] Health check passed
+[2025-11-05T23:20:34.485686] [INFO] Request processed successfully

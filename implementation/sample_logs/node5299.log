@@ -1,0 +1,29 @@
+[2025-11-05T23:20:34.786308] [WARN] Slow query performance
+[2025-11-05T23:20:34.786313] [WARN] Deprecated API usage
+[2025-11-05T23:20:34.786273] [INFO] Configuration loaded
+[2025-11-05T23:20:34.786355] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:34.786269] [INFO] User logged in
+[2025-11-05T23:20:34.786289] [INFO] Database query executed
+[2025-11-05T23:20:34.786346] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.786350] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.786264] [INFO] Transaction completed
+[2025-11-05T23:20:34.786260] [INFO] Database query executed
+[2025-11-05T23:20:34.786359] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.786328] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.786363] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:34.786318] [ERROR] Database connection lost
+[2025-11-05T23:20:34.786322] [ERROR] File not found
+[2025-11-05T23:20:34.786304] [WARN] Disk space low
+[2025-11-05T23:20:34.786338] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:34.786239] [INFO] Connection established
+[2025-11-05T23:20:34.786333] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.786281] [INFO] Configuration loaded
+[2025-11-05T23:20:34.786342] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.786251] [INFO] Transaction completed
+[2025-11-05T23:20:34.786245] [INFO] Session started
+[2025-11-05T23:20:34.786214] [INFO] Session started
+[2025-11-05T23:20:34.786294] [INFO] Cache hit
+[2025-11-05T23:20:34.786255] [INFO] Session started
+[2025-11-05T23:20:34.786285] [INFO] Health check passed
+[2025-11-05T23:20:34.786299] [WARN] Cache miss
+[2025-11-05T23:20:34.786277] [INFO] Database query executed

@@ -1,0 +1,30 @@
+[2025-11-05T23:20:31.440273] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:31.440248] [WARN] Cache miss
+[2025-11-05T23:20:31.440264] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:31.440193] [INFO] Cache hit
+[2025-11-05T23:20:31.440277] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.440290] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:31.440244] [WARN] Disk space low
+[2025-11-05T23:20:31.440139] [INFO] Connection established
+[2025-11-05T23:20:31.440178] [INFO] User logged in
+[2025-11-05T23:20:31.440188] [INFO] User logged in
+[2025-11-05T23:20:31.440294] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.440211] [INFO] Database query executed
+[2025-11-05T23:20:31.440228] [INFO] User logged in
+[2025-11-05T23:20:31.440173] [INFO] Request processed successfully
+[2025-11-05T23:20:31.440220] [INFO] Database query executed
+[2025-11-05T23:20:31.440207] [INFO] Health check passed
+[2025-11-05T23:20:31.440268] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.440183] [INFO] Session started
+[2025-11-05T23:20:31.440254] [ERROR] Authentication failed
+[2025-11-05T23:20:31.440202] [INFO] Database query executed
+[2025-11-05T23:20:31.440234] [WARN] Queue size growing
+[2025-11-05T23:20:31.440259] [ERROR] Authentication failed
+[2025-11-05T23:20:31.440298] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:31.440167] [INFO] Cache hit
+[2025-11-05T23:20:31.440216] [INFO] Transaction completed
+[2025-11-05T23:20:31.440224] [INFO] User logged in
+[2025-11-05T23:20:31.440285] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:31.440239] [WARN] High memory usage detected
+[2025-11-05T23:20:31.440197] [INFO] Database query executed
+[2025-11-05T23:20:31.440281] [DEBUG] Loop iteration: 15

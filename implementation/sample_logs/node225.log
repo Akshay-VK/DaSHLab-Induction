@@ -1,0 +1,32 @@
+[2025-11-05T23:20:12.808960] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:12.808880] [INFO] Health check passed
+[2025-11-05T23:20:12.808910] [INFO] Request processed successfully
+[2025-11-05T23:20:12.808951] [ERROR] Database connection lost
+[2025-11-05T23:20:12.808945] [WARN] Connection retry attempt
+[2025-11-05T23:20:12.808981] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.808986] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:12.808835] [INFO] Cache hit
+[2025-11-05T23:20:12.808974] [DEBUG] Cache key generated
+[2025-11-05T23:20:12.808871] [INFO] Database query executed
+[2025-11-05T23:20:12.808919] [INFO] Database query executed
+[2025-11-05T23:20:12.808970] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:12.808898] [INFO] Session started
+[2025-11-05T23:20:12.808928] [WARN] Slow query performance
+[2025-11-05T23:20:12.808994] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.808906] [INFO] Service initialized
+[2025-11-05T23:20:12.808914] [INFO] Transaction completed
+[2025-11-05T23:20:12.808965] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.808990] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:12.808978] [DEBUG] Cache key generated
+[2025-11-05T23:20:12.808941] [WARN] Disk space low
+[2025-11-05T23:20:12.808937] [WARN] Connection retry attempt
+[2025-11-05T23:20:12.808893] [INFO] Session started
+[2025-11-05T23:20:12.808889] [INFO] Request processed successfully
+[2025-11-05T23:20:12.808876] [INFO] Configuration loaded
+[2025-11-05T23:20:12.808902] [INFO] Configuration loaded
+[2025-11-05T23:20:12.808866] [INFO] Service initialized
+[2025-11-05T23:20:12.808885] [INFO] Database query executed
+[2025-11-05T23:20:12.808933] [WARN] Cache miss
+[2025-11-05T23:20:12.808955] [ERROR] Disk read failed
+[2025-11-05T23:20:12.808923] [INFO] Connection established
+[2025-11-05T23:20:12.808861] [INFO] Request processed successfully

@@ -1,0 +1,36 @@
+[2025-11-05T23:20:37.299319] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.299235] [INFO] Session started
+[2025-11-05T23:20:37.299177] [INFO] Service initialized
+[2025-11-05T23:20:37.299263] [INFO] Connection established
+[2025-11-05T23:20:37.299246] [INFO] Session started
+[2025-11-05T23:20:37.299255] [INFO] Request processed successfully
+[2025-11-05T23:20:37.299242] [INFO] Health check passed
+[2025-11-05T23:20:37.299225] [INFO] Database query executed
+[2025-11-05T23:20:37.299221] [INFO] Service initialized
+[2025-11-05T23:20:37.299302] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.299249] [INFO] Database query executed
+[2025-11-05T23:20:37.299296] [ERROR] Network timeout
+[2025-11-05T23:20:37.299282] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.299323] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.299228] [INFO] Service initialized
+[2025-11-05T23:20:37.299267] [WARN] Slow query performance
+[2025-11-05T23:20:37.299275] [WARN] Cache miss
+[2025-11-05T23:20:37.299271] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.299312] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.299210] [INFO] Connection established
+[2025-11-05T23:20:37.299232] [INFO] Cache hit
+[2025-11-05T23:20:37.299326] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:37.299306] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.299217] [INFO] Session started
+[2025-11-05T23:20:37.299288] [ERROR] File not found
+[2025-11-05T23:20:37.299278] [WARN] Resource threshold approaching
+[2025-11-05T23:20:37.299293] [ERROR] Authentication failed
+[2025-11-05T23:20:37.299252] [INFO] Connection established
+[2025-11-05T23:20:37.299316] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.299329] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.299214] [INFO] Service initialized
+[2025-11-05T23:20:37.299202] [INFO] User logged in
+[2025-11-05T23:20:37.299239] [INFO] Health check passed
+[2025-11-05T23:20:37.299309] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:37.299206] [INFO] Configuration loaded
+[2025-11-05T23:20:37.299260] [INFO] Database query executed

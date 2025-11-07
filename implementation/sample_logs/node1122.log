@@ -1,0 +1,28 @@
+[2025-11-05T23:20:17.218963] [INFO] Connection established
+[2025-11-05T23:20:17.218973] [INFO] Health check passed
+[2025-11-05T23:20:17.219031] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.218931] [INFO] Session started
+[2025-11-05T23:20:17.219016] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.218977] [INFO] Session started
+[2025-11-05T23:20:17.218955] [INFO] Connection established
+[2025-11-05T23:20:17.219024] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.219027] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.219012] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:17.219005] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.218943] [INFO] Transaction completed
+[2025-11-05T23:20:17.218926] [INFO] Service initialized
+[2025-11-05T23:20:17.218939] [INFO] Cache hit
+[2025-11-05T23:20:17.218996] [ERROR] Permission denied
+[2025-11-05T23:20:17.219009] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:17.218970] [INFO] Connection established
+[2025-11-05T23:20:17.218935] [INFO] Request processed successfully
+[2025-11-05T23:20:17.218948] [INFO] Transaction completed
+[2025-11-05T23:20:17.218952] [INFO] Request processed successfully
+[2025-11-05T23:20:17.219001] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.219020] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:17.218902] [INFO] Service initialized
+[2025-11-05T23:20:17.218967] [INFO] Cache hit
+[2025-11-05T23:20:17.218980] [INFO] Connection established
+[2025-11-05T23:20:17.218959] [INFO] Session started
+[2025-11-05T23:20:17.218992] [ERROR] Request failed
+[2025-11-05T23:20:17.218985] [WARN] High memory usage detected

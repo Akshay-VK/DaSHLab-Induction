@@ -1,0 +1,30 @@
+[2025-11-05T23:20:52.403878] [INFO] User logged in
+[2025-11-05T23:20:52.403873] [INFO] Session started
+[2025-11-05T23:20:52.404090] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.403972] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.403964] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.403895] [INFO] Session started
+[2025-11-05T23:20:52.403924] [INFO] Transaction completed
+[2025-11-05T23:20:52.404086] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.403903] [INFO] Request processed successfully
+[2025-11-05T23:20:52.403883] [INFO] Connection established
+[2025-11-05T23:20:52.403887] [INFO] Request processed successfully
+[2025-11-05T23:20:52.403945] [WARN] Queue size growing
+[2025-11-05T23:20:52.403892] [INFO] Connection established
+[2025-11-05T23:20:52.403932] [WARN] Rate limit approaching
+[2025-11-05T23:20:52.403863] [INFO] Transaction completed
+[2025-11-05T23:20:52.403912] [INFO] Cache hit
+[2025-11-05T23:20:52.403916] [INFO] Session started
+[2025-11-05T23:20:52.403951] [ERROR] Database connection lost
+[2025-11-05T23:20:52.404098] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.403941] [WARN] Slow query performance
+[2025-11-05T23:20:52.403968] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.403955] [ERROR] Service unavailable
+[2025-11-05T23:20:52.403960] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.403484] [INFO] Connection established
+[2025-11-05T23:20:52.403908] [INFO] Configuration loaded
+[2025-11-05T23:20:52.404073] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.403937] [WARN] Cache miss
+[2025-11-05T23:20:52.403920] [INFO] Session started
+[2025-11-05T23:20:52.404094] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.403899] [INFO] Configuration loaded

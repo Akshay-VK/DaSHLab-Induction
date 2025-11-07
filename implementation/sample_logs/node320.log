@@ -1,0 +1,29 @@
+[2025-11-05T23:20:13.632168] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:13.632082] [INFO] User logged in
+[2025-11-05T23:20:13.632189] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.632097] [INFO] Configuration loaded
+[2025-11-05T23:20:13.632172] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:13.632088] [INFO] Cache hit
+[2025-11-05T23:20:13.632160] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:13.632109] [INFO] User logged in
+[2025-11-05T23:20:13.632136] [INFO] User logged in
+[2025-11-05T23:20:13.632155] [ERROR] Request failed
+[2025-11-05T23:20:13.632116] [INFO] User logged in
+[2025-11-05T23:20:13.632176] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:13.632202] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:13.632193] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:13.632197] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.632150] [ERROR] Memory allocation error
+[2025-11-05T23:20:13.632093] [INFO] Database query executed
+[2025-11-05T23:20:13.632105] [INFO] Request processed successfully
+[2025-11-05T23:20:13.632112] [INFO] Database query executed
+[2025-11-05T23:20:13.632124] [INFO] Health check passed
+[2025-11-05T23:20:13.632132] [INFO] Database query executed
+[2025-11-05T23:20:13.632184] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:13.632055] [INFO] Configuration loaded
+[2025-11-05T23:20:13.632128] [INFO] Database query executed
+[2025-11-05T23:20:13.632180] [DEBUG] Cache key generated
+[2025-11-05T23:20:13.632101] [INFO] Cache hit
+[2025-11-05T23:20:13.632120] [INFO] Cache hit
+[2025-11-05T23:20:13.632141] [WARN] Connection retry attempt
+[2025-11-05T23:20:13.632164] [DEBUG] Entering function process_data()

@@ -1,0 +1,25 @@
+[2025-11-05T23:20:34.843255] [INFO] Connection established
+[2025-11-05T23:20:34.843278] [ERROR] Authentication failed
+[2025-11-05T23:20:34.843220] [INFO] User logged in
+[2025-11-05T23:20:34.843272] [WARN] Slow query performance
+[2025-11-05T23:20:34.843316] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.843251] [INFO] Session started
+[2025-11-05T23:20:34.843235] [INFO] User logged in
+[2025-11-05T23:20:34.843301] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:34.843239] [INFO] Transaction completed
+[2025-11-05T23:20:34.843246] [INFO] Cache hit
+[2025-11-05T23:20:34.843305] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:34.843259] [INFO] Connection established
+[2025-11-05T23:20:34.843230] [INFO] Transaction completed
+[2025-11-05T23:20:34.843297] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:34.843287] [DEBUG] Cache key generated
+[2025-11-05T23:20:34.843263] [INFO] Session started
+[2025-11-05T23:20:34.843225] [INFO] Configuration loaded
+[2025-11-05T23:20:34.843283] [ERROR] Memory allocation error
+[2025-11-05T23:20:34.843195] [INFO] Session started
+[2025-11-05T23:20:34.843320] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.843309] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:34.843267] [INFO] Service initialized
+[2025-11-05T23:20:34.843292] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:34.843313] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:34.843242] [INFO] Cache hit

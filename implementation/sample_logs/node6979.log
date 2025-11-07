@@ -1,0 +1,27 @@
+[2025-11-05T23:20:41.443663] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.443590] [INFO] Connection established
+[2025-11-05T23:20:41.443651] [ERROR] Network timeout
+[2025-11-05T23:20:41.443623] [INFO] Cache hit
+[2025-11-05T23:20:41.443683] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.443579] [INFO] Transaction completed
+[2025-11-05T23:20:41.443603] [INFO] Transaction completed
+[2025-11-05T23:20:41.443627] [INFO] Connection established
+[2025-11-05T23:20:41.443606] [INFO] User logged in
+[2025-11-05T23:20:41.443610] [INFO] Request processed successfully
+[2025-11-05T23:20:41.443637] [WARN] High memory usage detected
+[2025-11-05T23:20:41.443619] [INFO] Service initialized
+[2025-11-05T23:20:41.443586] [INFO] Health check passed
+[2025-11-05T23:20:41.443679] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.443660] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.443655] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.443599] [INFO] Service initialized
+[2025-11-05T23:20:41.443667] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:41.443674] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.443632] [WARN] Disk space low
+[2025-11-05T23:20:41.443686] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.443595] [INFO] Health check passed
+[2025-11-05T23:20:41.443641] [WARN] Cache miss
+[2025-11-05T23:20:41.443553] [INFO] Cache hit
+[2025-11-05T23:20:41.443670] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.443614] [INFO] Transaction completed
+[2025-11-05T23:20:41.443646] [ERROR] Service unavailable

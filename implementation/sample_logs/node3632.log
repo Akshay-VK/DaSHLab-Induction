@@ -1,0 +1,34 @@
+[2025-11-05T23:20:28.271351] [WARN] Queue size growing
+[2025-11-05T23:20:28.271312] [INFO] Database query executed
+[2025-11-05T23:20:28.271263] [INFO] Configuration loaded
+[2025-11-05T23:20:28.271295] [INFO] Request processed successfully
+[2025-11-05T23:20:28.271342] [INFO] Service initialized
+[2025-11-05T23:20:28.271364] [WARN] High memory usage detected
+[2025-11-05T23:20:28.271335] [INFO] Database query executed
+[2025-11-05T23:20:28.271323] [INFO] Health check passed
+[2025-11-05T23:20:28.271377] [ERROR] Request failed
+[2025-11-05T23:20:28.271402] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.271412] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.271382] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.271347] [WARN] Timeout warning
+[2025-11-05T23:20:28.271409] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.271399] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.271300] [INFO] Request processed successfully
+[2025-11-05T23:20:28.271360] [WARN] Cache miss
+[2025-11-05T23:20:28.271405] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.271356] [WARN] High memory usage detected
+[2025-11-05T23:20:28.271373] [ERROR] Network timeout
+[2025-11-05T23:20:28.271290] [INFO] Service initialized
+[2025-11-05T23:20:28.271303] [INFO] Request processed successfully
+[2025-11-05T23:20:28.271391] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.271331] [INFO] Session started
+[2025-11-05T23:20:28.271387] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.271308] [INFO] User logged in
+[2025-11-05T23:20:28.271368] [WARN] Queue size growing
+[2025-11-05T23:20:28.271316] [INFO] Connection established
+[2025-11-05T23:20:28.271327] [INFO] Transaction completed
+[2025-11-05T23:20:28.271419] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:28.271338] [INFO] Configuration loaded
+[2025-11-05T23:20:28.271319] [INFO] Service initialized
+[2025-11-05T23:20:28.271395] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.271416] [DEBUG] Connection pool status checked

@@ -1,0 +1,24 @@
+[2025-11-05T23:20:40.748349] [INFO] Transaction completed
+[2025-11-05T23:20:40.748332] [INFO] Request processed successfully
+[2025-11-05T23:20:40.748313] [INFO] Session started
+[2025-11-05T23:20:40.748365] [ERROR] File not found
+[2025-11-05T23:20:40.748302] [INFO] Request processed successfully
+[2025-11-05T23:20:40.748327] [INFO] Service initialized
+[2025-11-05T23:20:40.748275] [INFO] Transaction completed
+[2025-11-05T23:20:40.748370] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.748323] [INFO] User logged in
+[2025-11-05T23:20:40.748307] [INFO] Connection established
+[2025-11-05T23:20:40.748408] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:40.748402] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.748340] [INFO] Service initialized
+[2025-11-05T23:20:40.748380] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.748389] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.748345] [INFO] Health check passed
+[2025-11-05T23:20:40.748375] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.748394] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.748353] [INFO] Cache hit
+[2025-11-05T23:20:40.748398] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.748335] [INFO] Cache hit
+[2025-11-05T23:20:40.748384] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.748318] [INFO] Cache hit
+[2025-11-05T23:20:40.748358] [WARN] Slow query performance

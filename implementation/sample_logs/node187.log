@@ -1,0 +1,33 @@
+[2025-11-05T23:20:12.651843] [DEBUG] Cache key generated
+[2025-11-05T23:20:12.651838] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.651773] [INFO] Health check passed
+[2025-11-05T23:20:12.651826] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.651757] [INFO] Transaction completed
+[2025-11-05T23:20:12.651777] [INFO] Database query executed
+[2025-11-05T23:20:12.651783] [WARN] Resource threshold approaching
+[2025-11-05T23:20:12.651830] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:12.651732] [INFO] Request processed successfully
+[2025-11-05T23:20:12.651848] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:12.651761] [INFO] Request processed successfully
+[2025-11-05T23:20:12.651749] [INFO] Configuration loaded
+[2025-11-05T23:20:12.651753] [INFO] Transaction completed
+[2025-11-05T23:20:12.651796] [WARN] Timeout warning
+[2025-11-05T23:20:12.651765] [INFO] User logged in
+[2025-11-05T23:20:12.651788] [WARN] High memory usage detected
+[2025-11-05T23:20:12.651736] [INFO] Session started
+[2025-11-05T23:20:12.651727] [INFO] Service initialized
+[2025-11-05T23:20:12.651741] [INFO] Transaction completed
+[2025-11-05T23:20:12.651723] [INFO] Session started
+[2025-11-05T23:20:12.651857] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.651853] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.651811] [ERROR] Disk read failed
+[2025-11-05T23:20:12.651805] [WARN] Timeout warning
+[2025-11-05T23:20:12.651834] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:12.651717] [INFO] User logged in
+[2025-11-05T23:20:12.651792] [WARN] Connection retry attempt
+[2025-11-05T23:20:12.651769] [INFO] Transaction completed
+[2025-11-05T23:20:12.651692] [INFO] Health check passed
+[2025-11-05T23:20:12.651815] [ERROR] Invalid input data
+[2025-11-05T23:20:12.651745] [INFO] Configuration loaded
+[2025-11-05T23:20:12.651821] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.651801] [WARN] Slow query performance

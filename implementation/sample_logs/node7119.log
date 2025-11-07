@@ -1,0 +1,28 @@
+[2025-11-05T23:20:41.897246] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.897207] [INFO] Request processed successfully
+[2025-11-05T23:20:41.897231] [INFO] User logged in
+[2025-11-05T23:20:41.897285] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:41.897220] [INFO] Request processed successfully
+[2025-11-05T23:20:41.897297] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.897198] [INFO] User logged in
+[2025-11-05T23:20:41.897272] [ERROR] Authentication failed
+[2025-11-05T23:20:41.897268] [ERROR] Database connection lost
+[2025-11-05T23:20:41.897235] [INFO] Cache hit
+[2025-11-05T23:20:41.897250] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.897215] [INFO] Health check passed
+[2025-11-05T23:20:41.897281] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.897241] [WARN] Disk space low
+[2025-11-05T23:20:41.897294] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.897150] [INFO] User logged in
+[2025-11-05T23:20:41.897258] [WARN] Connection retry attempt
+[2025-11-05T23:20:41.897192] [INFO] Database query executed
+[2025-11-05T23:20:41.897290] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.897301] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:41.897224] [INFO] Configuration loaded
+[2025-11-05T23:20:41.897263] [ERROR] Permission denied
+[2025-11-05T23:20:41.897203] [INFO] Connection established
+[2025-11-05T23:20:41.897254] [WARN] Slow query performance
+[2025-11-05T23:20:41.897145] [INFO] User logged in
+[2025-11-05T23:20:41.897211] [INFO] Transaction completed
+[2025-11-05T23:20:41.897121] [INFO] Connection established
+[2025-11-05T23:20:41.897277] [DEBUG] Thread pool size: 8

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:21.564743] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.564655] [INFO] Service initialized
+[2025-11-05T23:20:21.564637] [INFO] Configuration loaded
+[2025-11-05T23:20:21.564751] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.564734] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.564738] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.564646] [INFO] Service initialized
+[2025-11-05T23:20:21.564747] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.564724] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.564673] [INFO] Connection established
+[2025-11-05T23:20:21.564651] [INFO] Cache hit
+[2025-11-05T23:20:21.564692] [WARN] Timeout warning
+[2025-11-05T23:20:21.564756] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.564713] [ERROR] Memory allocation error
+[2025-11-05T23:20:21.564627] [INFO] Request processed successfully
+[2025-11-05T23:20:21.564729] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:21.564642] [INFO] Service initialized
+[2025-11-05T23:20:21.564707] [WARN] High memory usage detected
+[2025-11-05T23:20:21.564664] [INFO] Database query executed
+[2025-11-05T23:20:21.564659] [INFO] Connection established
+[2025-11-05T23:20:21.564702] [WARN] Cache miss
+[2025-11-05T23:20:21.564632] [INFO] Connection established
+[2025-11-05T23:20:21.564621] [INFO] Session started
+[2025-11-05T23:20:21.564687] [WARN] Resource threshold approaching
+[2025-11-05T23:20:21.564719] [ERROR] Service unavailable
+[2025-11-05T23:20:21.564668] [INFO] Session started
+[2025-11-05T23:20:21.564677] [INFO] Configuration loaded
+[2025-11-05T23:20:21.564761] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:21.564595] [INFO] User logged in
+[2025-11-05T23:20:21.564697] [WARN] Deprecated API usage
+[2025-11-05T23:20:21.564681] [INFO] Database query executed

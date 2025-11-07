@@ -1,0 +1,33 @@
+[2025-11-05T23:20:15.605872] [INFO] Session started
+[2025-11-05T23:20:15.605903] [INFO] User logged in
+[2025-11-05T23:20:15.605972] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.605991] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.605885] [INFO] Transaction completed
+[2025-11-05T23:20:15.605881] [INFO] Health check passed
+[2025-11-05T23:20:15.605999] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.605952] [WARN] Connection retry attempt
+[2025-11-05T23:20:15.605962] [ERROR] Database connection lost
+[2025-11-05T23:20:15.605987] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.605947] [WARN] Timeout warning
+[2025-11-05T23:20:15.605925] [INFO] Database query executed
+[2025-11-05T23:20:15.605917] [INFO] Configuration loaded
+[2025-11-05T23:20:15.605899] [INFO] Session started
+[2025-11-05T23:20:15.605860] [INFO] Service initialized
+[2025-11-05T23:20:15.605956] [WARN] Slow query performance
+[2025-11-05T23:20:15.606003] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.605934] [INFO] Request processed successfully
+[2025-11-05T23:20:15.605995] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.605912] [INFO] Database query executed
+[2025-11-05T23:20:15.605940] [WARN] Disk space low
+[2025-11-05T23:20:15.605921] [INFO] User logged in
+[2025-11-05T23:20:15.605983] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.605894] [INFO] Database query executed
+[2025-11-05T23:20:15.605890] [INFO] Transaction completed
+[2025-11-05T23:20:15.606007] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.605908] [INFO] Connection established
+[2025-11-05T23:20:15.605876] [INFO] Session started
+[2025-11-05T23:20:15.605978] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.605967] [ERROR] File not found
+[2025-11-05T23:20:15.605833] [INFO] User logged in
+[2025-11-05T23:20:15.605930] [INFO] Service initialized
+[2025-11-05T23:20:15.605866] [INFO] Request processed successfully

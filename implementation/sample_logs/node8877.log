@@ -1,0 +1,27 @@
+[2025-11-05T23:20:49.280644] [WARN] Slow query performance
+[2025-11-05T23:20:49.280683] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.280577] [INFO] Service initialized
+[2025-11-05T23:20:49.280637] [INFO] Database query executed
+[2025-11-05T23:20:49.280701] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.280607] [INFO] Session started
+[2025-11-05T23:20:49.280611] [INFO] Health check passed
+[2025-11-05T23:20:49.280602] [INFO] Request processed successfully
+[2025-11-05T23:20:49.280655] [WARN] Rate limit approaching
+[2025-11-05T23:20:49.280697] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.280670] [ERROR] Authentication failed
+[2025-11-05T23:20:49.280688] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:49.280666] [ERROR] Permission denied
+[2025-11-05T23:20:49.280661] [ERROR] Invalid input data
+[2025-11-05T23:20:49.280583] [INFO] Session started
+[2025-11-05T23:20:49.280588] [INFO] Transaction completed
+[2025-11-05T23:20:49.280550] [INFO] Database query executed
+[2025-11-05T23:20:49.280624] [INFO] Session started
+[2025-11-05T23:20:49.280676] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:49.280616] [INFO] Service initialized
+[2025-11-05T23:20:49.280633] [INFO] Health check passed
+[2025-11-05T23:20:49.280598] [INFO] Connection established
+[2025-11-05T23:20:49.280692] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:49.280620] [INFO] Cache hit
+[2025-11-05T23:20:49.280593] [INFO] Configuration loaded
+[2025-11-05T23:20:49.280650] [WARN] Deprecated API usage
+[2025-11-05T23:20:49.280628] [INFO] Connection established

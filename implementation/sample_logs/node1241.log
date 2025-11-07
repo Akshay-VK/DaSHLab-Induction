@@ -1,0 +1,31 @@
+[2025-11-05T23:20:17.704823] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.704622] [WARN] Timeout warning
+[2025-11-05T23:20:17.704554] [INFO] Cache hit
+[2025-11-05T23:20:17.704813] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:17.704835] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.704594] [INFO] Configuration loaded
+[2025-11-05T23:20:17.704581] [INFO] Database query executed
+[2025-11-05T23:20:17.704590] [INFO] Connection established
+[2025-11-05T23:20:17.704826] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.704602] [INFO] Session started
+[2025-11-05T23:20:17.704782] [WARN] Deprecated API usage
+[2025-11-05T23:20:17.704573] [INFO] Cache hit
+[2025-11-05T23:20:17.704803] [ERROR] Request failed
+[2025-11-05T23:20:17.704628] [WARN] Cache miss
+[2025-11-05T23:20:17.704577] [INFO] Configuration loaded
+[2025-11-05T23:20:17.704809] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:17.704830] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.704564] [INFO] Session started
+[2025-11-05T23:20:17.704840] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:17.704569] [INFO] Database query executed
+[2025-11-05T23:20:17.704528] [INFO] Database query executed
+[2025-11-05T23:20:17.704790] [WARN] Deprecated API usage
+[2025-11-05T23:20:17.704559] [INFO] Cache hit
+[2025-11-05T23:20:17.704819] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:17.704616] [INFO] User logged in
+[2025-11-05T23:20:17.704632] [WARN] High memory usage detected
+[2025-11-05T23:20:17.704585] [INFO] Cache hit
+[2025-11-05T23:20:17.704606] [INFO] Cache hit
+[2025-11-05T23:20:17.704797] [ERROR] Disk read failed
+[2025-11-05T23:20:17.704612] [INFO] Session started
+[2025-11-05T23:20:17.704598] [INFO] Service initialized

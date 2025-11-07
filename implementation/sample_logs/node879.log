@@ -1,0 +1,28 @@
+[2025-11-05T23:20:16.222653] [INFO] Session started
+[2025-11-05T23:20:16.222720] [INFO] Service initialized
+[2025-11-05T23:20:16.222799] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.222725] [INFO] Database query executed
+[2025-11-05T23:20:16.222754] [WARN] Deprecated API usage
+[2025-11-05T23:20:16.222794] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.222808] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:16.222710] [INFO] Request processed successfully
+[2025-11-05T23:20:16.222692] [INFO] Transaction completed
+[2025-11-05T23:20:16.222729] [INFO] Configuration loaded
+[2025-11-05T23:20:16.222734] [INFO] Cache hit
+[2025-11-05T23:20:16.222743] [INFO] Session started
+[2025-11-05T23:20:16.222785] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.222701] [INFO] Database query executed
+[2025-11-05T23:20:16.222687] [INFO] Request processed successfully
+[2025-11-05T23:20:16.222681] [INFO] Session started
+[2025-11-05T23:20:16.222697] [INFO] Health check passed
+[2025-11-05T23:20:16.222761] [ERROR] Memory allocation error
+[2025-11-05T23:20:16.222706] [INFO] Database query executed
+[2025-11-05T23:20:16.222789] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:16.222747] [INFO] Connection established
+[2025-11-05T23:20:16.222766] [ERROR] File not found
+[2025-11-05T23:20:16.222781] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:16.222772] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:16.222776] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:16.222738] [INFO] Database query executed
+[2025-11-05T23:20:16.222803] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:16.222715] [INFO] Configuration loaded

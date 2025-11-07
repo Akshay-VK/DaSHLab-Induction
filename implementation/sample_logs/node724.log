@@ -1,0 +1,29 @@
+[2025-11-05T23:20:15.553860] [WARN] Resource threshold approaching
+[2025-11-05T23:20:15.553926] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.553912] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.553890] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:15.553895] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.553917] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.553904] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.553875] [WARN] Rate limit approaching
+[2025-11-05T23:20:15.553799] [INFO] Service initialized
+[2025-11-05T23:20:15.553824] [INFO] Health check passed
+[2025-11-05T23:20:15.553820] [INFO] Connection established
+[2025-11-05T23:20:15.553865] [WARN] Cache miss
+[2025-11-05T23:20:15.553810] [INFO] Cache hit
+[2025-11-05T23:20:15.553828] [INFO] Configuration loaded
+[2025-11-05T23:20:15.553922] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:15.553908] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.553837] [INFO] Health check passed
+[2025-11-05T23:20:15.553870] [WARN] Connection retry attempt
+[2025-11-05T23:20:15.553855] [INFO] Health check passed
+[2025-11-05T23:20:15.553885] [ERROR] Invalid input data
+[2025-11-05T23:20:15.553805] [INFO] Transaction completed
+[2025-11-05T23:20:15.553900] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.553772] [INFO] Cache hit
+[2025-11-05T23:20:15.553846] [INFO] Transaction completed
+[2025-11-05T23:20:15.553880] [ERROR] Permission denied
+[2025-11-05T23:20:15.553851] [INFO] Health check passed
+[2025-11-05T23:20:15.553815] [INFO] Service initialized
+[2025-11-05T23:20:15.553833] [INFO] Cache hit
+[2025-11-05T23:20:15.553842] [INFO] Database query executed

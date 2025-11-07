@@ -1,0 +1,39 @@
+[2025-11-05T23:20:24.132969] [ERROR] Network timeout
+[2025-11-05T23:20:24.132997] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.133019] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.133029] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.132925] [INFO] Cache hit
+[2025-11-05T23:20:24.132871] [INFO] Health check passed
+[2025-11-05T23:20:24.132836] [INFO] Connection established
+[2025-11-05T23:20:24.132938] [INFO] Transaction completed
+[2025-11-05T23:20:24.132943] [WARN] Deprecated API usage
+[2025-11-05T23:20:24.132917] [INFO] Transaction completed
+[2025-11-05T23:20:24.133024] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:24.132987] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.132880] [INFO] Database query executed
+[2025-11-05T23:20:24.132909] [INFO] Service initialized
+[2025-11-05T23:20:24.132993] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:24.132892] [INFO] Request processed successfully
+[2025-11-05T23:20:24.132954] [WARN] High memory usage detected
+[2025-11-05T23:20:24.132973] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:24.132897] [INFO] Connection established
+[2025-11-05T23:20:24.132884] [INFO] Service initialized
+[2025-11-05T23:20:24.132964] [ERROR] Memory allocation error
+[2025-11-05T23:20:24.132930] [INFO] Session started
+[2025-11-05T23:20:24.132875] [INFO] Service initialized
+[2025-11-05T23:20:24.132861] [INFO] Transaction completed
+[2025-11-05T23:20:24.133014] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:24.132900] [INFO] Configuration loaded
+[2025-11-05T23:20:24.132958] [WARN] High memory usage detected
+[2025-11-05T23:20:24.132921] [INFO] Session started
+[2025-11-05T23:20:24.132978] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:24.132949] [WARN] Resource threshold approaching
+[2025-11-05T23:20:24.133034] [DEBUG] Cache key generated
+[2025-11-05T23:20:24.132934] [INFO] Request processed successfully
+[2025-11-05T23:20:24.132905] [INFO] Health check passed
+[2025-11-05T23:20:24.132913] [INFO] Request processed successfully
+[2025-11-05T23:20:24.133003] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:24.132888] [INFO] Configuration loaded
+[2025-11-05T23:20:24.132983] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:24.132867] [INFO] Transaction completed
+[2025-11-05T23:20:24.133008] [DEBUG] Connection pool status checked

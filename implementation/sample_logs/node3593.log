@@ -1,0 +1,31 @@
+[2025-11-05T23:20:28.045425] [INFO] Request processed successfully
+[2025-11-05T23:20:28.045513] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:28.045400] [INFO] User logged in
+[2025-11-05T23:20:28.045439] [INFO] Transaction completed
+[2025-11-05T23:20:28.045509] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:28.045391] [INFO] Database query executed
+[2025-11-05T23:20:28.045488] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.045458] [WARN] Slow query performance
+[2025-11-05T23:20:28.045433] [INFO] Service initialized
+[2025-11-05T23:20:28.045518] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:28.045468] [WARN] Resource threshold approaching
+[2025-11-05T23:20:28.045452] [INFO] Connection established
+[2025-11-05T23:20:28.045482] [ERROR] Authentication failed
+[2025-11-05T23:20:28.045355] [INFO] Transaction completed
+[2025-11-05T23:20:28.045478] [ERROR] Permission denied
+[2025-11-05T23:20:28.045429] [INFO] Connection established
+[2025-11-05T23:20:28.045414] [INFO] Session started
+[2025-11-05T23:20:28.045463] [WARN] Queue size growing
+[2025-11-05T23:20:28.045380] [INFO] Cache hit
+[2025-11-05T23:20:28.045501] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:28.045419] [INFO] Service initialized
+[2025-11-05T23:20:28.045386] [INFO] User logged in
+[2025-11-05T23:20:28.045443] [INFO] Database query executed
+[2025-11-05T23:20:28.045472] [WARN] Queue size growing
+[2025-11-05T23:20:28.045409] [INFO] Session started
+[2025-11-05T23:20:28.045448] [INFO] User logged in
+[2025-11-05T23:20:28.045404] [INFO] Session started
+[2025-11-05T23:20:28.045493] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:28.045505] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:28.045396] [INFO] User logged in
+[2025-11-05T23:20:28.045497] [DEBUG] Buffer size: 4096 bytes

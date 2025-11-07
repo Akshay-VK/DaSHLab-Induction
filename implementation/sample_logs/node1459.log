@@ -1,0 +1,29 @@
+[2025-11-05T23:20:18.751454] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.751470] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:18.751351] [INFO] Service initialized
+[2025-11-05T23:20:18.751309] [INFO] Health check passed
+[2025-11-05T23:20:18.751458] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.751424] [WARN] Deprecated API usage
+[2025-11-05T23:20:18.751428] [WARN] Slow query performance
+[2025-11-05T23:20:18.751438] [ERROR] File not found
+[2025-11-05T23:20:18.751432] [WARN] Timeout warning
+[2025-11-05T23:20:18.751335] [INFO] Database query executed
+[2025-11-05T23:20:18.751354] [INFO] Database query executed
+[2025-11-05T23:20:18.751339] [INFO] Cache hit
+[2025-11-05T23:20:18.751451] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.751418] [WARN] Resource threshold approaching
+[2025-11-05T23:20:18.751365] [INFO] Database query executed
+[2025-11-05T23:20:18.751347] [INFO] User logged in
+[2025-11-05T23:20:18.751487] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.751475] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:18.751479] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:18.751343] [INFO] Cache hit
+[2025-11-05T23:20:18.751443] [ERROR] Service unavailable
+[2025-11-05T23:20:18.751369] [INFO] Database query executed
+[2025-11-05T23:20:18.751466] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.751446] [ERROR] Disk read failed
+[2025-11-05T23:20:18.751358] [INFO] Connection established
+[2025-11-05T23:20:18.751361] [INFO] User logged in
+[2025-11-05T23:20:18.751462] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:18.751483] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:18.751373] [INFO] Configuration loaded

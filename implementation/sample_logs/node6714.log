@@ -1,0 +1,31 @@
+[2025-11-05T23:20:40.502938] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.502810] [INFO] Service initialized
+[2025-11-05T23:20:40.502924] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:40.502894] [INFO] Transaction completed
+[2025-11-05T23:20:40.502912] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.502817] [INFO] User logged in
+[2025-11-05T23:20:40.502806] [INFO] Session started
+[2025-11-05T23:20:40.502839] [INFO] Configuration loaded
+[2025-11-05T23:20:40.502931] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.502899] [WARN] Disk space low
+[2025-11-05T23:20:40.502825] [INFO] Database query executed
+[2025-11-05T23:20:40.502908] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.502941] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.502945] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:40.502918] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.502813] [INFO] Database query executed
+[2025-11-05T23:20:40.502832] [INFO] Connection established
+[2025-11-05T23:20:40.502821] [INFO] Session started
+[2025-11-05T23:20:40.502928] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.502801] [INFO] Service initialized
+[2025-11-05T23:20:40.502921] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.502935] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:40.502890] [INFO] Session started
+[2025-11-05T23:20:40.502775] [INFO] Session started
+[2025-11-05T23:20:40.502887] [INFO] Configuration loaded
+[2025-11-05T23:20:40.502915] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:40.502828] [INFO] Transaction completed
+[2025-11-05T23:20:40.502880] [INFO] Connection established
+[2025-11-05T23:20:40.502836] [INFO] Session started
+[2025-11-05T23:20:40.502884] [INFO] User logged in
+[2025-11-05T23:20:40.502904] [ERROR] Network timeout

@@ -1,0 +1,27 @@
+[2025-11-05T23:20:22.663762] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.663747] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.663679] [INFO] User logged in
+[2025-11-05T23:20:22.663707] [INFO] Session started
+[2025-11-05T23:20:22.663715] [INFO] Health check passed
+[2025-11-05T23:20:22.663771] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:22.663736] [ERROR] Service unavailable
+[2025-11-05T23:20:22.663720] [WARN] Disk space low
+[2025-11-05T23:20:22.663670] [INFO] Connection established
+[2025-11-05T23:20:22.663658] [INFO] Session started
+[2025-11-05T23:20:22.663675] [INFO] User logged in
+[2025-11-05T23:20:22.663775] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:22.663751] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:22.663628] [INFO] User logged in
+[2025-11-05T23:20:22.663742] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.663684] [INFO] Database query executed
+[2025-11-05T23:20:22.663697] [INFO] Health check passed
+[2025-11-05T23:20:22.663766] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:22.663758] [DEBUG] Cache key generated
+[2025-11-05T23:20:22.663731] [ERROR] Network timeout
+[2025-11-05T23:20:22.663688] [INFO] Transaction completed
+[2025-11-05T23:20:22.663711] [INFO] Transaction completed
+[2025-11-05T23:20:22.663664] [INFO] Service initialized
+[2025-11-05T23:20:22.663693] [INFO] Connection established
+[2025-11-05T23:20:22.663701] [INFO] Health check passed
+[2025-11-05T23:20:22.663725] [WARN] Cache miss
+[2025-11-05T23:20:22.663755] [DEBUG] HTTP request headers parsed

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:44.098725] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.098760] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.098735] [WARN] Resource threshold approaching
+[2025-11-05T23:20:44.098799] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.098709] [INFO] Database query executed
+[2025-11-05T23:20:44.098676] [INFO] Transaction completed
+[2025-11-05T23:20:44.098790] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.098720] [WARN] Queue size growing
+[2025-11-05T23:20:44.098713] [INFO] Cache hit
+[2025-11-05T23:20:44.098654] [INFO] Session started
+[2025-11-05T23:20:44.098690] [INFO] User logged in
+[2025-11-05T23:20:44.098660] [INFO] Cache hit
+[2025-11-05T23:20:44.098775] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.098665] [INFO] User logged in
+[2025-11-05T23:20:44.098695] [INFO] Request processed successfully
+[2025-11-05T23:20:44.098730] [WARN] Queue size growing
+[2025-11-05T23:20:44.098681] [INFO] Request processed successfully
+[2025-11-05T23:20:44.098748] [WARN] Cache miss
+[2025-11-05T23:20:44.098754] [ERROR] Authentication failed
+[2025-11-05T23:20:44.098739] [WARN] High memory usage detected
+[2025-11-05T23:20:44.098670] [INFO] User logged in
+[2025-11-05T23:20:44.098700] [INFO] Connection established
+[2025-11-05T23:20:44.098780] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.098744] [WARN] Connection retry attempt
+[2025-11-05T23:20:44.098770] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.098704] [INFO] Session started
+[2025-11-05T23:20:44.098794] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:44.098686] [INFO] Transaction completed
+[2025-11-05T23:20:44.098785] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.098629] [INFO] Health check passed
+[2025-11-05T23:20:44.098765] [DEBUG] Variable value: x=42

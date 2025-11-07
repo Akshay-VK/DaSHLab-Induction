@@ -1,0 +1,35 @@
+[2025-11-05T23:20:41.574519] [INFO] Database query executed
+[2025-11-05T23:20:41.574592] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:41.574562] [WARN] Slow query performance
+[2025-11-05T23:20:41.574601] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:41.574588] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.574492] [INFO] Session started
+[2025-11-05T23:20:41.574437] [INFO] Health check passed
+[2025-11-05T23:20:41.574577] [ERROR] Memory allocation error
+[2025-11-05T23:20:41.574544] [WARN] Slow query performance
+[2025-11-05T23:20:41.574501] [INFO] Service initialized
+[2025-11-05T23:20:41.574524] [INFO] User logged in
+[2025-11-05T23:20:41.574552] [WARN] Slow query performance
+[2025-11-05T23:20:41.574610] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:41.574606] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.574622] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:41.574468] [INFO] Request processed successfully
+[2025-11-05T23:20:41.574548] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.574489] [INFO] Configuration loaded
+[2025-11-05T23:20:41.574614] [DEBUG] Cache key generated
+[2025-11-05T23:20:41.574528] [INFO] Cache hit
+[2025-11-05T23:20:41.574571] [WARN] Rate limit approaching
+[2025-11-05T23:20:41.574567] [WARN] Cache miss
+[2025-11-05T23:20:41.574618] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.574532] [INFO] Database query executed
+[2025-11-05T23:20:41.574515] [INFO] User logged in
+[2025-11-05T23:20:41.574497] [INFO] Cache hit
+[2025-11-05T23:20:41.574506] [INFO] Service initialized
+[2025-11-05T23:20:41.574597] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:41.574474] [INFO] Health check passed
+[2025-11-05T23:20:41.574479] [INFO] Session started
+[2025-11-05T23:20:41.574484] [INFO] Configuration loaded
+[2025-11-05T23:20:41.574583] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:41.574538] [WARN] Slow query performance
+[2025-11-05T23:20:41.574510] [INFO] Transaction completed
+[2025-11-05T23:20:41.574558] [WARN] Deprecated API usage

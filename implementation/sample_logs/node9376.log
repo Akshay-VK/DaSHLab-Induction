@@ -1,0 +1,33 @@
+[2025-11-05T23:20:51.400917] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:51.400920] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:51.400842] [INFO] User logged in
+[2025-11-05T23:20:51.400892] [ERROR] File not found
+[2025-11-05T23:20:51.400829] [INFO] User logged in
+[2025-11-05T23:20:51.400907] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:51.400888] [ERROR] Memory allocation error
+[2025-11-05T23:20:51.400848] [INFO] Cache hit
+[2025-11-05T23:20:51.400910] [DEBUG] Cache key generated
+[2025-11-05T23:20:51.400838] [INFO] Cache hit
+[2025-11-05T23:20:51.400809] [INFO] Configuration loaded
+[2025-11-05T23:20:51.400855] [INFO] Transaction completed
+[2025-11-05T23:20:51.400822] [INFO] Transaction completed
+[2025-11-05T23:20:51.400923] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:51.400845] [INFO] Session started
+[2025-11-05T23:20:51.400786] [INFO] User logged in
+[2025-11-05T23:20:51.400835] [INFO] Health check passed
+[2025-11-05T23:20:51.400903] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:51.400883] [WARN] High memory usage detected
+[2025-11-05T23:20:51.400868] [WARN] Connection retry attempt
+[2025-11-05T23:20:51.400896] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:51.400818] [INFO] Request processed successfully
+[2025-11-05T23:20:51.400878] [WARN] Timeout warning
+[2025-11-05T23:20:51.400859] [WARN] Timeout warning
+[2025-11-05T23:20:51.400913] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:51.400832] [INFO] Request processed successfully
+[2025-11-05T23:20:51.400813] [INFO] Database query executed
+[2025-11-05T23:20:51.400864] [WARN] Cache miss
+[2025-11-05T23:20:51.400826] [INFO] Database query executed
+[2025-11-05T23:20:51.400871] [WARN] Queue size growing
+[2025-11-05T23:20:51.400852] [INFO] Request processed successfully
+[2025-11-05T23:20:51.400875] [WARN] Rate limit approaching
+[2025-11-05T23:20:51.400900] [DEBUG] Memory allocation: 2048 bytes

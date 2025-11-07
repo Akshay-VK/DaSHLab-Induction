@@ -1,0 +1,31 @@
+[2025-11-05T23:20:25.899788] [INFO] Health check passed
+[2025-11-05T23:20:25.899853] [INFO] Cache hit
+[2025-11-05T23:20:25.899920] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.899844] [INFO] Service initialized
+[2025-11-05T23:20:25.899810] [INFO] Connection established
+[2025-11-05T23:20:25.899862] [WARN] High memory usage detected
+[2025-11-05T23:20:25.899795] [INFO] Session started
+[2025-11-05T23:20:25.899886] [ERROR] Memory allocation error
+[2025-11-05T23:20:25.899820] [INFO] Service initialized
+[2025-11-05T23:20:25.899891] [ERROR] Database connection lost
+[2025-11-05T23:20:25.899880] [WARN] Timeout warning
+[2025-11-05T23:20:25.899835] [INFO] Connection established
+[2025-11-05T23:20:25.899760] [INFO] Configuration loaded
+[2025-11-05T23:20:25.899801] [INFO] Session started
+[2025-11-05T23:20:25.899876] [WARN] Queue size growing
+[2025-11-05T23:20:25.899840] [INFO] Session started
+[2025-11-05T23:20:25.899805] [INFO] User logged in
+[2025-11-05T23:20:25.899867] [WARN] High memory usage detected
+[2025-11-05T23:20:25.899916] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:25.899908] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.899871] [WARN] Queue size growing
+[2025-11-05T23:20:25.899912] [DEBUG] Cache key generated
+[2025-11-05T23:20:25.899826] [INFO] Connection established
+[2025-11-05T23:20:25.899848] [INFO] Connection established
+[2025-11-05T23:20:25.899928] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.899924] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.899831] [INFO] Transaction completed
+[2025-11-05T23:20:25.899903] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.899815] [INFO] User logged in
+[2025-11-05T23:20:25.899898] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:25.899857] [INFO] Service initialized

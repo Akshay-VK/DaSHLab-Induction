@@ -1,0 +1,29 @@
+[2025-11-05T23:20:47.592244] [INFO] Cache hit
+[2025-11-05T23:20:47.592343] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.592340] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.592292] [INFO] Health check passed
+[2025-11-05T23:20:47.592285] [INFO] Cache hit
+[2025-11-05T23:20:47.592364] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:47.592298] [INFO] Session started
+[2025-11-05T23:20:47.592368] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.592281] [INFO] Service initialized
+[2025-11-05T23:20:47.592277] [INFO] Health check passed
+[2025-11-05T23:20:47.592302] [INFO] Health check passed
+[2025-11-05T23:20:47.592351] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.592295] [INFO] Service initialized
+[2025-11-05T23:20:47.592288] [INFO] Configuration loaded
+[2025-11-05T23:20:47.592315] [INFO] Cache hit
+[2025-11-05T23:20:47.592361] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.592331] [WARN] Slow query performance
+[2025-11-05T23:20:47.592305] [INFO] Configuration loaded
+[2025-11-05T23:20:47.592335] [ERROR] Authentication failed
+[2025-11-05T23:20:47.592357] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.592312] [INFO] Transaction completed
+[2025-11-05T23:20:47.592347] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:47.592268] [INFO] Transaction completed
+[2025-11-05T23:20:47.592324] [WARN] Slow query performance
+[2025-11-05T23:20:47.592328] [WARN] Queue size growing
+[2025-11-05T23:20:47.592320] [WARN] Rate limit approaching
+[2025-11-05T23:20:47.592354] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:47.592309] [INFO] Configuration loaded
+[2025-11-05T23:20:47.592273] [INFO] Cache hit

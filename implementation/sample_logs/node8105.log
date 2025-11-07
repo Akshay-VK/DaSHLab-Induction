@@ -1,0 +1,32 @@
+[2025-11-05T23:20:46.041182] [INFO] Health check passed
+[2025-11-05T23:20:46.041272] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:46.041233] [ERROR] Request failed
+[2025-11-05T23:20:46.041262] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.041249] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.041227] [WARN] Cache miss
+[2025-11-05T23:20:46.041154] [INFO] Transaction completed
+[2025-11-05T23:20:46.041258] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:46.041144] [INFO] Request processed successfully
+[2025-11-05T23:20:46.041217] [WARN] Disk space low
+[2025-11-05T23:20:46.041177] [INFO] Connection established
+[2025-11-05T23:20:46.041191] [INFO] User logged in
+[2025-11-05T23:20:46.041253] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.041238] [ERROR] Invalid input data
+[2025-11-05T23:20:46.041173] [INFO] Service initialized
+[2025-11-05T23:20:46.041168] [INFO] Connection established
+[2025-11-05T23:20:46.041186] [INFO] Database query executed
+[2025-11-05T23:20:46.041196] [INFO] Connection established
+[2025-11-05T23:20:46.041200] [INFO] Database query executed
+[2025-11-05T23:20:46.041268] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:46.041111] [INFO] Configuration loaded
+[2025-11-05T23:20:46.041149] [INFO] Database query executed
+[2025-11-05T23:20:46.041206] [WARN] Cache miss
+[2025-11-05T23:20:46.041159] [INFO] Health check passed
+[2025-11-05T23:20:46.041138] [INFO] Cache hit
+[2025-11-05T23:20:46.041212] [WARN] Slow query performance
+[2025-11-05T23:20:46.041286] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:46.041163] [INFO] Connection established
+[2025-11-05T23:20:46.041243] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:46.041277] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:46.041282] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:46.041222] [WARN] Resource threshold approaching

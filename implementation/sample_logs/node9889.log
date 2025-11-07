@@ -1,0 +1,29 @@
+[2025-11-05T23:20:53.583812] [INFO] Transaction completed
+[2025-11-05T23:20:53.583908] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:53.583892] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.583863] [WARN] High memory usage detected
+[2025-11-05T23:20:53.583803] [INFO] Session started
+[2025-11-05T23:20:53.583900] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.583841] [INFO] Configuration loaded
+[2025-11-05T23:20:53.583837] [INFO] Session started
+[2025-11-05T23:20:53.583829] [INFO] Transaction completed
+[2025-11-05T23:20:53.583794] [INFO] Service initialized
+[2025-11-05T23:20:53.583769] [INFO] Configuration loaded
+[2025-11-05T23:20:53.583858] [WARN] Rate limit approaching
+[2025-11-05T23:20:53.583872] [ERROR] File not found
+[2025-11-05T23:20:53.583904] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:53.583849] [INFO] Connection established
+[2025-11-05T23:20:53.583833] [INFO] Transaction completed
+[2025-11-05T23:20:53.583912] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.583807] [INFO] Cache hit
+[2025-11-05T23:20:53.583821] [INFO] Configuration loaded
+[2025-11-05T23:20:53.583896] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.583825] [INFO] Health check passed
+[2025-11-05T23:20:53.583799] [INFO] Request processed successfully
+[2025-11-05T23:20:53.583884] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.583845] [INFO] User logged in
+[2025-11-05T23:20:53.583887] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.583867] [WARN] Queue size growing
+[2025-11-05T23:20:53.583816] [INFO] Session started
+[2025-11-05T23:20:53.583878] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:53.583854] [WARN] Slow query performance

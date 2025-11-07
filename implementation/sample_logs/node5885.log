@@ -1,0 +1,29 @@
+[2025-11-05T23:20:37.154019] [INFO] Service initialized
+[2025-11-05T23:20:37.154072] [DEBUG] Cache key generated
+[2025-11-05T23:20:37.153985] [INFO] Cache hit
+[2025-11-05T23:20:37.153996] [INFO] Session started
+[2025-11-05T23:20:37.154025] [WARN] Connection retry attempt
+[2025-11-05T23:20:37.154011] [INFO] Configuration loaded
+[2025-11-05T23:20:37.154054] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.154076] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.154003] [INFO] Transaction completed
+[2025-11-05T23:20:37.154069] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.153966] [INFO] Connection established
+[2025-11-05T23:20:37.154000] [INFO] Cache hit
+[2025-11-05T23:20:37.154044] [ERROR] Request failed
+[2025-11-05T23:20:37.154065] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.153977] [INFO] Connection established
+[2025-11-05T23:20:37.154040] [ERROR] Invalid input data
+[2025-11-05T23:20:37.153989] [INFO] Health check passed
+[2025-11-05T23:20:37.153937] [INFO] Health check passed
+[2025-11-05T23:20:37.154080] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.154035] [WARN] Cache miss
+[2025-11-05T23:20:37.154061] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.154008] [INFO] Transaction completed
+[2025-11-05T23:20:37.154030] [WARN] Slow query performance
+[2025-11-05T23:20:37.154015] [INFO] Service initialized
+[2025-11-05T23:20:37.153972] [INFO] Request processed successfully
+[2025-11-05T23:20:37.154049] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:37.153993] [INFO] User logged in
+[2025-11-05T23:20:37.154057] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:37.153981] [INFO] Session started

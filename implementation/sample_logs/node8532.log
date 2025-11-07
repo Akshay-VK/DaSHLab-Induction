@@ -1,0 +1,34 @@
+[2025-11-05T23:20:47.781260] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.781247] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.781217] [INFO] Configuration loaded
+[2025-11-05T23:20:47.781267] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.781286] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.781210] [INFO] Service initialized
+[2025-11-05T23:20:47.781257] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.781180] [INFO] Transaction completed
+[2025-11-05T23:20:47.781290] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.781214] [INFO] Session started
+[2025-11-05T23:20:47.781270] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.781201] [INFO] Service initialized
+[2025-11-05T23:20:47.781274] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:47.781254] [DEBUG] Cache key generated
+[2025-11-05T23:20:47.781155] [INFO] Connection established
+[2025-11-05T23:20:47.781280] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:47.781239] [ERROR] File not found
+[2025-11-05T23:20:47.781223] [INFO] Configuration loaded
+[2025-11-05T23:20:47.781251] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:47.781243] [ERROR] Database connection lost
+[2025-11-05T23:20:47.781195] [INFO] Configuration loaded
+[2025-11-05T23:20:47.781277] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:47.781220] [INFO] Configuration loaded
+[2025-11-05T23:20:47.781185] [INFO] Database query executed
+[2025-11-05T23:20:47.781231] [WARN] Deprecated API usage
+[2025-11-05T23:20:47.781188] [INFO] Configuration loaded
+[2025-11-05T23:20:47.781204] [INFO] Service initialized
+[2025-11-05T23:20:47.781226] [INFO] User logged in
+[2025-11-05T23:20:47.781191] [INFO] Database query executed
+[2025-11-05T23:20:47.781283] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:47.781198] [INFO] Configuration loaded
+[2025-11-05T23:20:47.781235] [WARN] Timeout warning
+[2025-11-05T23:20:47.781207] [INFO] Service initialized
+[2025-11-05T23:20:47.781264] [DEBUG] Entering function process_data()

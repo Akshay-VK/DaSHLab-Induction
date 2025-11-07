@@ -1,0 +1,32 @@
+[2025-11-05T23:20:44.461518] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.461323] [INFO] Service initialized
+[2025-11-05T23:20:44.461409] [WARN] Rate limit approaching
+[2025-11-05T23:20:44.461435] [ERROR] Permission denied
+[2025-11-05T23:20:44.461740] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:44.461736] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.461415] [WARN] Rate limit approaching
+[2025-11-05T23:20:44.461553] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.461387] [INFO] Cache hit
+[2025-11-05T23:20:44.461374] [INFO] Request processed successfully
+[2025-11-05T23:20:44.461539] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.461354] [INFO] User logged in
+[2025-11-05T23:20:44.461378] [INFO] Cache hit
+[2025-11-05T23:20:44.461391] [INFO] User logged in
+[2025-11-05T23:20:44.461348] [INFO] Transaction completed
+[2025-11-05T23:20:44.461727] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:44.461359] [INFO] Configuration loaded
+[2025-11-05T23:20:44.461506] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:44.461370] [INFO] Health check passed
+[2025-11-05T23:20:44.461523] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.461420] [ERROR] Service unavailable
+[2025-11-05T23:20:44.461425] [ERROR] Database connection lost
+[2025-11-05T23:20:44.461533] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.461543] [DEBUG] Cache key generated
+[2025-11-05T23:20:44.461547] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:44.461383] [INFO] Session started
+[2025-11-05T23:20:44.461528] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:44.461364] [INFO] Transaction completed
+[2025-11-05T23:20:44.461431] [ERROR] Service unavailable
+[2025-11-05T23:20:44.461400] [INFO] Request processed successfully
+[2025-11-05T23:20:44.461395] [INFO] Session started
+[2025-11-05T23:20:44.461404] [INFO] Database query executed

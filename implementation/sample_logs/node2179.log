@@ -1,0 +1,33 @@
+[2025-11-05T23:20:21.710930] [INFO] Session started
+[2025-11-05T23:20:21.710945] [WARN] Slow query performance
+[2025-11-05T23:20:21.710885] [INFO] Configuration loaded
+[2025-11-05T23:20:21.710899] [INFO] Cache hit
+[2025-11-05T23:20:21.710984] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.710989] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.710880] [INFO] Database query executed
+[2025-11-05T23:20:21.711013] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.710961] [ERROR] Service unavailable
+[2025-11-05T23:20:21.711001] [DEBUG] Cache key generated
+[2025-11-05T23:20:21.710894] [INFO] Configuration loaded
+[2025-11-05T23:20:21.710950] [WARN] Cache miss
+[2025-11-05T23:20:21.710993] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.710978] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.711005] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:21.710956] [ERROR] Disk read failed
+[2025-11-05T23:20:21.711009] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.710870] [INFO] Request processed successfully
+[2025-11-05T23:20:21.710904] [INFO] User logged in
+[2025-11-05T23:20:21.710997] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.710890] [INFO] Health check passed
+[2025-11-05T23:20:21.710913] [INFO] Request processed successfully
+[2025-11-05T23:20:21.710909] [INFO] Service initialized
+[2025-11-05T23:20:21.710917] [INFO] Configuration loaded
+[2025-11-05T23:20:21.710876] [INFO] Health check passed
+[2025-11-05T23:20:21.710864] [INFO] Service initialized
+[2025-11-05T23:20:21.710936] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.710921] [INFO] User logged in
+[2025-11-05T23:20:21.710926] [INFO] Connection established
+[2025-11-05T23:20:21.710941] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.710972] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:21.710837] [INFO] Database query executed
+[2025-11-05T23:20:21.710966] [ERROR] Authentication failed

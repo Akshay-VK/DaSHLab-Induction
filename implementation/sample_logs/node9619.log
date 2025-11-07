@@ -1,0 +1,29 @@
+[2025-11-05T23:20:52.626464] [INFO] Health check passed
+[2025-11-05T23:20:52.626502] [ERROR] Network timeout
+[2025-11-05T23:20:52.626447] [INFO] Service initialized
+[2025-11-05T23:20:52.626433] [INFO] Connection established
+[2025-11-05T23:20:52.626498] [ERROR] Invalid input data
+[2025-11-05T23:20:52.626472] [INFO] Connection established
+[2025-11-05T23:20:52.626492] [WARN] Queue size growing
+[2025-11-05T23:20:52.626481] [INFO] Configuration loaded
+[2025-11-05T23:20:52.626541] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.626516] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.626524] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:52.626533] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.626487] [WARN] Cache miss
+[2025-11-05T23:20:52.626528] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:52.626508] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.626468] [INFO] Health check passed
+[2025-11-05T23:20:52.626438] [INFO] Cache hit
+[2025-11-05T23:20:52.626476] [INFO] Transaction completed
+[2025-11-05T23:20:52.626537] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.626512] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.626451] [INFO] Cache hit
+[2025-11-05T23:20:52.626395] [INFO] Cache hit
+[2025-11-05T23:20:52.626425] [INFO] Request processed successfully
+[2025-11-05T23:20:52.626442] [INFO] User logged in
+[2025-11-05T23:20:52.626429] [INFO] Service initialized
+[2025-11-05T23:20:52.626455] [INFO] User logged in
+[2025-11-05T23:20:52.626520] [DEBUG] Cache key generated
+[2025-11-05T23:20:52.626419] [INFO] User logged in
+[2025-11-05T23:20:52.626459] [INFO] Transaction completed

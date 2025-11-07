@@ -1,0 +1,29 @@
+[2025-11-05T23:20:23.414925] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.414908] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.414934] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.414877] [INFO] Transaction completed
+[2025-11-05T23:20:23.414826] [INFO] Request processed successfully
+[2025-11-05T23:20:23.414831] [INFO] Request processed successfully
+[2025-11-05T23:20:23.414942] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.414903] [ERROR] Authentication failed
+[2025-11-05T23:20:23.414865] [INFO] Database query executed
+[2025-11-05T23:20:23.414887] [WARN] Cache miss
+[2025-11-05T23:20:23.414840] [INFO] Connection established
+[2025-11-05T23:20:23.414930] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.414795] [INFO] Cache hit
+[2025-11-05T23:20:23.414938] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.414848] [INFO] User logged in
+[2025-11-05T23:20:23.414892] [WARN] Cache miss
+[2025-11-05T23:20:23.414869] [INFO] Connection established
+[2025-11-05T23:20:23.414917] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:23.414873] [INFO] Service initialized
+[2025-11-05T23:20:23.414852] [INFO] Configuration loaded
+[2025-11-05T23:20:23.414921] [DEBUG] Cache key generated
+[2025-11-05T23:20:23.414882] [WARN] Slow query performance
+[2025-11-05T23:20:23.414857] [INFO] Connection established
+[2025-11-05T23:20:23.414861] [INFO] Configuration loaded
+[2025-11-05T23:20:23.414820] [INFO] Transaction completed
+[2025-11-05T23:20:23.414912] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:23.414898] [ERROR] Request failed
+[2025-11-05T23:20:23.414844] [INFO] Configuration loaded
+[2025-11-05T23:20:23.414835] [INFO] User logged in

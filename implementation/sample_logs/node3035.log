@@ -1,0 +1,33 @@
+[2025-11-05T23:20:25.469267] [INFO] Session started
+[2025-11-05T23:20:25.469340] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:25.469280] [INFO] Configuration loaded
+[2025-11-05T23:20:25.469232] [INFO] Transaction completed
+[2025-11-05T23:20:25.469264] [INFO] Cache hit
+[2025-11-05T23:20:25.469313] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.469347] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.469285] [WARN] Slow query performance
+[2025-11-05T23:20:25.469305] [ERROR] Permission denied
+[2025-11-05T23:20:25.469327] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.469238] [INFO] Service initialized
+[2025-11-05T23:20:25.469253] [INFO] Service initialized
+[2025-11-05T23:20:25.469331] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:25.469277] [INFO] Connection established
+[2025-11-05T23:20:25.469337] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.469209] [INFO] Configuration loaded
+[2025-11-05T23:20:25.469271] [INFO] Connection established
+[2025-11-05T23:20:25.469344] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:25.469293] [WARN] Disk space low
+[2025-11-05T23:20:25.469274] [INFO] Cache hit
+[2025-11-05T23:20:25.469261] [INFO] Cache hit
+[2025-11-05T23:20:25.469289] [WARN] Deprecated API usage
+[2025-11-05T23:20:25.469257] [INFO] Configuration loaded
+[2025-11-05T23:20:25.469334] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:25.469246] [INFO] Cache hit
+[2025-11-05T23:20:25.469297] [WARN] Disk space low
+[2025-11-05T23:20:25.469250] [INFO] Request processed successfully
+[2025-11-05T23:20:25.469243] [INFO] Cache hit
+[2025-11-05T23:20:25.469310] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.469301] [ERROR] Disk read failed
+[2025-11-05T23:20:25.469320] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:25.469324] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:25.469317] [DEBUG] Thread pool size: 8

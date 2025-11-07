@@ -1,0 +1,23 @@
+[2025-11-05T23:20:33.593398] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.593344] [INFO] Service initialized
+[2025-11-05T23:20:33.593362] [WARN] Cache miss
+[2025-11-05T23:20:33.593340] [INFO] Configuration loaded
+[2025-11-05T23:20:33.593402] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.593390] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.593369] [WARN] Rate limit approaching
+[2025-11-05T23:20:33.593332] [INFO] Service initialized
+[2025-11-05T23:20:33.593373] [WARN] High memory usage detected
+[2025-11-05T23:20:33.593386] [DEBUG] Cache key generated
+[2025-11-05T23:20:33.593381] [ERROR] Permission denied
+[2025-11-05T23:20:33.593336] [INFO] Database query executed
+[2025-11-05T23:20:33.593406] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:33.593328] [INFO] Database query executed
+[2025-11-05T23:20:33.593377] [WARN] Slow query performance
+[2025-11-05T23:20:33.593354] [INFO] Request processed successfully
+[2025-11-05T23:20:33.593298] [INFO] Service initialized
+[2025-11-05T23:20:33.593350] [INFO] Session started
+[2025-11-05T23:20:33.593366] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.593394] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.593323] [INFO] Cache hit
+[2025-11-05T23:20:33.593357] [INFO] Configuration loaded
+[2025-11-05T23:20:33.593347] [INFO] Database query executed

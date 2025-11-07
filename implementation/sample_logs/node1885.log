@@ -1,0 +1,29 @@
+[2025-11-05T23:20:20.485972] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.485989] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.485893] [INFO] User logged in
+[2025-11-05T23:20:20.486006] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.485920] [INFO] Service initialized
+[2025-11-05T23:20:20.485902] [INFO] Session started
+[2025-11-05T23:20:20.486002] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.485963] [ERROR] Network timeout
+[2025-11-05T23:20:20.485980] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:20.485949] [WARN] Timeout warning
+[2025-11-05T23:20:20.485967] [ERROR] Service unavailable
+[2025-11-05T23:20:20.485994] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:20.485984] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:20.485911] [INFO] Health check passed
+[2025-11-05T23:20:20.485998] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:20.485959] [ERROR] Network timeout
+[2025-11-05T23:20:20.485915] [INFO] Transaction completed
+[2025-11-05T23:20:20.485888] [INFO] Session started
+[2025-11-05T23:20:20.485906] [INFO] Transaction completed
+[2025-11-05T23:20:20.485976] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:20.485858] [INFO] Database query executed
+[2025-11-05T23:20:20.485925] [INFO] Database query executed
+[2025-11-05T23:20:20.485943] [INFO] Database query executed
+[2025-11-05T23:20:20.485897] [INFO] Configuration loaded
+[2025-11-05T23:20:20.485953] [WARN] Rate limit approaching
+[2025-11-05T23:20:20.485934] [INFO] Service initialized
+[2025-11-05T23:20:20.485939] [INFO] Connection established
+[2025-11-05T23:20:20.485929] [INFO] Transaction completed
+[2025-11-05T23:20:20.485882] [INFO] Configuration loaded

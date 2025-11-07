@@ -1,0 +1,26 @@
+[2025-11-05T23:20:38.198201] [WARN] Slow query performance
+[2025-11-05T23:20:38.198225] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.198171] [INFO] Request processed successfully
+[2025-11-05T23:20:38.198159] [INFO] Database query executed
+[2025-11-05T23:20:38.198151] [INFO] Session started
+[2025-11-05T23:20:38.198233] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:38.198163] [INFO] Health check passed
+[2025-11-05T23:20:38.198195] [WARN] Slow query performance
+[2025-11-05T23:20:38.198237] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.198182] [INFO] Health check passed
+[2025-11-05T23:20:38.198205] [WARN] Connection retry attempt
+[2025-11-05T23:20:38.198107] [INFO] User logged in
+[2025-11-05T23:20:38.198186] [INFO] Session started
+[2025-11-05T23:20:38.198220] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:38.198210] [ERROR] Request failed
+[2025-11-05T23:20:38.198174] [INFO] User logged in
+[2025-11-05T23:20:38.198229] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.198216] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.198146] [INFO] User logged in
+[2025-11-05T23:20:38.198133] [INFO] Service initialized
+[2025-11-05T23:20:38.198167] [INFO] Request processed successfully
+[2025-11-05T23:20:38.198138] [INFO] Configuration loaded
+[2025-11-05T23:20:38.198155] [INFO] Database query executed
+[2025-11-05T23:20:38.198190] [INFO] Configuration loaded
+[2025-11-05T23:20:38.198142] [INFO] Transaction completed
+[2025-11-05T23:20:38.198178] [INFO] Service initialized

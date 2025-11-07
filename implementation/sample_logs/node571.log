@@ -1,0 +1,26 @@
+[2025-11-05T23:20:14.863215] [INFO] Cache hit
+[2025-11-05T23:20:14.863283] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.863228] [INFO] Service initialized
+[2025-11-05T23:20:14.863187] [INFO] Configuration loaded
+[2025-11-05T23:20:14.863259] [ERROR] Disk read failed
+[2025-11-05T23:20:14.863269] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.863254] [ERROR] File not found
+[2025-11-05T23:20:14.863223] [INFO] Health check passed
+[2025-11-05T23:20:14.863177] [INFO] Health check passed
+[2025-11-05T23:20:14.863201] [INFO] User logged in
+[2025-11-05T23:20:14.863239] [WARN] Slow query performance
+[2025-11-05T23:20:14.863287] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.863274] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.863263] [ERROR] Authentication failed
+[2025-11-05T23:20:14.863292] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:14.863248] [WARN] Timeout warning
+[2025-11-05T23:20:14.863205] [INFO] Health check passed
+[2025-11-05T23:20:14.863150] [INFO] Session started
+[2025-11-05T23:20:14.863210] [INFO] Configuration loaded
+[2025-11-05T23:20:14.863197] [INFO] User logged in
+[2025-11-05T23:20:14.863219] [INFO] Transaction completed
+[2025-11-05T23:20:14.863182] [INFO] Database query executed
+[2025-11-05T23:20:14.863192] [INFO] Database query executed
+[2025-11-05T23:20:14.863278] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.863244] [WARN] Resource threshold approaching
+[2025-11-05T23:20:14.863234] [WARN] Queue size growing

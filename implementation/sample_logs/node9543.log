@@ -1,0 +1,33 @@
+[2025-11-05T23:20:52.253226] [ERROR] File not found
+[2025-11-05T23:20:52.253241] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.253145] [INFO] Request processed successfully
+[2025-11-05T23:20:52.253212] [WARN] Disk space low
+[2025-11-05T23:20:52.253197] [INFO] Configuration loaded
+[2025-11-05T23:20:52.253279] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.253245] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:52.253274] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:52.253266] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.253140] [INFO] Configuration loaded
+[2025-11-05T23:20:52.253183] [INFO] Service initialized
+[2025-11-05T23:20:52.253149] [INFO] Database query executed
+[2025-11-05T23:20:52.253164] [INFO] User logged in
+[2025-11-05T23:20:52.253192] [INFO] Database query executed
+[2025-11-05T23:20:52.253216] [WARN] Connection retry attempt
+[2025-11-05T23:20:52.253202] [WARN] Cache miss
+[2025-11-05T23:20:52.253221] [WARN] Resource threshold approaching
+[2025-11-05T23:20:52.253155] [INFO] Connection established
+[2025-11-05T23:20:52.253110] [INFO] Connection established
+[2025-11-05T23:20:52.253236] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:52.253262] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:52.253207] [WARN] Resource threshold approaching
+[2025-11-05T23:20:52.253254] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:52.253159] [INFO] Cache hit
+[2025-11-05T23:20:52.253270] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:52.253258] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:52.253173] [INFO] Service initialized
+[2025-11-05T23:20:52.253168] [INFO] Session started
+[2025-11-05T23:20:52.253134] [INFO] Cache hit
+[2025-11-05T23:20:52.253230] [ERROR] Permission denied
+[2025-11-05T23:20:52.253188] [INFO] Request processed successfully
+[2025-11-05T23:20:52.253178] [INFO] Request processed successfully
+[2025-11-05T23:20:52.253249] [DEBUG] Entering function process_data()

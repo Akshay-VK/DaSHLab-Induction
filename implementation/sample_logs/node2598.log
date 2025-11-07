@@ -1,0 +1,31 @@
+[2025-11-05T23:20:23.650094] [INFO] Cache hit
+[2025-11-05T23:20:23.650090] [INFO] Health check passed
+[2025-11-05T23:20:23.650124] [INFO] Configuration loaded
+[2025-11-05T23:20:23.650103] [INFO] Session started
+[2025-11-05T23:20:23.650149] [ERROR] Request failed
+[2025-11-05T23:20:23.650135] [WARN] Rate limit approaching
+[2025-11-05T23:20:23.650067] [INFO] Request processed successfully
+[2025-11-05T23:20:23.650143] [WARN] Connection retry attempt
+[2025-11-05T23:20:23.650062] [INFO] Request processed successfully
+[2025-11-05T23:20:23.650153] [ERROR] Authentication failed
+[2025-11-05T23:20:23.650082] [INFO] Database query executed
+[2025-11-05T23:20:23.650158] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.650036] [INFO] Cache hit
+[2025-11-05T23:20:23.650184] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:23.650116] [INFO] Session started
+[2025-11-05T23:20:23.650188] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.650120] [INFO] Transaction completed
+[2025-11-05T23:20:23.650167] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.650077] [INFO] Configuration loaded
+[2025-11-05T23:20:23.650163] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:23.650129] [WARN] Connection retry attempt
+[2025-11-05T23:20:23.650180] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:23.650107] [INFO] Configuration loaded
+[2025-11-05T23:20:23.650172] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:23.650099] [INFO] Cache hit
+[2025-11-05T23:20:23.650176] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:23.650139] [WARN] Slow query performance
+[2025-11-05T23:20:23.650111] [INFO] Cache hit
+[2025-11-05T23:20:23.650072] [INFO] Cache hit
+[2025-11-05T23:20:23.650086] [INFO] Request processed successfully
+[2025-11-05T23:20:23.650192] [DEBUG] Variable value: x=42

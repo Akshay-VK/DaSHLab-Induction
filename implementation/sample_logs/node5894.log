@@ -1,0 +1,28 @@
+[2025-11-05T23:20:37.183559] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:37.183484] [INFO] Connection established
+[2025-11-05T23:20:37.183476] [INFO] Service initialized
+[2025-11-05T23:20:37.183555] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:37.183454] [INFO] Session started
+[2025-11-05T23:20:37.183539] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.183529] [ERROR] Disk read failed
+[2025-11-05T23:20:37.183463] [INFO] User logged in
+[2025-11-05T23:20:37.183468] [INFO] Service initialized
+[2025-11-05T23:20:37.183510] [WARN] Timeout warning
+[2025-11-05T23:20:37.183472] [INFO] User logged in
+[2025-11-05T23:20:37.183501] [INFO] Configuration loaded
+[2025-11-05T23:20:37.183563] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.183480] [INFO] Session started
+[2025-11-05T23:20:37.183497] [INFO] Health check passed
+[2025-11-05T23:20:37.183505] [INFO] Cache hit
+[2025-11-05T23:20:37.183425] [INFO] Request processed successfully
+[2025-11-05T23:20:37.183521] [ERROR] Request failed
+[2025-11-05T23:20:37.183546] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.183542] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:37.183515] [WARN] Timeout warning
+[2025-11-05T23:20:37.183449] [INFO] Configuration loaded
+[2025-11-05T23:20:37.183534] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:37.183493] [INFO] Database query executed
+[2025-11-05T23:20:37.183525] [ERROR] Disk read failed
+[2025-11-05T23:20:37.183550] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:37.183459] [INFO] Database query executed
+[2025-11-05T23:20:37.183488] [INFO] Service initialized

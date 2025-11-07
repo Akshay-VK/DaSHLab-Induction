@@ -1,0 +1,35 @@
+[2025-11-05T23:20:38.503962] [ERROR] Memory allocation error
+[2025-11-05T23:20:38.503673] [INFO] Connection established
+[2025-11-05T23:20:38.503957] [ERROR] Network timeout
+[2025-11-05T23:20:38.503782] [INFO] Configuration loaded
+[2025-11-05T23:20:38.503972] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.503705] [INFO] User logged in
+[2025-11-05T23:20:38.503744] [INFO] Service initialized
+[2025-11-05T23:20:38.503933] [WARN] Timeout warning
+[2025-11-05T23:20:38.503731] [INFO] Health check passed
+[2025-11-05T23:20:38.503942] [WARN] Timeout warning
+[2025-11-05T23:20:38.503717] [INFO] Health check passed
+[2025-11-05T23:20:38.503760] [INFO] Database query executed
+[2025-11-05T23:20:38.503776] [INFO] Transaction completed
+[2025-11-05T23:20:38.503727] [INFO] Database query executed
+[2025-11-05T23:20:38.503947] [WARN] Slow query performance
+[2025-11-05T23:20:38.503752] [INFO] Health check passed
+[2025-11-05T23:20:38.504002] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:38.503736] [INFO] Service initialized
+[2025-11-05T23:20:38.503976] [DEBUG] Cache key generated
+[2025-11-05T23:20:38.503748] [INFO] Configuration loaded
+[2025-11-05T23:20:38.503772] [INFO] Database query executed
+[2025-11-05T23:20:38.503786] [INFO] Session started
+[2025-11-05T23:20:38.503967] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:38.503984] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:38.503989] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.503722] [INFO] Health check passed
+[2025-11-05T23:20:38.503712] [INFO] Database query executed
+[2025-11-05T23:20:38.503952] [WARN] High memory usage detected
+[2025-11-05T23:20:38.503997] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:38.503980] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:38.503764] [INFO] Request processed successfully
+[2025-11-05T23:20:38.503740] [INFO] Service initialized
+[2025-11-05T23:20:38.503993] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:38.503756] [INFO] Request processed successfully
+[2025-11-05T23:20:38.503768] [INFO] Configuration loaded

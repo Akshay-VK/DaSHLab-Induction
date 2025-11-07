@@ -1,0 +1,32 @@
+[2025-11-05T23:20:11.775134] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:11.775116] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:11.775148] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:11.775143] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:11.775126] [DEBUG] Cache key generated
+[2025-11-05T23:20:11.775100] [ERROR] Invalid input data
+[2025-11-05T23:20:11.775066] [INFO] Transaction completed
+[2025-11-05T23:20:11.775111] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:11.775021] [INFO] User logged in
+[2025-11-05T23:20:11.775010] [INFO] Transaction completed
+[2025-11-05T23:20:11.775031] [INFO] Service initialized
+[2025-11-05T23:20:11.775035] [INFO] User logged in
+[2025-11-05T23:20:11.775053] [INFO] Transaction completed
+[2025-11-05T23:20:11.775138] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:11.775062] [INFO] Session started
+[2025-11-05T23:20:11.775104] [ERROR] Network timeout
+[2025-11-05T23:20:11.775072] [WARN] Timeout warning
+[2025-11-05T23:20:11.775090] [WARN] Disk space low
+[2025-11-05T23:20:11.775094] [WARN] Cache miss
+[2025-11-05T23:20:11.775058] [INFO] Request processed successfully
+[2025-11-05T23:20:11.775121] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:11.775004] [INFO] Health check passed
+[2025-11-05T23:20:11.775086] [WARN] Resource threshold approaching
+[2025-11-05T23:20:11.775130] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:11.775044] [INFO] Session started
+[2025-11-05T23:20:11.774975] [INFO] User logged in
+[2025-11-05T23:20:11.775049] [INFO] Health check passed
+[2025-11-05T23:20:11.775077] [WARN] Resource threshold approaching
+[2025-11-05T23:20:11.775016] [INFO] Request processed successfully
+[2025-11-05T23:20:11.775039] [INFO] Database query executed
+[2025-11-05T23:20:11.775026] [INFO] Database query executed
+[2025-11-05T23:20:11.775082] [WARN] Connection retry attempt

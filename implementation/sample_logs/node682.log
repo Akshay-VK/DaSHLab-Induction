@@ -1,0 +1,29 @@
+[2025-11-05T23:20:15.361835] [INFO] Session started
+[2025-11-05T23:20:15.361868] [INFO] Transaction completed
+[2025-11-05T23:20:15.361859] [INFO] Database query executed
+[2025-11-05T23:20:15.361937] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.361954] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.361941] [DEBUG] Cache key generated
+[2025-11-05T23:20:15.361885] [INFO] Health check passed
+[2025-11-05T23:20:15.361916] [WARN] Timeout warning
+[2025-11-05T23:20:15.361840] [INFO] Request processed successfully
+[2025-11-05T23:20:15.361898] [WARN] Slow query performance
+[2025-11-05T23:20:15.361808] [INFO] Session started
+[2025-11-05T23:20:15.361889] [INFO] Transaction completed
+[2025-11-05T23:20:15.361846] [INFO] Database query executed
+[2025-11-05T23:20:15.361881] [INFO] Database query executed
+[2025-11-05T23:20:15.361926] [ERROR] File not found
+[2025-11-05T23:20:15.361850] [INFO] Cache hit
+[2025-11-05T23:20:15.361950] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.361932] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.361893] [INFO] Database query executed
+[2025-11-05T23:20:15.361908] [WARN] Resource threshold approaching
+[2025-11-05T23:20:15.361958] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.361872] [INFO] Configuration loaded
+[2025-11-05T23:20:15.361877] [INFO] User logged in
+[2025-11-05T23:20:15.361912] [WARN] Slow query performance
+[2025-11-05T23:20:15.361946] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:15.361922] [ERROR] Authentication failed
+[2025-11-05T23:20:15.361903] [WARN] Timeout warning
+[2025-11-05T23:20:15.361864] [INFO] Database query executed
+[2025-11-05T23:20:15.361855] [INFO] User logged in

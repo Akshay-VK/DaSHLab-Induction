@@ -1,0 +1,38 @@
+[2025-11-05T23:20:36.249940] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.249850] [INFO] Health check passed
+[2025-11-05T23:20:36.249808] [INFO] Session started
+[2025-11-05T23:20:36.249888] [WARN] Queue size growing
+[2025-11-05T23:20:36.249930] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.249933] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.249918] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.249892] [WARN] Timeout warning
+[2025-11-05T23:20:36.249860] [INFO] Database query executed
+[2025-11-05T23:20:36.249954] [DEBUG] Cache key generated
+[2025-11-05T23:20:36.249846] [INFO] User logged in
+[2025-11-05T23:20:36.249950] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.249856] [INFO] Session started
+[2025-11-05T23:20:36.249915] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:36.249842] [INFO] Cache hit
+[2025-11-05T23:20:36.249947] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.249867] [INFO] Transaction completed
+[2025-11-05T23:20:36.249853] [INFO] Configuration loaded
+[2025-11-05T23:20:36.249870] [INFO] Cache hit
+[2025-11-05T23:20:36.249903] [ERROR] Permission denied
+[2025-11-05T23:20:36.249899] [WARN] Slow query performance
+[2025-11-05T23:20:36.249896] [WARN] Cache miss
+[2025-11-05T23:20:36.249833] [INFO] Request processed successfully
+[2025-11-05T23:20:36.249876] [INFO] Connection established
+[2025-11-05T23:20:36.249960] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:36.249922] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.249944] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:36.249957] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.249907] [ERROR] Permission denied
+[2025-11-05T23:20:36.249884] [WARN] Deprecated API usage
+[2025-11-05T23:20:36.249880] [INFO] Database query executed
+[2025-11-05T23:20:36.249863] [INFO] Request processed successfully
+[2025-11-05T23:20:36.249937] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:36.249963] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:36.249873] [INFO] Transaction completed
+[2025-11-05T23:20:36.249838] [INFO] User logged in
+[2025-11-05T23:20:36.249925] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:36.249910] [ERROR] Permission denied

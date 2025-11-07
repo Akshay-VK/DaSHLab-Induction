@@ -1,0 +1,32 @@
+[2025-11-05T23:20:12.368083] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:12.368001] [WARN] High memory usage detected
+[2025-11-05T23:20:12.368005] [WARN] Connection retry attempt
+[2025-11-05T23:20:12.367982] [INFO] Cache hit
+[2025-11-05T23:20:12.367965] [INFO] Transaction completed
+[2025-11-05T23:20:12.367978] [INFO] Transaction completed
+[2025-11-05T23:20:12.367961] [INFO] Health check passed
+[2025-11-05T23:20:12.368011] [WARN] Timeout warning
+[2025-11-05T23:20:12.367936] [INFO] User logged in
+[2025-11-05T23:20:12.368047] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:12.368064] [DEBUG] Cache key generated
+[2025-11-05T23:20:12.367952] [INFO] Cache hit
+[2025-11-05T23:20:12.368079] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:12.367947] [INFO] User logged in
+[2025-11-05T23:20:12.367974] [INFO] Service initialized
+[2025-11-05T23:20:12.367990] [INFO] Service initialized
+[2025-11-05T23:20:12.368069] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:12.368053] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.367996] [WARN] High memory usage detected
+[2025-11-05T23:20:12.368059] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:12.368025] [WARN] High memory usage detected
+[2025-11-05T23:20:12.368021] [WARN] Timeout warning
+[2025-11-05T23:20:12.367942] [INFO] Configuration loaded
+[2025-11-05T23:20:12.368016] [WARN] Timeout warning
+[2025-11-05T23:20:12.368041] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:12.368074] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:12.368035] [ERROR] Memory allocation error
+[2025-11-05T23:20:12.367970] [INFO] Transaction completed
+[2025-11-05T23:20:12.367986] [INFO] Connection established
+[2025-11-05T23:20:12.367909] [INFO] Session started
+[2025-11-05T23:20:12.367957] [INFO] Transaction completed
+[2025-11-05T23:20:12.368029] [WARN] Resource threshold approaching

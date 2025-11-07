@@ -1,0 +1,28 @@
+[2025-11-05T23:20:33.296707] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.296720] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:33.296630] [INFO] Session started
+[2025-11-05T23:20:33.296644] [INFO] Health check passed
+[2025-11-05T23:20:33.296697] [ERROR] Disk read failed
+[2025-11-05T23:20:33.296615] [INFO] Request processed successfully
+[2025-11-05T23:20:33.296649] [INFO] Health check passed
+[2025-11-05T23:20:33.296683] [WARN] Connection retry attempt
+[2025-11-05T23:20:33.296738] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:33.296657] [INFO] Session started
+[2025-11-05T23:20:33.296666] [INFO] Configuration loaded
+[2025-11-05T23:20:33.296730] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.296653] [INFO] Configuration loaded
+[2025-11-05T23:20:33.296674] [INFO] Cache hit
+[2025-11-05T23:20:33.296702] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:33.296587] [INFO] Request processed successfully
+[2025-11-05T23:20:33.296711] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.296670] [INFO] Health check passed
+[2025-11-05T23:20:33.296640] [INFO] User logged in
+[2025-11-05T23:20:33.296625] [INFO] Configuration loaded
+[2025-11-05T23:20:33.296734] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:33.296725] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:33.296691] [ERROR] File not found
+[2025-11-05T23:20:33.296678] [INFO] Service initialized
+[2025-11-05T23:20:33.296635] [INFO] User logged in
+[2025-11-05T23:20:33.296620] [INFO] Database query executed
+[2025-11-05T23:20:33.296716] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:33.296661] [INFO] Health check passed

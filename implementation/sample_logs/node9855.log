@@ -1,0 +1,29 @@
+[2025-11-05T23:20:53.448353] [INFO] Database query executed
+[2025-11-05T23:20:53.448423] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:53.448432] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.448436] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:53.448361] [INFO] Database query executed
+[2025-11-05T23:20:53.448348] [INFO] Session started
+[2025-11-05T23:20:53.448428] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.448373] [INFO] User logged in
+[2025-11-05T23:20:53.448399] [ERROR] Disk read failed
+[2025-11-05T23:20:53.448414] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:53.448344] [INFO] Session started
+[2025-11-05T23:20:53.448384] [WARN] Queue size growing
+[2025-11-05T23:20:53.448405] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:53.448440] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.448331] [INFO] Transaction completed
+[2025-11-05T23:20:53.448418] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:53.448286] [INFO] Transaction completed
+[2025-11-05T23:20:53.448335] [INFO] Configuration loaded
+[2025-11-05T23:20:53.448320] [INFO] Session started
+[2025-11-05T23:20:53.448340] [INFO] User logged in
+[2025-11-05T23:20:53.448394] [WARN] Disk space low
+[2025-11-05T23:20:53.448389] [WARN] High memory usage detected
+[2025-11-05T23:20:53.448326] [INFO] Configuration loaded
+[2025-11-05T23:20:53.448409] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:53.448369] [INFO] User logged in
+[2025-11-05T23:20:53.448357] [INFO] Configuration loaded
+[2025-11-05T23:20:53.448365] [INFO] Connection established
+[2025-11-05T23:20:53.448313] [INFO] Configuration loaded
+[2025-11-05T23:20:53.448379] [WARN] Cache miss

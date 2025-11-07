@@ -1,0 +1,33 @@
+[2025-11-05T23:20:43.403137] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.403150] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.403051] [INFO] Health check passed
+[2025-11-05T23:20:43.403121] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.403071] [INFO] Health check passed
+[2025-11-05T23:20:43.403087] [WARN] High memory usage detected
+[2025-11-05T23:20:43.403019] [INFO] Session started
+[2025-11-05T23:20:43.403112] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.403043] [INFO] Cache hit
+[2025-11-05T23:20:43.403157] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.403103] [ERROR] Disk read failed
+[2025-11-05T23:20:43.403129] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.403145] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.403133] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.403141] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:43.403025] [INFO] User logged in
+[2025-11-05T23:20:43.403116] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.403063] [INFO] Database query executed
+[2025-11-05T23:20:43.403153] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:43.403083] [WARN] High memory usage detected
+[2025-11-05T23:20:43.402993] [INFO] Request processed successfully
+[2025-11-05T23:20:43.403034] [INFO] User logged in
+[2025-11-05T23:20:43.403030] [INFO] Database query executed
+[2025-11-05T23:20:43.403067] [INFO] Request processed successfully
+[2025-11-05T23:20:43.403108] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:43.403047] [INFO] Configuration loaded
+[2025-11-05T23:20:43.403056] [INFO] Health check passed
+[2025-11-05T23:20:43.403125] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.403092] [WARN] Timeout warning
+[2025-11-05T23:20:43.403039] [INFO] Configuration loaded
+[2025-11-05T23:20:43.403059] [INFO] Service initialized
+[2025-11-05T23:20:43.403098] [ERROR] Invalid input data
+[2025-11-05T23:20:43.403077] [WARN] Queue size growing

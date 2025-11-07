@@ -1,0 +1,31 @@
+[2025-11-05T23:20:14.700213] [INFO] Service initialized
+[2025-11-05T23:20:14.700281] [INFO] Configuration loaded
+[2025-11-05T23:20:14.700322] [ERROR] Permission denied
+[2025-11-05T23:20:14.700338] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.700357] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.700384] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.700247] [INFO] Service initialized
+[2025-11-05T23:20:14.700380] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.700276] [INFO] Transaction completed
+[2025-11-05T23:20:14.700353] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.700306] [WARN] Cache miss
+[2025-11-05T23:20:14.700271] [INFO] Health check passed
+[2025-11-05T23:20:14.700348] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.700257] [INFO] Configuration loaded
+[2025-11-05T23:20:14.700371] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.700267] [INFO] Cache hit
+[2025-11-05T23:20:14.700285] [INFO] Connection established
+[2025-11-05T23:20:14.700290] [INFO] Connection established
+[2025-11-05T23:20:14.700327] [ERROR] Network timeout
+[2025-11-05T23:20:14.700315] [WARN] Timeout warning
+[2025-11-05T23:20:14.700344] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.700333] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.700262] [INFO] Service initialized
+[2025-11-05T23:20:14.700311] [WARN] High memory usage detected
+[2025-11-05T23:20:14.700240] [INFO] User logged in
+[2025-11-05T23:20:14.700362] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.700301] [WARN] Deprecated API usage
+[2025-11-05T23:20:14.700295] [INFO] Connection established
+[2025-11-05T23:20:14.700252] [INFO] User logged in
+[2025-11-05T23:20:14.700376] [DEBUG] Cache key generated
+[2025-11-05T23:20:14.700367] [DEBUG] Variable value: x=42

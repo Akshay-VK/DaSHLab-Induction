@@ -1,0 +1,34 @@
+[2025-11-05T23:20:43.576487] [INFO] Service initialized
+[2025-11-05T23:20:43.576556] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.576513] [ERROR] Request failed
+[2025-11-05T23:20:43.576535] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.576531] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.576505] [WARN] Queue size growing
+[2025-11-05T23:20:43.576500] [WARN] Cache miss
+[2025-11-05T23:20:43.576552] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.576521] [DEBUG] Cache key generated
+[2025-11-05T23:20:43.576437] [INFO] Configuration loaded
+[2025-11-05T23:20:43.576447] [INFO] Configuration loaded
+[2025-11-05T23:20:43.576457] [INFO] Cache hit
+[2025-11-05T23:20:43.576461] [INFO] Connection established
+[2025-11-05T23:20:43.576545] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.576480] [INFO] Transaction completed
+[2025-11-05T23:20:43.576411] [INFO] Cache hit
+[2025-11-05T23:20:43.576477] [INFO] User logged in
+[2025-11-05T23:20:43.576490] [INFO] Transaction completed
+[2025-11-05T23:20:43.576508] [WARN] Rate limit approaching
+[2025-11-05T23:20:43.576464] [INFO] Cache hit
+[2025-11-05T23:20:43.576542] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:43.576483] [INFO] Configuration loaded
+[2025-11-05T23:20:43.576469] [INFO] Service initialized
+[2025-11-05T23:20:43.576454] [INFO] User logged in
+[2025-11-05T23:20:43.576495] [WARN] Rate limit approaching
+[2025-11-05T23:20:43.576442] [INFO] Request processed successfully
+[2025-11-05T23:20:43.576560] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:43.576450] [INFO] Transaction completed
+[2025-11-05T23:20:43.576516] [ERROR] Disk read failed
+[2025-11-05T23:20:43.576473] [INFO] Request processed successfully
+[2025-11-05T23:20:43.576524] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:43.576549] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:43.576528] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:43.576539] [DEBUG] Timer set: 30 seconds

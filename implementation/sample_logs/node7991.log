@@ -1,0 +1,30 @@
+[2025-11-05T23:20:45.391494] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:45.391455] [INFO] Session started
+[2025-11-05T23:20:45.391429] [INFO] Session started
+[2025-11-05T23:20:45.391479] [WARN] Rate limit approaching
+[2025-11-05T23:20:45.391401] [INFO] Request processed successfully
+[2025-11-05T23:20:45.391474] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.391420] [INFO] Cache hit
+[2025-11-05T23:20:45.391450] [INFO] User logged in
+[2025-11-05T23:20:45.391499] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:45.391459] [INFO] Connection established
+[2025-11-05T23:20:45.391504] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.391488] [ERROR] Database connection lost
+[2025-11-05T23:20:45.391521] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:45.391525] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:45.391513] [DEBUG] Cache key generated
+[2025-11-05T23:20:45.391483] [WARN] High memory usage detected
+[2025-11-05T23:20:45.391530] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:45.391407] [INFO] Database query executed
+[2025-11-05T23:20:45.391464] [WARN] Connection retry attempt
+[2025-11-05T23:20:45.391411] [INFO] Request processed successfully
+[2025-11-05T23:20:45.391424] [INFO] Transaction completed
+[2025-11-05T23:20:45.391517] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:45.391415] [INFO] Service initialized
+[2025-11-05T23:20:45.391509] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:45.391433] [INFO] Health check passed
+[2025-11-05T23:20:45.391442] [INFO] Service initialized
+[2025-11-05T23:20:45.391375] [INFO] Database query executed
+[2025-11-05T23:20:45.391446] [INFO] Transaction completed
+[2025-11-05T23:20:45.391469] [WARN] Slow query performance
+[2025-11-05T23:20:45.391438] [INFO] Service initialized

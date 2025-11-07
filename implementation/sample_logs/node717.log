@@ -1,0 +1,31 @@
+[2025-11-05T23:20:15.511586] [ERROR] Request failed
+[2025-11-05T23:20:15.511529] [INFO] Service initialized
+[2025-11-05T23:20:15.511540] [INFO] Configuration loaded
+[2025-11-05T23:20:15.511547] [INFO] Session started
+[2025-11-05T23:20:15.511536] [INFO] Cache hit
+[2025-11-05T23:20:15.511618] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.511524] [INFO] Transaction completed
+[2025-11-05T23:20:15.511559] [INFO] Request processed successfully
+[2025-11-05T23:20:15.511572] [WARN] Cache miss
+[2025-11-05T23:20:15.511567] [WARN] Resource threshold approaching
+[2025-11-05T23:20:15.511622] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.511604] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.511562] [INFO] Cache hit
+[2025-11-05T23:20:15.511635] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:15.511629] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.511532] [INFO] Connection established
+[2025-11-05T23:20:15.511555] [INFO] Health check passed
+[2025-11-05T23:20:15.511611] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.511632] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.511544] [INFO] Service initialized
+[2025-11-05T23:20:15.511519] [INFO] Configuration loaded
+[2025-11-05T23:20:15.511615] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:15.511625] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:15.511494] [INFO] Database query executed
+[2025-11-05T23:20:15.511575] [WARN] Disk space low
+[2025-11-05T23:20:15.511596] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:15.511600] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:15.511551] [INFO] Health check passed
+[2025-11-05T23:20:15.511580] [WARN] Resource threshold approaching
+[2025-11-05T23:20:15.511607] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:15.511591] [ERROR] Authentication failed

@@ -1,0 +1,31 @@
+[2025-11-05T23:20:21.452920] [WARN] Connection retry attempt
+[2025-11-05T23:20:21.452897] [INFO] Service initialized
+[2025-11-05T23:20:21.452864] [INFO] Connection established
+[2025-11-05T23:20:21.452963] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:21.452859] [INFO] Transaction completed
+[2025-11-05T23:20:21.452880] [INFO] Cache hit
+[2025-11-05T23:20:21.452931] [ERROR] Permission denied
+[2025-11-05T23:20:21.452853] [INFO] Health check passed
+[2025-11-05T23:20:21.452905] [INFO] Health check passed
+[2025-11-05T23:20:21.452949] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.452925] [WARN] Rate limit approaching
+[2025-11-05T23:20:21.452959] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.452806] [INFO] User logged in
+[2025-11-05T23:20:21.452945] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.452832] [INFO] Service initialized
+[2025-11-05T23:20:21.452848] [INFO] Service initialized
+[2025-11-05T23:20:21.452916] [WARN] Slow query performance
+[2025-11-05T23:20:21.452941] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:21.452967] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.452954] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:21.452888] [INFO] Transaction completed
+[2025-11-05T23:20:21.452936] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:21.452870] [INFO] Health check passed
+[2025-11-05T23:20:21.452911] [WARN] Slow query performance
+[2025-11-05T23:20:21.452893] [INFO] Service initialized
+[2025-11-05T23:20:21.452842] [INFO] Health check passed
+[2025-11-05T23:20:21.452884] [INFO] Service initialized
+[2025-11-05T23:20:21.452974] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.452970] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:21.452901] [INFO] Request processed successfully
+[2025-11-05T23:20:21.452875] [INFO] Health check passed

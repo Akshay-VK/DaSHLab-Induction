@@ -1,0 +1,29 @@
+[2025-11-05T23:20:40.492462] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.492471] [DEBUG] Thread pool size: 8
+[2025-11-05T23:20:40.492370] [INFO] Health check passed
+[2025-11-05T23:20:40.492388] [INFO] User logged in
+[2025-11-05T23:20:40.492434] [INFO] Session started
+[2025-11-05T23:20:40.492405] [INFO] User logged in
+[2025-11-05T23:20:40.492408] [INFO] Transaction completed
+[2025-11-05T23:20:40.492383] [INFO] Cache hit
+[2025-11-05T23:20:40.492392] [INFO] User logged in
+[2025-11-05T23:20:40.492416] [INFO] Session started
+[2025-11-05T23:20:40.492452] [WARN] Deprecated API usage
+[2025-11-05T23:20:40.492400] [INFO] Session started
+[2025-11-05T23:20:40.492457] [ERROR] Disk read failed
+[2025-11-05T23:20:40.492448] [WARN] Timeout warning
+[2025-11-05T23:20:40.492375] [INFO] User logged in
+[2025-11-05T23:20:40.492345] [INFO] Service initialized
+[2025-11-05T23:20:40.492483] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.492440] [WARN] Resource threshold approaching
+[2025-11-05T23:20:40.492479] [DEBUG] Cache key generated
+[2025-11-05T23:20:40.492430] [INFO] Session started
+[2025-11-05T23:20:40.492467] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:40.492397] [INFO] Connection established
+[2025-11-05T23:20:40.492475] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:40.492426] [INFO] Database query executed
+[2025-11-05T23:20:40.492379] [INFO] Cache hit
+[2025-11-05T23:20:40.492444] [WARN] High memory usage detected
+[2025-11-05T23:20:40.492423] [INFO] Transaction completed
+[2025-11-05T23:20:40.492412] [INFO] Request processed successfully
+[2025-11-05T23:20:40.492419] [INFO] User logged in

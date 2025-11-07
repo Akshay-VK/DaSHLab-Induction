@@ -1,0 +1,32 @@
+[2025-11-05T23:20:14.375149] [INFO] Health check passed
+[2025-11-05T23:20:14.375218] [DEBUG] Variable value: x=42
+[2025-11-05T23:20:14.375183] [WARN] Deprecated API usage
+[2025-11-05T23:20:14.375104] [INFO] Database query executed
+[2025-11-05T23:20:14.375213] [DEBUG] Connection pool status checked
+[2025-11-05T23:20:14.375223] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.375154] [INFO] Database query executed
+[2025-11-05T23:20:14.375116] [INFO] Database query executed
+[2025-11-05T23:20:14.375198] [ERROR] Network timeout
+[2025-11-05T23:20:14.375144] [INFO] Service initialized
+[2025-11-05T23:20:14.375110] [INFO] Service initialized
+[2025-11-05T23:20:14.375248] [DEBUG] HTTP request headers parsed
+[2025-11-05T23:20:14.375191] [WARN] Cache miss
+[2025-11-05T23:20:14.375235] [DEBUG] Buffer size: 4096 bytes
+[2025-11-05T23:20:14.375076] [INFO] Configuration loaded
+[2025-11-05T23:20:14.375173] [WARN] Connection retry attempt
+[2025-11-05T23:20:14.375126] [INFO] Service initialized
+[2025-11-05T23:20:14.375178] [WARN] Cache miss
+[2025-11-05T23:20:14.375187] [WARN] Cache miss
+[2025-11-05T23:20:14.375231] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-05T23:20:14.375203] [ERROR] Authentication failed
+[2025-11-05T23:20:14.375239] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.375163] [INFO] Database query executed
+[2025-11-05T23:20:14.375135] [INFO] Request processed successfully
+[2025-11-05T23:20:14.375208] [DEBUG] Timer set: 30 seconds
+[2025-11-05T23:20:14.375244] [DEBUG] Entering function process_data()
+[2025-11-05T23:20:14.375167] [INFO] Cache hit
+[2025-11-05T23:20:14.375131] [INFO] User logged in
+[2025-11-05T23:20:14.375227] [DEBUG] Loop iteration: 15
+[2025-11-05T23:20:14.375121] [INFO] Transaction completed
+[2025-11-05T23:20:14.375139] [INFO] Database query executed
+[2025-11-05T23:20:14.375159] [INFO] Database query executed
