@@ -1,0 +1,130 @@
+Fault detection mechanism:
+The program keeps a timer running for every worker which is refreshed for each when it returns a result.
+If it has been more than 5 seconds since which anythin has been returned, it is considered as a faulty worker and its processes are terminated.
+The batch/chunk being handles by it is marked as free and is assigned to another worker in the future
+
+Recovery strategy:
+Work statuses are kept track of using a map of integers
+0 indicated pending
+-1 indicates processed
+(any other number) indicates the rank of the worker processing it currently
+
+Every time a worker returns a processed chunk, those are marked as -1(completed) and a new chunk is made from the following pending files.
+
+When a worker is terminated, the chunk handled by it is marked from its rank to 0(free).
+So whenever another worker is done with its chunk and a new chunk is being assigned to it, these newly makred free files are assigned to it automatically.
+
+Checkpointing design:
+The following data is saved when a checkpoint is made:
+- timestamp
+- current counts
+- paths of processed files
+- paths of pending files
+
+We save checkpoint data every 5 seconds and after completion of processing.
+
+Consistency model: 
+I chose eventual consistency as themathod, in integration with my way of managing state went hand in hand.
+The method in which files were handed out in this method made implementing reassignment extremely trivial.
+It is also much easier to keep track of, whereas in the other method, each worker handles its own state independently and makes the entire process much too cmoplicated.
+
+Design decisions:
+The most interesting design decision I made was the method of state management.
+Along the with the list of files, I made a list or map of the same length.
+Corresponding indices indicated the status of each file.
+
+0  - pending
+-1 - processed
+any other integer  - rank of worker currently processing file
+
+When any worker returns a value to the master and requires the next chunk of files, we go through this map and look for the ones marked 0 and assign some(chunk size) of them to the worker.
+
+This method makes file reassignment extremely easy as we can simply change the value in the map to 0 and stop the faulty/crashed worker.
+Whenever any other worker returns and requests for a chunk, these files which are now marked 0, are automatically assigned.
+
+Limitations:
+So far the only case which this program cannot handle is when the master process crashes.
+
+Test results (n=4) :
+
+NORMAL:
+
+Found 10000 log file(s) to analyse
+Starting sequential analysis...
+[MASTER] Saving checkpoint...
+[INFO] Saved JSON data to checkpoint\checkpoint.json
+[DONE] Checkpoint saved in 'checkpoint'
+[INFO] Removing existing 'checkpoint' folder...
+[INFO] Saved JSON data to checkpoint\checkpoint.json
+[DONE] Checkpoint saved in 'checkpoint'
+
+==================================================
+ANALYSIS RESULTS
+==================================================
+DEBUG: 89447
+ERROR: 18404
+INFO: 152485
+WARN: 43916
+==================================================
+Total time: 8.89s
+==================================================
+
+RECOVERY:
+(1) INTERRUPTED RUN:
+mpiexec aborting job...
+
+job aborted:
+[ranks] message
+
+[0] job terminated by the user
+
+[1-3] terminated
+
+---- error analysis -----
+
+[0] on DESKTOP-4H3OISI
+ctrl-c was hit. job aborted by the user.
+
+---- error analysis -----
+(2) RECOVERY RUN:
+[MASTER] Found checkpoint data. Resuming from checkpoint...
+[MASTER] Resuming with 3380 pending log file(s).
+Found 10000 log file(s) to analyse
+Starting sequential analysis...
+[INFO] Removing existing 'checkpoint' folder...
+[INFO] Saved JSON data to checkpoint\checkpoint.json
+[DONE] Checkpoint saved in 'checkpoint'
+
+==================================================
+ANALYSIS RESULTS
+==================================================
+DEBUG: 89447
+ERROR: 18404
+INFO: 152485
+WARN: 43916
+==================================================
+Total time: 2.70s
+==================================================
+
+CRASH RUN:
+[Rank 2] Simulating crash...
+Found 10000 log file(s) to analyse
+Starting sequential analysis...
+[MASTER] Worker 2 timed out. Reassigning its tasks.
+[MASTER] Saving checkpoint...
+[INFO] Saved JSON data to checkpoint\checkpoint.json
+[DONE] Checkpoint saved in 'checkpoint'
+[INFO] Removing existing 'checkpoint' folder...
+[INFO] Saved JSON data to checkpoint\checkpoint.json
+[DONE] Checkpoint saved in 'checkpoint'
+
+==================================================
+ANALYSIS RESULTS
+==================================================
+DEBUG: 89447
+ERROR: 18404
+INFO: 152485
+WARN: 43916
+==================================================
+Total time: 9.39s
+==================================================
